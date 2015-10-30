@@ -38,5 +38,7 @@ Discussion and support are provided via the [TurboDuck Community](http://forum.t
   - **changelog.md**: patch contents
 
   - **files.md**: list of added/updated/removed files
+    
+  - **readme.md**: contents of readme file to be distributed
 
   - **version.md**: current version number and release date.
