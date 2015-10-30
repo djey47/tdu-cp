@@ -32,3 +32,11 @@ Discussion and support are provided via the [TurboDuck Community](http://forum.t
   - **reference**: per-game version dumped databases
 
   - **wip**: dumped database to be released with next patch.
+
+- **manifests**: misc patch properties
+
+  - **changelog.md**: patch contents
+
+  - **files.md**: list of added/updated/removed files
+
+  - **version.md**: current version number and release date.
