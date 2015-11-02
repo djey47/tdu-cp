@@ -8,7 +8,8 @@ None.
 
 ## Bugfixes
 
--  G27 support (Force Feedback, RPM LEDs)
+- G27 support (Force Feedback, RPM LEDs)
+- Traffic sync issues (introduced by 1.68 Community Patch) 
 
 ## Known Bugs
 
