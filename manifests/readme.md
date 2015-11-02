@@ -1,6 +1,18 @@
-# Readme
+# TDU COMMUNITY PACK FULL INSTALL
 
-*How to install patch?*
+## How to install?
+
+- Make sure you get TDU properly installed with following version: **1.66 + MEGAPACK**
+
+- Make a backup copy of current install
+
+- Unzip all contents to TDU directory, always replace files when prompted
+
+- That's all!
+
+## How to uninstall
+
+- Restore backup copy.
 
 ## Credits
 - **Lean,Speeder** : G27 Fix
