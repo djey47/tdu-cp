@@ -27,18 +27,22 @@ Discussion and support are provided via the [TurboDuck Community](http://forum.t
 
 - **database**: Full game database (contents and resources), serialized to JSON format for proper editing.
 
-  - **patches**: JSON files describing changes to be applied with TDUF toolset.
+    - **patches**: JSON files describing changes to be applied with TDUF toolset.
 
-  - **reference**: per-game version dumped databases
+    - **reference**: per-game version dumped databases
 
-  - **wip**: dumped database to be released with next patch.
+    - **wip**: dumped database to be released with next patch.
 
 - **manifests**: misc patch properties
 
-  - **changelog.md**: patch contents
+    - **changelog.md**: patch contents
 
-  - **files.md**: list of added/updated/removed files
+    - **files.md**: list of added/updated/removed files
     
-  - **readme.md**: contents of readme file to be distributed
+    - **readme.md**: contents of readme file to be distributed
 
-  - **version.md**: current version number and release date.
+    - **version.md**: current version number and release date.
+  
+- **resources**: all external files required by update
+
+    - **textures**: raw (png) and final (dds, 2db) texture files.
