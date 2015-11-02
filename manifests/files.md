@@ -8,7 +8,11 @@
 
 ## UPDATED files
 
-- n/a
+- **Euro\Bnk\FrontEnd\HiRes**
+                        
+    - *LOG_IN.bnk*
+    
+            - fla_0013.2db [title screen logo]
 
 ## REMOVED files
 
