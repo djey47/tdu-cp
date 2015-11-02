@@ -25,6 +25,8 @@ Discussion and support are provided via the [TurboDuck Community](http://forum.t
 
 ## Repository layout
 
+[Hunt the Wiki for help](https://github.com/djey47/tdu-cp/wiki)
+
 - **database**: Full game database (contents and resources), serialized to JSON format for proper editing.
 
     - **patches**: JSON files describing changes to be applied with TDUF toolset.
