@@ -14,6 +14,12 @@
     
             fla_0013.2db [title screen logo]
 
+- **Euro\Bnk\FrontEnd\LowRes**
+                        
+    - *LOG_IN.bnk*
+    
+            fla_0013.2db [title screen logo]
+
 ## REMOVED files
 
 None.
