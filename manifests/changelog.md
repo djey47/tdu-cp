@@ -14,3 +14,7 @@ None.
 ## Known Bugs
 
 None.
+
+## Previous contents
+
+None.
