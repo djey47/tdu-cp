@@ -27,13 +27,11 @@ Discussion and support are provided via the [TurboDuck Community](http://forum.t
 
 [Hunt the Wiki for help](https://github.com/djey47/tdu-cp/wiki)
 
-- **database**: Full game database (contents and resources), serialized to JSON format for proper editing.
+- **database**: Full game database (contents and resources), serialized to JSON format for proper editing
 
     - **patches**: JSON files describing changes to be applied with TDUF toolset.
 
-    - **reference**: per-game version dumped databases
-
-    - **wip**: dumped database to be released with next patch.
+    - **reference**: per-game version dumped databases.
 
 - **manifests**: misc patch properties
 
