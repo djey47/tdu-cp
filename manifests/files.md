@@ -8,6 +8,10 @@
 
 ## UPDATED files
 
+- **Euro\Bnk\Database**
+                        
+    - *AiConfig.xml [Traffic sync issues Fix]*
+
 - **Euro\Bnk\FrontEnd\HiRes**
                         
     - *LOG_IN.bnk*
