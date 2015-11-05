@@ -11,6 +11,10 @@
 - **Euro\Bnk\Database**
                         
     - *AiConfig.xml [Traffic sync issues Fix]*
+    
+    - *DB.bnk*
+    
+            TDU_CarShops.db [dealer slots update]
 
 - **Euro\Bnk\FrontEnd\HiRes**
                         

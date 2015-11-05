@@ -4,7 +4,7 @@
 
 ## Features
 
-None.
+- Maximize number of vehicle slots on every car dealer
 
 ## Bugfixes
 

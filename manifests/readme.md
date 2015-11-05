@@ -15,6 +15,8 @@
 - Restore backup copy.
 
 ## Credits
+- **JPTH** : Dealer slots update
+
 - **Lean,Speeder** : G27 Fix
 
 ## Websites
