@@ -48,3 +48,5 @@ Discussion and support are provided via the [TurboDuck Community](http://forum.t
 - **resources**: all external files required by update
 
     - **textures**: raw (png) and final (dds, 2db) texture files.
+
+- **workspace**: default location to forge patch contents
