@@ -139,17 +139,17 @@
           },
           {
             "name": "SLOT_1",
-            "rawValue": "1178042409",
+            "rawValue": "61085282",
             "fieldRank": 4
           },
           {
             "name": "SLOT_2",
-            "rawValue": "1178042409",
+            "rawValue": "61085282",
             "fieldRank": 5
           },
           {
             "name": "SLOT_3",
-            "rawValue": "1178042409",
+            "rawValue": "61085282",
             "fieldRank": 6
           },
           {
@@ -214,7 +214,7 @@
           },
           {
             "name": "BitField",
-            "rawValue": "262089",
+            "rawValue": "262137",
             "switchValues": [
               {
                 "index": 1,
@@ -239,12 +239,12 @@
               {
                 "index": 5,
                 "name": "Slot #2 active",
-                "enabled": false
+                "enabled": true
               },
               {
                 "index": 6,
                 "name": "Slot #3 active",
-                "enabled": false
+                "enabled": true
               },
               {
                 "index": 7,
@@ -523,32 +523,32 @@
           },
           {
             "name": "SLOT_1",
-            "rawValue": "915344490",
+            "rawValue": "61085282",
             "fieldRank": 4
           },
           {
             "name": "SLOT_2",
-            "rawValue": "1221344640",
+            "rawValue": "61085282",
             "fieldRank": 5
           },
           {
             "name": "SLOT_3",
-            "rawValue": "915344490",
+            "rawValue": "61085282",
             "fieldRank": 6
           },
           {
             "name": "SLOT_4",
-            "rawValue": "915344490",
+            "rawValue": "61085282",
             "fieldRank": 7
           },
           {
             "name": "SLOT_5",
-            "rawValue": "915344490",
+            "rawValue": "61085282",
             "fieldRank": 8
           },
           {
             "name": "SLOT_6",
-            "rawValue": "915344490",
+            "rawValue": "61085282",
             "fieldRank": 9
           },
           {
@@ -598,7 +598,7 @@
           },
           {
             "name": "BitField",
-            "rawValue": "261147",
+            "rawValue": "262137",
             "switchValues": [
               {
                 "index": 1,
@@ -608,7 +608,7 @@
               {
                 "index": 2,
                 "name": "?",
-                "enabled": true
+                "enabled": false
               },
               {
                 "index": 3,
@@ -628,27 +628,27 @@
               {
                 "index": 6,
                 "name": "Slot #3 active",
-                "enabled": false
+                "enabled": true
               },
               {
                 "index": 7,
                 "name": "Slot #4 active",
-                "enabled": false
+                "enabled": true
               },
               {
                 "index": 8,
                 "name": "Slot #5 active",
-                "enabled": false
+                "enabled": true
               },
               {
                 "index": 9,
                 "name": "Slot #6 active",
-                "enabled": false
+                "enabled": true
               },
               {
                 "index": 10,
                 "name": "Slot #7 active",
-                "enabled": false
+                "enabled": true
               },
               {
                 "index": 11,
@@ -1867,22 +1867,22 @@
           },
           {
             "name": "SLOT_1",
-            "rawValue": "569208607",
+            "rawValue": "61085282",
             "fieldRank": 4
           },
           {
             "name": "SLOT_2",
-            "rawValue": "569209475",
+            "rawValue": "61085282",
             "fieldRank": 5
           },
           {
             "name": "SLOT_3",
-            "rawValue": "1199178371",
+            "rawValue": "61085282",
             "fieldRank": 6
           },
           {
             "name": "SLOT_4",
-            "rawValue": "569208607",
+            "rawValue": "61085282",
             "fieldRank": 7
           },
           {
@@ -1942,7 +1942,7 @@
           },
           {
             "name": "BitField",
-            "rawValue": "262073",
+            "rawValue": "262137",
             "switchValues": [
               {
                 "index": 1,
@@ -1977,7 +1977,7 @@
               {
                 "index": 7,
                 "name": "Slot #4 active",
-                "enabled": false
+                "enabled": true
               },
               {
                 "index": 8,
@@ -2059,22 +2059,22 @@
           },
           {
             "name": "SLOT_1",
-            "rawValue": "1214391034",
+            "rawValue": "61085282",
             "fieldRank": 4
           },
           {
             "name": "SLOT_2",
-            "rawValue": "1133391037",
+            "rawValue": "61085282",
             "fieldRank": 5
           },
           {
             "name": "SLOT_3",
-            "rawValue": "924263229",
+            "rawValue": "61085282",
             "fieldRank": 6
           },
           {
             "name": "SLOT_4",
-            "rawValue": "1237390819",
+            "rawValue": "61085282",
             "fieldRank": 7
           },
           {
@@ -2251,32 +2251,32 @@
           },
           {
             "name": "SLOT_1",
-            "rawValue": "63518960",
+            "rawValue": "61085282",
             "fieldRank": 4
           },
           {
             "name": "SLOT_2",
-            "rawValue": "70033960",
+            "rawValue": "61085282",
             "fieldRank": 5
           },
           {
             "name": "SLOT_3",
-            "rawValue": "637314272",
+            "rawValue": "61085282",
             "fieldRank": 6
           },
           {
             "name": "SLOT_4",
-            "rawValue": "63518960",
+            "rawValue": "61085282",
             "fieldRank": 7
           },
           {
             "name": "SLOT_5",
-            "rawValue": "63518960",
+            "rawValue": "61085282",
             "fieldRank": 8
           },
           {
             "name": "SLOT_6",
-            "rawValue": "63518960",
+            "rawValue": "61085282",
             "fieldRank": 9
           },
           {
@@ -2326,7 +2326,7 @@
           },
           {
             "name": "BitField",
-            "rawValue": "261179",
+            "rawValue": "262137",
             "switchValues": [
               {
                 "index": 1,
@@ -2336,7 +2336,7 @@
               {
                 "index": 2,
                 "name": "?",
-                "enabled": true
+                "enabled": false
               },
               {
                 "index": 3,
@@ -2361,22 +2361,22 @@
               {
                 "index": 7,
                 "name": "Slot #4 active",
-                "enabled": false
+                "enabled": true
               },
               {
                 "index": 8,
                 "name": "Slot #5 active",
-                "enabled": false
+                "enabled": true
               },
               {
                 "index": 9,
                 "name": "Slot #6 active",
-                "enabled": false
+                "enabled": true
               },
               {
                 "index": 10,
                 "name": "Slot #7 active",
-                "enabled": false
+                "enabled": true
               },
               {
                 "index": 11,
@@ -2443,37 +2443,37 @@
           },
           {
             "name": "SLOT_1",
-            "rawValue": "1221657041",
+            "rawValue": "61085282",
             "fieldRank": 4
           },
           {
             "name": "SLOT_2",
-            "rawValue": "1235851026",
+            "rawValue": "61085282",
             "fieldRank": 5
           },
           {
             "name": "SLOT_3",
-            "rawValue": "784850286",
+            "rawValue": "61085282",
             "fieldRank": 6
           },
           {
             "name": "SLOT_4",
-            "rawValue": "1220850733",
+            "rawValue": "61085282",
             "fieldRank": 7
           },
           {
             "name": "SLOT_5",
-            "rawValue": "1236657334",
+            "rawValue": "61085282",
             "fieldRank": 8
           },
           {
             "name": "SLOT_6",
-            "rawValue": "784850286",
+            "rawValue": "61085282",
             "fieldRank": 9
           },
           {
             "name": "SLOT_7",
-            "rawValue": "1221657041",
+            "rawValue": "61085282",
             "fieldRank": 10
           },
           {
@@ -2518,7 +2518,7 @@
           },
           {
             "name": "BitField",
-            "rawValue": "261371",
+            "rawValue": "262137",
             "switchValues": [
               {
                 "index": 1,
@@ -2528,7 +2528,7 @@
               {
                 "index": 2,
                 "name": "?",
-                "enabled": true
+                "enabled": false
               },
               {
                 "index": 3,
@@ -2563,12 +2563,12 @@
               {
                 "index": 9,
                 "name": "Slot #6 active",
-                "enabled": false
+                "enabled": true
               },
               {
                 "index": 10,
                 "name": "Slot #7 active",
-                "enabled": false
+                "enabled": true
               },
               {
                 "index": 11,
@@ -2635,37 +2635,37 @@
           },
           {
             "name": "SLOT_1",
-            "rawValue": "1235851026",
+            "rawValue": "61085282",
             "fieldRank": 4
           },
           {
             "name": "SLOT_2",
-            "rawValue": "1221657041",
+            "rawValue": "61085282",
             "fieldRank": 5
           },
           {
             "name": "SLOT_3",
-            "rawValue": "784850286",
+            "rawValue": "61085282",
             "fieldRank": 6
           },
           {
             "name": "SLOT_4",
-            "rawValue": "1220850733",
+            "rawValue": "61085282",
             "fieldRank": 7
           },
           {
             "name": "SLOT_5",
-            "rawValue": "1236657334",
+            "rawValue": "61085282",
             "fieldRank": 8
           },
           {
             "name": "SLOT_6",
-            "rawValue": "784850286",
+            "rawValue": "61085282",
             "fieldRank": 9
           },
           {
             "name": "SLOT_7",
-            "rawValue": "1221657041",
+            "rawValue": "61085282",
             "fieldRank": 10
           },
           {
@@ -2710,7 +2710,7 @@
           },
           {
             "name": "BitField",
-            "rawValue": "261371",
+            "rawValue": "262137",
             "switchValues": [
               {
                 "index": 1,
@@ -2720,7 +2720,7 @@
               {
                 "index": 2,
                 "name": "?",
-                "enabled": true
+                "enabled": false
               },
               {
                 "index": 3,
@@ -2755,12 +2755,12 @@
               {
                 "index": 9,
                 "name": "Slot #6 active",
-                "enabled": false
+                "enabled": true
               },
               {
                 "index": 10,
                 "name": "Slot #7 active",
-                "enabled": false
+                "enabled": true
               },
               {
                 "index": 11,
@@ -2827,42 +2827,42 @@
           },
           {
             "name": "SLOT_1",
-            "rawValue": "1221757198",
+            "rawValue": "61085282",
             "fieldRank": 4
           },
           {
             "name": "SLOT_2",
-            "rawValue": "1189757832",
+            "rawValue": "61085282",
             "fieldRank": 5
           },
           {
             "name": "SLOT_3",
-            "rawValue": "70220210",
+            "rawValue": "61085282",
             "fieldRank": 6
           },
           {
             "name": "SLOT_4",
-            "rawValue": "898712608",
+            "rawValue": "61085282",
             "fieldRank": 7
           },
           {
             "name": "SLOT_5",
-            "rawValue": "1184713927",
+            "rawValue": "61085282",
             "fieldRank": 8
           },
           {
             "name": "SLOT_6",
-            "rawValue": "923756915",
+            "rawValue": "61085282",
             "fieldRank": 9
           },
           {
             "name": "SLOT_7",
-            "rawValue": "1221757198",
+            "rawValue": "61085282",
             "fieldRank": 10
           },
           {
             "name": "SLOT_8",
-            "rawValue": "70220210",
+            "rawValue": "61085282",
             "fieldRank": 11
           },
           {
@@ -2902,7 +2902,7 @@
           },
           {
             "name": "BitField",
-            "rawValue": "260603",
+            "rawValue": "262137",
             "switchValues": [
               {
                 "index": 1,
@@ -2912,7 +2912,7 @@
               {
                 "index": 2,
                 "name": "?",
-                "enabled": true
+                "enabled": false
               },
               {
                 "index": 3,
@@ -2952,12 +2952,12 @@
               {
                 "index": 10,
                 "name": "Slot #7 active",
-                "enabled": false
+                "enabled": true
               },
               {
                 "index": 11,
                 "name": "Slot #8 active",
-                "enabled": false
+                "enabled": true
               },
               {
                 "index": 12,
@@ -3094,7 +3094,7 @@
           },
           {
             "name": "BitField",
-            "rawValue": "262139",
+            "rawValue": "262137",
             "switchValues": [
               {
                 "index": 1,
@@ -3104,7 +3104,7 @@
               {
                 "index": 2,
                 "name": "?",
-                "enabled": true
+                "enabled": false
               },
               {
                 "index": 3,
@@ -3403,42 +3403,42 @@
           },
           {
             "name": "SLOT_1",
-            "rawValue": "1214886443",
+            "rawValue": "61085282",
             "fieldRank": 4
           },
           {
             "name": "SLOT_2",
-            "rawValue": "1182887077",
+            "rawValue": "61085282",
             "fieldRank": 5
           },
           {
             "name": "SLOT_3",
-            "rawValue": "1218046424",
+            "rawValue": "61085282",
             "fieldRank": 6
           },
           {
             "name": "SLOT_4",
-            "rawValue": "1214886443",
+            "rawValue": "61085282",
             "fieldRank": 7
           },
           {
             "name": "SLOT_5",
-            "rawValue": "1214886443",
+            "rawValue": "61085282",
             "fieldRank": 8
           },
           {
             "name": "SLOT_6",
-            "rawValue": "1182887077",
+            "rawValue": "61085282",
             "fieldRank": 9
           },
           {
             "name": "SLOT_7",
-            "rawValue": "1182887077",
+            "rawValue": "61085282",
             "fieldRank": 10
           },
           {
             "name": "SLOT_8",
-            "rawValue": "1182887077",
+            "rawValue": "61085282",
             "fieldRank": 11
           },
           {
@@ -3478,7 +3478,7 @@
           },
           {
             "name": "BitField",
-            "rawValue": "260155",
+            "rawValue": "262137",
             "switchValues": [
               {
                 "index": 1,
@@ -3488,7 +3488,7 @@
               {
                 "index": 2,
                 "name": "?",
-                "enabled": true
+                "enabled": false
               },
               {
                 "index": 3,
@@ -3513,27 +3513,27 @@
               {
                 "index": 7,
                 "name": "Slot #4 active",
-                "enabled": false
+                "enabled": true
               },
               {
                 "index": 8,
                 "name": "Slot #5 active",
-                "enabled": false
+                "enabled": true
               },
               {
                 "index": 9,
                 "name": "Slot #6 active",
-                "enabled": false
+                "enabled": true
               },
               {
                 "index": 10,
                 "name": "Slot #7 active",
-                "enabled": false
+                "enabled": true
               },
               {
                 "index": 11,
                 "name": "Slot #8 active",
-                "enabled": false
+                "enabled": true
               },
               {
                 "index": 12,
@@ -3595,42 +3595,42 @@
           },
           {
             "name": "SLOT_1",
-            "rawValue": "699437593",
+            "rawValue": "61085282",
             "fieldRank": 4
           },
           {
             "name": "SLOT_2",
-            "rawValue": "702444678",
+            "rawValue": "61085282",
             "fieldRank": 5
           },
           {
             "name": "SLOT_3",
-            "rawValue": "1202438233",
+            "rawValue": "61085282",
             "fieldRank": 6
           },
           {
             "name": "SLOT_4",
-            "rawValue": "1183238684",
+            "rawValue": "61085282",
             "fieldRank": 7
           },
           {
             "name": "SLOT_5",
-            "rawValue": "705066200",
+            "rawValue": "61085282",
             "fieldRank": 8
           },
           {
             "name": "SLOT_6",
-            "rawValue": "699437593",
+            "rawValue": "61085282",
             "fieldRank": 9
           },
           {
             "name": "SLOT_7",
-            "rawValue": "1183238684",
+            "rawValue": "61085282",
             "fieldRank": 10
           },
           {
             "name": "SLOT_8",
-            "rawValue": "705066200",
+            "rawValue": "61085282",
             "fieldRank": 11
           },
           {
@@ -3670,7 +3670,7 @@
           },
           {
             "name": "BitField",
-            "rawValue": "260347",
+            "rawValue": "262137",
             "switchValues": [
               {
                 "index": 1,
@@ -3680,7 +3680,7 @@
               {
                 "index": 2,
                 "name": "?",
-                "enabled": true
+                "enabled": false
               },
               {
                 "index": 3,
@@ -3715,17 +3715,17 @@
               {
                 "index": 9,
                 "name": "Slot #6 active",
-                "enabled": false
+                "enabled": true
               },
               {
                 "index": 10,
                 "name": "Slot #7 active",
-                "enabled": false
+                "enabled": true
               },
               {
                 "index": 11,
                 "name": "Slot #8 active",
-                "enabled": false
+                "enabled": true
               },
               {
                 "index": 12,
@@ -3787,22 +3787,22 @@
           },
           {
             "name": "SLOT_1",
-            "rawValue": "582585705",
+            "rawValue": "61085282",
             "fieldRank": 4
           },
           {
             "name": "SLOT_2",
-            "rawValue": "619585597",
+            "rawValue": "61085282",
             "fieldRank": 5
           },
           {
             "name": "SLOT_3",
-            "rawValue": "1139121456",
+            "rawValue": "61085282",
             "fieldRank": 6
           },
           {
             "name": "SLOT_4",
-            "rawValue": "619586842",
+            "rawValue": "61085282",
             "fieldRank": 7
           },
           {
@@ -3822,12 +3822,12 @@
           },
           {
             "name": "SLOT_8",
-            "rawValue": "1241742783",
+            "rawValue": "61085282",
             "fieldRank": 11
           },
           {
             "name": "SLOT_9",
-            "rawValue": "1221647242",
+            "rawValue": "61085282",
             "fieldRank": 12
           },
           {
@@ -3862,7 +3862,7 @@
           },
           {
             "name": "BitField",
-            "rawValue": "253433",
+            "rawValue": "262137",
             "switchValues": [
               {
                 "index": 1,
@@ -3912,7 +3912,7 @@
               {
                 "index": 10,
                 "name": "Slot #7 active",
-                "enabled": false
+                "enabled": true
               },
               {
                 "index": 11,
@@ -3932,7 +3932,7 @@
               {
                 "index": 14,
                 "name": "Slot #11 active",
-                "enabled": false
+                "enabled": true
               },
               {
                 "index": 15,
@@ -4363,32 +4363,32 @@
           },
           {
             "name": "SLOT_1",
-            "rawValue": "121344912",
+            "rawValue": "61085282",
             "fieldRank": 4
           },
           {
             "name": "SLOT_2",
-            "rawValue": "8944912",
+            "rawValue": "61085282",
             "fieldRank": 5
           },
           {
             "name": "SLOT_3",
-            "rawValue": "121344912",
+            "rawValue": "61085282",
             "fieldRank": 6
           },
           {
             "name": "SLOT_4",
-            "rawValue": "1285237823",
+            "rawValue": "61085282",
             "fieldRank": 7
           },
           {
             "name": "SLOT_5",
-            "rawValue": "1174137367",
+            "rawValue": "61085282",
             "fieldRank": 8
           },
           {
             "name": "SLOT_6",
-            "rawValue": "96414415",
+            "rawValue": "61085282",
             "fieldRank": 9
           },
           {
@@ -4438,7 +4438,7 @@
           },
           {
             "name": "BitField",
-            "rawValue": "262105",
+            "rawValue": "262137",
             "switchValues": [
               {
                 "index": 1,
@@ -4468,7 +4468,7 @@
               {
                 "index": 6,
                 "name": "Slot #3 active",
-                "enabled": false
+                "enabled": true
               },
               {
                 "index": 7,
@@ -4555,37 +4555,37 @@
           },
           {
             "name": "SLOT_1",
-            "rawValue": "551683160",
+            "rawValue": "61085282",
             "fieldRank": 4
           },
           {
             "name": "SLOT_2",
-            "rawValue": "1096032410",
+            "rawValue": "61085282",
             "fieldRank": 5
           },
           {
             "name": "SLOT_3",
-            "rawValue": "551813498",
+            "rawValue": "61085282",
             "fieldRank": 6
           },
           {
             "name": "SLOT_4",
-            "rawValue": "380893340",
+            "rawValue": "61085282",
             "fieldRank": 7
           },
           {
             "name": "SLOT_5",
-            "rawValue": "538230904",
+            "rawValue": "61085282",
             "fieldRank": 8
           },
           {
             "name": "SLOT_6",
-            "rawValue": "611792908",
+            "rawValue": "61085282",
             "fieldRank": 9
           },
           {
             "name": "SLOT_7",
-            "rawValue": "843182934",
+            "rawValue": "61085282",
             "fieldRank": 10
           },
           {
@@ -4630,7 +4630,7 @@
           },
           {
             "name": "BitField",
-            "rawValue": "261115",
+            "rawValue": "262137",
             "switchValues": [
               {
                 "index": 1,
@@ -4640,7 +4640,7 @@
               {
                 "index": 2,
                 "name": "?",
-                "enabled": true
+                "enabled": false
               },
               {
                 "index": 3,
@@ -4685,7 +4685,7 @@
               {
                 "index": 11,
                 "name": "Slot #8 active",
-                "enabled": false
+                "enabled": true
               },
               {
                 "index": 12,
@@ -4747,32 +4747,32 @@
           },
           {
             "name": "SLOT_1",
-            "rawValue": "1176600625",
+            "rawValue": "61085282",
             "fieldRank": 4
           },
           {
             "name": "SLOT_2",
-            "rawValue": "1229585697",
+            "rawValue": "61085282",
             "fieldRank": 5
           },
           {
             "name": "SLOT_3",
-            "rawValue": "1214585404",
+            "rawValue": "61085282",
             "fieldRank": 6
           },
           {
             "name": "SLOT_4",
-            "rawValue": "1176600625",
+            "rawValue": "61085282",
             "fieldRank": 7
           },
           {
             "name": "SLOT_5",
-            "rawValue": "1176600625",
+            "rawValue": "61085282",
             "fieldRank": 8
           },
           {
             "name": "SLOT_6",
-            "rawValue": "1176600625",
+            "rawValue": "61085282",
             "fieldRank": 9
           },
           {
@@ -4822,7 +4822,7 @@
           },
           {
             "name": "BitField",
-            "rawValue": "260155",
+            "rawValue": "262139",
             "switchValues": [
               {
                 "index": 1,
@@ -4857,27 +4857,27 @@
               {
                 "index": 7,
                 "name": "Slot #4 active",
-                "enabled": false
+                "enabled": true
               },
               {
                 "index": 8,
                 "name": "Slot #5 active",
-                "enabled": false
+                "enabled": true
               },
               {
                 "index": 9,
                 "name": "Slot #6 active",
-                "enabled": false
+                "enabled": true
               },
               {
                 "index": 10,
                 "name": "Slot #7 active",
-                "enabled": false
+                "enabled": true
               },
               {
                 "index": 11,
                 "name": "Slot #8 active",
-                "enabled": false
+                "enabled": true
               },
               {
                 "index": 12,
@@ -5131,22 +5131,22 @@
           },
           {
             "name": "SLOT_1",
-            "rawValue": "1240731968",
+            "rawValue": "61085282",
             "fieldRank": 4
           },
           {
             "name": "SLOT_2",
-            "rawValue": "1214731890",
+            "rawValue": "61085282",
             "fieldRank": 5
           },
           {
             "name": "SLOT_3",
-            "rawValue": "698912474",
+            "rawValue": "61085282",
             "fieldRank": 6
           },
           {
             "name": "SLOT_4",
-            "rawValue": "1112402065",
+            "rawValue": "61085282",
             "fieldRank": 7
           },
           {
@@ -5171,22 +5171,22 @@
           },
           {
             "name": "SLOT_9",
-            "rawValue": "903887207",
+            "rawValue": "61085282",
             "fieldRank": 12
           },
           {
             "name": "SLOT_10",
-            "rawValue": "548713017",
+            "rawValue": "61085282",
             "fieldRank": 13
           },
           {
             "name": "SLOT_11",
-            "rawValue": "704744681",
+            "rawValue": "61085282",
             "fieldRank": 14
           },
           {
             "name": "SLOT_12",
-            "rawValue": "704744681",
+            "rawValue": "61085282",
             "fieldRank": 15
           },
           {
@@ -5206,7 +5206,7 @@
           },
           {
             "name": "BitField",
-            "rawValue": "245753",
+            "rawValue": "262137",
             "switchValues": [
               {
                 "index": 1,
@@ -5281,7 +5281,7 @@
               {
                 "index": 15,
                 "name": "Slot #12 active",
-                "enabled": false
+                "enabled": true
               },
               {
                 "index": 16,
@@ -5323,42 +5323,42 @@
           },
           {
             "name": "SLOT_1",
-            "rawValue": "591336547",
+            "rawValue": "61085282",
             "fieldRank": 4
           },
           {
             "name": "SLOT_2",
-            "rawValue": "916337925",
+            "rawValue": "61085282",
             "fieldRank": 5
           },
           {
             "name": "SLOT_3",
-            "rawValue": "592136555",
+            "rawValue": "61085282",
             "fieldRank": 6
           },
           {
             "name": "SLOT_4",
-            "rawValue": "702052277",
+            "rawValue": "61085282",
             "fieldRank": 7
           },
           {
             "name": "SLOT_5",
-            "rawValue": "591352547",
+            "rawValue": "61085282",
             "fieldRank": 8
           },
           {
             "name": "SLOT_6",
-            "rawValue": "1230253255",
+            "rawValue": "61085282",
             "fieldRank": 9
           },
           {
             "name": "SLOT_7",
-            "rawValue": "702052277",
+            "rawValue": "61085282",
             "fieldRank": 10
           },
           {
             "name": "SLOT_8",
-            "rawValue": "591352547",
+            "rawValue": "61085282",
             "fieldRank": 11
           },
           {
@@ -5398,7 +5398,7 @@
           },
           {
             "name": "BitField",
-            "rawValue": "260603",
+            "rawValue": "262137",
             "switchValues": [
               {
                 "index": 1,
@@ -5408,7 +5408,7 @@
               {
                 "index": 2,
                 "name": "?",
-                "enabled": true
+                "enabled": false
               },
               {
                 "index": 3,
@@ -5448,12 +5448,12 @@
               {
                 "index": 10,
                 "name": "Slot #7 active",
-                "enabled": false
+                "enabled": true
               },
               {
                 "index": 11,
                 "name": "Slot #8 active",
-                "enabled": false
+                "enabled": true
               },
               {
                 "index": 12,
@@ -16843,27 +16843,27 @@
           },
           {
             "name": "SLOT_1",
-            "rawValue": "701819911",
+            "rawValue": "61085282",
             "fieldRank": 4
           },
           {
             "name": "SLOT_2",
-            "rawValue": "701819911",
+            "rawValue": "61085282",
             "fieldRank": 5
           },
           {
             "name": "SLOT_3",
-            "rawValue": "701819911",
+            "rawValue": "61085282",
             "fieldRank": 6
           },
           {
             "name": "SLOT_4",
-            "rawValue": "701819911",
+            "rawValue": "61085282",
             "fieldRank": 7
           },
           {
             "name": "SLOT_5",
-            "rawValue": "701819911",
+            "rawValue": "61085282",
             "fieldRank": 8
           },
           {
@@ -16918,7 +16918,7 @@
           },
           {
             "name": "BitField",
-            "rawValue": "261899",
+            "rawValue": "262137",
             "switchValues": [
               {
                 "index": 1,
@@ -16928,7 +16928,7 @@
               {
                 "index": 2,
                 "name": "?",
-                "enabled": true
+                "enabled": false
               },
               {
                 "index": 3,
@@ -16943,22 +16943,22 @@
               {
                 "index": 5,
                 "name": "Slot #2 active",
-                "enabled": false
+                "enabled": true
               },
               {
                 "index": 6,
                 "name": "Slot #3 active",
-                "enabled": false
+                "enabled": true
               },
               {
                 "index": 7,
                 "name": "Slot #4 active",
-                "enabled": false
+                "enabled": true
               },
               {
                 "index": 8,
                 "name": "Slot #5 active",
-                "enabled": false
+                "enabled": true
               },
               {
                 "index": 9,
@@ -18454,7 +18454,7 @@
           },
           {
             "name": "BitField",
-            "rawValue": "262139",
+            "rawValue": "262137",
             "switchValues": [
               {
                 "index": 1,
@@ -18464,7 +18464,7 @@
               {
                 "index": 2,
                 "name": "?",
-                "enabled": true
+                "enabled": false
               },
               {
                 "index": 3,
@@ -18646,7 +18646,7 @@
           },
           {
             "name": "BitField",
-            "rawValue": "262139",
+            "rawValue": "262137",
             "switchValues": [
               {
                 "index": 1,
@@ -18656,7 +18656,7 @@
               {
                 "index": 2,
                 "name": "?",
-                "enabled": true
+                "enabled": false
               },
               {
                 "index": 3,
