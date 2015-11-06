@@ -4,6 +4,7 @@
 
 ## Features
 
+- Includes official MagicMap
 - Maximize number of vehicle slots on every car dealer
 
 ## Bugfixes

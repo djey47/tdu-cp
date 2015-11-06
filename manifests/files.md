@@ -8,6 +8,10 @@
 
 ## UPDATED files
 
+- **Euro\Bnk**
+                        
+    - *Bnk1.map [Magic Map, Extended Map]*
+
 - **Euro\Bnk\Database**
                         
     - *AiConfig.xml [Traffic sync issues Fix]*
