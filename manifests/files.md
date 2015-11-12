@@ -19,6 +19,7 @@
     - *DB.bnk*
     
             TDU_CarShops.db [dealer slots update]
+            TDU_Clothes.db [clothes for all]
 
 - **Euro\Bnk\FrontEnd\HiRes**
                         

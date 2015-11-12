@@ -6,6 +6,7 @@
 
 - Includes official MagicMap
 - Maximize number of vehicle slots on every car dealer
+- Gives bike-clothes for cars, car-clothes for bikes
 
 ## Bugfixes
 
