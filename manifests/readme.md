@@ -15,6 +15,8 @@
 - Restore backup copy.
 
 ## Credits
+- **2CVSUPERGT** : Clothes for all
+
 - **JPTH** : Dealer slots update
 
 - **Lean,Speeder** : G27 Fix
