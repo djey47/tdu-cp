@@ -2,7 +2,11 @@
 
 ## Notes
 
-Magic Map is already provided in JSON format in this repository.
+Magic Map is already provided in JSON format in this repository:
+
+- **Bnk1.map.json**: reference file (should not be modified)
+
+- **Bnk1.map.patched.json**: latest mapping information, taking updated files into account.
 
 ## TDUF-CLI
 
