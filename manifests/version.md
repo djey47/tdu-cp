@@ -2,4 +2,4 @@
 
 - Current version number: **ALPHA-0**
 
-- Release date: **n/a**
+- Release date: **2015-11-16**
