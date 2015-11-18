@@ -1,0 +1,417 @@
+<?xml version="1.0"?>
+<patcher>
+  <properties name="Test Drive Unlimited patch" version="1.68b" author="http://tdumodshop.forumactif.net/forum.htm" date="01/07/2010" ref="00000167" free="Unofficial Patch" installerFileName="PATCH_1.68B.exe" infoURL="">
+    <roles>
+      <role what="Ressources" name="2CV SUPER GT" />
+      <role what="Database" name="2CV SUPER GT" />
+      <role what="Trucks editing" name="2CV SUPER GT" />
+      <role what="Logo texturing" name="2CV SUPER GT / XIORXORN" />
+      <role what="Testing" name="DJEY / 2CV SUPER GT / XIORXORN / CHRISTOPHE31FR" />
+      <role what="Tools development" name="DJEY" />
+      <role what="Bots offline" name="2CV SUPER GT" />
+      <role what="Traffic" name="2CV SUPER GT" />
+    </roles>
+    <groups customRequired="Ressource Update">
+      <dependancy group="Generate New Traffic" requiredGroup="1.68" defaultChecked="False">
+        <exclusions />
+      </dependancy>
+      <dependancy group="1.68" requiredGroup="" defaultChecked="False">
+        <exclusions />
+      </dependancy>
+    </groups>
+  </properties>
+  <instructions>
+    <instruction type="updateResource" failOnError="True" enabled="True" comment="Brands_name_700" group="Required">
+      <parameter name="resourceFileName" value="Brands" />
+      <parameter name="resourceValues" value="7008357|Citroën||7018357|Renault||7028357|Peugeot||7038357|Lancia||7048357|Opel||7058357|Alpine||7068357|Volvo||7078357|Skoda||7088357|Rover||7098357|Fiat||7108357|Saab||7118357|Seat||7128357|Matra||7138357|Bizzarrini||7148357|Vaz||7158357|Rolls Royce||7168357|Lada||7178357|Trabant||7188357|Melling||7198357|Hummer||7208357|Land Rover||7218357|Mini||7228357|Vauxhall||7238357|Acura||7248357|Dacia||7258357|Smart||7268357|Vector||7278357|Gaz||7288357|Ariel||7298357|Buick||7308357|Venturi||7318357|Daihatsu||7328357|Facel Vega||7338357|Simca||7348357|Abarth||7358357|Alpina||7368357|AMC||7378357|Arash||7388357|Internationnal||7398357|Austin||7408357|Austin Healey||7418357|Auto Union||7428357|Berliet||7438357|BFG||7448357|Bimota||7458357|Buell||7468357|CAT||7478357|Claas||7488357|Cord||7498357|Daewoo" />
+    </instruction>
+    <instruction type="updateResource" failOnError="True" enabled="True" comment="Brands_name_750" group="Required">
+      <parameter name="resourceFileName" value="Brands" />
+      <parameter name="resourceValues" value="7508357|Daimler||7518357|Datsun||7528357|Dauer||7538357|Delage||7548357|Delahaye||7558357|DeTomaso||7568357|Dino||7578357|DMC||7588357|Eagle||7598357|Farbio||7608357|Fendt||7618357|Flandria||7628357|Gemballa||7638357|Gillet||7648357|GM||7658357|GMC||7668357|Gumpert||7678357|Harley Davidson||7688357|Heuliez||7698357|Hispano Suiza||7708357|Hommell||7718357|Hyosung||7728357|Hyundai||7738357|Isuzu||7748357|Italdesign||7758357|Iveco||7768357|Jeep||7778357|Jensen||7788357|John Deere||7798357|KIA||7808357|KTM||7818357|Landini||7828357|Laverda||7838357|Ligier||7848357|Lincoln||7858357|Marcos||7868357|Massey Ferguson||7878357|Maybach||7888357|McCormick||7898357|Mercury||7908357|Morgan||7918357|Morini||7928357|Morris||7938357|Mosler||7948357|Motobecane||7958357|Moto Guzzi||7968357|New Holland||7978357|Oldsmobile||7988357|Panhard||7998357|Proton" />
+    </instruction>
+    <instruction type="updateResource" failOnError="True" enabled="True" comment="Brands_name_800" group="Required">
+      <parameter name="resourceFileName" value="Brands" />
+      <parameter name="resourceValues" value="8008357|Rene Bonnet||8018357|Royal Enfield||8028357|Same||8038357|Sbarro||8048357|Scania||8058357|ShuanGhuan||8068357|Someca||8078357|SSangYong||8088357|Talbot||8098357|Tata||8108357|Tesla||8118357|TGB||8128357|Vespa||8138357|Zastava||8148357|Case||8158357|Zaz||8168357|AMCA||8178357|Arista||8188357|Aixam||8198357|Allard||8208357|Alvis||8218357|Amilcar||8228357|Zil||8238357|WSK||8248357|ARO||8258357|ASA||8268357|Auburn||8278357|Austin Healey||8288357|Austin Rover||8298357|Autobianchi||8308357|Avanti||8318357|Bajaj||8328357|Ballot||8338357|Bertone||8348357|Wolseley||8358357|Bitter||8368357|Bogward||8378357|Bristol||8388357|Western||8398357|BSA||8408357|Bultaco||8418357|Cizeta||8428357|Cooper||8438357|Corre La Licorne||8448357|Coste||8458357|DAF||8468357|Wartburg||8478357|Voxan||8488357|DeSoto||8498357|DKW" />
+    </instruction>
+    <instruction type="updateResource" failOnError="True" enabled="True" comment="Brands_name_850" group="Required">
+      <parameter name="resourceFileName" value="Brands" />
+      <parameter name="resourceValues" value="8508357|Donkervoort||8518357|Voisin||8528357|Duesenberg||8538357|Trabant||8548357|Edsel||8558357|Elva||8568357|FN||8578357|Gaz||8588357|Geely||8598357|Geo||8608357|Ginetta||8618357|Gordini||8628357|Hillman||8638357|Hindustan||8648357|Hodaka||8658357|Hudson||8668357|Tornado||8678357|Iso||8688357|Josse||8698357|Kaiser||8708357|Terrot||8718357|Lagonda||8728357|Lightning||8738357|Lola||8748357|Lotec||8758357|Luaz||8768357|MCV||8778357|Mega||8788357|Messerschmitt||8798357|MG||8808357|Monica||8818357|Monteverdi||8828357|Moretti||8838357|Moskvitch||8848357|Tatra||8858357|Nash||8868357|Norton||8878357|NSU||8888357|Sunbeam||8898357|Osca||8908357|Packhard||8918357|Panoz||8928357|Pegaso||8938357|Pierce Arrow||8948357|Stutz||8958357|Premier||8968357|Puch||8978357|Puma||8988357|Purvis||8998357|Quantum" />
+    </instruction>
+    <instruction type="updateResource" failOnError="True" enabled="True" comment="Brands_name_900" group="Required">
+      <parameter name="resourceFileName" value="Brands" />
+      <parameter name="resourceValues" value="9008357|Qvale||9018357|Reliant||9028357|Studebaker||9038357|Riley||9048357|Rosenberg||9058357|Saipa||9068357|Salmson||9078357|Sterling||9088357|Scion||9098357|Smart||9108357|Spectre||9118357|Standard||9128357|SSC" />
+    </instruction>
+    <instruction type="updateResource" failOnError="True" enabled="True" comment="Brands_ID_700" group="Required">
+      <parameter name="resourceFileName" value="Brands" />
+      <parameter name="resourceValues" value="70038337|Citroën||70138337|Renault||70238337|Peugeot||70338337|Lancia||70438337|Opel||70538337|Alpine||70638337|Volvo||70738337|Skoda||70838337|Rover||70938337|Fiat||71038337|Saab||71138337|Seat||71238337|Matra||71338337|Bizzarrini||71438337|Vaz||71538337|Rolls Royce||71638337|Lada||71738337|Trabant||71838337|Melling||71938337|Hummer||72038337|Land Rover||72138337|Mini||72238337|Vauxhall||72338337|Acura||72438337|Dacia||72538337|Smart||72638337|Vector||72738337|Gaz||72838337|Ariel||72938337|Buick||73038337|Venturi||73138337|Daihatsu||73238337|Facel Vega||73338337|Simca||73438337|Abarth||73538337|Alpina||73638337|AMC||73738337|Arash||73838337|Internationnal||73938337|Austin||74038337|Austin Healey||74138337|Auto Union||74238337|Berliet||74338337|BFG||74438337|Bimota||74538337|Buell||74638337|CAT||74738337|Claas||74838337|Cord||74938337|Daewoo" />
+    </instruction>
+    <instruction type="updateResource" failOnError="True" enabled="True" comment="Brands_ID_750" group="Required">
+      <parameter name="resourceFileName" value="Brands" />
+      <parameter name="resourceValues" value="75038337|Daimler||75138337|Datsun||75238337|Dauer||75338337|Delage||75438337|Delahaye||75538337|DeTomaso||75638337|Dino||75738337|DMC||75838337|Eagle||75938337|Farbio||76038337|Fendt||76138337|Flandria||76238337|Gemballa||76338337|Gillet||76438337|GM||76538337|GMC||76638337|Gumpert||76738337|Harley Davidson||76838337|Heuliez||76938337|Hispano Suiza||77038337|Hommell||77138337|Hyosung||77238337|Hyundai||77338337|Isuzu||77438337|Italdesign||77538337|Iveco||77638337|Jeep||77738337|Jensen||77838337|John Deere||77938337|KIA||78038337|KTM||78138337|Landini||78238337|Laverda||78338337|Ligier||78438337|Lincoln||78538337|Marcos||78638337|Massey Ferguson||78738337|Maybach||78838337|McCormick||78938337|Mercury||79038337|Morgan||79138337|Morini||79238337|Morris||79338337|Mosler||79438337|Motobecane||79538337|Moto Guzzi||79638337|New Holland||79738337|Oldsmobile||79838337|Panhard||79938337|Proton" />
+    </instruction>
+    <instruction type="updateResource" failOnError="True" enabled="True" comment="Brands_ID_800" group="Required">
+      <parameter name="resourceFileName" value="Brands" />
+      <parameter name="resourceValues" value="80038337|Rene Bonnet||80138337|Royal Enfield||80238337|Same||80338337|Sbarro||80438337|Scania||80538337|ShuanGhuan||80638337|Someca||80738337|SSangYong||80838337|Talbot||80938337|Tata||81038337|Tesla||81138337|TGB||81238337|Vespa||81338337|Zastava||81438337|Case||81538337|Zaz||81638337|AMCA||81738337|Arista||81838337|Aixam||81938337|Allard||82038337|Alvis||82138337|Amilcar||82238337|Zil||82338337|WSK||82438337|ARO||82538337|ASA||82638337|Auburn||82738337|Austin Healey||82838337|Austin Rover||82938337|Autobianchi||83038337|Avanti||83138337|Bajaj||83238337|Ballot||83338337|Bertone||83438337|Wolseley||83538337|Bitter||83638337|Bogward||83738337|Bristol||83838337|Western||83938337|BSA||84038337|Bultaco||84138337|Cizeta||84238337|Cooper||84338337|Corre La Licorne||84438337|Coste||84538337|DAF||84638337|Wartburg||84738337|Voxan||84838337|DeSoto||84938337|DKW" />
+    </instruction>
+    <instruction type="updateResource" failOnError="True" enabled="True" comment="Brands_ID_850" group="Required">
+      <parameter name="resourceFileName" value="Brands" />
+      <parameter name="resourceValues" value="85038337|Donkervoort||85138337|Voisin||85238337|Duesenberg||85338337|Trabant||85438337|Edsel||85538337|Elva||85638337|FN||85738337|Gaz||85838337|Geely||85938337|Geo||86038337|Ginetta||86138337|Gordini||86238337|Hillman||86338337|Hindustan||86438337|Hodaka||86538337|Hudson||86638337|Tornado||86738337|Iso||86838337|Josse||86938337|Kaiser||87038337|Terrot||87138337|Lagonda||87238337|Lightning||87338337|Lola||87438337|Lotec||87538337|Luaz||87638337|MCV||87738337|Mega||87838337|Messerschmitt||87938337|MG||88038337|Monica||88138337|Monteverdi||88238337|Moretti||88338337|Moskvitch||88438337|Tatra||88538337|Nash||88638337|Norton||88738337|NSU||88838337|Sunbeam||88938337|Osca||89038337|Packhard||89138337|Panoz||89238337|Pegaso||89338337|Pierce Arrow||89438337|Stutz||89538337|Premier||89638337|Puch||89738337|Puma||89838337|Purvis||89938337|Quantum" />
+    </instruction>
+    <instruction type="updateResource" failOnError="True" enabled="True" comment="Brands_ID_900" group="Required">
+      <parameter name="resourceFileName" value="Brands" />
+      <parameter name="resourceValues" value="90038337|Qvale||90138337|Reliant||90238337|Studebaker||90338337|Riley||90438337|Rosenberg||90538337|Saipa||90638337|Salmson||90738337|Sterling||90838337|Scion||90938337|Smart||91038337|Spectre||91138337|Standard||91238337|SSC" />
+    </instruction>
+    <instruction type="updateResource" failOnError="True" enabled="True" comment="Brands_ID_EXTRA_001" group="Required">
+      <parameter name="resourceFileName" value="Brands" />
+      <parameter name="resourceValues" value="173438337|Abarth 1960||156338337|Alfa Romeo 1946||170538337|Alpine 1960||270538337|Alpine 1970||173638337|AMC 1950||182138337|Amilcar 1930||282138337|Amilcar 1950||158338337|Aston Martin 1920||258338337|Aston Martin 1947||358338337|Aston Martin 1984||174038337|Austin Healey 1930||183338337|Bertone 1930||171338337|Bizzarinni 1960||183738337|Bristol 1930||174538337|Buell 1990||172938337|Buick 1990||153438337|Caterham 1990||154438337|Chevrolet 1970||155438337|Chrysler 1950||255438337|Chrysler 1990||170038337|Citroen 1914||270038337|Citroen 1960||370038337|Citroen 1980||172438337|Dacia 1930||272438337|Dacia 1990||174938337|Daewoo 1990||184538337|DAF 1950||284538337|DAF 1960||175138337|Datsun 1930||175338337|Delage 1920||158738337|Ducati 1970||185238337|Duesenberg 1920||175838337|Eagle 1960||159438337|Ferrari 1950||170938337|Fiat 1938||270938337|Fiat 1959||370938337|Fiat 1965||470938337|Fiat 1968||570938337|Fiat 1991||670938337|Fiat 1999||59738337|Honda Bike||170338337|Lancia 1990||178238337|Laverda 1960||178338337|Ligier 1960||178438337|Lincoln 1930||171238337|Matra 1960||271238337|Matra 1970||159538337|Mazda 1968||259538337|Mazda 1991||161538337|Mercedes-Benz 1920||261538337|Mercedes-Benz 1930||361538337|Mercedes-Benz 1940||461538337|Mercedes-Benz 1950" />
+    </instruction>
+    <instruction type="updateResource" failOnError="True" enabled="True" comment="Brands_ID_EXTRA_002" group="Required">
+      <parameter name="resourceFileName" value="Brands" />
+      <parameter name="resourceValues" value="179038337|Morgan 1960||179238337|Morris 1930||188338337|Moskvitch 1940||179438337|Motobecane 1960||153638337|Nissan 1970||179738337|Oldsmobile 1930||170438337|Opel 1937||270438337|Opel 1947||370438337|Opel 1954||470438337|Opel 1964||170238337|Peugeot 1936||270238337|Peugeot 1950||370238337|Peugeot 1960||470238337|Peugeot 1965||570238337|Peugeot 1980||670238337|Peugeot 1995||189338337|Pierce Arrow 1930||156638337|Plymouth 1940||170138337|Renault 1946||270138337|Renault 1972||370138337|Renault 1992||180038337|Rene Bonnet 1930||180138337|Royal Enfield 1930||190638337|Salmson 1930||171138337|Seat 1980||160638337|Shelby 1960||180738337|SsangYong 1980||190738337|Sterling 1930||190238337|Studebaker 1912||189438337|Stutz 1940||289438337|Stutz 1960||188838337|Sunbeam 1930||180838337|Talbot 1930||187038337|Terrot 1930||154738337|Toyota 1960||185338337|Trabant 1980||153838337|Triumph 1934||253838337|Triumph 1960||172238337|Vauxhall 1930||272238337|Vauxhall 1970||372238337|Vauxhall 2000||154838337|Yamaha Red||181338337|Zastava 1960||281338337|Zastava 1960||181538337|Zaz 1961||281538337|Zaz 1970||381538337|Zaz 1980||161438337|Honda Bike||160738337|Kawasaki Green" />
+    </instruction>
+    <instruction type="updateResource" failOnError="True" enabled="True" comment="Rims_001" group="Required">
+      <parameter name="resourceFileName" value="Rims" />
+      <parameter name="resourceValues" value="57090512|Gramlights||59765512|Bugatti||70366512|5,5x18 Type 57 Option Wheels||70466512|5,5x18 Type 57 Standard Wheels||557858512|57S_pro_Fin_01||567858512|57S_pro_Fin_02||70766512|Borrani 15&quot;||70866512|Facel II Standard Wheels||555858512|C63_1_F_01||607858512|Corv69_F_02||70766512|Borrani 15&quot;||70966512|Ferrari 5 Spokes 15&quot;||587858512|Wies_GT_F_01||597858512|Wies_GT_F_02||70566512|Citroën SM Standard Wheels||70666512|Michelin RR||577858512|G35_1_F_01||70266512|15&quot; Monte Carlo||70066512|16&quot; Ariès||70166512|15&quot; Chambord" />
+    </instruction>
+    <instruction type="updateResource" failOnError="True" enabled="True" comment="Colors_001" group="Required">
+      <parameter name="resourceFileName" value="CarColors" />
+      <parameter name="resourceValues" value="70416457|Pink||70426457|Giallo Argento||70436457|Rosso Cina &quot;Duce&quot;||70446457|Blu Caracalla||70456457|Avorio Le Tetrarch||70466457|Grigrio Auteuil||70476457|Grigrio Le Sancy||70486457|Celeste Metallizzato||70496457|Viola Dino Metallizzato||70506457|Marrone Dino Metallizzato||70516457|Marrone Colorado||70526457|Nocciola||70536457|Oro Kelso||70546457|Verde Medio Metallizzato||70556457|Verde Pino Metallizzato||70566457|Verde Germoglio||70576457|Rosso Cina &quot;Duce/Nero||70586457|Giallo Argento/Nero||70596457|Blu Caracalla/Nero||70606457|Grigrio Auteuil/Nero||70616457|Turchese Molveda||70626457|Rosso Cina &quot;Duce/Grigrio Auteuil||70636457|Giallo Argento/Grigrio Auteuil||70646457|Blu Caracalla/Grigrio Auteuil||70656457|Nero/Grigrio Auteuil||70036457|Noir||70226457|Blanc Meige||70236457|Gris Largentière||70246457|Gris Nacré||70256457|Beige Tholonet||70266457|Sable||70276457|Feuille Dorée||70286457|Or de Simiane||70296457|Rouge de Rio||70306457|Rouge de Grenade||70316457|Brun Scarabé||70326457|Brun de Roquebrune||70336457|Vert des Tropiques||70346457|Vert Argenté||70356457|Bleu d'Orient||70366457|Bleu Platine||70376457|Bleu de Brégançon||70386457|Bleu Delta||70396457|Gris Nacré/Noir||70406457|Rouge de Rio/Gris Nacré||70006457|Blanc Banquise||70016457|Gris Quartz||70026457|Gris Fulminator||70036457|Noir||70046457|Bleu Mauritius||70056457|Bleu Balmoral||70066457|Bleu Amiral||70076457|Vert Vega||70086457|Rouge Pivoine||70096457|Blanc Glacier||70106457|Gris Sidéral||70116457|Gris Hologramme||70126457|Bleu Eole||70136457|Bleu Méthyl||70146457|Bleu Navy||70156457|Crépuscule||70166457|Vert Abysse||70176457|Vert Epicéa||70186457|Vert Tilleul||70196457|Houblon||70206457|Rouge Nacré||70216457|Rouge Andalou" />
+    </instruction>
+    <instruction type="updateResource" failOnError="True" enabled="True" comment="Engine_Type_001" group="Required">
+      <parameter name="resourceFileName" value="CarPhysicsData" />
+      <parameter name="resourceValues" value="743709|L6||763709|L4||764709|L3||584709|8-cyl in-line||594709|W16||604709|flathead 2-cyl||614709|5-cyl in-line||624709|L5" />
+    </instruction>
+    <instruction type="updateResource" failOnError="True" enabled="True" comment="Car_Body_001" group="Required">
+      <parameter name="resourceFileName" value="CarPhysicsData" />
+      <parameter name="resourceValues" value="58082366|Four-Twelve||59182366|Nismo S-Tune||60182366|Nismo R-Tune||60283667|Road Runner||60392366|3.2 V6 JTS Q4 Sky View||61182366|Nismo R-Tune Power||6277580|Yes_RST||63303667|XM" />
+    </instruction>
+    <instruction type="updateResource" failOnError="True" enabled="True" comment="Car_Body_700" group="Required">
+      <parameter name="resourceFileName" value="CarPhysicsData" />
+      <parameter name="resourceValues" value="70082366|V6 24v||70182366|C1||70282366|C2||70382366|C3||70482366|C4||70582366|C5||70682366|C8||70782366|Picasso||70882366|SM||70982366|2.7 V6 (EU)||71082366|3.0 V6 (US)||71182366|HDI||71282366|V6 HDI||71382366|Laguna||71482366|2.0 16v||71582366|11||71682366|Turbo||71782366|Megane II||71882366|RS||71982366|Probe||72082366|S5||72182366|750i||72282366|E38||72382366|R33||72482366|Scuderia||72582366|Evolution||72682366|X||72782366|VIII||72882366|120i||72982366|300ZX||73082366|525i||73182366|E39||73282366|LP640||73382366|Veyron 16.4||73482366|GTR33||73582366|R/T 1969||73682366|IX||73782366|Q7||73882366|760Li||73982366|E66||74082366|MR||74182366|General Lee||74282366|Formula One||74382366|406||74482366|A8L||74582366|Reventon||74682366|Integra||74782366|Type-R||74882366|H2||74982366|LP650" />
+    </instruction>
+    <instruction type="updateResource" failOnError="True" enabled="True" comment="Car_Body_750" group="Required">
+      <parameter name="resourceFileName" value="CarPhysicsData" />
+      <parameter name="resourceValues" value="75082366|NSX||75182366|GSX||75282366|Hellcat||75382366|M5||75482366|E60||75582366|E92||75682366|M3||75782366|ZR1||75882366|200SX||75982366|Cooper||76082366|S||76182366|GT500 KR Edition||76282366|Vogue||76382366|Carrera||76482366|Astra||76582366|VXR||76682366|WRX STI||76782366|CRX||76882366|SI-R||76982366|FTO||77082366|Fastback 1967||77182366|Targa||77282366|535i||77382366|Samara||77482366|1500||77582366|Eleanor||77682366|997 GT3||77782366|Clio||77882366|Scirroco||77982366|M6||78082366|E63||78182366|Schnitzer||78282366|RX-7||78382366|G500||78482366|Superleggera||78582366|Sport Concept 2004||78682366|Silvia||78782366|S15||78882366|Celica||78982366|GT-Four||79082366|JZA80||79182366|RZ||79282366|911 GT2||79382366|MRS||79482366|Sandero||79582366|E500||79682366|Logan||79782366|MR2||79882366|112||79982366|3000GT" />
+    </instruction>
+    <instruction type="updateResource" failOnError="True" enabled="True" comment="Car_Body_800" group="Required">
+      <parameter name="resourceFileName" value="CarPhysicsData" />
+      <parameter name="resourceValues" value="80082366|2108||80182366|VI||80282366|2104||80382366|Bel Air||80482366|Mark II||80582366|R8||80682366|Delta||80782366|HF Integrale||80882366|Type 57||80982366|SC Atlantic||81082366|3.2 V6 24v Sport Technical Kit||81182366|Facel||81282366|II||81382366|Atom||81482366|New Beetle||81582366|GLS||81682366|Scuderia GT||81782366|904||81882366|5300||81982366|P1800||82082366|A110||82182366|Aronde||82282366|Elysée||82382366|E46||82482366|Monaro||82582366|HK500||82682366|Evolution IX MR||82782366|Traction||82882366|370Z||82982366|Corolla||83082366|MazdaSpeed||83182366|Bomex||83282366|Veilside||83382366|GT-S||83482366|16.4||83582366|Evolution II||83682366|Evolution III||83782366|Evolution IV||83882366|Evolution V||83982366|Evolution VI||84082366|Evolution VII||84182366|Evolution VIII||84282366|Evolution IX||84382366|XIV||84482366|III||84582366|IX||84682366|VII||84782366|XI||84882366|XII||84982366|XIII" />
+    </instruction>
+    <instruction type="updateResource" failOnError="True" enabled="True" comment="Car_Body_850" group="Required">
+      <parameter name="resourceFileName" value="CarPhysicsData" />
+      <parameter name="resourceValues" value="85082366|3.0 V6 24v||85182366|365||85282366|GTS/4 1972 (US)||85382366|GTB/4 1972 (US)||85482366|GTB/4 1968 (EU)||85582366|250||85682366|125||85782366|530||85882366|504||85982366|TR||86082366|LX||86182366|Vallelunga||86282366|Evolution X||86382366|DS||86482366|400||86582366|Edition||86682366|Cayenne||86782366|FXX||86882366|S8||86982366|356||87082366|RX-8||87182366|DBR9||87282366|AE86||87382366|GT-4||87482366|STI||87582366|Focus||87682366|SVT||87782366|Avensis||87882366|Nismo Z-Tune||87982366|M||88082366|Octavia||88182366|Phantom||88282366|C-XF||88382366|Concept||88482366|Gran Turismo||88582366|Exeo||88682366|5.2 V10 FSI||88782366|Grand Cherokee||88882366|GTI||88982366|Bravo||89082366|S14||89182366|S13||89182366|GTS-T R32||89282366|R/T||89382366|Boxster||89482366|Type-S||89582366|Spec-R Aero||89682366|GT-R||89782366|M15||89882366|GPX LE||89982366|Sprinter" />
+    </instruction>
+    <instruction type="updateResource" failOnError="True" enabled="True" comment="Car_Body_1000" group="Required">
+      <parameter name="resourceFileName" value="CarPhysicsData" />
+      <parameter name="resourceValues" value="100082366|Trueno||100182366|VR-4||100282366|GT2||100382366|GT3||100482366|GT3 RS||100582366|LP670 SV||100682366|SV||100782366|Cayman||100882366|911 (997)||100982366|911 (996)||101082366|GTS25T||101182366|25GT-T||101282366|GT-R R32||101382366|GT-R R33||101482366|GT-R R34||101582366|ER33||101682366|BCNR33 GT-R||101782366|BNR34||101882366|Twin Turbo MR||101982366|Evolution VIII MR-Edition||102082366|Evolution VIII FQ400||102182366|Performance||102282366|Elegance||102382366|206||102482366|205||102582366|207||102682366|306||102782366|Turbo D||102882366|BNR32||102982366|V-Spec II Nur||103082366|LP640 Coupe||103182366|LP640 Roadster||103282366|2.2 20v Turbo||103382366|Barracuda||103482366|Coronet||103582366|F Coupe||103682366|F Roadster||103782366|LP560-4 Roadster||103882366|LP560-4 Coupe||103982366|LP550-2||104082366|R/T Concept||104182366|Falcon||104282366|BA XR8||104382366|LP710-2||104482366|Edo Competition" />
+    </instruction>
+    <instruction type="updateResource" failOnError="True" enabled="True" comment="Bots_Girls_7000" group="Required">
+      <parameter name="resourceFileName" value="Bots" />
+      <parameter name="resourceValues" value="70007256|Alice||70017256|Sophie||70027256|Britney||70037256|Monique||70047256|Sigourney||70057256|Andie||70067256|Amelie||70077256|Courtney||70087256|Jennifer||70097256|Milla||70107256|Urma||70117256|Samantha||70127256|Elise||70137256|Geraldine||70147256|Takeko||70157256|Carmen||70167256|Jessica||70177256|Kevina||70187256|Tiffany||70197256|Bonnie||70207256|Connie||70217256|Angela||70227256|Condolezza||70237256|Rachida||70247256|Rama||70257256|Ashley||70267256|Yasmina||70277256|Huguette||70287256|Laetitia||70297256|Ophelie||70307256|Soyinka" />
+    </instruction>
+    <instruction type="updateResource" failOnError="True" enabled="True" comment="Bots_Boys_8000" group="Required">
+      <parameter name="resourceFileName" value="Bots" />
+      <parameter name="resourceValues" value="80007256|Sebastien||80017256|Christophe||80027256|Jerome||80037256|Phillipe||80047256|Jean-Baptiste||80057256|Janot||80067256|Dimitri||80077256|Bart||80087256|Homer||80097256|Bud||80107256|Terence||80117256|Dick||80127256|Eddy||80137256|Jim||80147256|James||80157256|Douglas||80167256|Dallas||80177256|Pierre||80187256|Andre||80197256|Burt||80207256|Song Cha||80217256|Tetsuro||80227256|Yves||80237256|Brett||80247256|Steve||80257256|Nelson||80267256|Ricardo||80277256|David||80287256|Pedro||80297256|Diego||80307256|Colt" />
+    </instruction>
+    <instruction type="updateResource" failOnError="True" enabled="True" comment="Bots_Boys_9000" group="Required">
+      <parameter name="resourceFileName" value="Bots" />
+      <parameter name="resourceValues" value="90007256|Christopher||90017256|Louis||90027256|Luis||90037256|Martial||90047256|John||90057256|Janot||90067256|Hervé||90077256|Juan-Carlo||90087256|Ayrton||90097256|Alain||90107256|Horst||90117256|Stephen||90127256|Nino||90137256|Jawen||90147256|Arthur||90157256|Antoine||90167256|Theodore||90177256|Colin||90187256|Marcel||90197256|Jules||90207256|Hector||90217256|Vincent||90227256|Honore||90237256|Ettore||90247256|Dino||90257256|Enzo||90267256|Michael||90277256|Bruce||90287256|Oleg||90297256|Sergeï||90307256|Hans||90307256|Claudio||90317256|Victor||90327256|Guy||90337256|Cody||90347256|Haggar" />
+    </instruction>
+    <instruction type="installFile" failOnError="True" enabled="True" comment="Database" group="1.68">
+      <parameter name="fileName" value="DB.BNK" />
+      <parameter name="fileType" value="Other" />
+      <parameter name="patchDirectory" value="\Patchs\" />
+      <parameter name="destination" value="#dbPath#" />
+    </instruction>
+    <instruction type="installFile" failOnError="True" enabled="True" comment="Cameras" group="1.68">
+      <parameter name="fileName" value="Cameras.bin" />
+      <parameter name="fileType" value="Other" />
+      <parameter name="patchDirectory" value="\Patchs\" />
+      <parameter name="destination" value="#dbPath#" />
+    </instruction>
+    <instruction type="installFile" failOnError="True" enabled="True" comment="Truck1" group="1.68">
+      <parameter name="patchDirectory" value="\Patchs\" />
+      <parameter name="fileType" value="Other" />
+      <parameter name="fileName" value="Truck1.bnk" />
+      <parameter name="destination" value="#bnkVehiclePath#\Traffic\" />
+    </instruction>
+    <instruction type="installFile" failOnError="True" enabled="True" comment="Truck2" group="1.68">
+      <parameter name="patchDirectory" value="\Patchs\" />
+      <parameter name="fileType" value="Other" />
+      <parameter name="fileName" value="Truck2.bnk" />
+      <parameter name="destination" value="#bnkVehiclePath#\Traffic\" />
+    </instruction>
+    <instruction type="installFile" failOnError="True" enabled="True" comment="TruckR1" group="1.68">
+      <parameter name="patchDirectory" value="\Patchs\" />
+      <parameter name="fileType" value="Other" />
+      <parameter name="fileName" value="TruckR1.bnk" />
+      <parameter name="destination" value="#bnkVehiclePath#\Traffic\" />
+    </instruction>
+    <instruction type="installFile" failOnError="True" enabled="True" comment="TruckR2" group="1.68">
+      <parameter name="patchDirectory" value="\Patchs\" />
+      <parameter name="fileType" value="Other" />
+      <parameter name="fileName" value="TruckR2.bnk" />
+      <parameter name="destination" value="#bnkVehiclePath#\Traffic\" />
+    </instruction>
+    <instruction type="installFile" failOnError="True" enabled="True" comment="TruckR3" group="1.68">
+      <parameter name="patchDirectory" value="\Patchs\" />
+      <parameter name="fileType" value="Other" />
+      <parameter name="fileName" value="TruckR3.bnk" />
+      <parameter name="destination" value="#bnkVehiclePath#\Traffic\" />
+    </instruction>
+    <instruction type="installPackedFile" failOnError="True" enabled="True" comment="Icon_Map" group="1.68">
+      <parameter name="patchDirectory" value="\Patchs\" />
+      <parameter name="newFile" value="icons_map.2db" />
+      <parameter name="bnkFile" value="#bnkFrontEndAllResPath#LogoTexturePage.bnk" />
+    </instruction>
+    <instruction type="installPackedFile" failOnError="True" enabled="True" comment="Logo_Brands" group="1.68">
+      <parameter name="patchDirectory" value="\Patchs\" />
+      <parameter name="newFile" value="logos_brands.2db" />
+      <parameter name="bnkFile" value="#bnkFrontEndAllResPath#LogoTexturePage.bnk" />
+    </instruction>
+    <instruction type="updateDatabase" failOnError="True" enabled="True" comment="Truck1" group="1.68">
+      <parameter name="resourceFileName" value="CarPhysicsData" />
+      <parameter name="resourceValues" value="61932072|61932072	75077404	60533407	54533427	92900264	1	0	54368917	53338427	1209558365	5436580	53338427	60533407	54533427	543629	553709	4196	150	5800	170	5800	7500	54356917	573531	5	4,235	3,357	2,087	1,469	1,108	0,85	0	0	0	57356917	854	854	57356917	53338427	0	2346	5198	3255	1826	1828	3583	972	664	3000	200	200	500	500	50	50	80	80	80	80	100	25	50	0	0,75	0,5	45	40	60	0,9	0,25	0,5	1	1	74739427	92261406	53338427	57356917	0	0	130	0	0	0	0	0	0	0	1300	80	100	82	100	100	100	100	-1	1	2023	2023	1	100	2023	93" />
+    </instruction>
+    <instruction type="updateDatabase" failOnError="True" enabled="True" comment="Truck2" group="1.68">
+      <parameter name="resourceFileName" value="CarPhysicsData" />
+      <parameter name="resourceValues" value="62932072|62932072	75077404	60533407	55533427	92900264	1	0	54368917	53338427	1209558365	5436580	53338427	60533407	55533427	543629	553709	4196	150	5800	170	5800	7500	54356917	573531	5	4,235	3,357	2,087	1,469	1,108	0,85	0	0	0	57356917	924	924	57356917	53338427	0	2346	5198	3255	1826	1828	3583	972	664	3000	250	300	600	700	50	50	80	80	80	80	80	25	50	0	0,75	0,5	45	40	60	0,9	0,25	0,5	1	1	74739427	92261406	53338427	57356917	0	0	130	0	0	0	0	0	0	0	1300	80	100	82	100	100	100	100	-1	1	2025	2025	1	100	2025	93" />
+    </instruction>
+    <instruction type="updateDatabase" failOnError="True" enabled="True" comment="TruckR1" group="1.68">
+      <parameter name="resourceFileName" value="CarPhysicsData" />
+      <parameter name="resourceValues" value="61932154|61932154	75077404	57833407	54533427	92900264	1	0	54368917	53338427	1209558365	5436580	53338427	57833407	54533427	543629	553709	4196	300	5300	400	3000	6750	54356917	573531	5	4,235	3,357	2,087	1,469	1,108	0,85	0	0	0	57356917	1000	1000	57356917	53338427	0	2346	5198	3255	1826	1828	3583	972	664	10000	460	460	780	940	24	24	50	50	50	50	150	70	50	0	0,75	0,5	45	40	60	0,9	0,25	0,5	1	1	74739427	92261406	53338427	57356917	0	0	130	0	0	0	0	0	0	0	1300	50	100	120	100	100	100	100	-1	1	2020	2020	1	100	2020	93" />
+    </instruction>
+    <instruction type="updateDatabase" failOnError="True" enabled="True" comment="TruckR2" group="1.68">
+      <parameter name="resourceFileName" value="CarPhysicsData" />
+      <parameter name="resourceValues" value="62932154|62932154	75077404	57833407	55533427	92900264	1	0	54368917	53338427	1209558365	5436580	53338427	57833407	55533427	543629	553709	4196	300	5300	400	3000	6750	54356917	573531	5	4,53	3,17	2,05	1,48	1,17	0,92	0	0	0	57356917	977	977	57356917	53338427	0	1948	4896	2782	1676	1676	3166	1148	605	10000	460	460	780	940	24	24	50	50	50	50	150	70	50	0	0,35	0,5	45	40	60	0,9	0,25	0,5	1	1	74739427	92261406	53338427	57356917	0	0	150	0	0	0	0	0	0	0	1300	50	100	120	100	100	100	100	-1	1	2026	2026	1	100	2026	93" />
+    </instruction>
+    <instruction type="updateDatabase" failOnError="True" enabled="True" comment="TruckR3" group="1.68">
+      <parameter name="resourceFileName" value="CarPhysicsData" />
+      <parameter name="resourceValues" value="63932154|63932154	75077404	57833407	56533427	92900264	1	0	54368917	53338427	1209558365	5436580	53338427	57833407	56533427	543629	553709	4196	300	5300	400	3000	6750	54356917	573531	5	4,53	3,17	2,05	1,48	1,17	0,92	0	0	0	57356917	977	977	57356917	53338427	0	2327	5144	2619	1864	692	3430	1005	692	10000	470	500	780	940	24	24	50	50	50	50	150	70	50	0	0,35	0,5	45	40	60	0,9	0,25	0,5	1	1	74739427	92261406	53338427	57356917	0	0	150	0	0	0	0	0	0	0	1300	50	100	120	100	100	100	100	-1	1	2027	2027	1	100	2027	93" />
+    </instruction>
+    <instruction type="setTrafficDistribution" failOnError="True" enabled="True" comment="Police1" group="1.68">
+      <parameter name="trafficVehicleId" value="2032" />
+      <parameter name="distributionValues" value="1|0.050||2|0.050||3|0.050||4|0.050||5|0.050||6|0.050" />
+    </instruction>
+    <instruction type="setTrafficDistribution" failOnError="True" enabled="True" comment="Taxi1" group="1.68">
+      <parameter name="trafficVehicleId" value="2031" />
+      <parameter name="distributionValues" value="1|0.000||2|0.000||3|0.000||4|0.000||5|0.000||6|0.000" />
+    </instruction>
+    <instruction type="setTrafficDistribution" failOnError="True" enabled="True" comment="Compact1" group="1.68">
+      <parameter name="trafficVehicleId" value="2001" />
+      <parameter name="distributionValues" value="1|0.100||2|0.200||3|0.300||4|0.200||5|0.300||6|0.300" />
+    </instruction>
+    <instruction type="setTrafficDistribution" failOnError="True" enabled="True" comment="Compact2" group="1.68">
+      <parameter name="trafficVehicleId" value="2002" />
+      <parameter name="distributionValues" value="1|0.100||2|0.200||3|0.300||4|0.200||5|0.300||6|0.300" />
+    </instruction>
+    <instruction type="setTrafficDistribution" failOnError="True" enabled="True" comment="Compact3" group="1.68">
+      <parameter name="trafficVehicleId" value="2003" />
+      <parameter name="distributionValues" value="1|0.100||2|0.200||3|0.300||4|0.200||5|0.300||6|0.300" />
+    </instruction>
+    <instruction type="setTrafficDistribution" failOnError="True" enabled="True" comment="Compact4" group="1.68">
+      <parameter name="trafficVehicleId" value="2008" />
+      <parameter name="distributionValues" value="1|0.000||2|0.000||3|0.000||4|0.000||5|0.000||6|0.000" />
+    </instruction>
+    <instruction type="setTrafficDistribution" failOnError="True" enabled="True" comment="Compact5" group="1.68">
+      <parameter name="trafficVehicleId" value="2009" />
+      <parameter name="distributionValues" value="1|0.000||2|0.000||3|0.000||4|0.000||5|0.000||6|0.000" />
+    </instruction>
+    <instruction type="setTrafficDistribution" failOnError="True" enabled="True" comment="Fullsize1" group="1.68">
+      <parameter name="trafficVehicleId" value="2004" />
+      <parameter name="distributionValues" value="1|0.100||2|0.150||3|0.250||4|0.150||5|0.250||6|0.250" />
+    </instruction>
+    <instruction type="setTrafficDistribution" failOnError="True" enabled="True" comment="Fullsize2" group="1.68">
+      <parameter name="trafficVehicleId" value="2005" />
+      <parameter name="distributionValues" value="1|0.000||2|0.000||3|0.000||4|0.000||5|0.000||6|0.000" />
+    </instruction>
+    <instruction type="setTrafficDistribution" failOnError="True" enabled="True" comment="Fullsize3" group="1.68">
+      <parameter name="trafficVehicleId" value="2006" />
+      <parameter name="distributionValues" value="1|0.000||2|0.000||3|0.000||4|0.000||5|0.000||6|0.000" />
+    </instruction>
+    <instruction type="setTrafficDistribution" failOnError="True" enabled="True" comment="Fullsize4" group="1.68">
+      <parameter name="trafficVehicleId" value="2007" />
+      <parameter name="distributionValues" value="1|0.000||2|0.000||3|0.000||4|0.000||5|0.000||6|0.000" />
+    </instruction>
+    <instruction type="setTrafficDistribution" failOnError="True" enabled="True" comment="Limousine1" group="1.68">
+      <parameter name="trafficVehicleId" value="2033" />
+      <parameter name="distributionValues" value="1|0.000||2|0.000||3|0.000||4|0.000||5|0.000||6|0.000" />
+    </instruction>
+    <instruction type="setTrafficDistribution" failOnError="True" enabled="True" comment="SUV1" group="1.68">
+      <parameter name="trafficVehicleId" value="2011" />
+      <parameter name="distributionValues" value="1|0.000||2|0.000||3|0.000||4|0.000||5|0.000||6|0.000" />
+    </instruction>
+    <instruction type="setTrafficDistribution" failOnError="True" enabled="True" comment="SUV2" group="1.68">
+      <parameter name="trafficVehicleId" value="2012" />
+      <parameter name="distributionValues" value="1|0.100||2|0.200||3|0.200||4|0.200||5|0.300||6|0.300" />
+    </instruction>
+    <instruction type="setTrafficDistribution" failOnError="True" enabled="True" comment="SUV3" group="1.68">
+      <parameter name="trafficVehicleId" value="2013" />
+      <parameter name="distributionValues" value="1|0.100||2|0.200||3|0.200||4|0.200||5|0.300||6|0.300" />
+    </instruction>
+    <instruction type="setTrafficDistribution" failOnError="True" enabled="True" comment="SUV4" group="1.68">
+      <parameter name="trafficVehicleId" value="2010" />
+      <parameter name="distributionValues" value="1|0.100||2|0.200||3|0.200||4|0.200||5|0.300||6|0.300" />
+    </instruction>
+    <instruction type="setTrafficDistribution" failOnError="True" enabled="True" comment="SUV5" group="1.68">
+      <parameter name="trafficVehicleId" value="2034" />
+      <parameter name="distributionValues" value="1|0.100||2|0.200||3|0.200||4|0.200||5|0.300||6|0.300" />
+    </instruction>
+    <instruction type="setTrafficDistribution" failOnError="True" enabled="True" comment="SUV6" group="1.68">
+      <parameter name="trafficVehicleId" value="2024" />
+      <parameter name="distributionValues" value="1|0.000||2|0.000||3|0.000||4|0.000||5|0.000||6|0.000" />
+    </instruction>
+    <instruction type="setTrafficDistribution" failOnError="True" enabled="True" comment="Pickup1" group="1.68">
+      <parameter name="trafficVehicleId" value="2017" />
+      <parameter name="distributionValues" value="1|0.100||2|0.200||3|0.100||4|0.200||5|0.300||6|0.300" />
+    </instruction>
+    <instruction type="setTrafficDistribution" failOnError="True" enabled="True" comment="Pickup2" group="1.68">
+      <parameter name="trafficVehicleId" value="2018" />
+      <parameter name="distributionValues" value="1|0.000||2|0.000||3|0.000||4|0.000||5|0.000||6|0.000" />
+    </instruction>
+    <instruction type="setTrafficDistribution" failOnError="True" enabled="True" comment="Pickup3" group="1.68">
+      <parameter name="trafficVehicleId" value="2019" />
+      <parameter name="distributionValues" value="1|0.000||2|0.000||3|0.000||4|0.000||5|0.000||6|0.000" />
+    </instruction>
+    <instruction type="setTrafficDistribution" failOnError="True" enabled="True" comment="Minivan1" group="1.68">
+      <parameter name="trafficVehicleId" value="2014" />
+      <parameter name="distributionValues" value="1|0.050||2|0.200||3|0.200||4|0.200||5|0.100||6|0.100" />
+    </instruction>
+    <instruction type="setTrafficDistribution" failOnError="True" enabled="True" comment="Minivan2" group="1.68">
+      <parameter name="trafficVehicleId" value="2015" />
+      <parameter name="distributionValues" value="1|0.000||2|0.000||3|0.000||4|0.000||5|0.000||6|0.000" />
+    </instruction>
+    <instruction type="setTrafficDistribution" failOnError="True" enabled="True" comment="Bus1" group="1.68">
+      <parameter name="trafficVehicleId" value="2028" />
+      <parameter name="distributionValues" value="1|0.010||2|0.020||3|0.100||4|0.010||5|0.030||6|0.050" />
+    </instruction>
+    <instruction type="setTrafficDistribution" failOnError="True" enabled="True" comment="Bus2" group="1.68">
+      <parameter name="trafficVehicleId" value="2029" />
+      <parameter name="distributionValues" value="1|0.000||2|0.000||3|0.000||4|0.000||5|0.000||6|0.000" />
+    </instruction>
+    <instruction type="setTrafficDistribution" failOnError="True" enabled="True" comment="Bus3" group="1.68">
+      <parameter name="trafficVehicleId" value="2030" />
+      <parameter name="distributionValues" value="1|0.000||2|0.000||3|0.000||4|0.000||5|0.000||6|0.000" />
+    </instruction>
+    <instruction type="setTrafficDistribution" failOnError="True" enabled="True" comment="Pompier1" group="1.68">
+      <parameter name="trafficVehicleId" value="2016" />
+      <parameter name="distributionValues" value="1|0.010||2|0.050||3|0.020||4|0.050||5|0.010||6|0.010" />
+    </instruction>
+    <instruction type="setTrafficDistribution" failOnError="True" enabled="True" comment="Truck1" group="1.68">
+      <parameter name="trafficVehicleId" value="2023" />
+      <parameter name="distributionValues" value="1|0.000||2|0.000||3|0.000||4|0.000||5|0.000||6|0.000" />
+    </instruction>
+    <instruction type="setTrafficDistribution" failOnError="True" enabled="True" comment="Truck2" group="1.68">
+      <parameter name="trafficVehicleId" value="2025" />
+      <parameter name="distributionValues" value="1|0.000||2|0.000||3|0.000||4|0.000||5|0.000||6|0.000" />
+    </instruction>
+    <instruction type="setTrafficDistribution" failOnError="True" enabled="True" comment="Truck3" group="1.68">
+      <parameter name="trafficVehicleId" value="2021" />
+      <parameter name="distributionValues" value="1|0.010||2|0.200||3|0.020||4|0.200||5|0.050||6|0.200" />
+    </instruction>
+    <instruction type="setTrafficDistribution" failOnError="True" enabled="True" comment="Truck4" group="1.68">
+      <parameter name="trafficVehicleId" value="2022" />
+      <parameter name="distributionValues" value="1|0.000||2|0.000||3|0.000||4|0.000||5|0.000||6|0.000" />
+    </instruction>
+    <instruction type="setTrafficDistribution" failOnError="True" enabled="True" comment="TruckR1" group="1.68">
+      <parameter name="trafficVehicleId" value="2020" />
+      <parameter name="distributionValues" value="1|0.000||2|0.000||3|0.000||4|0.000||5|0.000||6|0.000" />
+    </instruction>
+    <instruction type="setTrafficDistribution" failOnError="True" enabled="True" comment="TruckR2" group="1.68">
+      <parameter name="trafficVehicleId" value="2026" />
+      <parameter name="distributionValues" value="1|0.000||2|0.000||3|0.000||4|0.000||5|0.000||6|0.000" />
+    </instruction>
+    <instruction type="setTrafficDistribution" failOnError="True" enabled="True" comment="TruckR3" group="1.68">
+      <parameter name="trafficVehicleId" value="2027" />
+      <parameter name="distributionValues" value="1|0.000||2|0.000||3|0.000||4|0.000||5|0.000||6|0.000" />
+    </instruction>
+    <instruction type="setTrafficPerKilometer" failOnError="True" enabled="True" comment="" group="1.68">
+      <parameter name="distributionValues" value="1|0.00||2|6.00||3|9.00||4|3.00||5|2.00||6|3.00" />
+    </instruction>
+    <instruction type="installPackedFile" failOnError="True" enabled="True" comment="1.68b_Installed" group="1.68">
+      <parameter name="patchDirectory" value="\Patchs\" />
+      <parameter name="newFile" value="fla_0013.2db" />
+      <parameter name="bnkFile" value="#bnkPath#\FrontEnd\HiRes\LOG_IN.bnk" />
+    </instruction>
+    <instruction type="setTrafficDistribution" failOnError="True" enabled="True" comment="Taxi1" group="Generate New Traffic">
+      <parameter name="trafficVehicleId" value="2031" />
+      <parameter name="distributionValues" value="1|0.010||2|0.100||3|0.300||4|0.030||5|0.010||6|0.050" />
+    </instruction>
+    <instruction type="setTrafficDistribution" failOnError="True" enabled="True" comment="Compact4" group="Generate New Traffic">
+      <parameter name="trafficVehicleId" value="2008" />
+      <parameter name="distributionValues" value="1|0.100||2|0.200||3|0.300||4|0.200||5|0.300||6|0.300" />
+    </instruction>
+    <instruction type="setTrafficDistribution" failOnError="True" enabled="True" comment="Compact5" group="Generate New Traffic">
+      <parameter name="trafficVehicleId" value="2009" />
+      <parameter name="distributionValues" value="1|0.100||2|0.200||3|0.300||4|0.200||5|0.300||6|0.300" />
+    </instruction>
+    <instruction type="setTrafficDistribution" failOnError="True" enabled="True" comment="Fullsize2" group="Generate New Traffic">
+      <parameter name="trafficVehicleId" value="2005" />
+      <parameter name="distributionValues" value="1|0.100||2|0.150||3|0.250||4|0.150||5|0.250||6|0.250" />
+    </instruction>
+    <instruction type="setTrafficDistribution" failOnError="True" enabled="True" comment="Fullsize3" group="Generate New Traffic">
+      <parameter name="trafficVehicleId" value="2006" />
+      <parameter name="distributionValues" value="1|0.100||2|0.150||3|0.250||4|0.150||5|0.250||6|0.250" />
+    </instruction>
+    <instruction type="setTrafficDistribution" failOnError="True" enabled="True" comment="Fullsize4" group="Generate New Traffic">
+      <parameter name="trafficVehicleId" value="2007" />
+      <parameter name="distributionValues" value="1|0.100||2|0.150||3|0.250||4|0.150||5|0.250||6|0.250" />
+    </instruction>
+    <instruction type="setTrafficDistribution" failOnError="True" enabled="True" comment="Limousine1" group="Generate New Traffic">
+      <parameter name="trafficVehicleId" value="2033" />
+      <parameter name="distributionValues" value="1|0.010||2|0.010||3|0.050||4|0.010||5|0.010||6|0.020" />
+    </instruction>
+    <instruction type="setTrafficDistribution" failOnError="True" enabled="True" comment="SUV1" group="Generate New Traffic">
+      <parameter name="trafficVehicleId" value="2011" />
+      <parameter name="distributionValues" value="1|0.100||2|0.200||3|0.200||4|0.200||5|0.300||6|0.300" />
+    </instruction>
+    <instruction type="setTrafficDistribution" failOnError="True" enabled="True" comment="SUV6" group="Generate New Traffic">
+      <parameter name="trafficVehicleId" value="2024" />
+      <parameter name="distributionValues" value="1|0.100||2|0.200||3|0.200||4|0.200||5|0.300||6|0.300" />
+    </instruction>
+    <instruction type="setTrafficDistribution" failOnError="True" enabled="True" comment="Pickup2" group="Generate New Traffic">
+      <parameter name="trafficVehicleId" value="2018" />
+      <parameter name="distributionValues" value="1|0.100||2|0.200||3|0.100||4|0.200||5|0.300||6|0.300" />
+    </instruction>
+    <instruction type="setTrafficDistribution" failOnError="True" enabled="True" comment="Pickup3" group="Generate New Traffic">
+      <parameter name="trafficVehicleId" value="2019" />
+      <parameter name="distributionValues" value="1|0.100||2|0.200||3|0.100||4|0.200||5|0.300||6|0.300" />
+    </instruction>
+    <instruction type="setTrafficDistribution" failOnError="True" enabled="True" comment="Minivan2" group="Generate New Traffic">
+      <parameter name="trafficVehicleId" value="2015" />
+      <parameter name="distributionValues" value="1|0.050||2|0.200||3|0.200||4|0.200||5|0.100||6|0.100" />
+    </instruction>
+    <instruction type="setTrafficDistribution" failOnError="True" enabled="True" comment="Bus2" group="Generate New Traffic">
+      <parameter name="trafficVehicleId" value="2029" />
+      <parameter name="distributionValues" value="1|0.010||2|0.020||3|0.100||4|0.010||5|0.030||6|0.050" />
+    </instruction>
+    <instruction type="setTrafficDistribution" failOnError="True" enabled="True" comment="Bus3" group="Generate New Traffic">
+      <parameter name="trafficVehicleId" value="2030" />
+      <parameter name="distributionValues" value="1|0.010||2|0.020||3|0.100||4|0.010||5|0.030||6|0.050" />
+    </instruction>
+    <instruction type="setTrafficDistribution" failOnError="True" enabled="True" comment="Truck1" group="Generate New Traffic">
+      <parameter name="trafficVehicleId" value="2023" />
+      <parameter name="distributionValues" value="1|0.010||2|0.200||3|0.020||4|0.200||5|0.050||6|0.200" />
+    </instruction>
+    <instruction type="setTrafficDistribution" failOnError="True" enabled="True" comment="Truck2" group="Generate New Traffic">
+      <parameter name="trafficVehicleId" value="2025" />
+      <parameter name="distributionValues" value="1|0.010||2|0.200||3|0.020||4|0.200||5|0.050||6|0.200" />
+    </instruction>
+    <instruction type="setTrafficDistribution" failOnError="True" enabled="True" comment="Truck4" group="Generate New Traffic">
+      <parameter name="trafficVehicleId" value="2022" />
+      <parameter name="distributionValues" value="1|0.010||2|0.200||3|0.020||4|0.200||5|0.050||6|0.200" />
+    </instruction>
+    <instruction type="setTrafficDistribution" failOnError="True" enabled="True" comment="TruckR1" group="Generate New Traffic">
+      <parameter name="trafficVehicleId" value="2020" />
+      <parameter name="distributionValues" value="1|0.010||2|0.200||3|0.020||4|0.200||5|0.050||6|0.200" />
+    </instruction>
+    <instruction type="setTrafficDistribution" failOnError="True" enabled="True" comment="TruckR2" group="Generate New Traffic">
+      <parameter name="trafficVehicleId" value="2026" />
+      <parameter name="distributionValues" value="1|0.010||2|0.200||3|0.020||4|0.200||5|0.050||6|0.200" />
+    </instruction>
+    <instruction type="setTrafficDistribution" failOnError="True" enabled="True" comment="TruckR3" group="Generate New Traffic">
+      <parameter name="trafficVehicleId" value="2027" />
+      <parameter name="distributionValues" value="1|0.010||2|0.200||3|0.020||4|0.200||5|0.050||6|0.200" />
+    </instruction>
+  </instructions>
+</patcher>
