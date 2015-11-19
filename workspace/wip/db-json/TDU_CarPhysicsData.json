@@ -2155,7 +2155,7 @@
           },
           {
             "name": "BitField",
-            "rawValue": "15",
+            "rawValue": "79",
             "switchValues": [
               {
                 "index": 1,
@@ -2190,7 +2190,7 @@
               {
                 "index": 7,
                 "name": "Car Paint Luxe enabled",
-                "enabled": false
+                "enabled": true
               }
             ],
             "fieldRank": 103
@@ -14966,7 +14966,7 @@
           },
           {
             "name": "BitField",
-            "rawValue": "46",
+            "rawValue": "110",
             "switchValues": [
               {
                 "index": 1,
@@ -15001,7 +15001,7 @@
               {
                 "index": 7,
                 "name": "Car Paint Luxe enabled",
-                "enabled": false
+                "enabled": true
               }
             ],
             "fieldRank": 103
@@ -15523,7 +15523,7 @@
           },
           {
             "name": "BitField",
-            "rawValue": "46",
+            "rawValue": "110",
             "switchValues": [
               {
                 "index": 1,
@@ -15558,7 +15558,7 @@
               {
                 "index": 7,
                 "name": "Car Paint Luxe enabled",
-                "enabled": false
+                "enabled": true
               }
             ],
             "fieldRank": 103
@@ -16080,7 +16080,7 @@
           },
           {
             "name": "BitField",
-            "rawValue": "47",
+            "rawValue": "111",
             "switchValues": [
               {
                 "index": 1,
@@ -16115,7 +16115,7 @@
               {
                 "index": 7,
                 "name": "Car Paint Luxe enabled",
-                "enabled": false
+                "enabled": true
               }
             ],
             "fieldRank": 103
@@ -16637,7 +16637,7 @@
           },
           {
             "name": "BitField",
-            "rawValue": "47",
+            "rawValue": "111",
             "switchValues": [
               {
                 "index": 1,
@@ -16672,7 +16672,7 @@
               {
                 "index": 7,
                 "name": "Car Paint Luxe enabled",
-                "enabled": false
+                "enabled": true
               }
             ],
             "fieldRank": 103
@@ -17194,7 +17194,7 @@
           },
           {
             "name": "BitField",
-            "rawValue": "46",
+            "rawValue": "110",
             "switchValues": [
               {
                 "index": 1,
@@ -17229,7 +17229,7 @@
               {
                 "index": 7,
                 "name": "Car Paint Luxe enabled",
-                "enabled": false
+                "enabled": true
               }
             ],
             "fieldRank": 103
@@ -31119,7 +31119,7 @@
           },
           {
             "name": "BitField",
-            "rawValue": "13",
+            "rawValue": "77",
             "switchValues": [
               {
                 "index": 1,
@@ -31154,7 +31154,7 @@
               {
                 "index": 7,
                 "name": "Car Paint Luxe enabled",
-                "enabled": false
+                "enabled": true
               }
             ],
             "fieldRank": 103
@@ -31676,7 +31676,7 @@
           },
           {
             "name": "BitField",
-            "rawValue": "40",
+            "rawValue": "104",
             "switchValues": [
               {
                 "index": 1,
@@ -31711,7 +31711,7 @@
               {
                 "index": 7,
                 "name": "Car Paint Luxe enabled",
-                "enabled": false
+                "enabled": true
               }
             ],
             "fieldRank": 103
@@ -32233,7 +32233,7 @@
           },
           {
             "name": "BitField",
-            "rawValue": "41",
+            "rawValue": "105",
             "switchValues": [
               {
                 "index": 1,
@@ -32268,7 +32268,7 @@
               {
                 "index": 7,
                 "name": "Car Paint Luxe enabled",
-                "enabled": false
+                "enabled": true
               }
             ],
             "fieldRank": 103
@@ -32790,7 +32790,7 @@
           },
           {
             "name": "BitField",
-            "rawValue": "47",
+            "rawValue": "111",
             "switchValues": [
               {
                 "index": 1,
@@ -32825,7 +32825,7 @@
               {
                 "index": 7,
                 "name": "Car Paint Luxe enabled",
-                "enabled": false
+                "enabled": true
               }
             ],
             "fieldRank": 103
@@ -33347,7 +33347,7 @@
           },
           {
             "name": "BitField",
-            "rawValue": "15",
+            "rawValue": "79",
             "switchValues": [
               {
                 "index": 1,
@@ -33382,7 +33382,7 @@
               {
                 "index": 7,
                 "name": "Car Paint Luxe enabled",
-                "enabled": false
+                "enabled": true
               }
             ],
             "fieldRank": 103
@@ -34461,7 +34461,7 @@
           },
           {
             "name": "BitField",
-            "rawValue": "41",
+            "rawValue": "105",
             "switchValues": [
               {
                 "index": 1,
@@ -34496,7 +34496,7 @@
               {
                 "index": 7,
                 "name": "Car Paint Luxe enabled",
-                "enabled": false
+                "enabled": true
               }
             ],
             "fieldRank": 103
@@ -35018,7 +35018,7 @@
           },
           {
             "name": "BitField",
-            "rawValue": "40",
+            "rawValue": "104",
             "switchValues": [
               {
                 "index": 1,
@@ -35053,7 +35053,7 @@
               {
                 "index": 7,
                 "name": "Car Paint Luxe enabled",
-                "enabled": false
+                "enabled": true
               }
             ],
             "fieldRank": 103
@@ -35575,7 +35575,7 @@
           },
           {
             "name": "BitField",
-            "rawValue": "25",
+            "rawValue": "89",
             "switchValues": [
               {
                 "index": 1,
@@ -35610,7 +35610,7 @@
               {
                 "index": 7,
                 "name": "Car Paint Luxe enabled",
-                "enabled": false
+                "enabled": true
               }
             ],
             "fieldRank": 103
@@ -36132,7 +36132,7 @@
           },
           {
             "name": "BitField",
-            "rawValue": "41",
+            "rawValue": "105",
             "switchValues": [
               {
                 "index": 1,
@@ -36167,7 +36167,7 @@
               {
                 "index": 7,
                 "name": "Car Paint Luxe enabled",
-                "enabled": false
+                "enabled": true
               }
             ],
             "fieldRank": 103
@@ -36689,7 +36689,7 @@
           },
           {
             "name": "BitField",
-            "rawValue": "40",
+            "rawValue": "104",
             "switchValues": [
               {
                 "index": 1,
@@ -36724,7 +36724,7 @@
               {
                 "index": 7,
                 "name": "Car Paint Luxe enabled",
-                "enabled": false
+                "enabled": true
               }
             ],
             "fieldRank": 103
@@ -37246,7 +37246,7 @@
           },
           {
             "name": "BitField",
-            "rawValue": "45",
+            "rawValue": "109",
             "switchValues": [
               {
                 "index": 1,
@@ -37281,7 +37281,7 @@
               {
                 "index": 7,
                 "name": "Car Paint Luxe enabled",
-                "enabled": false
+                "enabled": true
               }
             ],
             "fieldRank": 103
@@ -37803,7 +37803,7 @@
           },
           {
             "name": "BitField",
-            "rawValue": "47",
+            "rawValue": "111",
             "switchValues": [
               {
                 "index": 1,
@@ -37838,7 +37838,7 @@
               {
                 "index": 7,
                 "name": "Car Paint Luxe enabled",
-                "enabled": false
+                "enabled": true
               }
             ],
             "fieldRank": 103
@@ -38360,7 +38360,7 @@
           },
           {
             "name": "BitField",
-            "rawValue": "13",
+            "rawValue": "77",
             "switchValues": [
               {
                 "index": 1,
@@ -38395,7 +38395,7 @@
               {
                 "index": 7,
                 "name": "Car Paint Luxe enabled",
-                "enabled": false
+                "enabled": true
               }
             ],
             "fieldRank": 103
@@ -38917,7 +38917,7 @@
           },
           {
             "name": "BitField",
-            "rawValue": "41",
+            "rawValue": "105",
             "switchValues": [
               {
                 "index": 1,
@@ -38952,7 +38952,7 @@
               {
                 "index": 7,
                 "name": "Car Paint Luxe enabled",
-                "enabled": false
+                "enabled": true
               }
             ],
             "fieldRank": 103
@@ -59526,7 +59526,7 @@
           },
           {
             "name": "BitField",
-            "rawValue": "15",
+            "rawValue": "79",
             "switchValues": [
               {
                 "index": 1,
@@ -59561,7 +59561,7 @@
               {
                 "index": 7,
                 "name": "Car Paint Luxe enabled",
-                "enabled": false
+                "enabled": true
               }
             ],
             "fieldRank": 103
@@ -60083,7 +60083,7 @@
           },
           {
             "name": "BitField",
-            "rawValue": "40",
+            "rawValue": "104",
             "switchValues": [
               {
                 "index": 1,
@@ -60118,7 +60118,7 @@
               {
                 "index": 7,
                 "name": "Car Paint Luxe enabled",
-                "enabled": false
+                "enabled": true
               }
             ],
             "fieldRank": 103
@@ -60640,7 +60640,7 @@
           },
           {
             "name": "BitField",
-            "rawValue": "15",
+            "rawValue": "79",
             "switchValues": [
               {
                 "index": 1,
@@ -60675,7 +60675,7 @@
               {
                 "index": 7,
                 "name": "Car Paint Luxe enabled",
-                "enabled": false
+                "enabled": true
               }
             ],
             "fieldRank": 103
@@ -61197,7 +61197,7 @@
           },
           {
             "name": "BitField",
-            "rawValue": "15",
+            "rawValue": "79",
             "switchValues": [
               {
                 "index": 1,
@@ -61232,7 +61232,7 @@
               {
                 "index": 7,
                 "name": "Car Paint Luxe enabled",
-                "enabled": false
+                "enabled": true
               }
             ],
             "fieldRank": 103
@@ -61754,7 +61754,7 @@
           },
           {
             "name": "BitField",
-            "rawValue": "15",
+            "rawValue": "79",
             "switchValues": [
               {
                 "index": 1,
@@ -61789,7 +61789,7 @@
               {
                 "index": 7,
                 "name": "Car Paint Luxe enabled",
-                "enabled": false
+                "enabled": true
               }
             ],
             "fieldRank": 103
@@ -62311,7 +62311,7 @@
           },
           {
             "name": "BitField",
-            "rawValue": "9",
+            "rawValue": "73",
             "switchValues": [
               {
                 "index": 1,
@@ -62346,7 +62346,7 @@
               {
                 "index": 7,
                 "name": "Car Paint Luxe enabled",
-                "enabled": false
+                "enabled": true
               }
             ],
             "fieldRank": 103
@@ -66767,7 +66767,7 @@
           },
           {
             "name": "BitField",
-            "rawValue": "15",
+            "rawValue": "79",
             "switchValues": [
               {
                 "index": 1,
@@ -66802,7 +66802,7 @@
               {
                 "index": 7,
                 "name": "Car Paint Luxe enabled",
-                "enabled": false
+                "enabled": true
               }
             ],
             "fieldRank": 103
@@ -94060,7 +94060,7 @@
           },
           {
             "name": "BitField",
-            "rawValue": "9",
+            "rawValue": "73",
             "switchValues": [
               {
                 "index": 1,
@@ -94095,7 +94095,7 @@
               {
                 "index": 7,
                 "name": "Car Paint Luxe enabled",
-                "enabled": false
+                "enabled": true
               }
             ],
             "fieldRank": 103
@@ -94617,7 +94617,7 @@
           },
           {
             "name": "BitField",
-            "rawValue": "9",
+            "rawValue": "73",
             "switchValues": [
               {
                 "index": 1,
@@ -94652,7 +94652,7 @@
               {
                 "index": 7,
                 "name": "Car Paint Luxe enabled",
-                "enabled": false
+                "enabled": true
               }
             ],
             "fieldRank": 103
@@ -95174,7 +95174,7 @@
           },
           {
             "name": "BitField",
-            "rawValue": "9",
+            "rawValue": "73",
             "switchValues": [
               {
                 "index": 1,
@@ -95209,7 +95209,7 @@
               {
                 "index": 7,
                 "name": "Car Paint Luxe enabled",
-                "enabled": false
+                "enabled": true
               }
             ],
             "fieldRank": 103
@@ -95731,7 +95731,7 @@
           },
           {
             "name": "BitField",
-            "rawValue": "41",
+            "rawValue": "105",
             "switchValues": [
               {
                 "index": 1,
@@ -95766,7 +95766,7 @@
               {
                 "index": 7,
                 "name": "Car Paint Luxe enabled",
-                "enabled": false
+                "enabled": true
               }
             ],
             "fieldRank": 103
@@ -96288,7 +96288,7 @@
           },
           {
             "name": "BitField",
-            "rawValue": "25",
+            "rawValue": "89",
             "switchValues": [
               {
                 "index": 1,
@@ -96323,7 +96323,7 @@
               {
                 "index": 7,
                 "name": "Car Paint Luxe enabled",
-                "enabled": false
+                "enabled": true
               }
             ],
             "fieldRank": 103
@@ -96845,7 +96845,7 @@
           },
           {
             "name": "BitField",
-            "rawValue": "9",
+            "rawValue": "73",
             "switchValues": [
               {
                 "index": 1,
@@ -96880,7 +96880,7 @@
               {
                 "index": 7,
                 "name": "Car Paint Luxe enabled",
-                "enabled": false
+                "enabled": true
               }
             ],
             "fieldRank": 103
@@ -97402,7 +97402,7 @@
           },
           {
             "name": "BitField",
-            "rawValue": "9",
+            "rawValue": "73",
             "switchValues": [
               {
                 "index": 1,
@@ -97437,7 +97437,7 @@
               {
                 "index": 7,
                 "name": "Car Paint Luxe enabled",
-                "enabled": false
+                "enabled": true
               }
             ],
             "fieldRank": 103
@@ -97959,7 +97959,7 @@
           },
           {
             "name": "BitField",
-            "rawValue": "9",
+            "rawValue": "73",
             "switchValues": [
               {
                 "index": 1,
@@ -97994,7 +97994,7 @@
               {
                 "index": 7,
                 "name": "Car Paint Luxe enabled",
-                "enabled": false
+                "enabled": true
               }
             ],
             "fieldRank": 103
@@ -98516,7 +98516,7 @@
           },
           {
             "name": "BitField",
-            "rawValue": "40",
+            "rawValue": "104",
             "switchValues": [
               {
                 "index": 1,
@@ -98551,7 +98551,7 @@
               {
                 "index": 7,
                 "name": "Car Paint Luxe enabled",
-                "enabled": false
+                "enabled": true
               }
             ],
             "fieldRank": 103
@@ -99073,7 +99073,7 @@
           },
           {
             "name": "BitField",
-            "rawValue": "9",
+            "rawValue": "73",
             "switchValues": [
               {
                 "index": 1,
@@ -99108,7 +99108,7 @@
               {
                 "index": 7,
                 "name": "Car Paint Luxe enabled",
-                "enabled": false
+                "enabled": true
               }
             ],
             "fieldRank": 103
