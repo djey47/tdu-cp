@@ -1,0 +1,10 @@
+# Commands
+
+## Notes
+
+N/A
+
+## TDUF-CLI
+
+    DatabaseTool gen-patch -p "<...>\tdu-cp\database\patches\Car Paint Luxe for all\CarPaintLuxe4All.mini.json" -j "<json database dir>" -t "CAR_PHYSICS_DATA" -r "70033960,1074527109,604354597,1188226067,95215035,1190174404,706378577,698399392,1192399594,1112402065,1214731890,1199127923,1244127953,699219666,1238140632,1193140602,1199604426,698554459,698912474,698389658,698656360,705918591,704744681,548713017,903887207,698390544,916337925,88334891,615195554,903336930,1208880589,1208480632,1229390461,1230834922,1268792919,1208897332,1286313474"
+    DatabaseTool apply-patch -p "<...>\tdu-cp\database\patches\Car Paint Luxe for all\CarPaintLuxe4All.mini.json" -j "<...>\tdu-cp\workspace\wip\db-json" -o "<...>\tdu-cp\workspace\wip\db-json"
