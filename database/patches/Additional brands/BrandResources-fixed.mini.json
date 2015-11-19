@@ -1,0 +1,8 @@
+{
+  "changes" : [ {
+    "type" : "UPDATE_RES",
+    "topic" : "BRANDS",
+    "ref" : "5748357",
+    "value" : "B.Engineering"
+  } ]
+}
