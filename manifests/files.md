@@ -18,6 +18,7 @@
     
     - *DB.bnk*
     
+            TDU_Brands.db [new brands and fixes]
             TDU_CarShops.db [dealer slots update]
             TDU_Clothes.db [clothes for all]
 

@@ -15,7 +15,7 @@
 - Restore backup copy.
 
 ## Credits
-- **2CVSUPERGT** : Clothes for all
+- **2CVSUPERGT** : Clothes for all, brands
 
 - **JPTH** : Dealer slots update
 
