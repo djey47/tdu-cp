@@ -1,5 +1,5 @@
 # Created by .ignore support plugin (hsz.mobi)
 .idea/
+/database/reference/*/private/
 /resources/private/
-/workspace/build/private/
-/workspace/wip/private/
+/workspace/*/private/
