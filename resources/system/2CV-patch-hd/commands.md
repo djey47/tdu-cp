@@ -10,5 +10,22 @@ SD mode will be included by default. Other modes may be included in a separate d
 
 ## TDUF-CLI
 
-- Update Library.3DD file to World banks:
-TODO.
+### Unpack TDU original files:
+
+     FileTool unpack -i "<...>\Euro\Bnk\Level\Hawai\CommonWorld.bnk" -o "<...>\workspace\wip\private\CommonWorld"
+     FileTool unpack -i "<...>\Euro\Bnk\Level\Hawai\CommonWorldDiv2.bnk" -o "<...>\workspace\wip\private\CommonWorldDiv2"
+
+### Repack to modified files
+
+     FileTool repack -v -i "<...>\workspace\wip\private\CommonWorldDiv"
+     FileTool repack -v -i "<...>\workspace\wip\private\CommonWorldDiv2"
+
+## Location of Library.3DD files
+
+    <...>\workspace\wip\private\CommonWorldDiv\4Build\PC\EURO\Level\Hawai\Common\Library\Library.3DD
+    <...>\workspace\wip\private\CommonWorldDiv2\4Build\PC\EURO\Level\Hawai\Common\Library\Library.3DD
+
+
+
+
+
