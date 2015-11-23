@@ -1067,17 +1067,17 @@
   }, {
     "type" : "UPDATE_RES",
     "topic" : "BRANDS",
-    "ref" : "9138357",
+    "ref" : "9148357",
     "value" : "Hennessey Performance"
   }, {
     "type" : "UPDATE_RES",
     "topic" : "BRANDS",
-    "ref" : "9148357",
+    "ref" : "9158357",
     "value" : "Radical"
   }, {
     "type" : "UPDATE_RES",
     "topic" : "BRANDS",
-    "ref" : "9158357",
+    "ref" : "9168357",
     "value" : "Rossion"
   }, {
     "type" : "UPDATE_RES",
@@ -2147,17 +2147,17 @@
   }, {
     "type" : "UPDATE_RES",
     "topic" : "BRANDS",
-    "ref" : "91338337",
+    "ref" : "91438337",
     "value" : "Hennessey Performance"
   }, {
     "type" : "UPDATE_RES",
     "topic" : "BRANDS",
-    "ref" : "91438337",
+    "ref" : "91538337",
     "value" : "Radical"
   }, {
     "type" : "UPDATE_RES",
     "topic" : "BRANDS",
-    "ref" : "91538337",
+    "ref" : "91638337",
     "value" : "Rossion"
   }, {
     "type" : "UPDATE_RES",
