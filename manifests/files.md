@@ -19,8 +19,14 @@
     - *DB.bnk*
     
             TDU_Brands.db [new brands and fixes]
+            TDU_CarPacks.db [F40 tuning kits]
             TDU_CarShops.db [dealer slots update]
             TDU_Clothes.db [clothes for all]
+
+    - *DB_xx.bnk*
+    
+            TDU_Brands.xx [new brands and fixes]
+        
 
 - **Euro\Bnk\FrontEnd\HiRes**
                         

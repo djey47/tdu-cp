@@ -15,7 +15,7 @@
 - Restore backup copy.
 
 ## Credits
-- **2CVSUPERGT** : Clothes for all, brands, PatchHD
+- **2CVSUPERGT** : Clothes for all, brands, PatchHD, F40 tuning kits
 
 - **JPTH** : Dealer slots update
 

@@ -6,6 +6,7 @@
 
 - Includes SD mode from PatchHD
 - Unlocks Car Paint Deluxe for all cars
+- Unlocks tuning kits for Ferrari F40
 - Provides all car brands from 1.68B patch + fixes
 
 ## Bugfixes
