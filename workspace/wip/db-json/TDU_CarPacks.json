@@ -17566,6 +17566,136 @@
             "fieldRank": 25
           }
         ]
+      },
+      {
+        "id": 134,
+        "items": [
+          {
+            "name": "Car",
+            "rawValue": "698399392",
+            "fieldRank": 1
+          },
+          {
+            "name": "Brand",
+            "rawValue": "81940960",
+            "fieldRank": 2
+          },
+          {
+            "name": "Car_File_Name_Swap",
+            "rawValue": "57356917",
+            "fieldRank": 3
+          },
+          {
+            "name": "Libelle",
+            "rawValue": "6073697",
+            "fieldRank": 4
+          },
+          {
+            "name": "Pack_1",
+            "rawValue": "844672650",
+            "fieldRank": 5
+          },
+          {
+            "name": "Group_1",
+            "rawValue": "92900264",
+            "fieldRank": 6
+          },
+          {
+            "name": "Car_1",
+            "rawValue": "61085282",
+            "fieldRank": 7
+          },
+          {
+            "name": "Price_1",
+            "rawValue": "50000",
+            "fieldRank": 8
+          },
+          {
+            "name": "Accel_0_100_1",
+            "rawValue": "3,8",
+            "fieldRank": 9
+          },
+          {
+            "name": "BrakingDist_1",
+            "rawValue": "122",
+            "fieldRank": 10
+          },
+          {
+            "name": "Handling_1",
+            "rawValue": "95",
+            "fieldRank": 11
+          },
+          {
+            "name": "Pack_2",
+            "rawValue": "844672651",
+            "fieldRank": 12
+          },
+          {
+            "name": "Group_2",
+            "rawValue": "92900264",
+            "fieldRank": 13
+          },
+          {
+            "name": "Car_2",
+            "rawValue": "61085282",
+            "fieldRank": 14
+          },
+          {
+            "name": "Price_2",
+            "rawValue": "100000",
+            "fieldRank": 15
+          },
+          {
+            "name": "Accel_0_100_2",
+            "rawValue": "3,6",
+            "fieldRank": 16
+          },
+          {
+            "name": "BrakingDist_2",
+            "rawValue": "119",
+            "fieldRank": 17
+          },
+          {
+            "name": "Handling_2",
+            "rawValue": "96",
+            "fieldRank": 18
+          },
+          {
+            "name": "Pack_3",
+            "rawValue": "844672652",
+            "fieldRank": 19
+          },
+          {
+            "name": "Group_3",
+            "rawValue": "92900264",
+            "fieldRank": 20
+          },
+          {
+            "name": "Car_3",
+            "rawValue": "61085282",
+            "fieldRank": 21
+          },
+          {
+            "name": "Price_3",
+            "rawValue": "160000",
+            "fieldRank": 22
+          },
+          {
+            "name": "Accel_0_100_3",
+            "rawValue": "3,2",
+            "fieldRank": 23
+          },
+          {
+            "name": "BrakingDist_3",
+            "rawValue": "116",
+            "fieldRank": 24
+          },
+          {
+            "name": "Handling_3",
+            "rawValue": "97",
+            "fieldRank": 25
+          }
+        ]
       }
     ]
   },
