@@ -15,7 +15,7 @@
 - Restore backup copy.
 
 ## Credits
-- **2CVSUPERGT** : Clothes for all, brands, PatchHD, F40 tuning kits, Nismo hud
+- **2CVSUPERGT** : Clothes for all, brands, PatchHD, F40 tuning kits, Nismo hud, bots with megapack cars
 
 - **JPTH** : Dealer slots update
 

@@ -18,6 +18,7 @@
     
     - *DB.bnk*
     
+            TDU_Bots.db [bots with megapack cars]
             TDU_Brands.db [new brands and fixes]
             TDU_CarPacks.db [F40 tuning kits]
             TDU_CarPhysicsData.db [Nismo hud fix]
