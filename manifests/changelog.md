@@ -12,7 +12,8 @@
 ## Bugfixes
 
 - Associate dedicated hud file to all 350Z Nismo
-- Brand name: Edonis => B.Engineering
+- Brand names: e.g Edonis => B.Engineering ...
+- Vehicle full names: e.g Brera => Alfa Brera ...
 
 ## Known Bugs
 
