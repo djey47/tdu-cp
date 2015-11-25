@@ -1,0 +1,592 @@
+{
+  "changes": [
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "70007256",
+      "value": "Alice"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "70017256",
+      "value": "Sophie"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "70027256",
+      "value": "Britney"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "70037256",
+      "value": "Monique"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "70047256",
+      "value": "Sigourney"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "70057256",
+      "value": "Andie"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "70067256",
+      "value": "Amelie"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "70077256",
+      "value": "Courtney"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "70087256",
+      "value": "Jennifer"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "70097256",
+      "value": "Milla"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "70107256",
+      "value": "Urma"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "70117256",
+      "value": "Samantha"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "70127256",
+      "value": "Elise"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "70137256",
+      "value": "Geraldine"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "70147256",
+      "value": "Takeko"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "70157256",
+      "value": "Carmen"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "70167256",
+      "value": "Jessica"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "70177256",
+      "value": "Kevina"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "70187256",
+      "value": "Tiffany"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "70197256",
+      "value": "Bonnie"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "70207256",
+      "value": "Connie"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "70217256",
+      "value": "Angela"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "70227256",
+      "value": "Condolezza"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "70237256",
+      "value": "Rachida"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "70247256",
+      "value": "Rama"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "70257256",
+      "value": "Ashley"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "70267256",
+      "value": "Yasmina"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "70277256",
+      "value": "Huguette"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "70287256",
+      "value": "Laetitia"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "70297256",
+      "value": "Ophelie"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "70307256",
+      "value": "Soyinka"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "80007256",
+      "value": "Sebastien"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "80017256",
+      "value": "Christophe"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "80027256",
+      "value": "Jerome"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "80037256",
+      "value": "Phillipe"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "80047256",
+      "value": "Jean-Baptiste"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "80057256",
+      "value": "Janot"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "80067256",
+      "value": "Dimitri"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "80077256",
+      "value": "Bart"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "80087256",
+      "value": "Homer"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "80097256",
+      "value": "Bud"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "80107256",
+      "value": "Terence"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "80117256",
+      "value": "Dick"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "80127256",
+      "value": "Eddy"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "80137256",
+      "value": "Jim"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "80147256",
+      "value": "James"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "80157256",
+      "value": "Douglas"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "80167256",
+      "value": "Dallas"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "80177256",
+      "value": "Pierre"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "80187256",
+      "value": "Andre"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "80197256",
+      "value": "Burt"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "80207256",
+      "value": "Song Cha"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "80217256",
+      "value": "Tetsuro"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "80227256",
+      "value": "Yves"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "80237256",
+      "value": "Brett"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "80247256",
+      "value": "Steve"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "80257256",
+      "value": "Nelson"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "80267256",
+      "value": "Ricardo"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "80277256",
+      "value": "David"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "80287256",
+      "value": "Pedro"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "80297256",
+      "value": "Diego"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "80307256",
+      "value": "Colt"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "90007256",
+      "value": "Christopher"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "90017256",
+      "value": "Louis"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "90027256",
+      "value": "Luis"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "90037256",
+      "value": "Martial"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "90047256",
+      "value": "John"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "90057256",
+      "value": "Janot"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "90067256",
+      "value": "Hervé"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "90077256",
+      "value": "Juan-Carlo"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "90087256",
+      "value": "Ayrton"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "90097256",
+      "value": "Alain"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "90107256",
+      "value": "Horst"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "90117256",
+      "value": "Stephen"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "90127256",
+      "value": "Nino"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "90137256",
+      "value": "Jawen"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "90147256",
+      "value": "Arthur"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "90157256",
+      "value": "Antoine"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "90167256",
+      "value": "Theodore"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "90177256",
+      "value": "Colin"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "90187256",
+      "value": "Marcel"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "90197256",
+      "value": "Jules"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "90207256",
+      "value": "Hector"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "90217256",
+      "value": "Vincent"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "90227256",
+      "value": "Honore"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "90237256",
+      "value": "Ettore"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "90247256",
+      "value": "Dino"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "90257256",
+      "value": "Enzo"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "90267256",
+      "value": "Michael"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "90277256",
+      "value": "Bruce"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "90287256",
+      "value": "Oleg"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "90297256",
+      "value": "Sergeï"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "90307256",
+      "value": "Hans"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "90307256",
+      "value": "Claudio"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "90317256",
+      "value": "Victor"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "90327256",
+      "value": "Guy"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "90337256",
+      "value": "Cody"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BOTS",
+      "ref": "90347256",
+      "value": "Haggar"
+    }
+  ]
+}
