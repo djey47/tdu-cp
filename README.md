@@ -29,7 +29,9 @@ Discussion and support are provided via the [TurboDuck Community](http://forum.t
 
 - **database**: Full game database (contents and resources), serialized to JSON format for proper editing
 
-    - **patches**: JSON files describing changes to be applied with TDUF toolset.
+    - **current**: JSON files which must be converted to banks for in-game use
+    
+    - **patches**: JSON files describing changes to be applied with TDUF toolset
 
     - **reference**: per-game version dumped databases.
 
@@ -45,10 +47,16 @@ Discussion and support are provided via the [TurboDuck Community](http://forum.t
   
 - **resources**: all external files required by update
 
+    - **system**: to perform game-wide changes (graphics...)
+
     - **textures**: raw (png) and final (dds, 2db) texture files.
 
 - **workspace**: default location to forge patch contents
 
     - **build**: final contents of patch, will be zipped for release
     
-    - **wip**: intermediate files (banks, unpacked, etc.).
+    - **wip**: intermediate files
+    
+        
+    
+    
