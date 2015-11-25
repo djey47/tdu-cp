@@ -11,6 +11,7 @@
 
 ## Bugfixes
 
+- Associate dedicated hud file to all 350Z Nismo
 - Brand name: Edonis => B.Engineering
 
 ## Known Bugs
