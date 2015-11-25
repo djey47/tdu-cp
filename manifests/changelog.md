@@ -14,6 +14,7 @@
 - Associate dedicated hud file to all 350Z Nismo
 - Brand names: e.g Edonis => B.Engineering ...
 - Vehicle full names: e.g Brera => Alfa Brera ...
+- Give ACE rank at 98% game completion: ignore broken inter-club achievement
 
 ## Known Bugs
 
