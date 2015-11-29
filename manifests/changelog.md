@@ -11,6 +11,7 @@
 
 ## Bugfixes
 
+- Clothes For All: fixes some invalid entries due to ALPHA 0
 - Associate dedicated hud file to all 350Z Nismo
 - Brand names: e.g Edonis => B.Engineering ...
 - Vehicle full names: e.g Brera => Alfa Brera ...
