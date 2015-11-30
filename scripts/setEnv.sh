@@ -9,3 +9,6 @@ export TDUF_VERSION=`cat ${TDUF_PATH}/lib/version.info`
 CURRENT_PATH=`pwd`
 SCRIPTS_PATH=`dirname ${CURRENT_PATH}`
 export TDUCP_PATH=`dirname ${SCRIPTS_PATH}`
+
+export GENERATED_DB_PATH=${TDUCP_PATH}/workspace/wip/database-generated
+
