@@ -55,6 +55,8 @@ Discussion and support are provided via the [TurboDuck Community](http://forum.t
 
     - **setEnv.sh**: utility script to initialize environment (called by others)
     
+    - **build**: support scripts
+
     - **database**: location of db-specific scripts.
 
 - **workspace**: default location to forge patch contents
