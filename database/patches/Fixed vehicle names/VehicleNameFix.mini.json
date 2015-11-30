@@ -108,6 +108,12 @@
           "value": "81082366"
         }
       ]
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_PHYSICS_DATA",
+      "ref": "81082366",
+      "value": "3.2 V6 24v Sport Technical Kit"
     }
   ]
 }
