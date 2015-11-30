@@ -51,6 +51,12 @@ Discussion and support are provided via the [TurboDuck Community](http://forum.t
 
     - **textures**: raw (png) and final (dds, 2db) texture files.
 
+- **scripts**: linux shell scripts to perform recurrent tasks
+
+    - **setEnv.sh**: utility script to initialize environment (called by others)
+    
+    - **database**: location of db-specific scripts.
+
 - **workspace**: default location to forge patch contents
 
     - **build**: final contents of patch, will be zipped for release
