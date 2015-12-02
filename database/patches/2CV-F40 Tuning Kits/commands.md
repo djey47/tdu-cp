@@ -2,7 +2,9 @@
 
 ## Notes
 
-This will add 2 entries to CarPacks topic, giving tuning kits to both F40 slots (698399392 and 1192399594). 
+This will add 2 entries to CarPacks topic, giving tuning kits to both F40 slots (698399392 and 1192399594).
+ 
+It will also fix second F40 slot (698399392) to make it usable (rims added, physics fixed).
 
 As always, consider reformatting json files after patch to minimize diffs.
 
