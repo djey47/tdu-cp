@@ -1,0 +1,406 @@
+{
+  "changes": [
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_COLORS",
+      "ref": "70006457",
+      "value": "Blanc Banquise"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_COLORS",
+      "ref": "70016457",
+      "value": "Gris Quartz"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_COLORS",
+      "ref": "70026457",
+      "value": "Gris Fulminator"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_COLORS",
+      "ref": "70036457",
+      "value": "Noir"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_COLORS",
+      "ref": "70036457",
+      "value": "Noir"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_COLORS",
+      "ref": "70046457",
+      "value": "Bleu Mauritius"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_COLORS",
+      "ref": "70056457",
+      "value": "Bleu Balmoral"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_COLORS",
+      "ref": "70066457",
+      "value": "Bleu Amiral"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_COLORS",
+      "ref": "70076457",
+      "value": "Vert Vega"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_COLORS",
+      "ref": "70086457",
+      "value": "Rouge Pivoine"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_COLORS",
+      "ref": "70096457",
+      "value": "Blanc Glacier"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_COLORS",
+      "ref": "70106457",
+      "value": "Gris Sidéral"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_COLORS",
+      "ref": "70116457",
+      "value": "Gris Hologramme"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_COLORS",
+      "ref": "70126457",
+      "value": "Bleu Eole"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_COLORS",
+      "ref": "70136457",
+      "value": "Bleu Méthyl"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_COLORS",
+      "ref": "70146457",
+      "value": "Bleu Navy"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_COLORS",
+      "ref": "70156457",
+      "value": "Crépuscule"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_COLORS",
+      "ref": "70166457",
+      "value": "Vert Abysse"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_COLORS",
+      "ref": "70176457",
+      "value": "Vert Epicéa"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_COLORS",
+      "ref": "70186457",
+      "value": "Vert Tilleul"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_COLORS",
+      "ref": "70196457",
+      "value": "Houblon"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_COLORS",
+      "ref": "70206457",
+      "value": "Rouge Nacré"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_COLORS",
+      "ref": "70216457",
+      "value": "Rouge Andalou"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_COLORS",
+      "ref": "70226457",
+      "value": "Blanc Meige"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_COLORS",
+      "ref": "70236457",
+      "value": "Gris Largentière"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_COLORS",
+      "ref": "70246457",
+      "value": "Gris Nacré"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_COLORS",
+      "ref": "70256457",
+      "value": "Beige Tholonet"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_COLORS",
+      "ref": "70266457",
+      "value": "Sable"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_COLORS",
+      "ref": "70276457",
+      "value": "Feuille Dorée"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_COLORS",
+      "ref": "70286457",
+      "value": "Or de Simiane"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_COLORS",
+      "ref": "70296457",
+      "value": "Rouge de Rio"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_COLORS",
+      "ref": "70306457",
+      "value": "Rouge de Grenade"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_COLORS",
+      "ref": "70316457",
+      "value": "Brun Scarabé"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_COLORS",
+      "ref": "70326457",
+      "value": "Brun de Roquebrune"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_COLORS",
+      "ref": "70336457",
+      "value": "Vert des Tropiques"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_COLORS",
+      "ref": "70346457",
+      "value": "Vert Argenté"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_COLORS",
+      "ref": "70356457",
+      "value": "Bleu d'Orient"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_COLORS",
+      "ref": "70366457",
+      "value": "Bleu Platine"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_COLORS",
+      "ref": "70376457",
+      "value": "Bleu de Brégançon"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_COLORS",
+      "ref": "70386457",
+      "value": "Bleu Delta"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_COLORS",
+      "ref": "70396457",
+      "value": "Gris Nacré/Noir"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_COLORS",
+      "ref": "70406457",
+      "value": "Rouge de Rio/Gris Nacré"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_COLORS",
+      "ref": "70416457",
+      "value": "Pink"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_COLORS",
+      "ref": "70426457",
+      "value": "Giallo Argento"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_COLORS",
+      "ref": "70436457",
+      "value": "Rosso Cina \"Duce\""
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_COLORS",
+      "ref": "70446457",
+      "value": "Blu Caracalla"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_COLORS",
+      "ref": "70456457",
+      "value": "Avorio Le Tetrarch"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_COLORS",
+      "ref": "70466457",
+      "value": "Grigrio Auteuil"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_COLORS",
+      "ref": "70476457",
+      "value": "Grigrio Le Sancy"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_COLORS",
+      "ref": "70486457",
+      "value": "Celeste Metallizzato"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_COLORS",
+      "ref": "70496457",
+      "value": "Viola Dino Metallizzato"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_COLORS",
+      "ref": "70506457",
+      "value": "Marrone Dino Metallizzato"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_COLORS",
+      "ref": "70516457",
+      "value": "Marrone Colorado"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_COLORS",
+      "ref": "70526457",
+      "value": "Nocciola"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_COLORS",
+      "ref": "70536457",
+      "value": "Oro Kelso"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_COLORS",
+      "ref": "70546457",
+      "value": "Verde Medio Metallizzato"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_COLORS",
+      "ref": "70556457",
+      "value": "Verde Pino Metallizzato"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_COLORS",
+      "ref": "70566457",
+      "value": "Verde Germoglio"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_COLORS",
+      "ref": "70576457",
+      "value": "Rosso Cina \"Duce/Nero"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_COLORS",
+      "ref": "70586457",
+      "value": "Giallo Argento/Nero"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_COLORS",
+      "ref": "70596457",
+      "value": "Blu Caracalla/Nero"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_COLORS",
+      "ref": "70606457",
+      "value": "Grigrio Auteuil/Nero"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_COLORS",
+      "ref": "70616457",
+      "value": "Turchese Molveda"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_COLORS",
+      "ref": "70626457",
+      "value": "Rosso Cina \"Duce/Grigrio Auteuil"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_COLORS",
+      "ref": "70636457",
+      "value": "Giallo Argento/Grigrio Auteuil"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_COLORS",
+      "ref": "70646457",
+      "value": "Blu Caracalla/Grigrio Auteuil"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_COLORS",
+      "ref": "70656457",
+      "value": "Nero/Grigrio Auteuil"
+    }
+  ]
+}

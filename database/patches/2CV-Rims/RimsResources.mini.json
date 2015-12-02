@@ -1,0 +1,124 @@
+{
+  "changes": [
+    {
+      "type": "UPDATE_RES",
+      "topic": "RIMS",
+      "ref": "57090512",
+      "value": "Gramlights"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "RIMS",
+      "ref": "59765512",
+      "value": "Bugatti"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "RIMS",
+      "ref": "70066512",
+      "value": "16\" Ariès"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "RIMS",
+      "ref": "70166512",
+      "value": "15\" Chambord"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "RIMS",
+      "ref": "70266512",
+      "value": "15\" Monte Carlo"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "RIMS",
+      "ref": "70366512",
+      "value": "5,5x18 Type 57 Option Wheels"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "RIMS",
+      "ref": "70466512",
+      "value": "5,5x18 Type 57 Standard Wheels"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "RIMS",
+      "ref": "70566512",
+      "value": "Citroën SM Standard Wheels"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "RIMS",
+      "ref": "70666512",
+      "value": "Michelin RR"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "RIMS",
+      "ref": "70766512",
+      "value": "Borrani 15\""
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "RIMS",
+      "ref": "70766512",
+      "value": "Borrani 15\""
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "RIMS",
+      "ref": "70866512",
+      "value": "Facel II Standard Wheels"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "RIMS",
+      "ref": "70966512",
+      "value": "Ferrari 5 Spokes 15\""
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "RIMS",
+      "ref": "555858512",
+      "value": "C63_1_F_01"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "RIMS",
+      "ref": "557858512",
+      "value": "57S_pro_Fin_01"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "RIMS",
+      "ref": "567858512",
+      "value": "57S_pro_Fin_02"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "RIMS",
+      "ref": "577858512",
+      "value": "G35_1_F_01"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "RIMS",
+      "ref": "587858512",
+      "value": "Wies_GT_F_01"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "RIMS",
+      "ref": "597858512",
+      "value": "Wies_GT_F_02"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "RIMS",
+      "ref": "607858512",
+      "value": "Corv69_F_02"
+    }
+  ]
+}
