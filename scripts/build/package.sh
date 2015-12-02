@@ -6,10 +6,10 @@
 
 source ../setEnv.sh
 
-BUILD_PATH=${TDUCP_PATH}/workspace/build
+BUILD_PATH=${TDUCP_PATH}/workspace/build/private/2.00A
 
 # Manifests
-cp ${TDUCP_PATH}/manifests/*.md ${TDUCP_PATH}/workspace/build
+cp ${TDUCP_PATH}/manifests/*.md ${BUILD_PATH}
 
 # Database
 TARGET_DB_PATH=${BUILD_PATH}/Euro/Bnk/Database
