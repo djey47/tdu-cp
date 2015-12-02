@@ -18,7 +18,7 @@
 
 ## Known Bugs
 
-None.
+- Ferrari F40 gets two identical tuning options (until kit 3) at Forza Tuner spot
 
 ## Previous contents
 
