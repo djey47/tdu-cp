@@ -31181,7 +31181,7 @@
           },
           {
             "name": "Car_Version",
-            "rawValue": "53338427",
+            "rawValue": "59633427",
             "fieldRank": 4
           },
           {
@@ -31671,17 +31671,17 @@
           },
           {
             "name": "ID_Car",
-            "rawValue": "1022",
+            "rawValue": "315",
             "fieldRank": 102
           },
           {
             "name": "BitField",
-            "rawValue": "104",
+            "rawValue": "105",
             "switchValues": [
               {
                 "index": 1,
                 "name": "?",
-                "enabled": false
+                "enabled": true
               },
               {
                 "index": 2,
