@@ -2,7 +2,7 @@
 
 ## Notes
 
-This sets HUD file name (rank 11) to proper 'Nismo' resource value for slot REFs: 1133391244,1133391037,1133391164.
+This sets HUD file name (rank 11) to proper 'Nismo' resource value for slot REFs: 1133391037,1133391244,1133391164.
 Requires TDUF version >= 0.9!
 
 ## TDUF-CLI
