@@ -2,7 +2,7 @@
 
 ## Notes
 
-N/A 
+Following BOTS resources have no dedicated uses in BOTS topic : Jerome(80027256), Pedro(8087256), Bruce(90277256), Hans(90307256). 
 
 ## TDUF-CLI
 
