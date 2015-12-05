@@ -1,0 +1,20 @@
+{
+  "changes": [
+    {
+      "type": "UPDATE",
+      "topic": "CAR_RIMS",
+      "values": [
+        "1133391164",
+        "1216409248"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "CAR_RIMS",
+      "values": [
+        "1133391244",
+        "1216409248"
+      ]
+    }
+  ]
+}
