@@ -17,6 +17,8 @@
 ## Credits
 - **2CVSUPERGT** : Clothes for all, brands, F40 tuning kits, Nismo hud, bots with megapack cars
 
+- **Community** : ACE Project
+
 - **JPTH** : Dealer slots update
 
 - **Lean,Speeder** : G27 Fix
