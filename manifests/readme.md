@@ -15,7 +15,7 @@
 - Restore backup copy.
 
 ## Credits
-- **2CVSUPERGT** : Clothes for all, brands, F40 tuning kits, Nismo hud, bots with megapack cars
+- **2CVSUPERGT** : Clothes for all, brands, F40 tuning kits, Nismo hud, Nismo rims, bots with megapack cars, rim names
 
 - **Community** : ACE Project
 

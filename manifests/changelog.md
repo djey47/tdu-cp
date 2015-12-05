@@ -4,9 +4,11 @@
 
 ## Features
 
+- Provides new rim names for many mods (Bugatti Atlantic, Facel Vega...)
 
 ## Bugfixes
 
+- Propose Nismo rim set for Nissan 350Z RTune and RTune power (required for car dealers)
 - Give ACE rank at 98% game completion: ignore broken inter-club achievement
 
 ## Known Bugs
