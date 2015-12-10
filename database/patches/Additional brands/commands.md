@@ -2,17 +2,17 @@
 
 ## Notes
 
-N/A
+Contains all brand changes with 1.68b patch and after.
 
 ## TDUF-CLI
 
-    DatabaseTool apply-patch -p "BrandResources-added-1.68b.mini.json" -j "<...>/workspace/wip/db-json" -o "<...>/workspace/wip/db-json"
+    DatabaseTool apply-patch -p "<...>/database/patches/Additional brands/BrandResources-added-1.68b.mini.json" -j "<...>/database/current" -o "<...>/database/current"
     
-    DatabaseTool apply-patch -p "BrandResources-added.mini.json" -j "<...>/workspace/wip/db-json" -o "<...>/workspace/wip/db-json"
+    DatabaseTool apply-patch -p "<...>/database/patches/Additional brands/BrandResources-added.mini.json" -j "<...>/database/current" -o "<...>/database/current"
     
-    DatabaseTool apply-patch -p "BrandResources-fixed-1.68b.mini.json" -j "<...>/workspace/wip/db-json" -o "<...>/workspace/wip/db-json"
+    DatabaseTool apply-patch -p "<...>/database/patches/Additional brands/BrandResources-fixed-1.68b.mini.json" -j "<...>/database/current" -o "<...>/database/current"
     
-    DatabaseTool apply-patch -p "Brands-added-1.68b.mini.json" -j "<...>/workspace/wip/db-json" -o "<...>/workspace/wip/db-json"
+    DatabaseTool apply-patch -p "<...>/database/patches/Additional brands/Brands-added-1.68b.mini.json" -j "<...>/database/current" -o "<...>/database/current"
     
-    DatabaseTool apply-patch -p "Brands-added.mini.json" -j "<...>/workspace/wip/db-json" -o "<...>/workspace/wip/db-json"
+    DatabaseTool apply-patch -p "<...>/database/patches/Additional brands/Brands-added.mini.json" -j "<...>/database/current" -o "<...>/database/current"
     
