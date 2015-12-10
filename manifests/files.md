@@ -21,6 +21,7 @@
             TDU_Achievements [ace fix]
             TDU_Bots.db [bots with megapack cars]
             TDU_Brands.db [new brands and fixes]
+            TDU_CarColors.db [1.68b colors]
             TDU_CarPacks.db [F40 tuning kits]
             TDU_CarRims.db [F40 tuning kits][Nismo Rim fix]
             TDU_CarPhysicsData.db [Nismo hud fix][vehicle names fix]
@@ -30,8 +31,15 @@
     - *DB_xx.bnk*
     
             TDU_Brands.xx [new brands and fixes]
+            TDU_CarColors.xx [1.68b colors]
             TDU_Rims.xx [new rim names and fixes]
         
+- **Euro\Bnk\FrontEnd\AllRes**
+
+    - *LogoTexturePage.bnk*
+    
+            icons_map.2db [new brands and fixes]
+            logos_brands.2db [new brands and fixes]
 
 - **Euro\Bnk\FrontEnd\HiRes**
                         
