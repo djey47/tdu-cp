@@ -2,7 +2,11 @@
 
 ## Notes
 
-Contains all brand changes with 1.68b patch and after.
+Contains all brand brought by 1.68b patch, and more:
+
+- Hennessey Performance
+- Radical
+- Rossion.
 
 ## TDUF-CLI
 
