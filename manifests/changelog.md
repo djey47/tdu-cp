@@ -5,6 +5,7 @@
 ## Features
 
 - Includes Community Patch 1.68b cameras
+- Special tuned cars available in tuners (Alfa GT SP, ...)
 - Provides new rim names for many mods (Bugatti Atlantic, Facel Vega...)
 
 ## Bugfixes
