@@ -4,6 +4,7 @@
 
 ## Features
 
+- Includes Community Patch 1.68b cameras
 - Provides new rim names for many mods (Bugatti Atlantic, Facel Vega...)
 
 ## Bugfixes

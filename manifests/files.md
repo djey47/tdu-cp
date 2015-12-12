@@ -15,6 +15,8 @@
 - **Euro\Bnk\Database**
                         
     - *AiConfig.xml [Traffic sync issues Fix]*
+
+    - *Cameras.bin [1.68b cameras]*
     
     - *DB.bnk*
     
