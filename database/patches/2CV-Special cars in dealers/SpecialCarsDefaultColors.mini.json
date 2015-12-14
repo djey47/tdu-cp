@@ -5,11 +5,11 @@
       "topic": "CAR_COLORS",
       "filter": [
         {
-          "rank": 0,
+          "rank": 1,
           "value": "59142377"
         },
         {
-          "rank": 1,
+          "rank": 2,
           "value": "59266127"
         }
       ]
