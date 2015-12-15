@@ -2,8 +2,9 @@
 
 ## Notes
 
-- Put the Alfa GT SP E-class in Alfa Dealer at slot #4 (field rank #7)
+- Put the Alfa GT SP E-class in Alfa Dealer (591263714) at slot #4 (field rank #7)
 - Change Alfa GT SP default color from Red to Black
+- Put Saleen 3V Coupe and Convertible in US Independents (550413704) at slots #2 and #3 (3 slots available) 
 
 ## TDUF-CLI
 
