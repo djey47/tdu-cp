@@ -15,7 +15,7 @@
 - Restore backup copy.
 
 ## Credits
-- **2CVSUPERGT** : Clothes for all, brands, F40 tuning kits, Nismo hud, Nismo rims, bots with megapack cars, rim names
+- **2CVSUPERGT** : Clothes for all, brands, F40 tuning kits, Nismo hud, Nismo rims, bots with megapack cars, rim names, tuned cars in dealers
 
 - **Community** : ACE Project
 
@@ -26,4 +26,5 @@
 - **djey** : Anything else!
 
 ## Websites
+
 - **[License Plate Maker](http://acme.com/licensemaker/licensemaker.cgi?state=Hawaii&text=2.00A&plate=1991&r=1461579615)**

@@ -23,7 +23,7 @@
             TDU_Achievements [ace fix]
             TDU_Bots.db [bots with megapack cars]
             TDU_Brands.db [new brands and fixes]
-            TDU_CarColors.db [1.68b colors]
+            TDU_CarColors.db [1.68b colors][dealer slots update]
             TDU_CarPacks.db [F40 tuning kits]
             TDU_CarRims.db [F40 tuning kits][Nismo Rim fix]
             TDU_CarPhysicsData.db [Nismo hud fix][vehicle names fix]
