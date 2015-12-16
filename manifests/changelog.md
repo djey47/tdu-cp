@@ -4,14 +4,9 @@
 
 ## Features
 
-- Includes Community Patch 1.68b cameras
-- Special tuned cars available in tuners (Alfa GT SP, ...)
-- Provides new rim names for many mods (Bugatti Atlantic, Facel Vega...)
 
 ## Bugfixes
 
-- Propose Nismo rim set for Nissan 350Z RTune and RTune power (required for car dealers)
-- Give ACE rank at 98% game completion: ignore broken inter-club achievement
 
 ## Known Bugs
 
@@ -21,6 +16,9 @@
 
 ### Features
 
+- Includes Community Patch 1.68b cameras
+- Special tuned cars available in tuners (Alfa GT SP, ...)
+- Provides new rim names for many mods (Bugatti Atlantic, Facel Vega...)
 - Unlocks Car Paint Deluxe for all cars
 - Unlocks tuning kits for Ferrari F40
 - Adds new bots driving megapack vehicles
@@ -30,6 +28,8 @@
 
 ### Bugfixes
 
+- Propose Nismo rim set for Nissan 350Z RTune and RTune power (required for car dealers)
+- Give ACE rank at 98% game completion: ignore broken inter-club achievement
 - Clothes For All: fixes some invalid entries due to ALPHA 0
 - Associate dedicated hud file to all 350Z Nismo
 - Brand names: e.g Edonis => B.Engineering ...
