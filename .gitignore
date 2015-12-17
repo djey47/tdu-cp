@@ -3,3 +3,4 @@
 /database/reference/*/private/
 /resources/private/
 /workspace/*/private/
+/database/current/original-*.bnk
