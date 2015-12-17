@@ -1,0 +1,38 @@
+{
+  "changes": [
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "727727",
+      "partialValues": [
+        {
+          "rank": 3,
+          "value": "5958357"
+        },
+        {
+          "rank": 4,
+          "value": "59538337"
+        },
+        {
+          "rank": 5,
+          "value": "22"
+        },
+        {
+          "rank": 7,
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "CAR_PHYSICS_DATA",
+      "ref": "1238267235",
+      "partialValues": [
+        {
+          "rank": 103,
+          "value": "78"
+        }
+      ]
+    }
+  ]
+}
