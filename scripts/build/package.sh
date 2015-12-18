@@ -7,6 +7,7 @@
 source ../setEnv.sh
 
 BUILD_PATH=${TDUCP_PATH}/workspace/build/private/2.00A
+RELEASE_PATH=${TDUCP_PATH}/releases
 
 # Manifests
 echo "-> Manifests..."
@@ -26,4 +27,6 @@ cp ${GENERATED_DB_PATH}/*.bnk ${TARGET_DB_PATH}
 
 #Zip
 echo "-> Zipping..."
-#TODO
+pushd ${BUILD_PATH} > /dev/null
+zip -r ${TDUCP_PATH}/workspace/releases/TDUCP-2.00A-NEW.zip *
+popd > /dev/null
