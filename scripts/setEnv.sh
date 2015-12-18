@@ -11,3 +11,12 @@ SCRIPTS_PATH=`dirname ${CURRENT_PATH}`
 export TDUCP_PATH=`dirname ${SCRIPTS_PATH}`
 
 export GENERATED_DB_PATH=${TDUCP_PATH}/workspace/wip/private/database-generated
+
+export BUILD_BANK_PATH=${TDUCP_PATH}/workspace/build/private/2.00A/Euro/Bnk
+
+export MAPPING_CURRENT=${BUILD_BANK_PATH}/Bnk1.map
+
+export JSON_MAPPING_PATH=${TDUCP_PATH}/resources/system/magic-map/Bnk1.map.patched.json
+
+export JSON_MAP4_STRUCTURE=${TDUF_PATH}/structures/MAP4-map.json
+
