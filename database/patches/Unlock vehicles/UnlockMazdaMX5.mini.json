@@ -33,6 +33,17 @@
           "value": "78"
         }
       ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "CAR_SHOPS",
+      "ref": "624036877",
+      "partialValues": [
+        {
+          "rank": 4,
+          "value": "1238267235"
+        }
+      ]
     }
   ]
 }

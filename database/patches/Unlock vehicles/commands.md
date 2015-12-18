@@ -10,7 +10,8 @@ POC for Mazda MX5 Roadster:
 - Set bitfield to 1 (BRANDS - rank #7)
 
 - Set bitfield to 78 (CAR PHYSICS DATA - rank #103)
--
+
+- (WIP only?) Locate it to Japan Import dealer (CAR_SHOPS)
 
 ## TDUF-CLI
 
