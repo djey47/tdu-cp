@@ -9,12 +9,21 @@ source ../setEnv.sh
 BUILD_PATH=${TDUCP_PATH}/workspace/build/private/2.00A
 
 # Manifests
+echo "-> Manifests..."
 cp ${TDUCP_PATH}/manifests/*.md ${BUILD_PATH}
 
+# Generate mapping
+echo "-> Bnk1.map..."
+cd ../mapping/
+./generateCurrent.sh
+cd - > /dev/null
+
 # Database
+echo "-> Database..."
 TARGET_DB_PATH=${BUILD_PATH}/Euro/Bnk/Database
 mkdir -p ${TARGET_DB_PATH}
 cp ${GENERATED_DB_PATH}/*.bnk ${TARGET_DB_PATH}
 
 #Zip
+echo "-> Zipping..."
 #TODO
