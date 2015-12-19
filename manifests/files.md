@@ -67,6 +67,19 @@
     
             fla_0013.2db [title screen logo]
 
+- **Euro\Bnk\FX**
+                        
+    - *FX.ini [hd patch]*
+
+- **Euro\Bnk\Level\Hawai**
+
+    - *CommonWorld.bnk*
+    
+            Library.3dd [hd patch]
+
+    - *CommonWorldDiv2.bnk*
+    
+            Library.3dd [hd patch]
 
 ## REMOVED files
 

@@ -4,6 +4,8 @@
 
 ## Features
 
+- Includes Patch HD in SD mode. Instructions to disable/upgrade to higher level in readme
+
 
 ## Bugfixes
 
