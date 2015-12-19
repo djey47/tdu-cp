@@ -17,4 +17,8 @@ POC for Mazda MX5 Roadster:
 
 ## TDUF-CLI
 
+    DatabaseTool apply-patch -p "<...>\tdu-cp\database\patches\Unlock vehicles\UnlockMazdaMX5.mini.json" -j "<...>\tdu-cp\database\current" -o "<...>\tdu-cp\database\current"
+    DatabaseTool apply-patch -p "<...>\tdu-cp\database\patches\Unlock vehicles\UnlockAM-DB-AR1.mini.json" -j "<...>\tdu-cp\database\current" -o "<...>\tdu-cp\database\current"
+
+
     
