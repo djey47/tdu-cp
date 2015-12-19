@@ -5,7 +5,7 @@
 ## Features
 
 - Includes Patch HD in SD mode. Instructions to disable/upgrade to higher level in readme
-
+- Unlocks car slots (Work In Progress): Mazda MX5 slot now available (check it out at Japan Imports)
 
 ## Bugfixes
 
