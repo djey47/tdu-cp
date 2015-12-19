@@ -3,8 +3,20 @@
 *Current Community Patch will have following impact on existing TDU installation.*
 
 ## NEW files
+
 - **\\**
+
     - *dinput8.dll* [G27 Fix]
+
+- **Euro\Bnk\Sound\Vehicules**
+
+    - *MX5_audio.bnk* [unlocked slots]
+
+- **Euro\Bnk\Vehicules**
+
+    - *MX5.bnk* [unlocked slots]
+
+    - *MX5_I.bnk* [unlocked slots]
 
 ## UPDATED files
 
@@ -22,12 +34,12 @@
     
             TDU_Achievements [ace fix]
             TDU_Bots.db [bots with megapack cars]
-            TDU_Brands.db [new brands and fixes]
+            TDU_Brands.db [new brands and fixes][unlocked slots]
             TDU_CarColors.db [1.68b colors][dealer slots update]
             TDU_CarPacks.db [F40 tuning kits]
             TDU_CarRims.db [F40 tuning kits][Nismo Rim fix]
-            TDU_CarPhysicsData.db [Nismo hud fix][vehicle names fix]
-            TDU_CarShops.db [dealer slots update]
+            TDU_CarPhysicsData.db [Nismo hud fix][vehicle names fix][unlocked slots]
+            TDU_CarShops.db [dealer slots update][unlocked slots]
             TDU_Clothes.db [clothes for all]
 
     - *DB_xx.bnk*
