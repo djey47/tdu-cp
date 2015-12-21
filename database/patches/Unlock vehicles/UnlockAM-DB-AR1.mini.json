@@ -34,6 +34,14 @@
       "ref": "734237852",
       "partialValues": [
         {
+          "rank": 9,
+          "value": "5186567"
+        },
+        {
+          "rank": 11,
+          "value": "6377580"
+        },
+        {
           "rank": 13,
           "value": "63648407"
         },
@@ -46,6 +54,18 @@
           "value": "77"
         }
       ]
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_PHYSICS_DATA",
+      "ref": "5186567",
+      "value": "DBAR1"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_PHYSICS_DATA",
+      "ref": "6377580",
+      "value": "DBAR1"
     },
     {
       "type": "UPDATE_RES",
