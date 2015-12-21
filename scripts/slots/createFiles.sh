@@ -7,12 +7,15 @@ source ../setEnv.sh
 
 DEFAULT_MODELS_PATH=${TDUCP_PATH}/resources/physics/vehicles/models
 DEFAULT_SOUND_PATH=${TDUCP_PATH}/resources/physics/vehicles/sounds
+DEFAULT_HUD_PATH=${TDUCP_PATH}/resources/physics/vehicles/huds
 
 BUILD_MODELS_PATH=${BUILD_BANK_PATH}/Vehicules
 BUILD_SOUNDS_PATH=${BUILD_BANK_PATH}/Sound/Vehicules
+BUILD_HUDS_HR_PATH=${BUILD_BANK_PATH}/FrontEnd/HiRes/Gauges
+BUILD_HUDS_LR_PATH=${BUILD_BANK_PATH}/FrontEnd/LoRes/Gauges
 
 echo "-> Creating build folders..."
-mkdir -p ${BUILD_MODELS_PATH} ${BUILD_SOUNDS_PATH}
+mkdir -p ${BUILD_MODELS_PATH} ${BUILD_SOUNDS_PATH} ${BUILD_HUDS_HR_PATH} ${BUILD_HUDS_LR_PATH}
 
 echo "-> Creating model and audio files..."
 cat models.txt | while read name
@@ -21,4 +24,12 @@ do
    cp ${DEFAULT_MODELS_PATH}/DEFAULT.bnk ${BUILD_MODELS_PATH}/${name}.bnk
    cp ${DEFAULT_MODELS_PATH}/DEFAULT_I.bnk ${BUILD_MODELS_PATH}/${name}_I.bnk
    cp ${DEFAULT_SOUND_PATH}/DEFAULT_audio.bnk ${BUILD_SOUNDS_PATH}/${name}_audio.bnk
+done
+
+echo "-> Creating hud files..."
+cat huds.txt | while read name
+do
+   echo "-${name}"
+   cp ${DEFAULT_HUD_PATH}/DEFAULT.bnk ${BUILD_HUDS_HR_PATH}/${name}.bnk
+   cp ${DEFAULT_HUD_PATH}/DEFAULT.bnk ${BUILD_HUDS_LR_PATH}/${name}.bnk
 done
