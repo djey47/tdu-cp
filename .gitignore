@@ -3,4 +3,5 @@
 /database/reference/*/private/
 /resources/private/
 /workspace/*/private/
+/workspace/releases/*.zip
 /database/current/original-*.bnk
