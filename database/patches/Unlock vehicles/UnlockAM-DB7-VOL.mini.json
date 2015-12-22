@@ -27,7 +27,8 @@
         "11319636",
         "11319636"
       ]
-    },    {
+    },
+    {
       "type": "UPDATE",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "1202238231",
@@ -80,7 +81,7 @@
       "ref": "601056871",
       "partialValues": [
         {
-          "rank": 11,
+          "rank": 9,
           "value": "1202238231"
         }
       ]
