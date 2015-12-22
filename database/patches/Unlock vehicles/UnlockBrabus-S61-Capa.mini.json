@@ -1,0 +1,111 @@
+{
+  "changes": [
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "12778906",
+      "partialValues": [
+        {
+          "rank": 3,
+          "value": "61838337"
+        },
+        {
+          "rank": 4,
+          "value": "61838337"
+        },
+        {
+          "rank": 5,
+          "value": "22"
+        },
+        {
+          "rank": 7,
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "CAR_COLORS",
+      "values": [
+        "1074527109",
+        "60966127",
+        "61606457",
+        "53356127",
+        "54361317",
+        "0",
+        "0",
+        "1098537309",
+        "1145836317",
+        "560997103",
+        "1194457649",
+        "11319636",
+        "11319636",
+        "11319636",
+        "11319636",
+        "11319636",
+        "11319636",
+        "11319636",
+        "11319636",
+        "11319636",
+        "11319636",
+        "11319636"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "CAR_PHYSICS_DATA",
+      "ref": "1074527109",
+      "partialValues": [
+        {
+          "rank": 9,
+          "value": "5246567"
+        },
+        {
+          "rank": 11,
+          "value": "5256580"
+        },
+        {
+          "rank": 13,
+          "value": "57738427"
+        },
+        {
+          "rank": 14,
+          "value": "58738427"
+        },
+        {
+          "rank": 103,
+          "value": "79"
+        }
+      ]
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_PHYSICS_DATA",
+      "ref": "5246567",
+      "value": "B61S"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_PHYSICS_DATA",
+      "ref": "5256580",
+      "value": "B61S"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_PHYSICS_DATA",
+      "ref": "58738427",
+      "value": "6.1"
+    },
+    {
+      "type": "UPDATE",
+      "topic": "CAR_SHOPS",
+      "ref": "557186826",
+      "partialValues": [
+        {
+          "rank": 6,
+          "value": "1074527109"
+        }
+      ]
+    }
+  ]
+}
