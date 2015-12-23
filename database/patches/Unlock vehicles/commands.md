@@ -13,7 +13,7 @@ POC for Mazda MX5 Roadster:
 - Set version name to Roadster(CAR PHYSICS DATA - rank #14)
 - Set bitfield to 79 (CAR PHYSICS DATA - rank #103)
 
-- (WIP only?) Locate it to Japan Import dealer (CAR_SHOPS)
+All unlocked vehicles are located in Oahu Cars dealers (541293706: Honolulu North) 
 
 ## TDUF-CLI
 
@@ -22,6 +22,7 @@ POC for Mazda MX5 Roadster:
     DatabaseTool apply-patch -p "<...>\tdu-cp\database\patches\Unlock vehicles\UnlockAM-DB7-VOL.mini.json" -j "<...>\tdu-cp\database\current" -o "<...>\tdu-cp\database\current"
     DatabaseTool apply-patch -p "<...>\tdu-cp\database\patches\Unlock vehicles\UnlockAudi-A4-DTM.mini.json" -j "<...>\tdu-cp\database\current" -o "<...>\tdu-cp\database\current"
     DatabaseTool apply-patch -p "<...>\tdu-cp\database\patches\Unlock vehicles\UnlockBrabus-S61-Capa.mini.json" -j "<...>\tdu-cp\database\current" -o "<...>\tdu-cp\database\current"
+    DatabaseTool apply-patch -p "<...>\tdu-cp\database\patches\Unlock vehicles\VehicleDealers.mini.json" -j "<...>\tdu-cp\database\current" -o "<...>\tdu-cp\database\current"
 
 
     

@@ -1,0 +1,35 @@
+{
+  "changes": [
+    {
+      "type": "UPDATE",
+      "topic": "CAR_SHOPS",
+      "ref": "541293706",
+      "partialValues": [
+        {
+          "rank": 4,
+          "value": "1202238231"
+        },
+        {
+          "rank": 5,
+          "value": "734237852"
+        },
+        {
+          "rank": 6,
+          "value": "843182934"
+        },
+        {
+          "rank": 7,
+          "value": "1289993715"
+        },
+        {
+          "rank": 8,
+          "value": "1074527109"
+        },
+        {
+          "rank": 9,
+          "value": "1238267235"
+        }
+      ]
+    }
+  ]
+}
