@@ -3,4 +3,4 @@ Unlock vehicles/UnlockAM-DB-AR1.mini.json
 Unlock vehicles/UnlockAudi-A3-V6N.mini.json
 Unlock vehicles/UnlockAudi-A4-DTM.mini.json
 Unlock vehicles/UnlockBrabus-S61-Capa.mini.json
-Unlock vehicles/UnlockMazdaMX5.mini.json./pa
+Unlock vehicles/UnlockMazdaMX5.mini.json
