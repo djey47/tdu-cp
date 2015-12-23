@@ -1,0 +1,15 @@
+{
+  "changes": [
+    {
+      "type": "UPDATE",
+      "topic": "CAR_PHYSICS_DATA",
+      "ref": "1190174404",
+      "partialValues": [
+        {
+          "rank": 103,
+          "value": "79"
+        }
+      ]
+    }
+  ]
+}

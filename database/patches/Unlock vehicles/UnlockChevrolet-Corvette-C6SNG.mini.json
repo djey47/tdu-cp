@@ -1,0 +1,89 @@
+{
+  "changes": [
+    {
+      "type": "UPDATE",
+      "topic": "CAR_COLORS",
+      "values": [
+        "619586695",
+        "54166127",
+        "61486457",
+        "53356127",
+        "53356127",
+        "0",
+        "0",
+        "109854030",
+        "11319636",
+        "119446370",
+        "114584028",
+        "11319636",
+        "11319636",
+        "11319636",
+        "11319636",
+        "11319636",
+        "11319636",
+        "11319636",
+        "11319636",
+        "11319636",
+        "11319636",
+        "11319636"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "CAR_PHYSICS_DATA",
+      "ref": "619586695",
+      "partialValues": [
+        {
+          "rank": 9,
+          "value": "6337567"
+        },
+        {
+          "rank": 10,
+          "value": "1202819205"
+        },
+        {
+          "rank": 11,
+          "value": "6426580"
+        },
+        {
+          "rank": 13,
+          "value": "63283667"
+        },
+        {
+          "rank": 14,
+          "value": "63592366"
+        },
+        {
+          "rank": 103,
+          "value": "79"
+        }
+      ]
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_PHYSICS_DATA",
+      "ref": "6337567",
+      "value": "C6_SNG"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_PHYSICS_DATA",
+      "ref": "6426580",
+      "value": "C6_SNG"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_PHYSICS_DATA",
+      "ref": "63592366",
+      "value": "C6™ 'ShowNGo'"
+    },
+    {
+      "type": "UPDATE",
+      "topic": "CAR_RIMS",
+      "values": [
+        619586695,
+        1202819205
+      ]
+    }
+  ]
+}
