@@ -10,6 +10,7 @@ CURRENT_PATH=`pwd`
 SCRIPTS_PATH=`dirname ${CURRENT_PATH}`
 export TDUCP_PATH=`dirname ${SCRIPTS_PATH}`
 
+export CURRENT_DB_PATH=${TDUCP_PATH}/database/current
 export GENERATED_DB_PATH=${TDUCP_PATH}/workspace/wip/private/database-generated
 
 export BUILD_BANK_PATH=${TDUCP_PATH}/workspace/build/private/2.00A/Euro/Bnk

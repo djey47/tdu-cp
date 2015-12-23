@@ -6,8 +6,6 @@
 
 source ../setEnv.sh
 
-CURRENT_DB_PATH=${TDUCP_PATH}/database/current
-
 cd ${TDUF_PATH}
 
 echo "Generating database from ${CURRENT_DB_PATH}, to ${GENERATED_DB_PATH} please wait..."
