@@ -14,10 +14,10 @@
     {
       "type": "UPDATE",
       "topic": "CAR_SHOPS",
-      "ref": "624036877",
+      "ref": "612456837",
       "partialValues": [
         {
-          "rank": 12,
+          "rank": 11,
           "value": "1289993715"
         }
       ]
