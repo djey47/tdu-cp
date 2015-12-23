@@ -4,8 +4,8 @@
 
 ## Features
 
-- Includes Patch HD in SD mode. Instructions to disable/upgrade to higher level in readme
-- Unlocks car slots (Work In Progress): Mazda MX5 slot now available (check it out at Japan Imports)
+- Includes Patch HD in SD mode. Instructions to disable/upgrade to higher level in a further release
+- Unlocks car slots (Work In Progress): Mazda MX5 slot now available and more (check them out at Oahu Cars - Honolulu and Honolulu Airport
 
 ## Bugfixes
 
@@ -13,6 +13,8 @@
 ## Known Bugs
 
 - Ferrari F40 gets two identical tuning options (until kit 3) at Forza Tuner spot
+- Unlocked Aston Martin DB7 Volante slot is not drivable with default physics
+- Unlocked Aston Martin DB AR1 slot is not usable with default physics
 
 ## Previous contents
 

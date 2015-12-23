@@ -8,15 +8,103 @@
 
     - *dinput8.dll* [G27 Fix]
 
+- **Euro\Bnk\Frontend\HiRes\Gauges**
+
+    - *A3_V6N.bnk* [unlocked slots]
+    
+    - *A4_TC.bnk* [unlocked slots]
+    
+    - *C6_SNG.bnk* [unlocked slots]
+    
+    - *B55S.bnk* [unlocked slots]
+    
+    - *B61S.bnk* [unlocked slots]
+    
+    - *DB7_Vol.bnk* [unlocked slots]
+
+    - *DBAR1.bnk* [unlocked slots]
+    
+- **Euro\Bnk\Frontend\LoRes\Gauges**
+
+    - *A3_V6N.bnk* [unlocked slots]
+    
+    - *A4_TC.bnk* [unlocked slots]
+    
+    - *C6_SNG.bnk* [unlocked slots]
+    
+    - *B55S.bnk* [unlocked slots]
+    
+    - *B61S.bnk* [unlocked slots]
+    
+    - *DB7_Vol.bnk* [unlocked slots]
+
+    - *DBAR1.bnk* [unlocked slots]
+
 - **Euro\Bnk\Sound\Vehicules**
+
+    - *A3_V6N_audio.bnk* [unlocked slots]
+
+    - *A4_DTM_audio.bnk* [unlocked slots]
+
+    - *B55S_audio.bnk* [unlocked slots]
+
+    - *B61S_audio.bnk* [unlocked slots]
+
+    - *C6_SNG_audio.bnk* [unlocked slots]
+    
+    - *DB7_Vol_audio.bnk* [unlocked slots]
+    
+    - *DBAR1_audio.bnk* [unlocked slots]
 
     - *MX5_audio.bnk* [unlocked slots]
 
+    - *Sixteen_audio.bnk* [unlocked slots]
+
 - **Euro\Bnk\Vehicules**
+
+    - *A3_V6N.bnk* [unlocked slots]
+
+    - *A3_V6N_I.bnk* [unlocked slots]
+
+    - *A4_DTM.bnk* [unlocked slots]
+
+    - *A4_DTM_I.bnk* [unlocked slots]
+
+    - *B55S.bnk* [unlocked slots]
+
+    - *B55S_I.bnk* [unlocked slots]
+
+    - *B61S.bnk* [unlocked slots]
+
+    - *B61S_I.bnk* [unlocked slots]
+
+    - *C6_SNG.bnk* [unlocked slots]
+
+    - *C6_SNG_I.bnk* [unlocked slots]
+    
+    - *DB7_Vol.bnk* [unlocked slots]
+
+    - *DB7_Vol_I.bnk* [unlocked slots]
+    
+    - *DBAR1.bnk* [unlocked slots]
+
+    - *DBAR1_I.bnk* [unlocked slots]
 
     - *MX5.bnk* [unlocked slots]
 
     - *MX5_I.bnk* [unlocked slots]
+
+    - *Sixteen.bnk* [unlocked slots]
+
+    - *Sixteen_I.bnk* [unlocked slots]
+
+- **Euro\Bnk\Vehicules\Rim\Audi**
+
+    - *A4_DTM_F_01.bnk* [unlocked slots]
+
+- **Euro\Bnk\Vehicules\Rim\Brabus**
+
+    - *BRAB5_F_01.bnk* [unlocked slots]
 
 ## UPDATED files
 
@@ -46,6 +134,7 @@
     
             TDU_Brands.xx [new brands and fixes]
             TDU_CarColors.xx [1.68b colors]
+            TDU_CarPhysicsData.xx [unlocked slots]
             TDU_Rims.xx [new rim names and fixes]
         
 - **Euro\Bnk\FrontEnd\AllRes**
