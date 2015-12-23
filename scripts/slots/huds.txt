@@ -1,5 +1,6 @@
 A3_V6N
 A4_TC
+C6_SNG
 B55S
 B61S
 DB7_Vol
