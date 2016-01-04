@@ -40,7 +40,7 @@ echo "-> Creating rim files..."
 cat rims.txt | while read name
 do
    echo "-${name}"
-   PARENT_PATH=`dirname ${BUILD_RIMS_PATH}/${name}`
-   mkdir -p ${PARENT_PATH}
-   cp ${DEFAULT_RIM_PATH}/DEFAULT.bnk ${BUILD_RIMS_PATH}/${name}.bnk
+   PARENT_PATH=`dirname "${BUILD_RIMS_PATH}/${name}"`
+   mkdir -p "${PARENT_PATH}"
+   cp ${DEFAULT_RIM_PATH}/DEFAULT.bnk "${BUILD_RIMS_PATH}/${name}.bnk"
 done
