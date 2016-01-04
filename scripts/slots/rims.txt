@@ -1,2 +1,8 @@
+Aston/DB_AR1_F_01
+Aston/DB7_VOL_F_01
+Audi/A3_V6N_F_01
 Audi/A4_DTM_F_01
 Brabus/BRAB5_F_01
+Brabus/BRAB6_F_01
+Cadillac/Sixteen_F_01
+Chevrolet/C6_SNG_F_01
