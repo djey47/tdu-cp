@@ -1,5 +1,6 @@
 Unlock vehicles/UnlockAM-DB7-VOL.mini.json
 Unlock vehicles/UnlockAM-DB-AR1.mini.json
+Unlock vehicles/UnlockChrysler-CF-Rst.mini.json
 Unlock vehicles/UnlockAudi-A3-V6N.mini.json
 Unlock vehicles/UnlockAudi-A4-DTM.mini.json
 Unlock vehicles/UnlockBrabus-S55.mini.json
