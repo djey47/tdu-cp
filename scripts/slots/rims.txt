@@ -6,3 +6,4 @@ Brabus/BRAB5_F_01
 Brabus/BRAB6_F_01
 Cadillac/Sixteen_F_01
 Chevrolet/C6_SNG_F_01
+Chrysler/SRT6_RstP_F_01

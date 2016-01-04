@@ -5,3 +5,4 @@ B55S
 B61S
 DB7_Vol
 DBAR1
+SRT6_RstP
