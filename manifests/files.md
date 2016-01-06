@@ -23,8 +23,10 @@
     - *DB7_Vol.bnk* [unlocked slots]
 
     - *DBAR1.bnk* [unlocked slots]
+
+    - *SRT6_RstP.bnk* [unlocked slots]
     
-- **Euro\Bnk\Frontend\LoRes\Gauges**
+- **Euro\Bnk\Frontend\LowRes\Gauges**
 
     - *A3_V6N.bnk* [unlocked slots]
     
@@ -39,6 +41,8 @@
     - *DB7_Vol.bnk* [unlocked slots]
 
     - *DBAR1.bnk* [unlocked slots]
+
+    - *SRT6_RstP.bnk* [unlocked slots]
 
 - **Euro\Bnk\Sound\Vehicules**
 
@@ -59,6 +63,8 @@
     - *MX5_audio.bnk* [unlocked slots]
 
     - *Sixteen_audio.bnk* [unlocked slots]
+    
+    - *SRT6_RstP_audio.bnk* [unlocked slots]
 
 - **Euro\Bnk\Vehicules**
 
@@ -98,13 +104,39 @@
 
     - *Sixteen_I.bnk* [unlocked slots]
 
+    - *SRT6_RstP.bnk* [unlocked slots]
+
+    - *SRT6_RstP_I.bnk* [unlocked slots]
+
+- **Euro\Bnk\Vehicules\Rim\Aston**
+
+    - *DB7_VOL_F_01.bnk* [unlocked slots]
+
+    - *DB_AR1_F_01.bnk* [unlocked slots]
+
 - **Euro\Bnk\Vehicules\Rim\Audi**
+
+    - *A3_V6N_F_01.bnk* [unlocked slots]
 
     - *A4_DTM_F_01.bnk* [unlocked slots]
 
 - **Euro\Bnk\Vehicules\Rim\Brabus**
 
     - *BRAB5_F_01.bnk* [unlocked slots]
+
+    - *BRAB6_F_01.bnk* [unlocked slots]
+
+- **Euro\Bnk\Vehicules\Rim\Cadillac**
+
+    - *Sixteen_F_01.bnk* [unlocked slots]
+
+- **Euro\Bnk\Vehicules\Rim\Chevrolet**
+
+    - *C6_SNG_F_01.bnk* [unlocked slots]
+
+- **Euro\Bnk\Vehicules\Rim\Chrysler**
+
+    - *SRT6_RstP_F_01.bnk* [unlocked slots]
 
 ## UPDATED files
 

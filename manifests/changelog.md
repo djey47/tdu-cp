@@ -5,16 +5,27 @@
 ## Features
 
 - Includes Patch HD in SD mode. Instructions to disable/upgrade to higher level in a further release
-- Unlocks car slots (Work In Progress): Mazda MX5 slot now available and more (check them out at Oahu Cars - Honolulu and Honolulu Airport
+- Unlocks car slots (Work In Progress): 10 slots now available (check them out at Oahu Cars - Honolulu and Honolulu Airport): 
+    - Aston Martin DB AR1 Zagato 
+    - Aston Martin DB7 Volante
+    - Audi A3 V6 'N'
+    - Audi A4 DTM
+    - Brabus S55
+    - Brabus S61
+    - Cadillac Sixteen
+    - Chevrolet Corvette C6 'Show N Go'
+    - Chrysler Crossfire Roadster'
+    - Mazda MX5
+     
 
 ## Bugfixes
 
+None this time
 
 ## Known Bugs
 
 - Ferrari F40 gets two identical tuning options (until kit 3) at Forza Tuner spot
-- Unlocked Aston Martin DB7 Volante slot is not drivable with default physics
-- Unlocked Aston Martin DB AR1 slot is not usable with default physics
+
 
 ## Previous contents
 
