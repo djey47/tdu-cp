@@ -7245,7 +7245,7 @@
           },
           {
             "name": "Price_dollar",
-            "rawValue": "0",
+            "rawValue": "150000",
             "fieldRank": 7
           },
           {
@@ -7255,17 +7255,17 @@
           },
           {
             "name": "Car_File_Name",
-            "rawValue": "55138407",
+            "rawValue": "5186567",
             "fieldRank": 9
           },
           {
             "name": "Default_Rims",
-            "rawValue": "1209558365",
+            "rawValue": "3209558365",
             "fieldRank": 10
           },
           {
             "name": "HUD_File_Name",
-            "rawValue": "5436580",
+            "rawValue": "6377580",
             "fieldRank": 11
           },
           {
@@ -7275,12 +7275,12 @@
           },
           {
             "name": "Model_Name",
-            "rawValue": "53338427",
+            "rawValue": "63648407",
             "fieldRank": 13
           },
           {
             "name": "Version_Name",
-            "rawValue": "53338427",
+            "rawValue": "55592366",
             "fieldRank": 14
           },
           {
@@ -7340,37 +7340,37 @@
           },
           {
             "name": "Final_Drive_Ratio",
-            "rawValue": "0",
+            "rawValue": "3,15",
             "fieldRank": 26
           },
           {
             "name": "Gear_ratio_1",
-            "rawValue": "0",
+            "rawValue": "4,17",
             "fieldRank": 27
           },
           {
             "name": "Gear_ratio_2",
-            "rawValue": "0",
+            "rawValue": "2,34",
             "fieldRank": 28
           },
           {
             "name": "Gear_ratio_3",
-            "rawValue": "0",
+            "rawValue": "1,52",
             "fieldRank": 29
           },
           {
             "name": "Gear_ratio_4",
-            "rawValue": "0",
+            "rawValue": "1,14",
             "fieldRank": 30
           },
           {
             "name": "Gear_ratio_5",
-            "rawValue": "0",
+            "rawValue": "0,87",
             "fieldRank": 31
           },
           {
             "name": "Gear_ratio_6",
-            "rawValue": "0",
+            "rawValue": "0,69",
             "fieldRank": 32
           },
           {
@@ -7415,32 +7415,32 @@
           },
           {
             "name": "Width",
-            "rawValue": "0",
+            "rawValue": "1830",
             "fieldRank": 41
           },
           {
             "name": "Lenght",
-            "rawValue": "0",
+            "rawValue": "4692",
             "fieldRank": 42
           },
           {
             "name": "Height",
-            "rawValue": "0",
+            "rawValue": "1270",
             "fieldRank": 43
           },
           {
             "name": "Track_Front",
-            "rawValue": "0",
+            "rawValue": "1536",
             "fieldRank": 44
           },
           {
             "name": "Track_Back",
-            "rawValue": "0",
+            "rawValue": "1540",
             "fieldRank": 45
           },
           {
             "name": "WheelBase",
-            "rawValue": "0",
+            "rawValue": "2591",
             "fieldRank": 46
           },
           {
@@ -7455,7 +7455,7 @@
           },
           {
             "name": "Weight_Kg",
-            "rawValue": "0",
+            "rawValue": "1850",
             "fieldRank": 49
           },
           {
@@ -7470,12 +7470,12 @@
           },
           {
             "name": "Ride_Height_Max_Front",
-            "rawValue": "0",
+            "rawValue": "224",
             "fieldRank": 52
           },
           {
             "name": "Ride_Height_Max_Rear",
-            "rawValue": "0",
+            "rawValue": "248",
             "fieldRank": 53
           },
           {
@@ -7570,7 +7570,7 @@
           },
           {
             "name": "Ignition_RPM",
-            "rawValue": "1",
+            "rawValue": "5500",
             "fieldRank": 72
           },
           {
@@ -7725,12 +7725,12 @@
           },
           {
             "name": "BitField",
-            "rawValue": "76",
+            "rawValue": "77",
             "switchValues": [
               {
                 "index": 1,
                 "name": "Vehicle slot enabled",
-                "enabled": false
+                "enabled": true
               },
               {
                 "index": 2,
@@ -7812,17 +7812,17 @@
           },
           {
             "name": "Car_File_Name",
-            "rawValue": "55138407",
+            "rawValue": "5286567",
             "fieldRank": 9
           },
           {
             "name": "Default_Rims",
-            "rawValue": "1209558365",
+            "rawValue": "2209558365",
             "fieldRank": 10
           },
           {
             "name": "HUD_File_Name",
-            "rawValue": "5436580",
+            "rawValue": "6277580",
             "fieldRank": 11
           },
           {
@@ -7832,12 +7832,12 @@
           },
           {
             "name": "Model_Name",
-            "rawValue": "53338427",
+            "rawValue": "61648407",
             "fieldRank": 13
           },
           {
             "name": "Version_Name",
-            "rawValue": "53338427",
+            "rawValue": "55638427",
             "fieldRank": 14
           },
           {
@@ -7897,37 +7897,37 @@
           },
           {
             "name": "Final_Drive_Ratio",
-            "rawValue": "0",
+            "rawValue": "3,15",
             "fieldRank": 26
           },
           {
             "name": "Gear_ratio_1",
-            "rawValue": "0",
+            "rawValue": "4,17",
             "fieldRank": 27
           },
           {
             "name": "Gear_ratio_2",
-            "rawValue": "0",
+            "rawValue": "2,34",
             "fieldRank": 28
           },
           {
             "name": "Gear_ratio_3",
-            "rawValue": "0",
+            "rawValue": "1,52",
             "fieldRank": 29
           },
           {
             "name": "Gear_ratio_4",
-            "rawValue": "0",
+            "rawValue": "1,14",
             "fieldRank": 30
           },
           {
             "name": "Gear_ratio_5",
-            "rawValue": "0",
+            "rawValue": "0,87",
             "fieldRank": 31
           },
           {
             "name": "Gear_ratio_6",
-            "rawValue": "0",
+            "rawValue": "0,69",
             "fieldRank": 32
           },
           {
@@ -8027,12 +8027,12 @@
           },
           {
             "name": "Ride_Height_Max_Front",
-            "rawValue": "0",
+            "rawValue": "224",
             "fieldRank": 52
           },
           {
             "name": "Ride_Height_Max_Rear",
-            "rawValue": "0",
+            "rawValue": "248",
             "fieldRank": 53
           },
           {
@@ -8127,7 +8127,7 @@
           },
           {
             "name": "Ignition_RPM",
-            "rawValue": "0",
+            "rawValue": "5500",
             "fieldRank": 72
           },
           {
@@ -8282,12 +8282,12 @@
           },
           {
             "name": "BitField",
-            "rawValue": "76",
+            "rawValue": "77",
             "switchValues": [
               {
                 "index": 1,
                 "name": "Vehicle slot enabled",
-                "enabled": false
+                "enabled": true
               },
               {
                 "index": 2,
@@ -11067,12 +11067,12 @@
           },
           {
             "name": "BitField",
-            "rawValue": "110",
+            "rawValue": "79",
             "switchValues": [
               {
                 "index": 1,
                 "name": "Vehicle slot enabled",
-                "enabled": false
+                "enabled": true
               },
               {
                 "index": 2,
@@ -11097,7 +11097,7 @@
               {
                 "index": 6,
                 "name": "Add-on key required",
-                "enabled": true
+                "enabled": false
               },
               {
                 "index": 7,
@@ -12273,12 +12273,12 @@
           },
           {
             "name": "Default_Rims",
-            "rawValue": "1209547961",
+            "rawValue": "4209558365",
             "fieldRank": 10
           },
           {
             "name": "HUD_File_Name",
-            "rawValue": "5376567",
+            "rawValue": "5266580",
             "fieldRank": 11
           },
           {
@@ -12293,7 +12293,7 @@
           },
           {
             "name": "Version_Name",
-            "rawValue": "62882366",
+            "rawValue": "63882366",
             "fieldRank": 14
           },
           {
@@ -12738,7 +12738,7 @@
           },
           {
             "name": "BitField",
-            "rawValue": "111",
+            "rawValue": "79",
             "switchValues": [
               {
                 "index": 1,
@@ -12768,7 +12768,7 @@
               {
                 "index": 6,
                 "name": "Add-on key required",
-                "enabled": true
+                "enabled": false
               },
               {
                 "index": 7,
@@ -14496,17 +14496,17 @@
           },
           {
             "name": "Car_File_Name",
-            "rawValue": "6046567",
+            "rawValue": "5246567",
             "fieldRank": 9
           },
           {
             "name": "Default_Rims",
-            "rawValue": "733974893",
+            "rawValue": "5209558365",
             "fieldRank": 10
           },
           {
             "name": "HUD_File_Name",
-            "rawValue": "6046567",
+            "rawValue": "5256580",
             "fieldRank": 11
           },
           {
@@ -14516,12 +14516,12 @@
           },
           {
             "name": "Model_Name",
-            "rawValue": "53338427",
+            "rawValue": "57738427",
             "fieldRank": 13
           },
           {
             "name": "Version_Name",
-            "rawValue": "53338427",
+            "rawValue": "58738427",
             "fieldRank": 14
           },
           {
@@ -14966,12 +14966,12 @@
           },
           {
             "name": "BitField",
-            "rawValue": "110",
+            "rawValue": "79",
             "switchValues": [
               {
                 "index": 1,
                 "name": "Vehicle slot enabled",
-                "enabled": false
+                "enabled": true
               },
               {
                 "index": 2,
@@ -14996,7 +14996,7 @@
               {
                 "index": 6,
                 "name": "Add-on key required",
-                "enabled": true
+                "enabled": false
               },
               {
                 "index": 7,
@@ -15053,7 +15053,7 @@
           },
           {
             "name": "Car_File_Name",
-            "rawValue": "6046567",
+            "rawValue": "5146567",
             "fieldRank": 9
           },
           {
@@ -15063,7 +15063,7 @@
           },
           {
             "name": "HUD_File_Name",
-            "rawValue": "6046567",
+            "rawValue": "5256580",
             "fieldRank": 11
           },
           {
@@ -15073,12 +15073,12 @@
           },
           {
             "name": "Model_Name",
-            "rawValue": "53338427",
+            "rawValue": "57738427",
             "fieldRank": 13
           },
           {
             "name": "Version_Name",
-            "rawValue": "53338427",
+            "rawValue": "59738427",
             "fieldRank": 14
           },
           {
@@ -15523,12 +15523,12 @@
           },
           {
             "name": "BitField",
-            "rawValue": "110",
+            "rawValue": "79",
             "switchValues": [
               {
                 "index": 1,
                 "name": "Vehicle slot enabled",
-                "enabled": false
+                "enabled": true
               },
               {
                 "index": 2,
@@ -15553,7 +15553,7 @@
               {
                 "index": 6,
                 "name": "Add-on key required",
-                "enabled": true
+                "enabled": false
               },
               {
                 "index": 7,
@@ -17194,12 +17194,12 @@
           },
           {
             "name": "BitField",
-            "rawValue": "110",
+            "rawValue": "79",
             "switchValues": [
               {
                 "index": 1,
                 "name": "Vehicle slot enabled",
-                "enabled": false
+                "enabled": true
               },
               {
                 "index": 2,
@@ -17224,7 +17224,7 @@
               {
                 "index": 6,
                 "name": "Add-on key required",
-                "enabled": true
+                "enabled": false
               },
               {
                 "index": 7,
@@ -18952,17 +18952,17 @@
           },
           {
             "name": "Car_File_Name",
-            "rawValue": "57338407",
+            "rawValue": "6337567",
             "fieldRank": 9
           },
           {
             "name": "Default_Rims",
-            "rawValue": "1209558365",
+            "rawValue": "6209558365",
             "fieldRank": 10
           },
           {
             "name": "HUD_File_Name",
-            "rawValue": "5936580",
+            "rawValue": "6426580",
             "fieldRank": 11
           },
           {
@@ -18972,12 +18972,12 @@
           },
           {
             "name": "Model_Name",
-            "rawValue": "53338427",
+            "rawValue": "63283667",
             "fieldRank": 13
           },
           {
             "name": "Version_Name",
-            "rawValue": "53338427",
+            "rawValue": "63592366",
             "fieldRank": 14
           },
           {
@@ -19422,12 +19422,12 @@
           },
           {
             "name": "BitField",
-            "rawValue": "110",
+            "rawValue": "79",
             "switchValues": [
               {
                 "index": 1,
                 "name": "Vehicle slot enabled",
-                "enabled": false
+                "enabled": true
               },
               {
                 "index": 2,
@@ -19452,7 +19452,7 @@
               {
                 "index": 6,
                 "name": "Add-on key required",
-                "enabled": true
+                "enabled": false
               },
               {
                 "index": 7,
@@ -26193,17 +26193,17 @@
           },
           {
             "name": "Car_File_Name",
-            "rawValue": "6287567",
+            "rawValue": "6387567",
             "fieldRank": 9
           },
           {
             "name": "Default_Rims",
-            "rawValue": "1176321276",
+            "rawValue": "7209558365",
             "fieldRank": 10
           },
           {
             "name": "HUD_File_Name",
-            "rawValue": "6287567",
+            "rawValue": "6526580",
             "fieldRank": 11
           },
           {
@@ -26218,7 +26218,7 @@
           },
           {
             "name": "Version_Name",
-            "rawValue": "57603667",
+            "rawValue": "52603667",
             "fieldRank": 14
           },
           {
@@ -26663,12 +26663,12 @@
           },
           {
             "name": "BitField",
-            "rawValue": "110",
+            "rawValue": "79",
             "switchValues": [
               {
                 "index": 1,
                 "name": "Vehicle slot enabled",
-                "enabled": false
+                "enabled": true
               },
               {
                 "index": 2,
@@ -26693,7 +26693,7 @@
               {
                 "index": 6,
                 "name": "Add-on key required",
-                "enabled": true
+                "enabled": false
               },
               {
                 "index": 7,
@@ -62975,12 +62975,12 @@
           },
           {
             "name": "Model_Name",
-            "rawValue": "53338427",
+            "rawValue": "58833407",
             "fieldRank": 13
           },
           {
             "name": "Version_Name",
-            "rawValue": "53338427",
+            "rawValue": "61293667",
             "fieldRank": 14
           },
           {
@@ -63425,12 +63425,12 @@
           },
           {
             "name": "BitField",
-            "rawValue": "110",
+            "rawValue": "79",
             "switchValues": [
               {
                 "index": 1,
                 "name": "Vehicle slot enabled",
-                "enabled": false
+                "enabled": true
               },
               {
                 "index": 2,
@@ -63455,7 +63455,7 @@
               {
                 "index": 6,
                 "name": "Add-on key required",
-                "enabled": true
+                "enabled": false
               },
               {
                 "index": 7,
@@ -124612,6 +124612,86 @@
         {
           "value": "3.2 V6 24v Sport Technical Kit",
           "ref": "81082366"
+        },
+        {
+          "value": "DB7_Vol",
+          "ref": "5286567"
+        },
+        {
+          "value": "DB7_Vol",
+          "ref": "6277580"
+        },
+        {
+          "value": "DBAR1",
+          "ref": "5186567"
+        },
+        {
+          "value": "DBAR1",
+          "ref": "6377580"
+        },
+        {
+          "value": "DBAR1",
+          "ref": "53138407"
+        },
+        {
+          "value": "DB AR1",
+          "ref": "63648407"
+        },
+        {
+          "value": "SRT6 Roadster Prime",
+          "ref": "52603667"
+        },
+        {
+          "value": "SRT6_RstP",
+          "ref": "6526580"
+        },
+        {
+          "value": "SRT6_RstP",
+          "ref": "6387567"
+        },
+        {
+          "value": "A3_V6N",
+          "ref": "5266580"
+        },
+        {
+          "value": "V6 'N'",
+          "ref": "63882366"
+        },
+        {
+          "value": "B55S",
+          "ref": "5146567"
+        },
+        {
+          "value": "B55S",
+          "ref": "5156580"
+        },
+        {
+          "value": "5.5",
+          "ref": "59738427"
+        },
+        {
+          "value": "B61S",
+          "ref": "5246567"
+        },
+        {
+          "value": "B61S",
+          "ref": "5256580"
+        },
+        {
+          "value": "6.1",
+          "ref": "58738427"
+        },
+        {
+          "value": "C6_SNG",
+          "ref": "6337567"
+        },
+        {
+          "value": "C6_SNG",
+          "ref": "6426580"
+        },
+        {
+          "value": "C6™ 'ShowNGo'",
+          "ref": "63592366"
         }
       ],
       "version": "1,2",
@@ -129503,6 +129583,86 @@
         {
           "value": "3.2 V6 24v Sport Technical Kit",
           "ref": "81082366"
+        },
+        {
+          "value": "DB7_Vol",
+          "ref": "5286567"
+        },
+        {
+          "value": "DB7_Vol",
+          "ref": "6277580"
+        },
+        {
+          "value": "DBAR1",
+          "ref": "5186567"
+        },
+        {
+          "value": "DBAR1",
+          "ref": "6377580"
+        },
+        {
+          "value": "DBAR1",
+          "ref": "53138407"
+        },
+        {
+          "value": "DB AR1",
+          "ref": "63648407"
+        },
+        {
+          "value": "SRT6 Roadster Prime",
+          "ref": "52603667"
+        },
+        {
+          "value": "SRT6_RstP",
+          "ref": "6526580"
+        },
+        {
+          "value": "SRT6_RstP",
+          "ref": "6387567"
+        },
+        {
+          "value": "A3_V6N",
+          "ref": "5266580"
+        },
+        {
+          "value": "V6 'N'",
+          "ref": "63882366"
+        },
+        {
+          "value": "B55S",
+          "ref": "5146567"
+        },
+        {
+          "value": "B55S",
+          "ref": "5156580"
+        },
+        {
+          "value": "5.5",
+          "ref": "59738427"
+        },
+        {
+          "value": "B61S",
+          "ref": "5246567"
+        },
+        {
+          "value": "B61S",
+          "ref": "5256580"
+        },
+        {
+          "value": "6.1",
+          "ref": "58738427"
+        },
+        {
+          "value": "C6_SNG",
+          "ref": "6337567"
+        },
+        {
+          "value": "C6_SNG",
+          "ref": "6426580"
+        },
+        {
+          "value": "C6™ 'ShowNGo'",
+          "ref": "63592366"
         }
       ],
       "version": "1,2",
@@ -134394,6 +134554,86 @@
         {
           "value": "3.2 V6 24v Sport Technical Kit",
           "ref": "81082366"
+        },
+        {
+          "value": "DB7_Vol",
+          "ref": "5286567"
+        },
+        {
+          "value": "DB7_Vol",
+          "ref": "6277580"
+        },
+        {
+          "value": "DBAR1",
+          "ref": "5186567"
+        },
+        {
+          "value": "DBAR1",
+          "ref": "6377580"
+        },
+        {
+          "value": "DBAR1",
+          "ref": "53138407"
+        },
+        {
+          "value": "DB AR1",
+          "ref": "63648407"
+        },
+        {
+          "value": "SRT6 Roadster Prime",
+          "ref": "52603667"
+        },
+        {
+          "value": "SRT6_RstP",
+          "ref": "6526580"
+        },
+        {
+          "value": "SRT6_RstP",
+          "ref": "6387567"
+        },
+        {
+          "value": "A3_V6N",
+          "ref": "5266580"
+        },
+        {
+          "value": "V6 'N'",
+          "ref": "63882366"
+        },
+        {
+          "value": "B55S",
+          "ref": "5146567"
+        },
+        {
+          "value": "B55S",
+          "ref": "5156580"
+        },
+        {
+          "value": "5.5",
+          "ref": "59738427"
+        },
+        {
+          "value": "B61S",
+          "ref": "5246567"
+        },
+        {
+          "value": "B61S",
+          "ref": "5256580"
+        },
+        {
+          "value": "6.1",
+          "ref": "58738427"
+        },
+        {
+          "value": "C6_SNG",
+          "ref": "6337567"
+        },
+        {
+          "value": "C6_SNG",
+          "ref": "6426580"
+        },
+        {
+          "value": "C6™ 'ShowNGo'",
+          "ref": "63592366"
         }
       ],
       "version": "1,2",
@@ -139285,6 +139525,86 @@
         {
           "value": "3.2 V6 24v Sport Technical Kit",
           "ref": "81082366"
+        },
+        {
+          "value": "DB7_Vol",
+          "ref": "5286567"
+        },
+        {
+          "value": "DB7_Vol",
+          "ref": "6277580"
+        },
+        {
+          "value": "DBAR1",
+          "ref": "5186567"
+        },
+        {
+          "value": "DBAR1",
+          "ref": "6377580"
+        },
+        {
+          "value": "DBAR1",
+          "ref": "53138407"
+        },
+        {
+          "value": "DB AR1",
+          "ref": "63648407"
+        },
+        {
+          "value": "SRT6 Roadster Prime",
+          "ref": "52603667"
+        },
+        {
+          "value": "SRT6_RstP",
+          "ref": "6526580"
+        },
+        {
+          "value": "SRT6_RstP",
+          "ref": "6387567"
+        },
+        {
+          "value": "A3_V6N",
+          "ref": "5266580"
+        },
+        {
+          "value": "V6 'N'",
+          "ref": "63882366"
+        },
+        {
+          "value": "B55S",
+          "ref": "5146567"
+        },
+        {
+          "value": "B55S",
+          "ref": "5156580"
+        },
+        {
+          "value": "5.5",
+          "ref": "59738427"
+        },
+        {
+          "value": "B61S",
+          "ref": "5246567"
+        },
+        {
+          "value": "B61S",
+          "ref": "5256580"
+        },
+        {
+          "value": "6.1",
+          "ref": "58738427"
+        },
+        {
+          "value": "C6_SNG",
+          "ref": "6337567"
+        },
+        {
+          "value": "C6_SNG",
+          "ref": "6426580"
+        },
+        {
+          "value": "C6™ 'ShowNGo'",
+          "ref": "63592366"
         }
       ],
       "version": "1,2",
@@ -144176,6 +144496,86 @@
         {
           "value": "3.2 V6 24v Sport Technical Kit",
           "ref": "81082366"
+        },
+        {
+          "value": "DB7_Vol",
+          "ref": "5286567"
+        },
+        {
+          "value": "DB7_Vol",
+          "ref": "6277580"
+        },
+        {
+          "value": "DBAR1",
+          "ref": "5186567"
+        },
+        {
+          "value": "DBAR1",
+          "ref": "6377580"
+        },
+        {
+          "value": "DBAR1",
+          "ref": "53138407"
+        },
+        {
+          "value": "DB AR1",
+          "ref": "63648407"
+        },
+        {
+          "value": "SRT6 Roadster Prime",
+          "ref": "52603667"
+        },
+        {
+          "value": "SRT6_RstP",
+          "ref": "6526580"
+        },
+        {
+          "value": "SRT6_RstP",
+          "ref": "6387567"
+        },
+        {
+          "value": "A3_V6N",
+          "ref": "5266580"
+        },
+        {
+          "value": "V6 'N'",
+          "ref": "63882366"
+        },
+        {
+          "value": "B55S",
+          "ref": "5146567"
+        },
+        {
+          "value": "B55S",
+          "ref": "5156580"
+        },
+        {
+          "value": "5.5",
+          "ref": "59738427"
+        },
+        {
+          "value": "B61S",
+          "ref": "5246567"
+        },
+        {
+          "value": "B61S",
+          "ref": "5256580"
+        },
+        {
+          "value": "6.1",
+          "ref": "58738427"
+        },
+        {
+          "value": "C6_SNG",
+          "ref": "6337567"
+        },
+        {
+          "value": "C6_SNG",
+          "ref": "6426580"
+        },
+        {
+          "value": "C6™ 'ShowNGo'",
+          "ref": "63592366"
         }
       ],
       "version": "1,2",
@@ -149067,6 +149467,86 @@
         {
           "value": "3.2 V6 24v Sport Technical Kit",
           "ref": "81082366"
+        },
+        {
+          "value": "DB7_Vol",
+          "ref": "5286567"
+        },
+        {
+          "value": "DB7_Vol",
+          "ref": "6277580"
+        },
+        {
+          "value": "DBAR1",
+          "ref": "5186567"
+        },
+        {
+          "value": "DBAR1",
+          "ref": "6377580"
+        },
+        {
+          "value": "DBAR1",
+          "ref": "53138407"
+        },
+        {
+          "value": "DB AR1",
+          "ref": "63648407"
+        },
+        {
+          "value": "SRT6 Roadster Prime",
+          "ref": "52603667"
+        },
+        {
+          "value": "SRT6_RstP",
+          "ref": "6526580"
+        },
+        {
+          "value": "SRT6_RstP",
+          "ref": "6387567"
+        },
+        {
+          "value": "A3_V6N",
+          "ref": "5266580"
+        },
+        {
+          "value": "V6 'N'",
+          "ref": "63882366"
+        },
+        {
+          "value": "B55S",
+          "ref": "5146567"
+        },
+        {
+          "value": "B55S",
+          "ref": "5156580"
+        },
+        {
+          "value": "5.5",
+          "ref": "59738427"
+        },
+        {
+          "value": "B61S",
+          "ref": "5246567"
+        },
+        {
+          "value": "B61S",
+          "ref": "5256580"
+        },
+        {
+          "value": "6.1",
+          "ref": "58738427"
+        },
+        {
+          "value": "C6_SNG",
+          "ref": "6337567"
+        },
+        {
+          "value": "C6_SNG",
+          "ref": "6426580"
+        },
+        {
+          "value": "C6™ 'ShowNGo'",
+          "ref": "63592366"
         }
       ],
       "version": "1,2",
@@ -153958,6 +154438,86 @@
         {
           "value": "3.2 V6 24v Sport Technical Kit",
           "ref": "81082366"
+        },
+        {
+          "value": "DB7_Vol",
+          "ref": "5286567"
+        },
+        {
+          "value": "DB7_Vol",
+          "ref": "6277580"
+        },
+        {
+          "value": "DBAR1",
+          "ref": "5186567"
+        },
+        {
+          "value": "DBAR1",
+          "ref": "6377580"
+        },
+        {
+          "value": "DBAR1",
+          "ref": "53138407"
+        },
+        {
+          "value": "DB AR1",
+          "ref": "63648407"
+        },
+        {
+          "value": "SRT6 Roadster Prime",
+          "ref": "52603667"
+        },
+        {
+          "value": "SRT6_RstP",
+          "ref": "6526580"
+        },
+        {
+          "value": "SRT6_RstP",
+          "ref": "6387567"
+        },
+        {
+          "value": "A3_V6N",
+          "ref": "5266580"
+        },
+        {
+          "value": "V6 'N'",
+          "ref": "63882366"
+        },
+        {
+          "value": "B55S",
+          "ref": "5146567"
+        },
+        {
+          "value": "B55S",
+          "ref": "5156580"
+        },
+        {
+          "value": "5.5",
+          "ref": "59738427"
+        },
+        {
+          "value": "B61S",
+          "ref": "5246567"
+        },
+        {
+          "value": "B61S",
+          "ref": "5256580"
+        },
+        {
+          "value": "6.1",
+          "ref": "58738427"
+        },
+        {
+          "value": "C6_SNG",
+          "ref": "6337567"
+        },
+        {
+          "value": "C6_SNG",
+          "ref": "6426580"
+        },
+        {
+          "value": "C6™ 'ShowNGo'",
+          "ref": "63592366"
         }
       ],
       "version": "1,2",
@@ -158849,6 +159409,86 @@
         {
           "value": "3.2 V6 24v Sport Technical Kit",
           "ref": "81082366"
+        },
+        {
+          "value": "DB7_Vol",
+          "ref": "5286567"
+        },
+        {
+          "value": "DB7_Vol",
+          "ref": "6277580"
+        },
+        {
+          "value": "DBAR1",
+          "ref": "5186567"
+        },
+        {
+          "value": "DBAR1",
+          "ref": "6377580"
+        },
+        {
+          "value": "DBAR1",
+          "ref": "53138407"
+        },
+        {
+          "value": "DB AR1",
+          "ref": "63648407"
+        },
+        {
+          "value": "SRT6 Roadster Prime",
+          "ref": "52603667"
+        },
+        {
+          "value": "SRT6_RstP",
+          "ref": "6526580"
+        },
+        {
+          "value": "SRT6_RstP",
+          "ref": "6387567"
+        },
+        {
+          "value": "A3_V6N",
+          "ref": "5266580"
+        },
+        {
+          "value": "V6 'N'",
+          "ref": "63882366"
+        },
+        {
+          "value": "B55S",
+          "ref": "5146567"
+        },
+        {
+          "value": "B55S",
+          "ref": "5156580"
+        },
+        {
+          "value": "5.5",
+          "ref": "59738427"
+        },
+        {
+          "value": "B61S",
+          "ref": "5246567"
+        },
+        {
+          "value": "B61S",
+          "ref": "5256580"
+        },
+        {
+          "value": "6.1",
+          "ref": "58738427"
+        },
+        {
+          "value": "C6_SNG",
+          "ref": "6337567"
+        },
+        {
+          "value": "C6_SNG",
+          "ref": "6426580"
+        },
+        {
+          "value": "C6™ 'ShowNGo'",
+          "ref": "63592366"
         }
       ],
       "version": "1,2",
