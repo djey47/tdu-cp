@@ -1045,7 +1045,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": false
               },
               {
@@ -1602,7 +1602,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -2159,7 +2159,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -2716,7 +2716,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -3273,7 +3273,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -3830,7 +3830,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -4387,7 +4387,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -4944,7 +4944,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -5501,7 +5501,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -6058,7 +6058,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -6615,7 +6615,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -7172,7 +7172,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -7729,7 +7729,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": false
               },
               {
@@ -8286,7 +8286,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": false
               },
               {
@@ -8843,7 +8843,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -9400,7 +9400,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -9957,7 +9957,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -10514,7 +10514,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -11071,7 +11071,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": false
               },
               {
@@ -11628,7 +11628,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -12185,7 +12185,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -12742,7 +12742,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -13299,7 +13299,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -13856,7 +13856,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -14413,7 +14413,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -14970,7 +14970,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": false
               },
               {
@@ -15527,7 +15527,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": false
               },
               {
@@ -16084,7 +16084,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -16641,7 +16641,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -17198,7 +17198,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": false
               },
               {
@@ -17755,7 +17755,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -18312,7 +18312,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -18869,7 +18869,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -19426,7 +19426,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": false
               },
               {
@@ -19983,7 +19983,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -20540,7 +20540,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -21097,7 +21097,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -21654,7 +21654,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -22211,7 +22211,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": false
               },
               {
@@ -22768,7 +22768,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -23325,7 +23325,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -23882,7 +23882,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -24439,7 +24439,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -24996,7 +24996,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -25553,7 +25553,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -26110,7 +26110,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -26667,7 +26667,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": false
               },
               {
@@ -27224,7 +27224,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -27781,7 +27781,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -28338,7 +28338,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -28895,7 +28895,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -29452,7 +29452,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -30009,7 +30009,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -30566,7 +30566,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -31123,7 +31123,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -31680,7 +31680,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": false
               },
               {
@@ -32237,7 +32237,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -32794,7 +32794,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -33351,7 +33351,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -33908,7 +33908,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -34465,7 +34465,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -35022,7 +35022,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": false
               },
               {
@@ -35579,7 +35579,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -36136,7 +36136,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -36693,7 +36693,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": false
               },
               {
@@ -37250,7 +37250,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -37807,7 +37807,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -38364,7 +38364,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -38921,7 +38921,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -39478,7 +39478,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -40035,7 +40035,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -40592,7 +40592,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -41149,7 +41149,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -41706,7 +41706,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -42263,7 +42263,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -42820,7 +42820,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -43377,7 +43377,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": false
               },
               {
@@ -43934,7 +43934,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": false
               },
               {
@@ -44491,7 +44491,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": false
               },
               {
@@ -45048,7 +45048,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -45605,7 +45605,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -46162,7 +46162,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -46719,7 +46719,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": false
               },
               {
@@ -47276,7 +47276,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -47833,7 +47833,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -48390,7 +48390,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -48947,7 +48947,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -49504,7 +49504,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -50061,7 +50061,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -50618,7 +50618,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -51175,7 +51175,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": false
               },
               {
@@ -51732,7 +51732,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -52289,7 +52289,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -52846,7 +52846,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -53403,7 +53403,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -53960,7 +53960,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -54517,7 +54517,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -55074,7 +55074,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -55631,7 +55631,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -56188,7 +56188,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -56745,7 +56745,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -57302,7 +57302,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -57859,7 +57859,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -58416,7 +58416,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -58973,7 +58973,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -59530,7 +59530,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -60087,7 +60087,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": false
               },
               {
@@ -60644,7 +60644,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -61201,7 +61201,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -61758,7 +61758,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -62315,7 +62315,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -62872,7 +62872,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": false
               },
               {
@@ -63429,7 +63429,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": false
               },
               {
@@ -63986,7 +63986,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -64543,7 +64543,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -65100,7 +65100,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -65657,7 +65657,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -66214,7 +66214,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -66771,7 +66771,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -67328,7 +67328,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -67885,7 +67885,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -68442,7 +68442,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -68999,7 +68999,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -69556,7 +69556,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -70113,7 +70113,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -70670,7 +70670,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -71227,7 +71227,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -71784,7 +71784,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -72341,7 +72341,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -72898,7 +72898,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": false
               },
               {
@@ -73455,7 +73455,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -74012,7 +74012,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -74569,7 +74569,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -75126,7 +75126,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -75683,7 +75683,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -76240,7 +76240,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -76797,7 +76797,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -77354,7 +77354,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -77911,7 +77911,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": false
               },
               {
@@ -78468,7 +78468,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": false
               },
               {
@@ -79025,7 +79025,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -79582,7 +79582,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -80139,7 +80139,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -80696,7 +80696,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -81253,7 +81253,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -81810,7 +81810,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -82367,7 +82367,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -82924,7 +82924,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -83481,7 +83481,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -84038,7 +84038,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -84595,7 +84595,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -85152,7 +85152,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -85709,7 +85709,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -86266,7 +86266,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -86823,7 +86823,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -87380,7 +87380,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -87937,7 +87937,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -88494,7 +88494,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -89051,7 +89051,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -89608,7 +89608,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -90165,7 +90165,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -90722,7 +90722,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -91279,7 +91279,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -91836,7 +91836,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -92393,7 +92393,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -92950,7 +92950,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": false
               },
               {
@@ -93507,7 +93507,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -94064,7 +94064,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -94621,7 +94621,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -95178,7 +95178,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -95735,7 +95735,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -96292,7 +96292,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -96849,7 +96849,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -97406,7 +97406,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -97963,7 +97963,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -98520,7 +98520,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": false
               },
               {
@@ -99077,7 +99077,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -99634,7 +99634,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -100191,7 +100191,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -100748,7 +100748,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -101305,7 +101305,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -101862,7 +101862,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -102419,7 +102419,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -102976,7 +102976,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -103533,7 +103533,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -104090,7 +104090,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -104647,7 +104647,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -105204,7 +105204,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -105761,7 +105761,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -106318,7 +106318,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -106875,7 +106875,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -107432,7 +107432,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -107989,7 +107989,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -108546,7 +108546,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -109103,7 +109103,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -109660,7 +109660,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -110217,7 +110217,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -110774,7 +110774,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -111331,7 +111331,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -111888,7 +111888,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -112445,7 +112445,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -113002,7 +113002,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -113559,7 +113559,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -114116,7 +114116,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -114673,7 +114673,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -115230,7 +115230,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -115787,7 +115787,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -116344,7 +116344,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -116901,7 +116901,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -117458,7 +117458,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -118015,7 +118015,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -118572,7 +118572,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
@@ -119129,7 +119129,7 @@
             "switchValues": [
               {
                 "index": 1,
-                "name": "?",
+                "name": "Vehicle slot enabled",
                 "enabled": true
               },
               {
