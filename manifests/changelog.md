@@ -4,19 +4,7 @@
 
 ## Features
 
-- Includes Patch HD in SD mode. Instructions to disable/upgrade to higher level in a further release
-- Unlocks car slots (Work In Progress): 10 slots now available (check them out at Oahu Cars - Honolulu and Honolulu Airport): 
-    - Aston Martin DB AR1 Zagato 
-    - Aston Martin DB7 Volante
-    - Audi A3 V6 'N'
-    - Audi A4 DTM
-    - Brabus S55
-    - Brabus S61
-    - Cadillac Sixteen
-    - Chevrolet Corvette C6 'Show N Go'
-    - Chrysler Crossfire Roadster'
-    - Mazda MX5
-     
+
 
 ## Bugfixes
 
@@ -32,14 +20,28 @@ None this time
 ### Features
 
 - Includes Community Patch 1.68b cameras
+- Includes Patch HD in SD mode. Instructions to disable/upgrade to higher level in a further release
+- Includes official MagicMap
+- Maximize number of vehicles on every car dealer
+- Unlocks tuning kits for Ferrari F40
 - Special tuned cars available in tuners (Alfa GT SP, ...)
 - Provides new rim names for many mods (Bugatti Atlantic, Facel Vega...)
 - Unlocks Car Paint Deluxe for all cars
-- Unlocks tuning kits for Ferrari F40
 - Adds new bots driving megapack vehicles
-- Maximize number of vehicle slots on every car dealer
-- Includes official MagicMap
 - Gives bike-clothes for cars, car-clothes for bikes
+- Unlocks car slots (Work In Progress): 10 slots now available (check them out at Oahu Cars - Honolulu and Honolulu Airport): 
+    - Aston Martin DB AR1 Zagato 
+    - Aston Martin DB7 Volante
+    - Audi A3 V6 'N'
+    - Audi A4 DTM
+    - Brabus S55
+    - Brabus S61
+    - Cadillac Sixteen
+    - Chevrolet Corvette C6 'Show N Go'
+    - Chrysler Crossfire Roadster'
+    - Mazda MX5
+     
+
 
 ### Bugfixes
 
