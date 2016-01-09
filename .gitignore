@@ -4,4 +4,5 @@
 /resources/private/
 /workspace/*/private/
 /workspace/releases/*.zip
+/workspace/releases/*.7z
 /database/current/original-*.bnk
