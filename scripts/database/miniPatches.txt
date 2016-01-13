@@ -1,11 +1,2 @@
-Unlock vehicles/UnlockAM-DB7-VOL.mini.json
-Unlock vehicles/UnlockAM-DB-AR1.mini.json
-Unlock vehicles/UnlockChrysler-CF-Rst.mini.json
-Unlock vehicles/UnlockAudi-A3-V6N.mini.json
-Unlock vehicles/UnlockAudi-A4-DTM.mini.json
-Unlock vehicles/UnlockBrabus-S55.mini.json
-Unlock vehicles/UnlockBrabus-S61-Capa.mini.json
-Unlock vehicles/UnlockCadillac-Sixteen.mini.json
-Unlock vehicles/UnlockChevrolet-Corvette-C6SNG.mini.json
-Unlock vehicles/UnlockMazdaMX5.mini.json
-Unlock vehicles/VehicleDealers.mini.json
+Unlock vehicles/UnlockDino-246-GTS.mini.json
+
