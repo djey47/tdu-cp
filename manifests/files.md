@@ -26,6 +26,8 @@
 
     - *DBAR1.bnk* [unlocked slots]
 
+    - *F40_P.bnk* [unlocked slots]
+
     - *SRT6_RstP.bnk* [unlocked slots]
     
 - **Euro\Bnk\Frontend\LowRes\Gauges**
@@ -46,6 +48,8 @@
 
     - *DBAR1.bnk* [unlocked slots]
 
+    - *F40_P.bnk* [unlocked slots]
+
     - *SRT6_RstP.bnk* [unlocked slots]
 
 - **Euro\Bnk\Sound\Vehicules**
@@ -65,6 +69,8 @@
     - *DB7_Vol_audio.bnk* [unlocked slots]
     
     - *DBAR1_audio.bnk* [unlocked slots]
+
+    - *F40_P_audio.bnk* [unlocked slots]
 
     - *MX5_audio.bnk* [unlocked slots]
 
@@ -105,6 +111,10 @@
     - *DBAR1.bnk* [unlocked slots]
 
     - *DBAR1_I.bnk* [unlocked slots]
+
+    - *F40_P.bnk* [unlocked slots]
+    
+    - *F40_P_I.bnk* [unlocked slots]
 
     - *MX5.bnk* [unlocked slots]
 
@@ -152,6 +162,8 @@
 
     - *246_GTS_F_01.bnk* [unlocked slots]
 
+    - *F40_P_F_01.bnk* [unlocked slots]
+
 ## UPDATED files
 
 - **Euro\Bnk**
@@ -170,11 +182,12 @@
             TDU_Bots.db [bots with megapack cars]
             TDU_Brands.db [new brands and fixes][unlocked slots]
             TDU_CarColors.db [1.68b colors][dealer slots update]
-            TDU_CarPacks.db [F40 tuning kits]
+            TDU_CarPacks.db [F40 tuning kits][unlocked slots]
             TDU_CarRims.db [F40 tuning kits][Nismo Rim fix]
             TDU_CarPhysicsData.db [Nismo hud fix][vehicle names fix][unlocked slots]
             TDU_CarShops.db [dealer slots update][unlocked slots]
             TDU_Clothes.db [clothes for all]
+            TDU_Rims.db [unlocked slots]
 
     - *DB_xx.bnk*
     
