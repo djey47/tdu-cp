@@ -1,0 +1,75 @@
+{
+  "changes": [
+    {
+      "type": "UPDATE",
+      "topic": "CAR_PHYSICS_DATA",
+      "ref": "1108350118",
+      "partialValues": [
+        {
+          "rank": 9,
+          "value": "6446567"
+        },
+        {
+          "rank": 10,
+          "value": ""
+        },
+        {
+          "rank": 11,
+          "value": "6477580"
+        },
+        {
+          "rank": 103,
+          "value": "77"
+        }
+      ]
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_PHYSICS_DATA",
+      "ref": "6446567",
+      "value": "Viper_VP1"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_PHYSICS_DATA",
+      "ref": "6477580",
+      "value": "Viper_VP1"
+    },
+    {
+      "type": "UPDATE",
+      "topic": "CAR_RIMS",
+      "values": [
+        "1108350118",
+        ""
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "RIMS",
+      "values": [
+        "",
+        "57465512",
+        "53386512",
+        "6246562",
+        "205",
+        "55",
+        "16",
+        "225",
+        "50",
+        "16",
+        "0",
+        "5",
+        "57465512",
+        "",
+        "",
+        "0"
+      ]
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "RIMS",
+      "ref": "",
+      "value": "Viper_VP1_F_01"
+    }
+  ]
+}

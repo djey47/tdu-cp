@@ -4,11 +4,13 @@
 
 ## Features
 
+- Unlocks car slots : ....
 
 
 ## Bugfixes
 
-None this time
+- Fixes Hennessey brand (Dodge tuning) with Dodge logo and name display properly
+
 
 ## Known Bugs
 
