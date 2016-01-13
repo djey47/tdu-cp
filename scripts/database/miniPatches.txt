@@ -1,1 +1,2 @@
 Unlock vehicles/UnlockDino-246-GTS.mini.json
+Unlock vehicles/UnlockFerrari-F40-Prime.mini.json
