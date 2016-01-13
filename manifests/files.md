@@ -12,6 +12,8 @@
 
     - *246_GTS.bnk* [unlocked slots]
 
+    - *308_GTB_U.bnk* [unlocked slots]
+
     - *A3_V6N.bnk* [unlocked slots]
     
     - *A4_TC.bnk* [unlocked slots]
@@ -34,6 +36,8 @@
 
     - *246_GTS.bnk* [unlocked slots]
 
+    - *308_GTB_U.bnk* [unlocked slots]
+
     - *A3_V6N.bnk* [unlocked slots]
     
     - *A4_TC.bnk* [unlocked slots]
@@ -53,6 +57,8 @@
     - *SRT6_RstP.bnk* [unlocked slots]
 
 - **Euro\Bnk\Sound\Vehicules**
+
+    - *308_GTB_QV.bnk* [unlocked slots]
 
     - *246_Dino_GTS_audio.bnk* [unlocked slots]
 
@@ -83,6 +89,10 @@
     - *246_Dino_GTS.bnk* [unlocked slots]
 
     - *246_Dino_GTS_I.bnk* [unlocked slots]
+
+    - *308_GTB_QV.bnk* [unlocked slots]
+
+    - *308_GTB_QV_I.bnk* [unlocked slots]
 
     - *A3_V6N.bnk* [unlocked slots]
 
@@ -161,6 +171,8 @@
 - **Euro\Bnk\Vehicules\Rim\Ferrari**
 
     - *246_GTS_F_01.bnk* [unlocked slots]
+
+    - *308_GTB_QV_U_F_01.bnk* [unlocked slots]
 
     - *F40_P_F_01.bnk* [unlocked slots]
 
