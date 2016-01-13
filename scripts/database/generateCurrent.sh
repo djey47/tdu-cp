@@ -6,7 +6,5 @@
 
 source ../setEnv.sh
 
-cd ${TDUF_PATH}
-
 echo "Generating database from ${CURRENT_DB_PATH}, to ${GENERATED_DB_PATH} please wait..."
-java -cp ./lib/tduf-cli-all-${TDUF_VERSION}.jar fr.tduf.cli.tools.DatabaseTool repack-all -j ${CURRENT_DB_PATH} -o ${GENERATED_DB_PATH}
+../tduf/databaseTool.sh repack-all -j ${CURRENT_DB_PATH} -o ${GENERATED_DB_PATH}

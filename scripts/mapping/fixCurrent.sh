@@ -6,13 +6,11 @@
 
 source ../setEnv.sh
 
-cd ${TDUF_PATH}
-
 echo "-> Searching for missing files from ${MAPPING_CURRENT}, please wait..."
-java -cp ./lib/tduf-cli-all-${TDUF_VERSION}.jar fr.tduf.cli.tools.MappingTool list-missing -n -b ${BUILD_BANK_PATH}
+../tduf/mappingTool.sh list-missing -n -b ${BUILD_BANK_PATH}
 
 echo "-> Fixing mapping file ${MAPPING_CURRENT}, please wait..."
-java -cp ./lib/tduf-cli-all-${TDUF_VERSION}.jar fr.tduf.cli.tools.MappingTool fix-missing -n -b ${BUILD_BANK_PATH}
+../tduf/mappingTool.sh fix-missing -n -b ${BUILD_BANK_PATH}
 
 echo "-> Generating ${JSON_MAPPING_PATH} file from ${MAPPING_CURRENT}, please wait..."
-java -cp ./lib/tduf-cli-all-${TDUF_VERSION}.jar fr.tduf.cli.tools.FileTool jsonify -n -i ${MAPPING_CURRENT} -o ${JSON_MAPPING_PATH} -s ${JSON_MAP4_STRUCTURE}
+../tduf/fileTool.sh jsonify -n -i ${MAPPING_CURRENT} -o ${JSON_MAPPING_PATH} -s ${JSON_MAP4_STRUCTURE}
