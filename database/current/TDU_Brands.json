@@ -2919,17 +2919,17 @@
           },
           {
             "name": "Manufacturer_Name",
-            "rawValue": "6108357",
+            "rawValue": "54038337",
             "fieldRank": 3
           },
           {
             "name": "Logo_HUD_File",
-            "rawValue": "61338337",
+            "rawValue": "56438337",
             "fieldRank": 4
           },
           {
             "name": "Logo_Global_Index",
-            "rawValue": "63",
+            "rawValue": "9",
             "fieldRank": 5
           },
           {
@@ -2939,12 +2939,12 @@
           },
           {
             "name": "BitField",
-            "rawValue": "0",
+            "rawValue": "1",
             "switchValues": [
               {
                 "index": 1,
                 "name": "?",
-                "enabled": false
+                "enabled": true
               },
               {
                 "index": 2,

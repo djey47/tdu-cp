@@ -8,6 +8,11 @@ Contains all brand brought by 1.68b patch, and more:
 - Radical
 - Rossion.
 
+Fixes following brands: 
+
+- Hennessey (Dodge tuning)
+- Mazda.
+
 ## TDUF-CLI
 
     DatabaseTool apply-patch -p "<...>/database/patches/Additional brands/BrandResources-added-1.68b.mini.json" -j "<...>/database/current" -o "<...>/database/current"
@@ -19,4 +24,6 @@ Contains all brand brought by 1.68b patch, and more:
     DatabaseTool apply-patch -p "<...>/database/patches/Additional brands/Brands-added-1.68b.mini.json" -j "<...>/database/current" -o "<...>/database/current"
     
     DatabaseTool apply-patch -p "<...>/database/patches/Additional brands/Brands-added.mini.json" -j "<...>/database/current" -o "<...>/database/current"
+
+    ...
     
