@@ -34,6 +34,10 @@
       "ref": "1244127953",
       "partialValues": [
         {
+          "rank": 10,
+          "value": "1144131735"
+        },
+        {
           "rank": 11,
           "value": "5277580"
         },
@@ -48,6 +52,20 @@
       "topic": "CAR_PHYSICS_DATA",
       "ref": "5277580",
       "value": "246_GTS"
+    },
+    {
+      "type": "DELETE",
+      "topic": "CAR_RIMS",
+      "filter": [
+        {
+          "rank": 1,
+          "value": "1244127953"
+        },
+        {
+          "rank": 2,
+          "value": "1144131734"
+        }
+      ]
     },
     {
       "type": "UPDATE",
