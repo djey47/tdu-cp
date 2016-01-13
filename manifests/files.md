@@ -10,6 +10,8 @@
 
 - **Euro\Bnk\Frontend\HiRes\Gauges**
 
+    - *246_GTS.bnk* [unlocked slots]
+
     - *A3_V6N.bnk* [unlocked slots]
     
     - *A4_TC.bnk* [unlocked slots]
@@ -28,6 +30,8 @@
     
 - **Euro\Bnk\Frontend\LowRes\Gauges**
 
+    - *246_GTS.bnk* [unlocked slots]
+
     - *A3_V6N.bnk* [unlocked slots]
     
     - *A4_TC.bnk* [unlocked slots]
@@ -45,6 +49,8 @@
     - *SRT6_RstP.bnk* [unlocked slots]
 
 - **Euro\Bnk\Sound\Vehicules**
+
+    - *246_Dino_GTS_audio.bnk* [unlocked slots]
 
     - *A3_V6N_audio.bnk* [unlocked slots]
 
@@ -67,6 +73,10 @@
     - *SRT6_RstP_audio.bnk* [unlocked slots]
 
 - **Euro\Bnk\Vehicules**
+
+    - *246_Dino_GTS.bnk* [unlocked slots]
+
+    - *246_Dino_GTS_I.bnk* [unlocked slots]
 
     - *A3_V6N.bnk* [unlocked slots]
 
@@ -137,6 +147,10 @@
 - **Euro\Bnk\Vehicules\Rim\Chrysler**
 
     - *SRT6_RstP_F_01.bnk* [unlocked slots]
+
+- **Euro\Bnk\Vehicules\Rim\Ferrari**
+
+    - *246_GTS_F_01.bnk* [unlocked slots]
 
 ## UPDATED files
 
