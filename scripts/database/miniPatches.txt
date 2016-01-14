@@ -7,3 +7,4 @@ Unlock vehicles/UnlockHennessey-Viper-Venom-Pack3.mini.json
 Unlock vehicles/UnlockJaguar-XKR-Convertible.mini.json
 Unlock vehicles/UnlockLamborghini-Diablo-GT.mini.json
 Unlock vehicles/UnlockLexus-ISF.mini.json
+Unlock vehicles/UnlockMaserati-GT.mini.json
