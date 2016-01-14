@@ -1,0 +1,14 @@
+{
+  "changes": [
+    {
+      "type": "DELETE",
+      "topic": "CAR_PACKS",
+      "filter": [
+        {
+          "rank": 1,
+          "value": "700912892"
+        }
+      ]
+    }
+  ]
+}
