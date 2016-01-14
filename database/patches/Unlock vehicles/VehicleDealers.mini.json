@@ -77,6 +77,17 @@
           "value": "1108350120"
         }
      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "CAR_SHOPS",
+      "ref": "591093708",
+      "partialValues": [
+        {
+          "rank": 4,
+          "value": "1186047058"
+        }
+      ]
     }
   ]
 }

@@ -4,3 +4,4 @@ Unlock vehicles/UnlockFerrari-F40-Prime.mini.json
 Unlock vehicles/UnlockHennessey-Viper-Venom-Pack1.mini.json
 Unlock vehicles/UnlockHennessey-Viper-Venom-Pack2.mini.json
 Unlock vehicles/UnlockHennessey-Viper-Venom-Pack3.mini.json
+Unlock vehicles/UnlockJaguar-XKR-Convertible.mini.json
