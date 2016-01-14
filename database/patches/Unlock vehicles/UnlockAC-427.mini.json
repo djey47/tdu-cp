@@ -1,0 +1,25 @@
+{
+  "changes": [
+    {
+      "type": "DELETE",
+      "topic": "CAR_PACKS",
+      "filter": [
+        {
+          "rank": 1,
+          "value": "606298799"
+        }
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "CAR_PHYSICS_DATA",
+      "ref": "606298799",
+      "partialValues": [
+        {
+          "rank": 103,
+          "value": "105"
+        }
+      ]
+    }
+  ]
+}
