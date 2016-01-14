@@ -4,7 +4,7 @@
 
 ## Features
 
-- Unlocks 11 more car slots (Work In Progress): check them out at Oahu Cars - Honolulu Airport and ??? 
+- Unlocks 13 more car slots: check them out at Oahu Cars - Honolulu Airport and ??? 
     - AC 427
     - Dino 246 GTS
     - Ferrari 308 GTB
@@ -16,6 +16,9 @@
     - Lamborghini Diablo GT 1999
     - Lexus IS-F
     - Maserati GranTurismo coupe
+    - Mazda RX8 Coupe
+    - Nissan 350Z Roadster
+
 
 ## Bugfixes
 

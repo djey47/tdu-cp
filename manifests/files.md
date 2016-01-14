@@ -14,6 +14,8 @@
 
     - *308_GTB_U.bnk* [unlocked slots]
 
+    - *350Z_Rst.bnk* [unlocked slots]
+
     - *A3_V6N.bnk* [unlocked slots]
     
     - *A4_TC.bnk* [unlocked slots]
@@ -50,6 +52,8 @@
 
     - *308_GTB_U.bnk* [unlocked slots]
 
+    - *350Z_Rst.bnk* [unlocked slots]
+
     - *A3_V6N.bnk* [unlocked slots]
     
     - *A4_TC.bnk* [unlocked slots]
@@ -85,6 +89,8 @@
     - *246_Dino_GTS_audio.bnk* [unlocked slots]
 
     - *308_GTB_QV.bnk* [unlocked slots]
+
+    - *350Z_Rst_audio.bnk* [unlocked slots]
 
     - *A3_V6N_audio.bnk* [unlocked slots]
 
@@ -133,6 +139,10 @@
     - *308_GTB_QV.bnk* [unlocked slots]
 
     - *308_GTB_QV_I.bnk* [unlocked slots]
+
+    - *350Z_Rst.bnk* [unlocked slots]
+
+    - *350Z_Rst_I.bnk* [unlocked slots]
 
     - *A3_V6N.bnk* [unlocked slots]
 
