@@ -15,3 +15,4 @@ Hennessey/Viper_VP2_F_01
 Hennessey/Viper_VP3_F_01
 Jaguar/XKR_Conv_U_F_01
 Lexus/IS_F_F_01
+Maserati/Mas_GT_Cpe_F_01

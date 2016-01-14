@@ -10,6 +10,7 @@ DBAR1
 Diablo_GT
 F40_P
 IS_F
+Mas_GT_Cpe
 MX5
 Sixteen
 SRT6_RstP
