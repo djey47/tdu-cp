@@ -31,6 +31,12 @@
     - *F40_P.bnk* [unlocked slots]
 
     - *SRT6_RstP.bnk* [unlocked slots]
+
+    - *Viper_VP1.bnk* [unlocked slots]
+
+    - *Viper_VP2.bnk* [unlocked slots]
+
+    - *Viper_VP3.bnk* [unlocked slots]
     
 - **Euro\Bnk\Frontend\LowRes\Gauges**
 
@@ -55,6 +61,12 @@
     - *F40_P.bnk* [unlocked slots]
 
     - *SRT6_RstP.bnk* [unlocked slots]
+
+    - *Viper_VP1.bnk* [unlocked slots]
+
+    - *Viper_VP2.bnk* [unlocked slots]
+
+    - *Viper_VP3.bnk* [unlocked slots]
 
 - **Euro\Bnk\Sound\Vehicules**
 
@@ -83,6 +95,12 @@
     - *Sixteen_audio.bnk* [unlocked slots]
     
     - *SRT6_RstP_audio.bnk* [unlocked slots]
+
+    - *Viper_VP1_audio.bnk* [unlocked slots]
+
+    - *Viper_VP2_audio.bnk* [unlocked slots]
+
+    - *Viper_VP3_audio.bnk* [unlocked slots]
 
 - **Euro\Bnk\Vehicules**
 
@@ -138,6 +156,18 @@
 
     - *SRT6_RstP_I.bnk* [unlocked slots]
 
+    - *Viper_VP1.bnk* [unlocked slots]
+
+    - *Viper_VP1_I.bnk* [unlocked slots]
+
+    - *Viper_VP2.bnk* [unlocked slots]
+
+    - *Viper_VP2_I.bnk* [unlocked slots]
+
+    - *Viper_VP3.bnk* [unlocked slots]
+
+    - *Viper_VP3_I.bnk* [unlocked slots]
+
 - **Euro\Bnk\Vehicules\Rim\Aston**
 
     - *DB7_VOL_F_01.bnk* [unlocked slots]
@@ -175,6 +205,14 @@
     - *308_GTB_QV_U_F_01.bnk* [unlocked slots]
 
     - *F40_P_F_01.bnk* [unlocked slots]
+
+- **Euro\Bnk\Vehicules\Rim\Hennessey**
+
+    - *Viper_VP1_F_01.bnk* [unlocked slots]
+
+    - *Viper_VP2_F_01.bnk* [unlocked slots]
+
+    - *Viper_VP3_F_01.bnk* [unlocked slots]
 
 ## UPDATED files
 
