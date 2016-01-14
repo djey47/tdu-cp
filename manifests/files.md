@@ -38,6 +38,8 @@
 
     - *Viper_VP3.bnk* [unlocked slots]
     
+    - *XKR_Conv.bnk* [unlocked slots]
+    
 - **Euro\Bnk\Frontend\LowRes\Gauges**
 
     - *246_GTS.bnk* [unlocked slots]
@@ -67,6 +69,8 @@
     - *Viper_VP2.bnk* [unlocked slots]
 
     - *Viper_VP3.bnk* [unlocked slots]
+
+    - *XKR_Conv.bnk* [unlocked slots]
 
 - **Euro\Bnk\Sound\Vehicules**
 
@@ -101,6 +105,8 @@
     - *Viper_VP2_audio.bnk* [unlocked slots]
 
     - *Viper_VP3_audio.bnk* [unlocked slots]
+
+    - *XKR_Conv_audio.bnk* [unlocked slots]
 
 - **Euro\Bnk\Vehicules**
 
@@ -168,6 +174,10 @@
 
     - *Viper_VP3_I.bnk* [unlocked slots]
 
+    - *XKR_Conv.bnk* [unlocked slots]
+
+    - *XKR_Conv_I.bnk* [unlocked slots]
+
 - **Euro\Bnk\Vehicules\Rim\Aston**
 
     - *DB7_VOL_F_01.bnk* [unlocked slots]
@@ -213,6 +223,10 @@
     - *Viper_VP2_F_01.bnk* [unlocked slots]
 
     - *Viper_VP3_F_01.bnk* [unlocked slots]
+
+- **Euro\Bnk\Vehicules\Rim\Jaguar**
+
+    - *XKR_Conv_U_F_01.bnk* [unlocked slots]
 
 ## UPDATED files
 

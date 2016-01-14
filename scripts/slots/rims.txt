@@ -13,3 +13,4 @@ Ferrari/F40_P_F_01
 Hennessey/Viper_VP1_F_01
 Hennessey/Viper_VP2_F_01
 Hennessey/Viper_VP3_F_01
+Jaguar/XKR_Conv_U_F_01
