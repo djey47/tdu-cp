@@ -7,6 +7,7 @@ B61S
 C6_SNG
 DB7_Vol
 DBAR1
+Diablo_GT
 F40_P
 MX5
 Sixteen
