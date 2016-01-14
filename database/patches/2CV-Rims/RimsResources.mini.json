@@ -15,6 +15,12 @@
     {
       "type": "UPDATE_RES",
       "topic": "RIMS",
+      "ref": "60765512",
+      "value": "Hennessey"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "RIMS",
       "ref": "70066512",
       "value": "16\" Ariès"
     },
