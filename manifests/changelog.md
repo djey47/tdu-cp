@@ -4,8 +4,18 @@
 
 ## Features
 
-- Unlocks car slots : ....
-
+- Unlocks 11 more car slots (Work In Progress): check them out at Oahu Cars - Honolulu Airport and ??? 
+    - AC 427
+    - Dino 246 GTS
+    - Ferrari 308 GTB
+    - Ferrari F40'
+    - Hennessey Viper SRT10 Venom 650R
+    - Hennessey Viper SRT10 Venom 800 TwinTurbo
+    - Hennessey Viper SRT10 Venom 1000 TwinTurbo
+    - Jaguar XKR Convertible
+    - Lamborghini Diablo GT 1999
+    - Lexus IS-F
+    - Maserati GranTurismo coupe
 
 ## Bugfixes
 

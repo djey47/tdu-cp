@@ -30,6 +30,10 @@
 
     - *F40_P.bnk* [unlocked slots]
 
+    - *IS_F.bnk* [unlocked slots]
+
+    - *Mas_GT_Cpe.bnk* [unlocked slots]
+
     - *SRT6_RstP.bnk* [unlocked slots]
 
     - *Viper_VP1.bnk* [unlocked slots]
@@ -62,6 +66,10 @@
 
     - *F40_P.bnk* [unlocked slots]
 
+    - *IS_F.bnk* [unlocked slots]
+
+    - *Mas_GT_Cpe.bnk* [unlocked slots]
+
     - *SRT6_RstP.bnk* [unlocked slots]
 
     - *Viper_VP1.bnk* [unlocked slots]
@@ -74,13 +82,15 @@
 
 - **Euro\Bnk\Sound\Vehicules**
 
-    - *308_GTB_QV.bnk* [unlocked slots]
-
     - *246_Dino_GTS_audio.bnk* [unlocked slots]
+
+    - *308_GTB_QV.bnk* [unlocked slots]
 
     - *A3_V6N_audio.bnk* [unlocked slots]
 
     - *A4_DTM_audio.bnk* [unlocked slots]
+
+    - *AC_427_audio.bnk* [unlocked slots]
 
     - *B55S_audio.bnk* [unlocked slots]
 
@@ -92,7 +102,13 @@
     
     - *DBAR1_audio.bnk* [unlocked slots]
 
+    - *Diablo_GT_audio.bnk* [unlocked slots]
+
     - *F40_P_audio.bnk* [unlocked slots]
+
+    - *IS_F_audio.bnk* [unlocked slots]
+
+    - *Mas_GT_Cpe_audio.bnk* [unlocked slots]
 
     - *MX5_audio.bnk* [unlocked slots]
 
@@ -126,6 +142,10 @@
 
     - *A4_DTM_I.bnk* [unlocked slots]
 
+    - *AC_427.bnk* [unlocked slots]
+
+    - *AC_427_I.bnk* [unlocked slots]
+
     - *B55S.bnk* [unlocked slots]
 
     - *B55S_I.bnk* [unlocked slots]
@@ -146,9 +166,21 @@
 
     - *DBAR1_I.bnk* [unlocked slots]
 
+    - *Diablo_GT.bnk* [unlocked slots]
+
+    - *Diablo_GT_I.bnk* [unlocked slots]
+
     - *F40_P.bnk* [unlocked slots]
     
     - *F40_P_I.bnk* [unlocked slots]
+
+    - *IS_F.bnk* [unlocked slots]
+    
+    - *IS_F_I.bnk* [unlocked slots]
+
+    - *Mas_GT_Cpe.bnk* [unlocked slots]
+
+    - *Mas_GT_Cpe_I.bnk* [unlocked slots]
 
     - *MX5.bnk* [unlocked slots]
 
@@ -227,6 +259,14 @@
 - **Euro\Bnk\Vehicules\Rim\Jaguar**
 
     - *XKR_Conv_U_F_01.bnk* [unlocked slots]
+
+- **Euro\Bnk\Vehicules\Rim\Lexus**
+
+    - *IS_F_F_01.bnk* [unlocked slots]
+
+- **Euro\Bnk\Vehicules\Rim\Maserati**
+
+    - *Mas_GT_Cpe_F_01.bnk* [unlocked slots]
 
 ## UPDATED files
 
