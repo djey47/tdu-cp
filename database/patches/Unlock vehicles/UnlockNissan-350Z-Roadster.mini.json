@@ -1,0 +1,65 @@
+{
+  "changes": [
+    {
+      "type": "UPDATE",
+      "topic": "CAR_PHYSICS_DATA",
+      "ref": "1237390819",
+      "partialValues": [
+        {
+          "rank": 10,
+          "value": "1209559931"
+        },
+        {
+          "rank": 11,
+          "value": "6356580"
+        },
+        {
+          "rank": 103,
+          "value": "111"
+        }
+      ]
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_PHYSICS_DATA",
+      "ref": "6356580",
+      "value": "350Z_Rst"
+    },
+    {
+      "type": "UPDATE",
+      "topic": "CAR_RIMS",
+      "values": [
+        "1237390819",
+        "1209559931"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "RIMS",
+      "values": [
+        "1209559931",
+        "62465512",
+        "62666512",
+        "6266562",
+        "225",
+        "45",
+        "18",
+        "245",
+        "45",
+        "18",
+        "0",
+        "6",
+        "62465512",
+        "52858512",
+        "52858512",
+        "0"
+      ]
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "RIMS",
+      "ref": "52858512",
+      "value": "350Z_Rst_F_01"
+    }
+  ]
+}
