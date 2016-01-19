@@ -12,3 +12,4 @@ Unlock vehicles/UnlockMaserati-GT.mini.json
 Unlock vehicles/UnlockMazda-RX8.mini.json
 Unlock vehicles/UnlockNissan-350Z-Roadster.mini.json
 Unlock vehicles/UnlockPontiac-GTO-Judge.mini.json
+Unlock vehicles/UnlockPontiac-Solstice.mini.json
