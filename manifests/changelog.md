@@ -4,7 +4,7 @@
 
 ## Features
 
-- Unlocks 13 more car slots: check them out at Oahu Cars - Honolulu Airport and ??? 
+- Unlocks 14 more car slots: check them out at Oahu Cars - Honolulu Airport and ??? 
     - AC 427
     - Dino 246 GTS
     - Ferrari 308 GTB
@@ -18,6 +18,7 @@
     - Maserati GranTurismo coupe
     - Mazda RX8 Coupe
     - Nissan 350Z Roadster
+    - Pontiac GTO 'The Judge'
 
 
 ## Bugfixes

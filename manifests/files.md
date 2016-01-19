@@ -112,6 +112,8 @@
 
     - *F40_P_audio.bnk* [unlocked slots]
 
+    - *GTO_JUDGE_audio.bnk* [unlocked slots]
+
     - *IS_F_audio.bnk* [unlocked slots]
 
     - *Mas_GT_Cpe_audio.bnk* [unlocked slots]
@@ -183,6 +185,10 @@
     - *F40_P.bnk* [unlocked slots]
     
     - *F40_P_I.bnk* [unlocked slots]
+
+    - *GTO_JUDGE.bnk* [unlocked slots]
+
+    - *GTO_JUDGE_I.bnk* [unlocked slots]
 
     - *IS_F.bnk* [unlocked slots]
     

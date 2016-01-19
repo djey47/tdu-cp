@@ -11,6 +11,7 @@ DB7_Vol
 DBAR1
 Diablo_GT
 F40_P
+GTO_JUDGE
 IS_F
 Mas_GT_Cpe
 MX5
