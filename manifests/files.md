@@ -121,6 +121,8 @@
     - *MX5_audio.bnk* [unlocked slots]
 
     - *Sixteen_audio.bnk* [unlocked slots]
+
+    - *Solstice_audio.bnk* [unlocked slots]
     
     - *SRT6_RstP_audio.bnk* [unlocked slots]
 
@@ -205,6 +207,10 @@
     - *Sixteen.bnk* [unlocked slots]
 
     - *Sixteen_I.bnk* [unlocked slots]
+
+    - *Solstice.bnk* [unlocked slots]
+
+    - *Solstice_I.bnk* [unlocked slots]
 
     - *SRT6_RstP.bnk* [unlocked slots]
 
