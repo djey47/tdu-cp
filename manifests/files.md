@@ -46,8 +46,6 @@
 
     - *Viper_VP3.bnk* [unlocked slots]
     
-    - *XKR_Conv.bnk* [unlocked slots]
-    
 - **Euro\Bnk\Frontend\LowRes\Gauges**
 
     - *246_GTS.bnk* [unlocked slots]
@@ -85,8 +83,6 @@
     - *Viper_VP2.bnk* [unlocked slots]
 
     - *Viper_VP3.bnk* [unlocked slots]
-
-    - *XKR_Conv.bnk* [unlocked slots]
 
 - **Euro\Bnk\Sound\Vehicules**
 
