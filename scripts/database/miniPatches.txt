@@ -14,3 +14,4 @@ Unlock vehicles/UnlockNissan-350Z-Roadster.mini.json
 Unlock vehicles/UnlockPontiac-GTO-Judge.mini.json
 Unlock vehicles/UnlockPontiac-Solstice.mini.json
 Unlock vehicles/UnlockWiesmann-GT.mini.json
+Unlock vehicles/UnlockTriumph-955i-Daytona.mini.json
