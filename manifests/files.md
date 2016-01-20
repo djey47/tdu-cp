@@ -26,6 +26,8 @@
     
     - *B61S.bnk* [unlocked slots]
     
+    - *DAYTONA_955I.bnk* [unlocked slots]
+
     - *DB7_Vol.bnk* [unlocked slots]
 
     - *DBAR1.bnk* [unlocked slots]
@@ -64,6 +66,8 @@
     
     - *B61S.bnk* [unlocked slots]
     
+    - *DAYTONA_955I.bnk* [unlocked slots]
+
     - *DB7_Vol.bnk* [unlocked slots]
 
     - *DBAR1.bnk* [unlocked slots]
@@ -107,6 +111,8 @@
     - *DB7_Vol_audio.bnk* [unlocked slots]
     
     - *DBAR1_audio.bnk* [unlocked slots]
+
+    - *DAYTONA_955I_audio.bnk* [unlocked slots]
 
     - *Diablo_GT_audio.bnk* [unlocked slots]
 
@@ -178,6 +184,10 @@
 
     - *DB7_Vol_I.bnk* [unlocked slots]
     
+    - *DAYTONA_955I.bnk* [unlocked slots]
+
+    - *DAYTONA_955I_I.bnk* [unlocked slots]
+
     - *DBAR1.bnk* [unlocked slots]
 
     - *DBAR1_I.bnk* [unlocked slots]
@@ -295,6 +305,12 @@
 - **Euro\Bnk\Vehicules\Rim\Maserati**
 
     - *Mas_GT_Cpe_F_01.bnk* [unlocked slots]
+
+- **Euro\Bnk\Vehicules\Rim\Triumph**
+
+    - *DAYTONA_955I_F.bnk* [unlocked slots]
+
+    - *DAYTONA_955I_R.bnk* [unlocked slots]
 
 ## UPDATED files
 
