@@ -2,18 +2,19 @@
 
 *What's new in this version?*
 
+
 ## Features
 
-- Unlocks 15 more car slots: check them out at Oahu Cars:
+- Unlocks 17 more car slots: check them out at Oahu Cars/Oahu Bikes:
 
-[Honolulu Airport]
+[OC-Honolulu Airport]
     - AC 427
     - Dino 246 GTS
     - Ferrari 308 GTB
     - Ferrari F40'
     - Hennessey Viper SRT10 Venom 650R
     - Hennessey Viper SRT10 Venom 800 TwinTurbo
-[???]
+[OC-???]
     - Hennessey Viper SRT10 Venom 1000 TwinTurbo 
     - Jaguar XKR Convertible
     - Lamborghini Diablo GT 1999
@@ -22,8 +23,11 @@
     - Mazda RX8 Coupe
     - Nissan 350Z Roadster
     - Pontiac GTO 'The Judge'
-[???]
-    - Pontiac Solstice 
+[OC-???]
+    - Pontiac Solstice     
+    - Wiesmann GT 
+[OB-???]
+    - Triumph 955I Daytona 
 
 
 ## Bugfixes
@@ -52,7 +56,7 @@
 - Gives bike-clothes for cars, car-clothes for bikes
 - Unlocks car slots (Work In Progress): 10 slots now available (check them out at Oahu Cars):
  
-[Honolulu Downtown]
+[OC-Honolulu Downtown]
     - Aston Martin DB AR1 Zagato 
     - Aston Martin DB7 Volante
     - Audi A3 V6 'N'
@@ -61,7 +65,7 @@
     - Brabus S61
     - Cadillac Sixteen
     - Mazda MX5
-[Honolulu Downtown]
+[OC-Honolulu Airport]
     - Chevrolet Corvette C6 'Show N Go'
     - Chrysler Crossfire Roadster'
 
