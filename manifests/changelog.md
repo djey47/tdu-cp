@@ -14,7 +14,7 @@
     - Ferrari F40'
     - Hennessey Viper SRT10 Venom 650R
     - Hennessey Viper SRT10 Venom 800 TwinTurbo
-[OC-???]
+[OC-Circuit/Airport]
     - Hennessey Viper SRT10 Venom 1000 TwinTurbo 
     - Jaguar XKR Convertible
     - Lamborghini Diablo GT 1999
@@ -23,10 +23,10 @@
     - Mazda RX8 Coupe
     - Nissan 350Z Roadster
     - Pontiac GTO 'The Judge'
-[OC-???]
+[OC-Barber's point Golf, SW]
     - Pontiac Solstice     
     - Wiesmann GT 
-[OB-???]
+[OB-Crater, SE]
     - Triumph 955I Daytona 
 
 
