@@ -134,6 +134,8 @@
 
     - *XKR_Conv_audio.bnk* [unlocked slots]
 
+    - *Wies_GT_audio.bnk* [unlocked slots]
+
 - **Euro\Bnk\Vehicules**
 
     - *246_Dino_GTS.bnk* [unlocked slots]
@@ -231,6 +233,10 @@
     - *XKR_Conv.bnk* [unlocked slots]
 
     - *XKR_Conv_I.bnk* [unlocked slots]
+
+    - *Wies_GT.bnk* [unlocked slots]
+
+    - *Wies_GT_I.bnk* [unlocked slots]
 
 - **Euro\Bnk\Vehicules\Rim\Aston**
 
