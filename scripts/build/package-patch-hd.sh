@@ -9,6 +9,11 @@ source ../setEnv.sh
 BUILD_PATH=${TDUCP_PATH}/workspace/build/private/PATCH-HD-OD
 RELEASE_PATH=${TDUCP_PATH}/releases
 
+# Manifests
+echo "*** Manifests... ***"
+cp ${TDUCP_PATH}/manifests/patch-hd/*.md ${BUILD_PATH}
+echo
+
 #Zip
 echo "*** Zipping... ***"
 pushd ${BUILD_PATH} > /dev/null

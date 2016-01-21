@@ -16,3 +16,23 @@ do
 
    mkdir -p ${INI_PATH} ${BANKS_PATH}
 done
+echo
+
+echo "-> TDU INI file..."
+unzip -o ${TDUCP_PATH}/resources/system/2CV-patch-hd/Genuine/FX.ini.tdu.zip FX.ini -d ${BUILD_PATCH_HD_PATH}/OFF/Euro/Bnk/FX
+echo
+
+echo "-> HD INI files..."
+cat modes.txt | while read mode
+do
+
+    if [[ "${mode}" == "OFF" ]]; then
+        continue
+    fi
+
+    echo "(${mode})"
+    unzip -o ${TDUCP_PATH}/resources/system/2CV-patch-hd/FX.ini.hd.zip FX.ini -d ${BUILD_PATCH_HD_PATH}/${mode}/Euro/Bnk/FX
+done
+echo
+
+echo "-> CommonWorld files..."
