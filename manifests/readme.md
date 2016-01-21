@@ -6,7 +6,9 @@
 
 - Make a backup copy of current install
 
-- Unzip all contents to TDU directory, always replace files when prompted
+- Unzip all contents to directory of your choice
+
+- Copy all extracted files to TDU directory, always replace files when prompted
 
 - That's all!
 
