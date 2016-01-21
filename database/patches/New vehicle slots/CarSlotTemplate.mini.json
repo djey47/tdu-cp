@@ -11,7 +11,7 @@
         "{CALIPERSID1}",
         "0",
         "0",
-        "11319636",
+        "{INTERIORREF1}",
         "11319636",
         "11319636",
         "11319636",
@@ -151,6 +151,19 @@
       "topic": "CAR_PHYSICS_DATA",
       "ref": "{RES_BANKNAME}",
       "value": "{BANKNAME}"
+    },
+    {
+      "type": "UPDATE",
+      "topic": "INTERIOR",
+      "values": [
+        "{INTERIORREF1}",
+        "62938337",
+        "{RES_INTNAME1}",
+        "{INTCOLORIDM1}",
+        "{INTCOLORIDS1}",
+        "{INTMATERIALID1}",
+        "0"
+      ]
     },
     {
       "type": "UPDATE",
