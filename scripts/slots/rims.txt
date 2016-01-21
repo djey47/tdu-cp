@@ -20,4 +20,5 @@ Mazda/RX8_1_F_01
 Nissan/350Z_Rst_F_01
 Triumph/DAYTONA_955I_F
 Triumph/DAYTONA_955I_R
-Default/TDUCP0000_F_01
+Default/TDUCP_0000_F_01
+Default/TDUCP_0000_R_01
