@@ -1,0 +1,12 @@
+{
+  "changes": [
+    {
+      "type": "UPDATE",
+      "topic": "CAR_PHYSICS_DATA",
+      "ref": "{SLOTREF}",
+      "values": [
+        "{SLOTREF}"
+      ]
+    }
+  ]
+}
