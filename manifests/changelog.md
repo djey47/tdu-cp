@@ -54,7 +54,7 @@
 - Unlocks Car Paint Deluxe for all cars
 - Adds new bots driving megapack vehicles
 - Gives bike-clothes for cars, car-clothes for bikes
-- Unlocks car slots (Work In Progress): 10 slots now available (check them out at Oahu Cars):
+- Unlocks car slots, 10 slots now available (check them out at Oahu Cars):
  
 [OC-Honolulu Downtown]
     - Aston Martin DB AR1 Zagato 
