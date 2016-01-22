@@ -5,34 +5,10 @@
 
 ## Features
 
-- Unlocks 17 more car slots: check them out at Oahu Cars/Oahu Bikes:
-
-[OC-Honolulu Airport]
-    - AC 427
-    - Dino 246 GTS
-    - Ferrari 308 GTB
-    - Ferrari F40'
-    - Hennessey Viper SRT10 Venom 650R
-    - Hennessey Viper SRT10 Venom 800 TwinTurbo
-[OC-Circuit/Airport]
-    - Hennessey Viper SRT10 Venom 1000 TwinTurbo 
-    - Jaguar XKR Convertible
-    - Lamborghini Diablo GT 1999
-    - Lexus IS-F
-    - Maserati GranTurismo coupe
-    - Mazda RX8 Coupe
-    - Nissan 350Z Roadster
-    - Pontiac GTO 'The Judge'
-[OC-Barber's point Golf, SW]
-    - Pontiac Solstice     
-    - Wiesmann GT 
-[OB-Crater, SE]
-    - Triumph 955I Daytona 
 
 
 ## Bugfixes
 
-- Fixes Hennessey brand (Dodge tuning) with Dodge logo and name display properly
 
 
 ## Known Bugs
@@ -54,7 +30,7 @@
 - Unlocks Car Paint Deluxe for all cars
 - Adds new bots driving megapack vehicles
 - Gives bike-clothes for cars, car-clothes for bikes
-- Unlocks car slots, 10 slots now available (check them out at Oahu Cars):
+- Unlocks 27 car slots (check them out at Oahu Cars/Bikes):
  
 [OC-Honolulu Downtown]
     - Aston Martin DB AR1 Zagato 
@@ -66,9 +42,28 @@
     - Cadillac Sixteen
     - Mazda MX5
 [OC-Honolulu Airport]
+    - AC 427
     - Chevrolet Corvette C6 'Show N Go'
     - Chrysler Crossfire Roadster'
-
+    - Dino 246 GTS
+    - Ferrari 308 GTB
+    - Ferrari F40'
+    - Hennessey Viper SRT10 Venom 650R
+    - Hennessey Viper SRT10 Venom 800 TwinTurbo
+[OC-Circuit/Airport]
+    - Hennessey Viper SRT10 Venom 1000 TwinTurbo 
+    - Jaguar XKR Convertible
+    - Lamborghini Diablo GT 1999
+    - Lexus IS-F
+    - Maserati GranTurismo coupe
+    - Mazda RX8 Coupe
+    - Nissan 350Z Roadster
+    - Pontiac GTO 'The Judge'
+[OC-Barber's point Golf, SW]
+    - Pontiac Solstice     
+    - Wiesmann GT 
+[OB-Crater, SE]
+    - Triumph 955I Daytona
 
 ### Bugfixes
 
@@ -77,6 +72,7 @@
 - Clothes For All: fixes some invalid entries due to ALPHA 0
 - Associate dedicated hud file to all 350Z Nismo
 - Brand names: e.g Edonis => B.Engineering ...
+- Fixes Hennessey brand (Dodge tuning) with Dodge logo and name display properly
 - Vehicle full names: e.g Brera => Alfa Brera ...
 - G27 support (Force Feedback, RPM LEDs)
 - Traffic sync issues (introduced by 1.68 Community Patch) 
