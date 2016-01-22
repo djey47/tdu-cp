@@ -1041,12 +1041,12 @@
           },
           {
             "name": "BitField",
-            "rawValue": "104",
+            "rawValue": "105",
             "switchValues": [
               {
                 "index": 1,
                 "name": "Vehicle slot enabled",
-                "enabled": false
+                "enabled": true
               },
               {
                 "index": 2,
@@ -31206,17 +31206,17 @@
           },
           {
             "name": "Car_File_Name",
-            "rawValue": "60438407",
+            "rawValue": "6346567",
             "fieldRank": 9
           },
           {
             "name": "Default_Rims",
-            "rawValue": "1169403405",
+            "rawValue": "1169403406",
             "fieldRank": 10
           },
           {
             "name": "HUD_File_Name",
-            "rawValue": "60438407",
+            "rawValue": "6477580",
             "fieldRank": 11
           },
           {
@@ -31231,7 +31231,7 @@
           },
           {
             "name": "Version_Name",
-            "rawValue": "53338427",
+            "rawValue": "64592366",
             "fieldRank": 14
           },
           {
@@ -34553,12 +34553,12 @@
           },
           {
             "name": "Default_Rims",
-            "rawValue": "1144131734",
+            "rawValue": "1144131735",
             "fieldRank": 10
           },
           {
             "name": "HUD_File_Name",
-            "rawValue": "5477580",
+            "rawValue": "5277580",
             "fieldRank": 11
           },
           {
@@ -35018,12 +35018,12 @@
           },
           {
             "name": "BitField",
-            "rawValue": "104",
+            "rawValue": "105",
             "switchValues": [
               {
                 "index": 1,
                 "name": "Vehicle slot enabled",
-                "enabled": false
+                "enabled": true
               },
               {
                 "index": 2,
@@ -36224,12 +36224,12 @@
           },
           {
             "name": "Default_Rims",
-            "rawValue": "1137393461",
+            "rawValue": "1137393462",
             "fieldRank": 10
           },
           {
             "name": "HUD_File_Name",
-            "rawValue": "5657580",
+            "rawValue": "6357580",
             "fieldRank": 11
           },
           {
@@ -36689,12 +36689,12 @@
           },
           {
             "name": "BitField",
-            "rawValue": "104",
+            "rawValue": "105",
             "switchValues": [
               {
                 "index": 1,
                 "name": "Vehicle slot enabled",
-                "enabled": false
+                "enabled": true
               },
               {
                 "index": 2,
@@ -42903,17 +42903,17 @@
           },
           {
             "name": "Car_File_Name",
-            "rawValue": "5346567",
+            "rawValue": "6446567",
             "fieldRank": 9
           },
           {
             "name": "Default_Rims",
-            "rawValue": "1209546501",
+            "rawValue": "1209546502",
             "fieldRank": 10
           },
           {
             "name": "HUD_File_Name",
-            "rawValue": "5346567",
+            "rawValue": "6577580",
             "fieldRank": 11
           },
           {
@@ -42923,12 +42923,12 @@
           },
           {
             "name": "Model_Name",
-            "rawValue": "53338427",
+            "rawValue": "58238407",
             "fieldRank": 13
           },
           {
             "name": "Version_Name",
-            "rawValue": "53338427",
+            "rawValue": "62182366",
             "fieldRank": 14
           },
           {
@@ -43373,12 +43373,12 @@
           },
           {
             "name": "BitField",
-            "rawValue": "108",
+            "rawValue": "77",
             "switchValues": [
               {
                 "index": 1,
                 "name": "Vehicle slot enabled",
-                "enabled": false
+                "enabled": true
               },
               {
                 "index": 2,
@@ -43403,7 +43403,7 @@
               {
                 "index": 6,
                 "name": "Add-on key required",
-                "enabled": true
+                "enabled": false
               },
               {
                 "index": 7,
@@ -43460,17 +43460,17 @@
           },
           {
             "name": "Car_File_Name",
-            "rawValue": "5346567",
+            "rawValue": "6546567",
             "fieldRank": 9
           },
           {
             "name": "Default_Rims",
-            "rawValue": "1209546501",
+            "rawValue": "1209546503",
             "fieldRank": 10
           },
           {
             "name": "HUD_File_Name",
-            "rawValue": "5346567",
+            "rawValue": "6677580",
             "fieldRank": 11
           },
           {
@@ -43480,12 +43480,12 @@
           },
           {
             "name": "Model_Name",
-            "rawValue": "53338427",
+            "rawValue": "58238407",
             "fieldRank": 13
           },
           {
             "name": "Version_Name",
-            "rawValue": "53338427",
+            "rawValue": "63182366",
             "fieldRank": 14
           },
           {
@@ -43595,12 +43595,12 @@
           },
           {
             "name": "Brakes_Dim_Front",
-            "rawValue": "0",
+            "rawValue": "335",
             "fieldRank": 36
           },
           {
             "name": "Brakes_Dim_Rear",
-            "rawValue": "0",
+            "rawValue": "335",
             "fieldRank": 37
           },
           {
@@ -43930,12 +43930,12 @@
           },
           {
             "name": "BitField",
-            "rawValue": "108",
+            "rawValue": "77",
             "switchValues": [
               {
                 "index": 1,
                 "name": "Vehicle slot enabled",
-                "enabled": false
+                "enabled": true
               },
               {
                 "index": 2,
@@ -43960,7 +43960,7 @@
               {
                 "index": 6,
                 "name": "Add-on key required",
-                "enabled": true
+                "enabled": false
               },
               {
                 "index": 7,
@@ -44017,17 +44017,17 @@
           },
           {
             "name": "Car_File_Name",
-            "rawValue": "5346567",
+            "rawValue": "6646567",
             "fieldRank": 9
           },
           {
             "name": "Default_Rims",
-            "rawValue": "1209546501",
+            "rawValue": "1209546504",
             "fieldRank": 10
           },
           {
             "name": "HUD_File_Name",
-            "rawValue": "5346567",
+            "rawValue": "6777580",
             "fieldRank": 11
           },
           {
@@ -44037,12 +44037,12 @@
           },
           {
             "name": "Model_Name",
-            "rawValue": "53338427",
+            "rawValue": "58238407",
             "fieldRank": 13
           },
           {
             "name": "Version_Name",
-            "rawValue": "53338427",
+            "rawValue": "54282366",
             "fieldRank": 14
           },
           {
@@ -44152,12 +44152,12 @@
           },
           {
             "name": "Brakes_Dim_Front",
-            "rawValue": "0",
+            "rawValue": "335",
             "fieldRank": 36
           },
           {
             "name": "Brakes_Dim_Rear",
-            "rawValue": "0",
+            "rawValue": "335",
             "fieldRank": 37
           },
           {
@@ -44487,12 +44487,12 @@
           },
           {
             "name": "BitField",
-            "rawValue": "108",
+            "rawValue": "77",
             "switchValues": [
               {
                 "index": 1,
                 "name": "Vehicle slot enabled",
-                "enabled": false
+                "enabled": true
               },
               {
                 "index": 2,
@@ -44517,7 +44517,7 @@
               {
                 "index": 6,
                 "name": "Add-on key required",
-                "enabled": true
+                "enabled": false
               },
               {
                 "index": 7,
@@ -46250,7 +46250,7 @@
           },
           {
             "name": "Default_Rims",
-            "rawValue": "1209561285",
+            "rawValue": "1209561286",
             "fieldRank": 10
           },
           {
@@ -46265,12 +46265,12 @@
           },
           {
             "name": "Model_Name",
-            "rawValue": "53338427",
+            "rawValue": "61138407",
             "fieldRank": 13
           },
           {
             "name": "Version_Name",
-            "rawValue": "53338427",
+            "rawValue": "56533407",
             "fieldRank": 14
           },
           {
@@ -46715,12 +46715,12 @@
           },
           {
             "name": "BitField",
-            "rawValue": "78",
+            "rawValue": "79",
             "switchValues": [
               {
                 "index": 1,
                 "name": "Vehicle slot enabled",
-                "enabled": false
+                "enabled": true
               },
               {
                 "index": 2,
@@ -51171,12 +51171,12 @@
           },
           {
             "name": "BitField",
-            "rawValue": "108",
+            "rawValue": "109",
             "switchValues": [
               {
                 "index": 1,
                 "name": "Vehicle slot enabled",
-                "enabled": false
+                "enabled": true
               },
               {
                 "index": 2,
@@ -59613,17 +59613,17 @@
           },
           {
             "name": "Car_File_Name",
-            "rawValue": "57338407",
+            "rawValue": "6367567",
             "fieldRank": 9
           },
           {
             "name": "Default_Rims",
-            "rawValue": "1209558365",
+            "rawValue": "1209546949",
             "fieldRank": 10
           },
           {
             "name": "HUD_File_Name",
-            "rawValue": "5646580",
+            "rawValue": "6376580",
             "fieldRank": 11
           },
           {
@@ -59633,7 +59633,7 @@
           },
           {
             "name": "Model_Name",
-            "rawValue": "53338427",
+            "rawValue": "64093667",
             "fieldRank": 13
           },
           {
@@ -59643,37 +59643,37 @@
           },
           {
             "name": "Engine_Localisation",
-            "rawValue": "57356917",
+            "rawValue": "543629",
             "fieldRank": 15
           },
           {
             "name": "Engine_Type",
-            "rawValue": "57356917",
+            "rawValue": "553709",
             "fieldRank": 16
           },
           {
             "name": "Displacement",
-            "rawValue": "0",
+            "rawValue": "4244",
             "fieldRank": 17
           },
           {
             "name": "Power_bhp",
-            "rawValue": "0",
+            "rawValue": "400",
             "fieldRank": 18
           },
           {
             "name": "Power_RPM",
-            "rawValue": "0",
+            "rawValue": "7000",
             "fieldRank": 19
           },
           {
             "name": "Torque_Nm",
-            "rawValue": "0",
+            "rawValue": "542",
             "fieldRank": 20
           },
           {
             "name": "Torque_RPM",
-            "rawValue": "0",
+            "rawValue": "5000",
             "fieldRank": 21
           },
           {
@@ -59683,7 +59683,7 @@
           },
           {
             "name": "Drive",
-            "rawValue": "57356917",
+            "rawValue": "55356917",
             "fieldRank": 23
           },
           {
@@ -59693,42 +59693,42 @@
           },
           {
             "name": "Nb_Gears",
-            "rawValue": "0",
+            "rawValue": "6",
             "fieldRank": 25
           },
           {
             "name": "Final_Drive_Ratio",
-            "rawValue": "0",
+            "rawValue": "3,73",
             "fieldRank": 26
           },
           {
             "name": "Gear_ratio_1",
-            "rawValue": "0",
+            "rawValue": "3,29",
             "fieldRank": 27
           },
           {
             "name": "Gear_ratio_2",
-            "rawValue": "0",
+            "rawValue": "2,16",
             "fieldRank": 28
           },
           {
             "name": "Gear_ratio_3",
-            "rawValue": "0",
+            "rawValue": "1,61",
             "fieldRank": 29
           },
           {
             "name": "Gear_ratio_4",
-            "rawValue": "0",
+            "rawValue": "1,27",
             "fieldRank": 30
           },
           {
             "name": "Gear_ratio_5",
-            "rawValue": "0",
+            "rawValue": "1,03",
             "fieldRank": 31
           },
           {
             "name": "Gear_ratio_6",
-            "rawValue": "0",
+            "rawValue": "0,85",
             "fieldRank": 32
           },
           {
@@ -59738,32 +59738,32 @@
           },
           {
             "name": "Nb_Doors",
-            "rawValue": "0",
+            "rawValue": "2",
             "fieldRank": 34
           },
           {
             "name": "Brakes_Characteristics_Front",
-            "rawValue": "57356917",
+            "rawValue": "5645936",
             "fieldRank": 35
           },
           {
             "name": "Brakes_Dim_Front",
-            "rawValue": "0",
+            "rawValue": "355",
             "fieldRank": 36
           },
           {
             "name": "Brakes_Dim_Rear",
-            "rawValue": "0",
+            "rawValue": "330",
             "fieldRank": 37
           },
           {
             "name": "Brakes_Characteristics_Rear",
-            "rawValue": "57356917",
+            "rawValue": "5645936",
             "fieldRank": 38
           },
           {
             "name": "Tires_Type",
-            "rawValue": "53338427",
+            "rawValue": "60338424",
             "fieldRank": 39
           },
           {
@@ -59773,32 +59773,32 @@
           },
           {
             "name": "Width",
-            "rawValue": "0",
+            "rawValue": "1830",
             "fieldRank": 41
           },
           {
             "name": "Lenght",
-            "rawValue": "0",
+            "rawValue": "4692",
             "fieldRank": 42
           },
           {
             "name": "Height",
-            "rawValue": "0",
+            "rawValue": "1270",
             "fieldRank": 43
           },
           {
             "name": "Track_Front",
-            "rawValue": "0",
+            "rawValue": "1536",
             "fieldRank": 44
           },
           {
             "name": "Track_Back",
-            "rawValue": "0",
+            "rawValue": "1540",
             "fieldRank": 45
           },
           {
             "name": "WheelBase",
-            "rawValue": "0",
+            "rawValue": "2591",
             "fieldRank": 46
           },
           {
@@ -59813,7 +59813,7 @@
           },
           {
             "name": "Weight_Kg",
-            "rawValue": "0",
+            "rawValue": "1590",
             "fieldRank": 49
           },
           {
@@ -59828,12 +59828,12 @@
           },
           {
             "name": "Ride_Height_Max_Front",
-            "rawValue": "0",
+            "rawValue": "280",
             "fieldRank": 52
           },
           {
             "name": "Ride_Height_Max_Rear",
-            "rawValue": "0",
+            "rawValue": "290",
             "fieldRank": 53
           },
           {
@@ -59878,7 +59878,7 @@
           },
           {
             "name": "Gravity_Center_Length",
-            "rawValue": "0",
+            "rawValue": "48",
             "fieldRank": 62
           },
           {
@@ -60083,12 +60083,12 @@
           },
           {
             "name": "BitField",
-            "rawValue": "104",
+            "rawValue": "105",
             "switchValues": [
               {
                 "index": 1,
                 "name": "Vehicle slot enabled",
-                "enabled": false
+                "enabled": true
               },
               {
                 "index": 2,
@@ -62418,12 +62418,12 @@
           },
           {
             "name": "Model_Name",
-            "rawValue": "53338427",
+            "rawValue": "55448407",
             "fieldRank": 13
           },
           {
             "name": "Version_Name",
-            "rawValue": "53338427",
+            "rawValue": "55438427",
             "fieldRank": 14
           },
           {
@@ -62868,12 +62868,12 @@
           },
           {
             "name": "BitField",
-            "rawValue": "110",
+            "rawValue": "111",
             "switchValues": [
               {
                 "index": 1,
                 "name": "Vehicle slot enabled",
-                "enabled": false
+                "enabled": true
               },
               {
                 "index": 2,
@@ -72429,12 +72429,12 @@
           },
           {
             "name": "Default_Rims",
-            "rawValue": "1209559930",
+            "rawValue": "1209559931",
             "fieldRank": 10
           },
           {
             "name": "HUD_File_Name",
-            "rawValue": "5856567",
+            "rawValue": "6356580",
             "fieldRank": 11
           },
           {
@@ -72894,12 +72894,12 @@
           },
           {
             "name": "BitField",
-            "rawValue": "110",
+            "rawValue": "111",
             "switchValues": [
               {
                 "index": 1,
                 "name": "Vehicle slot enabled",
-                "enabled": false
+                "enabled": true
               },
               {
                 "index": 2,
@@ -77417,7 +77417,7 @@
           },
           {
             "name": "Group",
-            "rawValue": "78900264",
+            "rawValue": "79900264",
             "fieldRank": 5
           },
           {
@@ -77907,12 +77907,12 @@
           },
           {
             "name": "BitField",
-            "rawValue": "104",
+            "rawValue": "105",
             "switchValues": [
               {
                 "index": 1,
                 "name": "Vehicle slot enabled",
-                "enabled": false
+                "enabled": true
               },
               {
                 "index": 2,
@@ -78464,12 +78464,12 @@
           },
           {
             "name": "BitField",
-            "rawValue": "110",
+            "rawValue": "111",
             "switchValues": [
               {
                 "index": 1,
                 "name": "Vehicle slot enabled",
-                "enabled": false
+                "enabled": true
               },
               {
                 "index": 2,
@@ -92946,12 +92946,12 @@
           },
           {
             "name": "BitField",
-            "rawValue": "110",
+            "rawValue": "111",
             "switchValues": [
               {
                 "index": 1,
                 "name": "Vehicle slot enabled",
-                "enabled": false
+                "enabled": true
               },
               {
                 "index": 2,
@@ -98056,7 +98056,7 @@
           },
           {
             "name": "HUD_File_Name",
-            "rawValue": "5726580",
+            "rawValue": "6626580",
             "fieldRank": 11
           },
           {
@@ -98516,12 +98516,12 @@
           },
           {
             "name": "BitField",
-            "rawValue": "104",
+            "rawValue": "105",
             "switchValues": [
               {
                 "index": 1,
                 "name": "Vehicle slot enabled",
-                "enabled": false
+                "enabled": true
               },
               {
                 "index": 2,
@@ -124692,6 +124692,70 @@
         {
           "value": "C6™ 'ShowNGo'",
           "ref": "63592366"
+        },
+        {
+          "value": "246_GTS",
+          "ref": "5277580"
+        },
+        {
+          "value": "308_GTB_U",
+          "ref": "6357580"
+        },
+        {
+          "value": "F40_P",
+          "ref": "6477580"
+        },
+        {
+          "value": "F40_P",
+          "ref": "6346567"
+        },
+        {
+          "value": "Prime",
+          "ref": "64592366"
+        },
+        {
+          "value": "Viper_VP1",
+          "ref": "6446567"
+        },
+        {
+          "value": "Viper_VP1",
+          "ref": "6577580"
+        },
+        {
+          "value": "Viper_VP2",
+          "ref": "6546567"
+        },
+        {
+          "value": "Viper_VP2",
+          "ref": "6677580"
+        },
+        {
+          "value": "Viper_VP3",
+          "ref": "6646567"
+        },
+        {
+          "value": "Viper_VP3",
+          "ref": "6777580"
+        },
+        {
+          "value": "Mas_GT_Cpe",
+          "ref": "6367567"
+        },
+        {
+          "value": "GranTurismo",
+          "ref": "64093667"
+        },
+        {
+          "value": "Mas_GT_Cpe",
+          "ref": "6376580"
+        },
+        {
+          "value": "350Z_Rst",
+          "ref": "6356580"
+        },
+        {
+          "value": "DAYTONA_955I",
+          "ref": "6626580"
         }
       ],
       "version": "1,2",
@@ -129663,6 +129727,70 @@
         {
           "value": "C6™ 'ShowNGo'",
           "ref": "63592366"
+        },
+        {
+          "value": "246_GTS",
+          "ref": "5277580"
+        },
+        {
+          "value": "308_GTB_U",
+          "ref": "6357580"
+        },
+        {
+          "value": "F40_P",
+          "ref": "6477580"
+        },
+        {
+          "value": "F40_P",
+          "ref": "6346567"
+        },
+        {
+          "value": "Prime",
+          "ref": "64592366"
+        },
+        {
+          "value": "Viper_VP1",
+          "ref": "6446567"
+        },
+        {
+          "value": "Viper_VP1",
+          "ref": "6577580"
+        },
+        {
+          "value": "Viper_VP2",
+          "ref": "6546567"
+        },
+        {
+          "value": "Viper_VP2",
+          "ref": "6677580"
+        },
+        {
+          "value": "Viper_VP3",
+          "ref": "6646567"
+        },
+        {
+          "value": "Viper_VP3",
+          "ref": "6777580"
+        },
+        {
+          "value": "Mas_GT_Cpe",
+          "ref": "6367567"
+        },
+        {
+          "value": "GranTurismo",
+          "ref": "64093667"
+        },
+        {
+          "value": "Mas_GT_Cpe",
+          "ref": "6376580"
+        },
+        {
+          "value": "350Z_Rst",
+          "ref": "6356580"
+        },
+        {
+          "value": "DAYTONA_955I",
+          "ref": "6626580"
         }
       ],
       "version": "1,2",
@@ -134634,6 +134762,70 @@
         {
           "value": "C6™ 'ShowNGo'",
           "ref": "63592366"
+        },
+        {
+          "value": "246_GTS",
+          "ref": "5277580"
+        },
+        {
+          "value": "308_GTB_U",
+          "ref": "6357580"
+        },
+        {
+          "value": "F40_P",
+          "ref": "6477580"
+        },
+        {
+          "value": "F40_P",
+          "ref": "6346567"
+        },
+        {
+          "value": "Prime",
+          "ref": "64592366"
+        },
+        {
+          "value": "Viper_VP1",
+          "ref": "6446567"
+        },
+        {
+          "value": "Viper_VP1",
+          "ref": "6577580"
+        },
+        {
+          "value": "Viper_VP2",
+          "ref": "6546567"
+        },
+        {
+          "value": "Viper_VP2",
+          "ref": "6677580"
+        },
+        {
+          "value": "Viper_VP3",
+          "ref": "6646567"
+        },
+        {
+          "value": "Viper_VP3",
+          "ref": "6777580"
+        },
+        {
+          "value": "Mas_GT_Cpe",
+          "ref": "6367567"
+        },
+        {
+          "value": "GranTurismo",
+          "ref": "64093667"
+        },
+        {
+          "value": "Mas_GT_Cpe",
+          "ref": "6376580"
+        },
+        {
+          "value": "350Z_Rst",
+          "ref": "6356580"
+        },
+        {
+          "value": "DAYTONA_955I",
+          "ref": "6626580"
         }
       ],
       "version": "1,2",
@@ -139605,6 +139797,70 @@
         {
           "value": "C6™ 'ShowNGo'",
           "ref": "63592366"
+        },
+        {
+          "value": "246_GTS",
+          "ref": "5277580"
+        },
+        {
+          "value": "308_GTB_U",
+          "ref": "6357580"
+        },
+        {
+          "value": "F40_P",
+          "ref": "6477580"
+        },
+        {
+          "value": "F40_P",
+          "ref": "6346567"
+        },
+        {
+          "value": "Prime",
+          "ref": "64592366"
+        },
+        {
+          "value": "Viper_VP1",
+          "ref": "6446567"
+        },
+        {
+          "value": "Viper_VP1",
+          "ref": "6577580"
+        },
+        {
+          "value": "Viper_VP2",
+          "ref": "6546567"
+        },
+        {
+          "value": "Viper_VP2",
+          "ref": "6677580"
+        },
+        {
+          "value": "Viper_VP3",
+          "ref": "6646567"
+        },
+        {
+          "value": "Viper_VP3",
+          "ref": "6777580"
+        },
+        {
+          "value": "Mas_GT_Cpe",
+          "ref": "6367567"
+        },
+        {
+          "value": "GranTurismo",
+          "ref": "64093667"
+        },
+        {
+          "value": "Mas_GT_Cpe",
+          "ref": "6376580"
+        },
+        {
+          "value": "350Z_Rst",
+          "ref": "6356580"
+        },
+        {
+          "value": "DAYTONA_955I",
+          "ref": "6626580"
         }
       ],
       "version": "1,2",
@@ -144576,6 +144832,70 @@
         {
           "value": "C6™ 'ShowNGo'",
           "ref": "63592366"
+        },
+        {
+          "value": "246_GTS",
+          "ref": "5277580"
+        },
+        {
+          "value": "308_GTB_U",
+          "ref": "6357580"
+        },
+        {
+          "value": "F40_P",
+          "ref": "6477580"
+        },
+        {
+          "value": "F40_P",
+          "ref": "6346567"
+        },
+        {
+          "value": "Prime",
+          "ref": "64592366"
+        },
+        {
+          "value": "Viper_VP1",
+          "ref": "6446567"
+        },
+        {
+          "value": "Viper_VP1",
+          "ref": "6577580"
+        },
+        {
+          "value": "Viper_VP2",
+          "ref": "6546567"
+        },
+        {
+          "value": "Viper_VP2",
+          "ref": "6677580"
+        },
+        {
+          "value": "Viper_VP3",
+          "ref": "6646567"
+        },
+        {
+          "value": "Viper_VP3",
+          "ref": "6777580"
+        },
+        {
+          "value": "Mas_GT_Cpe",
+          "ref": "6367567"
+        },
+        {
+          "value": "GranTurismo",
+          "ref": "64093667"
+        },
+        {
+          "value": "Mas_GT_Cpe",
+          "ref": "6376580"
+        },
+        {
+          "value": "350Z_Rst",
+          "ref": "6356580"
+        },
+        {
+          "value": "DAYTONA_955I",
+          "ref": "6626580"
         }
       ],
       "version": "1,2",
@@ -149547,6 +149867,70 @@
         {
           "value": "C6™ 'ShowNGo'",
           "ref": "63592366"
+        },
+        {
+          "value": "246_GTS",
+          "ref": "5277580"
+        },
+        {
+          "value": "308_GTB_U",
+          "ref": "6357580"
+        },
+        {
+          "value": "F40_P",
+          "ref": "6477580"
+        },
+        {
+          "value": "F40_P",
+          "ref": "6346567"
+        },
+        {
+          "value": "Prime",
+          "ref": "64592366"
+        },
+        {
+          "value": "Viper_VP1",
+          "ref": "6446567"
+        },
+        {
+          "value": "Viper_VP1",
+          "ref": "6577580"
+        },
+        {
+          "value": "Viper_VP2",
+          "ref": "6546567"
+        },
+        {
+          "value": "Viper_VP2",
+          "ref": "6677580"
+        },
+        {
+          "value": "Viper_VP3",
+          "ref": "6646567"
+        },
+        {
+          "value": "Viper_VP3",
+          "ref": "6777580"
+        },
+        {
+          "value": "Mas_GT_Cpe",
+          "ref": "6367567"
+        },
+        {
+          "value": "GranTurismo",
+          "ref": "64093667"
+        },
+        {
+          "value": "Mas_GT_Cpe",
+          "ref": "6376580"
+        },
+        {
+          "value": "350Z_Rst",
+          "ref": "6356580"
+        },
+        {
+          "value": "DAYTONA_955I",
+          "ref": "6626580"
         }
       ],
       "version": "1,2",
@@ -154518,6 +154902,70 @@
         {
           "value": "C6™ 'ShowNGo'",
           "ref": "63592366"
+        },
+        {
+          "value": "246_GTS",
+          "ref": "5277580"
+        },
+        {
+          "value": "308_GTB_U",
+          "ref": "6357580"
+        },
+        {
+          "value": "F40_P",
+          "ref": "6477580"
+        },
+        {
+          "value": "F40_P",
+          "ref": "6346567"
+        },
+        {
+          "value": "Prime",
+          "ref": "64592366"
+        },
+        {
+          "value": "Viper_VP1",
+          "ref": "6446567"
+        },
+        {
+          "value": "Viper_VP1",
+          "ref": "6577580"
+        },
+        {
+          "value": "Viper_VP2",
+          "ref": "6546567"
+        },
+        {
+          "value": "Viper_VP2",
+          "ref": "6677580"
+        },
+        {
+          "value": "Viper_VP3",
+          "ref": "6646567"
+        },
+        {
+          "value": "Viper_VP3",
+          "ref": "6777580"
+        },
+        {
+          "value": "Mas_GT_Cpe",
+          "ref": "6367567"
+        },
+        {
+          "value": "GranTurismo",
+          "ref": "64093667"
+        },
+        {
+          "value": "Mas_GT_Cpe",
+          "ref": "6376580"
+        },
+        {
+          "value": "350Z_Rst",
+          "ref": "6356580"
+        },
+        {
+          "value": "DAYTONA_955I",
+          "ref": "6626580"
         }
       ],
       "version": "1,2",
@@ -159489,6 +159937,70 @@
         {
           "value": "C6™ 'ShowNGo'",
           "ref": "63592366"
+        },
+        {
+          "value": "246_GTS",
+          "ref": "5277580"
+        },
+        {
+          "value": "308_GTB_U",
+          "ref": "6357580"
+        },
+        {
+          "value": "F40_P",
+          "ref": "6477580"
+        },
+        {
+          "value": "F40_P",
+          "ref": "6346567"
+        },
+        {
+          "value": "Prime",
+          "ref": "64592366"
+        },
+        {
+          "value": "Viper_VP1",
+          "ref": "6446567"
+        },
+        {
+          "value": "Viper_VP1",
+          "ref": "6577580"
+        },
+        {
+          "value": "Viper_VP2",
+          "ref": "6546567"
+        },
+        {
+          "value": "Viper_VP2",
+          "ref": "6677580"
+        },
+        {
+          "value": "Viper_VP3",
+          "ref": "6646567"
+        },
+        {
+          "value": "Viper_VP3",
+          "ref": "6777580"
+        },
+        {
+          "value": "Mas_GT_Cpe",
+          "ref": "6367567"
+        },
+        {
+          "value": "GranTurismo",
+          "ref": "64093667"
+        },
+        {
+          "value": "Mas_GT_Cpe",
+          "ref": "6376580"
+        },
+        {
+          "value": "350Z_Rst",
+          "ref": "6356580"
+        },
+        {
+          "value": "DAYTONA_955I",
+          "ref": "6626580"
         }
       ],
       "version": "1,2",
