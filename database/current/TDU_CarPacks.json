@@ -282,136 +282,6 @@
         "items": [
           {
             "name": "Car",
-            "rawValue": "606298799",
-            "fieldRank": 1
-          },
-          {
-            "name": "Brand",
-            "rawValue": "735",
-            "fieldRank": 2
-          },
-          {
-            "name": "Car_File_Name_Swap",
-            "rawValue": "57356917",
-            "fieldRank": 3
-          },
-          {
-            "name": "Libelle",
-            "rawValue": "5893697",
-            "fieldRank": 4
-          },
-          {
-            "name": "Pack_1",
-            "rawValue": "1054454476",
-            "fieldRank": 5
-          },
-          {
-            "name": "Group_1",
-            "rawValue": "92900264",
-            "fieldRank": 6
-          },
-          {
-            "name": "Car_1",
-            "rawValue": "61085282",
-            "fieldRank": 7
-          },
-          {
-            "name": "Price_1",
-            "rawValue": "30000",
-            "fieldRank": 8
-          },
-          {
-            "name": "Accel_0_100_1",
-            "rawValue": "4,5",
-            "fieldRank": 9
-          },
-          {
-            "name": "BrakingDist_1",
-            "rawValue": "148",
-            "fieldRank": 10
-          },
-          {
-            "name": "Handling_1",
-            "rawValue": "15",
-            "fieldRank": 11
-          },
-          {
-            "name": "Pack_2",
-            "rawValue": "1054454477",
-            "fieldRank": 12
-          },
-          {
-            "name": "Group_2",
-            "rawValue": "92900264",
-            "fieldRank": 13
-          },
-          {
-            "name": "Car_2",
-            "rawValue": "61085282",
-            "fieldRank": 14
-          },
-          {
-            "name": "Price_2",
-            "rawValue": "50000",
-            "fieldRank": 15
-          },
-          {
-            "name": "Accel_0_100_2",
-            "rawValue": "4,4",
-            "fieldRank": 16
-          },
-          {
-            "name": "BrakingDist_2",
-            "rawValue": "142",
-            "fieldRank": 17
-          },
-          {
-            "name": "Handling_2",
-            "rawValue": "17",
-            "fieldRank": 18
-          },
-          {
-            "name": "Pack_3",
-            "rawValue": "1054454478",
-            "fieldRank": 19
-          },
-          {
-            "name": "Group_3",
-            "rawValue": "92900264",
-            "fieldRank": 20
-          },
-          {
-            "name": "Car_3",
-            "rawValue": "61085282",
-            "fieldRank": 21
-          },
-          {
-            "name": "Price_3",
-            "rawValue": "80000",
-            "fieldRank": 22
-          },
-          {
-            "name": "Accel_0_100_3",
-            "rawValue": "4,1",
-            "fieldRank": 23
-          },
-          {
-            "name": "BrakingDist_3",
-            "rawValue": "137",
-            "fieldRank": 24
-          },
-          {
-            "name": "Handling_3",
-            "rawValue": "19",
-            "fieldRank": 25
-          }
-        ]
-      },
-      {
-        "id": 2,
-        "items": [
-          {
-            "name": "Car",
             "rawValue": "637314272",
             "fieldRank": 1
           },
@@ -538,7 +408,7 @@
         ]
       },
       {
-        "id": 3,
+        "id": 2,
         "items": [
           {
             "name": "Car",
@@ -668,7 +538,7 @@
         ]
       },
       {
-        "id": 4,
+        "id": 3,
         "items": [
           {
             "name": "Car",
@@ -798,7 +668,7 @@
         ]
       },
       {
-        "id": 5,
+        "id": 4,
         "items": [
           {
             "name": "Car",
@@ -928,7 +798,7 @@
         ]
       },
       {
-        "id": 6,
+        "id": 5,
         "items": [
           {
             "name": "Car",
@@ -1058,7 +928,7 @@
         ]
       },
       {
-        "id": 7,
+        "id": 6,
         "items": [
           {
             "name": "Car",
@@ -1188,7 +1058,7 @@
         ]
       },
       {
-        "id": 8,
+        "id": 7,
         "items": [
           {
             "name": "Car",
@@ -1318,7 +1188,7 @@
         ]
       },
       {
-        "id": 9,
+        "id": 8,
         "items": [
           {
             "name": "Car",
@@ -1448,7 +1318,7 @@
         ]
       },
       {
-        "id": 10,
+        "id": 9,
         "items": [
           {
             "name": "Car",
@@ -1578,7 +1448,7 @@
         ]
       },
       {
-        "id": 11,
+        "id": 10,
         "items": [
           {
             "name": "Car",
@@ -1708,7 +1578,7 @@
         ]
       },
       {
-        "id": 12,
+        "id": 11,
         "items": [
           {
             "name": "Car",
@@ -1838,7 +1708,7 @@
         ]
       },
       {
-        "id": 13,
+        "id": 12,
         "items": [
           {
             "name": "Car",
@@ -1968,7 +1838,7 @@
         ]
       },
       {
-        "id": 14,
+        "id": 13,
         "items": [
           {
             "name": "Car",
@@ -2098,7 +1968,7 @@
         ]
       },
       {
-        "id": 15,
+        "id": 14,
         "items": [
           {
             "name": "Car",
@@ -2228,7 +2098,7 @@
         ]
       },
       {
-        "id": 16,
+        "id": 15,
         "items": [
           {
             "name": "Car",
@@ -2358,7 +2228,7 @@
         ]
       },
       {
-        "id": 17,
+        "id": 16,
         "items": [
           {
             "name": "Car",
@@ -2488,7 +2358,7 @@
         ]
       },
       {
-        "id": 18,
+        "id": 17,
         "items": [
           {
             "name": "Car",
@@ -2618,7 +2488,7 @@
         ]
       },
       {
-        "id": 19,
+        "id": 18,
         "items": [
           {
             "name": "Car",
@@ -2748,7 +2618,7 @@
         ]
       },
       {
-        "id": 20,
+        "id": 19,
         "items": [
           {
             "name": "Car",
@@ -2878,7 +2748,7 @@
         ]
       },
       {
-        "id": 21,
+        "id": 20,
         "items": [
           {
             "name": "Car",
@@ -3008,7 +2878,7 @@
         ]
       },
       {
-        "id": 22,
+        "id": 21,
         "items": [
           {
             "name": "Car",
@@ -3138,7 +3008,7 @@
         ]
       },
       {
-        "id": 23,
+        "id": 22,
         "items": [
           {
             "name": "Car",
@@ -3268,7 +3138,7 @@
         ]
       },
       {
-        "id": 24,
+        "id": 23,
         "items": [
           {
             "name": "Car",
@@ -3398,7 +3268,7 @@
         ]
       },
       {
-        "id": 25,
+        "id": 24,
         "items": [
           {
             "name": "Car",
@@ -3528,7 +3398,7 @@
         ]
       },
       {
-        "id": 26,
+        "id": 25,
         "items": [
           {
             "name": "Car",
@@ -3658,7 +3528,7 @@
         ]
       },
       {
-        "id": 27,
+        "id": 26,
         "items": [
           {
             "name": "Car",
@@ -3788,7 +3658,7 @@
         ]
       },
       {
-        "id": 28,
+        "id": 27,
         "items": [
           {
             "name": "Car",
@@ -3918,7 +3788,7 @@
         ]
       },
       {
-        "id": 29,
+        "id": 28,
         "items": [
           {
             "name": "Car",
@@ -4048,7 +3918,7 @@
         ]
       },
       {
-        "id": 30,
+        "id": 29,
         "items": [
           {
             "name": "Car",
@@ -4178,7 +4048,7 @@
         ]
       },
       {
-        "id": 31,
+        "id": 30,
         "items": [
           {
             "name": "Car",
@@ -4308,7 +4178,7 @@
         ]
       },
       {
-        "id": 32,
+        "id": 31,
         "items": [
           {
             "name": "Car",
@@ -4438,7 +4308,7 @@
         ]
       },
       {
-        "id": 33,
+        "id": 32,
         "items": [
           {
             "name": "Car",
@@ -4568,7 +4438,7 @@
         ]
       },
       {
-        "id": 34,
+        "id": 33,
         "items": [
           {
             "name": "Car",
@@ -4698,7 +4568,7 @@
         ]
       },
       {
-        "id": 35,
+        "id": 34,
         "items": [
           {
             "name": "Car",
@@ -4828,7 +4698,7 @@
         ]
       },
       {
-        "id": 36,
+        "id": 35,
         "items": [
           {
             "name": "Car",
@@ -4958,7 +4828,7 @@
         ]
       },
       {
-        "id": 37,
+        "id": 36,
         "items": [
           {
             "name": "Car",
@@ -5088,7 +4958,7 @@
         ]
       },
       {
-        "id": 38,
+        "id": 37,
         "items": [
           {
             "name": "Car",
@@ -5218,7 +5088,7 @@
         ]
       },
       {
-        "id": 39,
+        "id": 38,
         "items": [
           {
             "name": "Car",
@@ -5348,7 +5218,7 @@
         ]
       },
       {
-        "id": 40,
+        "id": 39,
         "items": [
           {
             "name": "Car",
@@ -5478,7 +5348,7 @@
         ]
       },
       {
-        "id": 41,
+        "id": 40,
         "items": [
           {
             "name": "Car",
@@ -5608,7 +5478,7 @@
         ]
       },
       {
-        "id": 42,
+        "id": 41,
         "items": [
           {
             "name": "Car",
@@ -5738,7 +5608,7 @@
         ]
       },
       {
-        "id": 43,
+        "id": 42,
         "items": [
           {
             "name": "Car",
@@ -5868,137 +5738,7 @@
         ]
       },
       {
-        "id": 44,
-        "items": [
-          {
-            "name": "Car",
-            "rawValue": "1193140602",
-            "fieldRank": 1
-          },
-          {
-            "name": "Brand",
-            "rawValue": "81940960",
-            "fieldRank": 2
-          },
-          {
-            "name": "Car_File_Name_Swap",
-            "rawValue": "57356917",
-            "fieldRank": 3
-          },
-          {
-            "name": "Libelle",
-            "rawValue": "6073697",
-            "fieldRank": 4
-          },
-          {
-            "name": "Pack_1",
-            "rawValue": "1054454476",
-            "fieldRank": 5
-          },
-          {
-            "name": "Group_1",
-            "rawValue": "92900264",
-            "fieldRank": 6
-          },
-          {
-            "name": "Car_1",
-            "rawValue": "61085282",
-            "fieldRank": 7
-          },
-          {
-            "name": "Price_1",
-            "rawValue": "30000",
-            "fieldRank": 8
-          },
-          {
-            "name": "Accel_0_100_1",
-            "rawValue": "7,1",
-            "fieldRank": 9
-          },
-          {
-            "name": "BrakingDist_1",
-            "rawValue": "116",
-            "fieldRank": 10
-          },
-          {
-            "name": "Handling_1",
-            "rawValue": "82",
-            "fieldRank": 11
-          },
-          {
-            "name": "Pack_2",
-            "rawValue": "1054454477",
-            "fieldRank": 12
-          },
-          {
-            "name": "Group_2",
-            "rawValue": "92900264",
-            "fieldRank": 13
-          },
-          {
-            "name": "Car_2",
-            "rawValue": "61085282",
-            "fieldRank": 14
-          },
-          {
-            "name": "Price_2",
-            "rawValue": "45000",
-            "fieldRank": 15
-          },
-          {
-            "name": "Accel_0_100_2",
-            "rawValue": "6,4",
-            "fieldRank": 16
-          },
-          {
-            "name": "BrakingDist_2",
-            "rawValue": "107",
-            "fieldRank": 17
-          },
-          {
-            "name": "Handling_2",
-            "rawValue": "84",
-            "fieldRank": 18
-          },
-          {
-            "name": "Pack_3",
-            "rawValue": "1054454478",
-            "fieldRank": 19
-          },
-          {
-            "name": "Group_3",
-            "rawValue": "92900264",
-            "fieldRank": 20
-          },
-          {
-            "name": "Car_3",
-            "rawValue": "61085282",
-            "fieldRank": 21
-          },
-          {
-            "name": "Price_3",
-            "rawValue": "75000",
-            "fieldRank": 22
-          },
-          {
-            "name": "Accel_0_100_3",
-            "rawValue": "6",
-            "fieldRank": 23
-          },
-          {
-            "name": "BrakingDist_3",
-            "rawValue": "100",
-            "fieldRank": 24
-          },
-          {
-            "name": "Handling_3",
-            "rawValue": "86",
-            "fieldRank": 25
-          }
-        ]
-      },
-      {
-        "id": 45,
+        "id": 43,
         "items": [
           {
             "name": "Car",
@@ -6128,7 +5868,7 @@
         ]
       },
       {
-        "id": 46,
+        "id": 44,
         "items": [
           {
             "name": "Car",
@@ -6258,7 +5998,7 @@
         ]
       },
       {
-        "id": 47,
+        "id": 45,
         "items": [
           {
             "name": "Car",
@@ -6388,7 +6128,7 @@
         ]
       },
       {
-        "id": 48,
+        "id": 46,
         "items": [
           {
             "name": "Car",
@@ -6518,7 +6258,7 @@
         ]
       },
       {
-        "id": 49,
+        "id": 47,
         "items": [
           {
             "name": "Car",
@@ -6648,7 +6388,7 @@
         ]
       },
       {
-        "id": 50,
+        "id": 48,
         "items": [
           {
             "name": "Car",
@@ -6778,7 +6518,7 @@
         ]
       },
       {
-        "id": 51,
+        "id": 49,
         "items": [
           {
             "name": "Car",
@@ -6908,7 +6648,7 @@
         ]
       },
       {
-        "id": 52,
+        "id": 50,
         "items": [
           {
             "name": "Car",
@@ -7038,7 +6778,7 @@
         ]
       },
       {
-        "id": 53,
+        "id": 51,
         "items": [
           {
             "name": "Car",
@@ -7168,7 +6908,7 @@
         ]
       },
       {
-        "id": 54,
+        "id": 52,
         "items": [
           {
             "name": "Car",
@@ -7298,7 +7038,7 @@
         ]
       },
       {
-        "id": 55,
+        "id": 53,
         "items": [
           {
             "name": "Car",
@@ -7428,7 +7168,7 @@
         ]
       },
       {
-        "id": 56,
+        "id": 54,
         "items": [
           {
             "name": "Car",
@@ -7558,7 +7298,7 @@
         ]
       },
       {
-        "id": 57,
+        "id": 55,
         "items": [
           {
             "name": "Car",
@@ -7688,7 +7428,7 @@
         ]
       },
       {
-        "id": 58,
+        "id": 56,
         "items": [
           {
             "name": "Car",
@@ -7818,7 +7558,7 @@
         ]
       },
       {
-        "id": 59,
+        "id": 57,
         "items": [
           {
             "name": "Car",
@@ -7948,7 +7688,7 @@
         ]
       },
       {
-        "id": 60,
+        "id": 58,
         "items": [
           {
             "name": "Car",
@@ -8078,7 +7818,7 @@
         ]
       },
       {
-        "id": 61,
+        "id": 59,
         "items": [
           {
             "name": "Car",
@@ -8208,7 +7948,7 @@
         ]
       },
       {
-        "id": 62,
+        "id": 60,
         "items": [
           {
             "name": "Car",
@@ -8338,7 +8078,7 @@
         ]
       },
       {
-        "id": 63,
+        "id": 61,
         "items": [
           {
             "name": "Car",
@@ -8468,7 +8208,7 @@
         ]
       },
       {
-        "id": 64,
+        "id": 62,
         "items": [
           {
             "name": "Car",
@@ -8598,7 +8338,7 @@
         ]
       },
       {
-        "id": 65,
+        "id": 63,
         "items": [
           {
             "name": "Car",
@@ -8728,7 +8468,7 @@
         ]
       },
       {
-        "id": 66,
+        "id": 64,
         "items": [
           {
             "name": "Car",
@@ -8858,7 +8598,7 @@
         ]
       },
       {
-        "id": 67,
+        "id": 65,
         "items": [
           {
             "name": "Car",
@@ -8988,137 +8728,7 @@
         ]
       },
       {
-        "id": 68,
-        "items": [
-          {
-            "name": "Car",
-            "rawValue": "921827346",
-            "fieldRank": 1
-          },
-          {
-            "name": "Brand",
-            "rawValue": "864426",
-            "fieldRank": 2
-          },
-          {
-            "name": "Car_File_Name_Swap",
-            "rawValue": "57356917",
-            "fieldRank": 3
-          },
-          {
-            "name": "Libelle",
-            "rawValue": "6073697",
-            "fieldRank": 4
-          },
-          {
-            "name": "Pack_1",
-            "rawValue": "1054454476",
-            "fieldRank": 5
-          },
-          {
-            "name": "Group_1",
-            "rawValue": "92900264",
-            "fieldRank": 6
-          },
-          {
-            "name": "Car_1",
-            "rawValue": "61085282",
-            "fieldRank": 7
-          },
-          {
-            "name": "Price_1",
-            "rawValue": "50000",
-            "fieldRank": 8
-          },
-          {
-            "name": "Accel_0_100_1",
-            "rawValue": "3,9",
-            "fieldRank": 9
-          },
-          {
-            "name": "BrakingDist_1",
-            "rawValue": "125",
-            "fieldRank": 10
-          },
-          {
-            "name": "Handling_1",
-            "rawValue": "80",
-            "fieldRank": 11
-          },
-          {
-            "name": "Pack_2",
-            "rawValue": "1054454477",
-            "fieldRank": 12
-          },
-          {
-            "name": "Group_2",
-            "rawValue": "92900264",
-            "fieldRank": 13
-          },
-          {
-            "name": "Car_2",
-            "rawValue": "61085282",
-            "fieldRank": 14
-          },
-          {
-            "name": "Price_2",
-            "rawValue": "100000",
-            "fieldRank": 15
-          },
-          {
-            "name": "Accel_0_100_2",
-            "rawValue": "3,7",
-            "fieldRank": 16
-          },
-          {
-            "name": "BrakingDist_2",
-            "rawValue": "122",
-            "fieldRank": 17
-          },
-          {
-            "name": "Handling_2",
-            "rawValue": "82",
-            "fieldRank": 18
-          },
-          {
-            "name": "Pack_3",
-            "rawValue": "1054454478",
-            "fieldRank": 19
-          },
-          {
-            "name": "Group_3",
-            "rawValue": "92900264",
-            "fieldRank": 20
-          },
-          {
-            "name": "Car_3",
-            "rawValue": "61085282",
-            "fieldRank": 21
-          },
-          {
-            "name": "Price_3",
-            "rawValue": "160000",
-            "fieldRank": 22
-          },
-          {
-            "name": "Accel_0_100_3",
-            "rawValue": "3,6",
-            "fieldRank": 23
-          },
-          {
-            "name": "BrakingDist_3",
-            "rawValue": "117",
-            "fieldRank": 24
-          },
-          {
-            "name": "Handling_3",
-            "rawValue": "84",
-            "fieldRank": 25
-          }
-        ]
-      },
-      {
-        "id": 69,
+        "id": 66,
         "items": [
           {
             "name": "Car",
@@ -9248,7 +8858,7 @@
         ]
       },
       {
-        "id": 70,
+        "id": 67,
         "items": [
           {
             "name": "Car",
@@ -9378,7 +8988,7 @@
         ]
       },
       {
-        "id": 71,
+        "id": 68,
         "items": [
           {
             "name": "Car",
@@ -9508,7 +9118,7 @@
         ]
       },
       {
-        "id": 72,
+        "id": 69,
         "items": [
           {
             "name": "Car",
@@ -9638,7 +9248,7 @@
         ]
       },
       {
-        "id": 73,
+        "id": 70,
         "items": [
           {
             "name": "Car",
@@ -9768,7 +9378,7 @@
         ]
       },
       {
-        "id": 74,
+        "id": 71,
         "items": [
           {
             "name": "Car",
@@ -9898,7 +9508,7 @@
         ]
       },
       {
-        "id": 75,
+        "id": 72,
         "items": [
           {
             "name": "Car",
@@ -10028,137 +9638,7 @@
         ]
       },
       {
-        "id": 76,
-        "items": [
-          {
-            "name": "Car",
-            "rawValue": "700912892",
-            "fieldRank": 1
-          },
-          {
-            "name": "Brand",
-            "rawValue": "924566",
-            "fieldRank": 2
-          },
-          {
-            "name": "Car_File_Name_Swap",
-            "rawValue": "57356917",
-            "fieldRank": 3
-          },
-          {
-            "name": "Libelle",
-            "rawValue": "5383697",
-            "fieldRank": 4
-          },
-          {
-            "name": "Pack_1",
-            "rawValue": "1095396422",
-            "fieldRank": 5
-          },
-          {
-            "name": "Group_1",
-            "rawValue": "92900264",
-            "fieldRank": 6
-          },
-          {
-            "name": "Car_1",
-            "rawValue": "61085282",
-            "fieldRank": 7
-          },
-          {
-            "name": "Price_1",
-            "rawValue": "35000",
-            "fieldRank": 8
-          },
-          {
-            "name": "Accel_0_100_1",
-            "rawValue": "4,8",
-            "fieldRank": 9
-          },
-          {
-            "name": "BrakingDist_1",
-            "rawValue": "127",
-            "fieldRank": 10
-          },
-          {
-            "name": "Handling_1",
-            "rawValue": "65",
-            "fieldRank": 11
-          },
-          {
-            "name": "Pack_2",
-            "rawValue": "1095396423",
-            "fieldRank": 12
-          },
-          {
-            "name": "Group_2",
-            "rawValue": "92900264",
-            "fieldRank": 13
-          },
-          {
-            "name": "Car_2",
-            "rawValue": "61085282",
-            "fieldRank": 14
-          },
-          {
-            "name": "Price_2",
-            "rawValue": "50000",
-            "fieldRank": 15
-          },
-          {
-            "name": "Accel_0_100_2",
-            "rawValue": "4,5",
-            "fieldRank": 16
-          },
-          {
-            "name": "BrakingDist_2",
-            "rawValue": "115",
-            "fieldRank": 17
-          },
-          {
-            "name": "Handling_2",
-            "rawValue": "67",
-            "fieldRank": 18
-          },
-          {
-            "name": "Pack_3",
-            "rawValue": "1095396424",
-            "fieldRank": 19
-          },
-          {
-            "name": "Group_3",
-            "rawValue": "92900264",
-            "fieldRank": 20
-          },
-          {
-            "name": "Car_3",
-            "rawValue": "61085282",
-            "fieldRank": 21
-          },
-          {
-            "name": "Price_3",
-            "rawValue": "100000",
-            "fieldRank": 22
-          },
-          {
-            "name": "Accel_0_100_3",
-            "rawValue": "4,4",
-            "fieldRank": 23
-          },
-          {
-            "name": "BrakingDist_3",
-            "rawValue": "110",
-            "fieldRank": 24
-          },
-          {
-            "name": "Handling_3",
-            "rawValue": "69",
-            "fieldRank": 25
-          }
-        ]
-      },
-      {
-        "id": 77,
+        "id": 73,
         "items": [
           {
             "name": "Car",
@@ -10288,7 +9768,7 @@
         ]
       },
       {
-        "id": 78,
+        "id": 74,
         "items": [
           {
             "name": "Car",
@@ -10418,7 +9898,7 @@
         ]
       },
       {
-        "id": 79,
+        "id": 75,
         "items": [
           {
             "name": "Car",
@@ -10548,7 +10028,7 @@
         ]
       },
       {
-        "id": 80,
+        "id": 76,
         "items": [
           {
             "name": "Car",
@@ -10678,7 +10158,7 @@
         ]
       },
       {
-        "id": 81,
+        "id": 77,
         "items": [
           {
             "name": "Car",
@@ -10808,7 +10288,7 @@
         ]
       },
       {
-        "id": 82,
+        "id": 78,
         "items": [
           {
             "name": "Car",
@@ -10938,7 +10418,7 @@
         ]
       },
       {
-        "id": 83,
+        "id": 79,
         "items": [
           {
             "name": "Car",
@@ -11068,7 +10548,7 @@
         ]
       },
       {
-        "id": 84,
+        "id": 80,
         "items": [
           {
             "name": "Car",
@@ -11198,7 +10678,7 @@
         ]
       },
       {
-        "id": 85,
+        "id": 81,
         "items": [
           {
             "name": "Car",
@@ -11328,7 +10808,7 @@
         ]
       },
       {
-        "id": 86,
+        "id": 82,
         "items": [
           {
             "name": "Car",
@@ -11458,7 +10938,7 @@
         ]
       },
       {
-        "id": 87,
+        "id": 83,
         "items": [
           {
             "name": "Car",
@@ -11588,7 +11068,7 @@
         ]
       },
       {
-        "id": 88,
+        "id": 84,
         "items": [
           {
             "name": "Car",
@@ -11718,7 +11198,7 @@
         ]
       },
       {
-        "id": 89,
+        "id": 85,
         "items": [
           {
             "name": "Car",
@@ -11848,137 +11328,7 @@
         ]
       },
       {
-        "id": 90,
-        "items": [
-          {
-            "name": "Car",
-            "rawValue": "699572006",
-            "fieldRank": 1
-          },
-          {
-            "name": "Brand",
-            "rawValue": "727727",
-            "fieldRank": 2
-          },
-          {
-            "name": "Car_File_Name_Swap",
-            "rawValue": "57356917",
-            "fieldRank": 3
-          },
-          {
-            "name": "Libelle",
-            "rawValue": "5383697",
-            "fieldRank": 4
-          },
-          {
-            "name": "Pack_1",
-            "rawValue": "1054454476",
-            "fieldRank": 5
-          },
-          {
-            "name": "Group_1",
-            "rawValue": "92900264",
-            "fieldRank": 6
-          },
-          {
-            "name": "Car_1",
-            "rawValue": "61085282",
-            "fieldRank": 7
-          },
-          {
-            "name": "Price_1",
-            "rawValue": "11000",
-            "fieldRank": 8
-          },
-          {
-            "name": "Accel_0_100_1",
-            "rawValue": "5,9",
-            "fieldRank": 9
-          },
-          {
-            "name": "BrakingDist_1",
-            "rawValue": "125",
-            "fieldRank": 10
-          },
-          {
-            "name": "Handling_1",
-            "rawValue": "70",
-            "fieldRank": 11
-          },
-          {
-            "name": "Pack_2",
-            "rawValue": "1054454477",
-            "fieldRank": 12
-          },
-          {
-            "name": "Group_2",
-            "rawValue": "92900264",
-            "fieldRank": 13
-          },
-          {
-            "name": "Car_2",
-            "rawValue": "61085282",
-            "fieldRank": 14
-          },
-          {
-            "name": "Price_2",
-            "rawValue": "21000",
-            "fieldRank": 15
-          },
-          {
-            "name": "Accel_0_100_2",
-            "rawValue": "5,4",
-            "fieldRank": 16
-          },
-          {
-            "name": "BrakingDist_2",
-            "rawValue": "120",
-            "fieldRank": 17
-          },
-          {
-            "name": "Handling_2",
-            "rawValue": "75",
-            "fieldRank": 18
-          },
-          {
-            "name": "Pack_3",
-            "rawValue": "1054454478",
-            "fieldRank": 19
-          },
-          {
-            "name": "Group_3",
-            "rawValue": "92900264",
-            "fieldRank": 20
-          },
-          {
-            "name": "Car_3",
-            "rawValue": "61085282",
-            "fieldRank": 21
-          },
-          {
-            "name": "Price_3",
-            "rawValue": "41000",
-            "fieldRank": 22
-          },
-          {
-            "name": "Accel_0_100_3",
-            "rawValue": "4,3",
-            "fieldRank": 23
-          },
-          {
-            "name": "BrakingDist_3",
-            "rawValue": "110",
-            "fieldRank": 24
-          },
-          {
-            "name": "Handling_3",
-            "rawValue": "80",
-            "fieldRank": 25
-          }
-        ]
-      },
-      {
-        "id": 91,
+        "id": 86,
         "items": [
           {
             "name": "Car",
@@ -12108,7 +11458,7 @@
         ]
       },
       {
-        "id": 92,
+        "id": 87,
         "items": [
           {
             "name": "Car",
@@ -12238,7 +11588,7 @@
         ]
       },
       {
-        "id": 93,
+        "id": 88,
         "items": [
           {
             "name": "Car",
@@ -12368,7 +11718,7 @@
         ]
       },
       {
-        "id": 94,
+        "id": 89,
         "items": [
           {
             "name": "Car",
@@ -12498,7 +11848,7 @@
         ]
       },
       {
-        "id": 95,
+        "id": 90,
         "items": [
           {
             "name": "Car",
@@ -12628,7 +11978,7 @@
         ]
       },
       {
-        "id": 96,
+        "id": 91,
         "items": [
           {
             "name": "Car",
@@ -12758,7 +12108,7 @@
         ]
       },
       {
-        "id": 97,
+        "id": 92,
         "items": [
           {
             "name": "Car",
@@ -12888,7 +12238,7 @@
         ]
       },
       {
-        "id": 98,
+        "id": 93,
         "items": [
           {
             "name": "Car",
@@ -13018,7 +12368,7 @@
         ]
       },
       {
-        "id": 99,
+        "id": 94,
         "items": [
           {
             "name": "Car",
@@ -13148,7 +12498,7 @@
         ]
       },
       {
-        "id": 100,
+        "id": 95,
         "items": [
           {
             "name": "Car",
@@ -13278,7 +12628,7 @@
         ]
       },
       {
-        "id": 101,
+        "id": 96,
         "items": [
           {
             "name": "Car",
@@ -13408,7 +12758,7 @@
         ]
       },
       {
-        "id": 102,
+        "id": 97,
         "items": [
           {
             "name": "Car",
@@ -13538,7 +12888,7 @@
         ]
       },
       {
-        "id": 103,
+        "id": 98,
         "items": [
           {
             "name": "Car",
@@ -13668,7 +13018,7 @@
         ]
       },
       {
-        "id": 104,
+        "id": 99,
         "items": [
           {
             "name": "Car",
@@ -13798,7 +13148,7 @@
         ]
       },
       {
-        "id": 105,
+        "id": 100,
         "items": [
           {
             "name": "Car",
@@ -13928,7 +13278,7 @@
         ]
       },
       {
-        "id": 106,
+        "id": 101,
         "items": [
           {
             "name": "Car",
@@ -14058,7 +13408,7 @@
         ]
       },
       {
-        "id": 107,
+        "id": 102,
         "items": [
           {
             "name": "Car",
@@ -14188,7 +13538,7 @@
         ]
       },
       {
-        "id": 108,
+        "id": 103,
         "items": [
           {
             "name": "Car",
@@ -14318,7 +13668,7 @@
         ]
       },
       {
-        "id": 109,
+        "id": 104,
         "items": [
           {
             "name": "Car",
@@ -14448,7 +13798,7 @@
         ]
       },
       {
-        "id": 110,
+        "id": 105,
         "items": [
           {
             "name": "Car",
@@ -14578,7 +13928,7 @@
         ]
       },
       {
-        "id": 111,
+        "id": 106,
         "items": [
           {
             "name": "Car",
@@ -14708,7 +14058,7 @@
         ]
       },
       {
-        "id": 112,
+        "id": 107,
         "items": [
           {
             "name": "Car",
@@ -14838,7 +14188,7 @@
         ]
       },
       {
-        "id": 113,
+        "id": 108,
         "items": [
           {
             "name": "Car",
@@ -14968,7 +14318,7 @@
         ]
       },
       {
-        "id": 114,
+        "id": 109,
         "items": [
           {
             "name": "Car",
@@ -15098,7 +14448,7 @@
         ]
       },
       {
-        "id": 115,
+        "id": 110,
         "items": [
           {
             "name": "Car",
@@ -15228,7 +14578,7 @@
         ]
       },
       {
-        "id": 116,
+        "id": 111,
         "items": [
           {
             "name": "Car",
@@ -15358,7 +14708,7 @@
         ]
       },
       {
-        "id": 117,
+        "id": 112,
         "items": [
           {
             "name": "Car",
@@ -15488,7 +14838,7 @@
         ]
       },
       {
-        "id": 118,
+        "id": 113,
         "items": [
           {
             "name": "Car",
@@ -15618,7 +14968,7 @@
         ]
       },
       {
-        "id": 119,
+        "id": 114,
         "items": [
           {
             "name": "Car",
@@ -15748,7 +15098,7 @@
         ]
       },
       {
-        "id": 120,
+        "id": 115,
         "items": [
           {
             "name": "Car",
@@ -15878,7 +15228,7 @@
         ]
       },
       {
-        "id": 121,
+        "id": 116,
         "items": [
           {
             "name": "Car",
@@ -16008,7 +15358,7 @@
         ]
       },
       {
-        "id": 122,
+        "id": 117,
         "items": [
           {
             "name": "Car",
@@ -16138,7 +15488,7 @@
         ]
       },
       {
-        "id": 123,
+        "id": 118,
         "items": [
           {
             "name": "Car",
@@ -16268,7 +15618,7 @@
         ]
       },
       {
-        "id": 124,
+        "id": 119,
         "items": [
           {
             "name": "Car",
@@ -16398,137 +15748,7 @@
         ]
       },
       {
-        "id": 125,
-        "items": [
-          {
-            "name": "Car",
-            "rawValue": "1208897332",
-            "fieldRank": 1
-          },
-          {
-            "name": "Brand",
-            "rawValue": "80863204",
-            "fieldRank": 2
-          },
-          {
-            "name": "Car_File_Name_Swap",
-            "rawValue": "57356917",
-            "fieldRank": 3
-          },
-          {
-            "name": "Libelle",
-            "rawValue": "5893697",
-            "fieldRank": 4
-          },
-          {
-            "name": "Pack_1",
-            "rawValue": "1054454476",
-            "fieldRank": 5
-          },
-          {
-            "name": "Group_1",
-            "rawValue": "92900264",
-            "fieldRank": 6
-          },
-          {
-            "name": "Car_1",
-            "rawValue": "61085282",
-            "fieldRank": 7
-          },
-          {
-            "name": "Price_1",
-            "rawValue": "8000",
-            "fieldRank": 8
-          },
-          {
-            "name": "Accel_0_100_1",
-            "rawValue": "5",
-            "fieldRank": 9
-          },
-          {
-            "name": "BrakingDist_1",
-            "rawValue": "125",
-            "fieldRank": 10
-          },
-          {
-            "name": "Handling_1",
-            "rawValue": "70",
-            "fieldRank": 11
-          },
-          {
-            "name": "Pack_2",
-            "rawValue": "1054454477",
-            "fieldRank": 12
-          },
-          {
-            "name": "Group_2",
-            "rawValue": "92900264",
-            "fieldRank": 13
-          },
-          {
-            "name": "Car_2",
-            "rawValue": "61085282",
-            "fieldRank": 14
-          },
-          {
-            "name": "Price_2",
-            "rawValue": "12000",
-            "fieldRank": 15
-          },
-          {
-            "name": "Accel_0_100_2",
-            "rawValue": "3,8",
-            "fieldRank": 16
-          },
-          {
-            "name": "BrakingDist_2",
-            "rawValue": "120",
-            "fieldRank": 17
-          },
-          {
-            "name": "Handling_2",
-            "rawValue": "75",
-            "fieldRank": 18
-          },
-          {
-            "name": "Pack_3",
-            "rawValue": "1054454478",
-            "fieldRank": 19
-          },
-          {
-            "name": "Group_3",
-            "rawValue": "92900264",
-            "fieldRank": 20
-          },
-          {
-            "name": "Car_3",
-            "rawValue": "61085282",
-            "fieldRank": 21
-          },
-          {
-            "name": "Price_3",
-            "rawValue": "20000",
-            "fieldRank": 22
-          },
-          {
-            "name": "Accel_0_100_3",
-            "rawValue": "3,8",
-            "fieldRank": 23
-          },
-          {
-            "name": "BrakingDist_3",
-            "rawValue": "110",
-            "fieldRank": 24
-          },
-          {
-            "name": "Handling_3",
-            "rawValue": "80",
-            "fieldRank": 25
-          }
-        ]
-      },
-      {
-        "id": 126,
+        "id": 120,
         "items": [
           {
             "name": "Car",
@@ -16658,7 +15878,7 @@
         ]
       },
       {
-        "id": 127,
+        "id": 121,
         "items": [
           {
             "name": "Car",
@@ -16788,7 +16008,7 @@
         ]
       },
       {
-        "id": 128,
+        "id": 122,
         "items": [
           {
             "name": "Car",
@@ -16918,7 +16138,7 @@
         ]
       },
       {
-        "id": 129,
+        "id": 123,
         "items": [
           {
             "name": "Car",
@@ -17048,7 +16268,7 @@
         ]
       },
       {
-        "id": 130,
+        "id": 124,
         "items": [
           {
             "name": "Car",
@@ -17178,137 +16398,7 @@
         ]
       },
       {
-        "id": 131,
-        "items": [
-          {
-            "name": "Car",
-            "rawValue": "1291823209",
-            "fieldRank": 1
-          },
-          {
-            "name": "Brand",
-            "rawValue": "1220916237",
-            "fieldRank": 2
-          },
-          {
-            "name": "Car_File_Name_Swap",
-            "rawValue": "57356917",
-            "fieldRank": 3
-          },
-          {
-            "name": "Libelle",
-            "rawValue": "6273697",
-            "fieldRank": 4
-          },
-          {
-            "name": "Pack_1",
-            "rawValue": "1053934707",
-            "fieldRank": 5
-          },
-          {
-            "name": "Group_1",
-            "rawValue": "92900264",
-            "fieldRank": 6
-          },
-          {
-            "name": "Car_1",
-            "rawValue": "61085282",
-            "fieldRank": 7
-          },
-          {
-            "name": "Price_1",
-            "rawValue": "30000",
-            "fieldRank": 8
-          },
-          {
-            "name": "Accel_0_100_1",
-            "rawValue": "4,3",
-            "fieldRank": 9
-          },
-          {
-            "name": "BrakingDist_1",
-            "rawValue": "125",
-            "fieldRank": 10
-          },
-          {
-            "name": "Handling_1",
-            "rawValue": "70",
-            "fieldRank": 11
-          },
-          {
-            "name": "Pack_2",
-            "rawValue": "1053934708",
-            "fieldRank": 12
-          },
-          {
-            "name": "Group_2",
-            "rawValue": "92900264",
-            "fieldRank": 13
-          },
-          {
-            "name": "Car_2",
-            "rawValue": "61085282",
-            "fieldRank": 14
-          },
-          {
-            "name": "Price_2",
-            "rawValue": "45000",
-            "fieldRank": 15
-          },
-          {
-            "name": "Accel_0_100_2",
-            "rawValue": "4,1",
-            "fieldRank": 16
-          },
-          {
-            "name": "BrakingDist_2",
-            "rawValue": "120",
-            "fieldRank": 17
-          },
-          {
-            "name": "Handling_2",
-            "rawValue": "75",
-            "fieldRank": 18
-          },
-          {
-            "name": "Pack_3",
-            "rawValue": "1053934709",
-            "fieldRank": 19
-          },
-          {
-            "name": "Group_3",
-            "rawValue": "92900264",
-            "fieldRank": 20
-          },
-          {
-            "name": "Car_3",
-            "rawValue": "61085282",
-            "fieldRank": 21
-          },
-          {
-            "name": "Price_3",
-            "rawValue": "90000",
-            "fieldRank": 22
-          },
-          {
-            "name": "Accel_0_100_3",
-            "rawValue": "3,8",
-            "fieldRank": 23
-          },
-          {
-            "name": "BrakingDist_3",
-            "rawValue": "110",
-            "fieldRank": 24
-          },
-          {
-            "name": "Handling_3",
-            "rawValue": "80",
-            "fieldRank": 25
-          }
-        ]
-      },
-      {
-        "id": 132,
+        "id": 125,
         "items": [
           {
             "name": "Car",
@@ -17438,137 +16528,7 @@
         ]
       },
       {
-        "id": 133,
-        "items": [
-          {
-            "name": "Car",
-            "rawValue": "698399392",
-            "fieldRank": 1
-          },
-          {
-            "name": "Brand",
-            "rawValue": "81940960",
-            "fieldRank": 2
-          },
-          {
-            "name": "Car_File_Name_Swap",
-            "rawValue": "57356917",
-            "fieldRank": 3
-          },
-          {
-            "name": "Libelle",
-            "rawValue": "6073697",
-            "fieldRank": 4
-          },
-          {
-            "name": "Pack_1",
-            "rawValue": "844672650",
-            "fieldRank": 5
-          },
-          {
-            "name": "Group_1",
-            "rawValue": "92900264",
-            "fieldRank": 6
-          },
-          {
-            "name": "Car_1",
-            "rawValue": "61085282",
-            "fieldRank": 7
-          },
-          {
-            "name": "Price_1",
-            "rawValue": "50000",
-            "fieldRank": 8
-          },
-          {
-            "name": "Accel_0_100_1",
-            "rawValue": "3,8",
-            "fieldRank": 9
-          },
-          {
-            "name": "BrakingDist_1",
-            "rawValue": "122",
-            "fieldRank": 10
-          },
-          {
-            "name": "Handling_1",
-            "rawValue": "95",
-            "fieldRank": 11
-          },
-          {
-            "name": "Pack_2",
-            "rawValue": "844672651",
-            "fieldRank": 12
-          },
-          {
-            "name": "Group_2",
-            "rawValue": "92900264",
-            "fieldRank": 13
-          },
-          {
-            "name": "Car_2",
-            "rawValue": "61085282",
-            "fieldRank": 14
-          },
-          {
-            "name": "Price_2",
-            "rawValue": "100000",
-            "fieldRank": 15
-          },
-          {
-            "name": "Accel_0_100_2",
-            "rawValue": "3,6",
-            "fieldRank": 16
-          },
-          {
-            "name": "BrakingDist_2",
-            "rawValue": "119",
-            "fieldRank": 17
-          },
-          {
-            "name": "Handling_2",
-            "rawValue": "96",
-            "fieldRank": 18
-          },
-          {
-            "name": "Pack_3",
-            "rawValue": "844672652",
-            "fieldRank": 19
-          },
-          {
-            "name": "Group_3",
-            "rawValue": "92900264",
-            "fieldRank": 20
-          },
-          {
-            "name": "Car_3",
-            "rawValue": "61085282",
-            "fieldRank": 21
-          },
-          {
-            "name": "Price_3",
-            "rawValue": "160000",
-            "fieldRank": 22
-          },
-          {
-            "name": "Accel_0_100_3",
-            "rawValue": "3,2",
-            "fieldRank": 23
-          },
-          {
-            "name": "BrakingDist_3",
-            "rawValue": "116",
-            "fieldRank": 24
-          },
-          {
-            "name": "Handling_3",
-            "rawValue": "97",
-            "fieldRank": 25
-          }
-        ]
-      },
-      {
-        "id": 134,
+        "id": 126,
         "items": [
           {
             "name": "Car",
