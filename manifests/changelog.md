@@ -11,9 +11,10 @@
 
 
 
+
 ## Known Bugs
 
-- Ferrari F40 gets two identical tuning options (until kit 3) at Forza Tuner spot
+You tell me!
 
 
 ## Previous contents
@@ -42,7 +43,6 @@
     - Cadillac Sixteen
     - Mazda MX5
 [OC-Honolulu Airport]
-    - AC 427
     - Chevrolet Corvette C6 'Show N Go'
     - Chrysler Crossfire Roadster'
     - Dino 246 GTS
@@ -50,8 +50,9 @@
     - Ferrari F40'
     - Hennessey Viper SRT10 Venom 650R
     - Hennessey Viper SRT10 Venom 800 TwinTurbo
-[OC-Circuit/Airport]
     - Hennessey Viper SRT10 Venom 1000 TwinTurbo 
+[OC-Circuit/Airport]
+    - AC 427
     - Jaguar XKR Convertible
     - Lamborghini Diablo GT 1999
     - Lexus IS-F
@@ -73,6 +74,6 @@
 - Associate dedicated hud file to all 350Z Nismo
 - Brand names: e.g Edonis => B.Engineering ...
 - Fixes Hennessey brand (Dodge tuning) with Dodge logo and name display properly
-- Vehicle full names: e.g Brera => Alfa Brera ...
 - G27 support (Force Feedback, RPM LEDs)
 - Traffic sync issues (introduced by 1.68 Community Patch) 
+- F40 gets 2 identical tuning options in Forza Tuner
