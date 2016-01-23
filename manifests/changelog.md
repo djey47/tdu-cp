@@ -8,14 +8,14 @@
 - Unlocks 17 more car slots: check them out at Oahu Cars/Oahu Bikes:
 
 [OC-Honolulu Airport]
-    - AC 427
     - Dino 246 GTS
     - Ferrari 308 GTB
     - Ferrari F40'
     - Hennessey Viper SRT10 Venom 650R
     - Hennessey Viper SRT10 Venom 800 TwinTurbo
-[OC-Circuit/Airport]
     - Hennessey Viper SRT10 Venom 1000 TwinTurbo 
+[OC-Circuit/Airport]
+    - AC 427
     - Jaguar XKR Convertible
     - Lamborghini Diablo GT 1999
     - Lexus IS-F
@@ -33,11 +33,12 @@
 ## Bugfixes
 
 - Fixes Hennessey brand (Dodge tuning) with Dodge logo and name display properly
+- Ferrari F40 gets two identical tuning options (until kit 3) at Forza Tuner spot
 
 
 ## Known Bugs
 
-- Ferrari F40 gets two identical tuning options (until kit 3) at Forza Tuner spot
+You tell me!
 
 
 ## Previous contents
