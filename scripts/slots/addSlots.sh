@@ -29,7 +29,6 @@ do
    echo "BANKNAME=TDUCP_${id}" >> ${PATCH_PROPERTIES_PATH}
    echo "MODELNAME=TDUCP Model ${id}" >> ${PATCH_PROPERTIES_PATH}
    echo "VERSIONNAME=Version ${id}" >> ${PATCH_PROPERTIES_PATH}
-   echo "BANKNAME=TDUCP_${id}" >> ${PATCH_PROPERTIES_PATH}
    echo "CARID=${id}" >> ${PATCH_PROPERTIES_PATH}
    # Rims
    echo "RIMREF.1=0000${id}1" >> ${PATCH_PROPERTIES_PATH}
