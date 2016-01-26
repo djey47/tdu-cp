@@ -29,7 +29,8 @@ Included templates depend on following placeholder values:
 - RES_COLORNAME.1: Color_Name on CarColors topic (#3)
 - COLORNAME.1: Value of resource #RES_COLORNAME.1
 - COLORID.S.1: Color_ID_2 on CarColors topic, first color set (#4)
-- INTREF.1: Interior_1 on CarColors topic, first color set (#5)
+- CALLIPERSID.1: Callipers on CarColors topic, first color set (#5)
+- INTREF.1: Interior_1 on CarColors topic, first color set (#8)
 
 - INTREF.1: REF on Interior topic, first interior scheme (#1)
 - RES_INTNAME.1: Interior_Name on Interior topic, first interior scheme (#3)
