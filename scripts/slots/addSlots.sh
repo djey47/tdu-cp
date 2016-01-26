@@ -10,8 +10,6 @@ CAR_SLOT_TEMPLATE_PATH=${NEW_SLOTS_PATCHES_PATH}/CarSlotTemplate.mini.json
 BIKE_SLOT_TEMPLATE_PATH=${NEW_SLOTS_PATCHES_PATH}/BikeSlotTemplate.mini.json
 
 
-#TODO see if id_car supports leading 0s (e.g 0322 != 322). Otherwise
-
 echo "-> Cars..."
 cat newSlotIds.txt | while read id
 do
@@ -23,6 +21,7 @@ do
 
    echo "Generating ${PATCH_PROPERTIES_PATH}..."
    rm ${PATCH_PROPERTIES_PATH}
+   # Physics
    echo "SLOTREF=00000${id}" >> ${PATCH_PROPERTIES_PATH}
    echo "RES_BANKNAME=${id}567" >> ${PATCH_PROPERTIES_PATH}
    echo "RES_MODELNAME=${id}3407" >> ${PATCH_PROPERTIES_PATH}
@@ -31,13 +30,26 @@ do
    echo "MODELNAME=TDUCP Model ${id}" >> ${PATCH_PROPERTIES_PATH}
    echo "VERSIONNAME=Version ${id}" >> ${PATCH_PROPERTIES_PATH}
    echo "BANKNAME=TDUCP_${id}" >> ${PATCH_PROPERTIES_PATH}
-   echo "RIMREF.1=0000${id}1" >> ${PATCH_PROPERTIES_PATH}
    echo "CARID=${id}" >> ${PATCH_PROPERTIES_PATH}
+   # Rims
+   echo "RIMREF.1=0000${id}1" >> ${PATCH_PROPERTIES_PATH}
    echo "RES_BANKNAME.FR.1=${id}1512" >> ${PATCH_PROPERTIES_PATH}
    echo "BANKNAME.FR.1=TDUCP_${id}_F_01" >> ${PATCH_PROPERTIES_PATH}
-   # TODO see to give a different id for rear file name
-   echo "RES_BANKNAME.RR.1=${id}1512" >> ${PATCH_PROPERTIES_PATH}
+   echo "RES_BANKNAME.RR.1=${id}2512" >> ${PATCH_PROPERTIES_PATH}
    echo "BANKNAME.RR.1=TDUCP_${id}_R_01" >> ${PATCH_PROPERTIES_PATH}
+   # Ext Colors
+   echo "COLORID.M.1=54356127" >> ${PATCH_PROPERTIES_PATH}
+   echo "COLORID.S.1=53356127" >> ${PATCH_PROPERTIES_PATH}
+   echo "RES_COLORNAME.1=${id}1457" >> ${PATCH_PROPERTIES_PATH}
+   echo "COLORNAME.1=TDUCP_${id} exterior color 1" >> ${PATCH_PROPERTIES_PATH}
+   # Int Schemes
+   echo "INTREF.1=11319636" >> ${PATCH_PROPERTIES_PATH}
+   echo "RES_INTNAME.1=${id}5512" >> ${PATCH_PROPERTIES_PATH}
+   echo "INTNAME.1=TDUCP_${id} interior scheme 1" >> ${PATCH_PROPERTIES_PATH}
+   echo "INTCOLORID.M.1=53364643" >> ${PATCH_PROPERTIES_PATH}
+   echo "INTCOLORID.S.1=53364643" >> ${PATCH_PROPERTIES_PATH}
+   echo "INTMATERIALID.1=53364643" >> ${PATCH_PROPERTIES_PATH}
+
    echo >> ${PATCH_PROPERTIES_PATH}
 
    echo "Copying ${CAR_SLOT_TEMPLATE_PATH}..."

@@ -29,6 +29,12 @@
       ]
     },
     {
+      "type": "UPDATE_RES",
+      "topic": "CAR_COLORS",
+      "ref": "{RES_COLORNAME.1}",
+      "value": "{COLORNAME.1}"
+    },
+    {
       "type": "UPDATE",
       "topic": "CAR_RIMS",
       "values": [
@@ -176,6 +182,12 @@
         "{INTMATERIALID.1}",
         "0"
       ]
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "INTERIOR",
+      "ref": "{RES_INTNAME.1}",
+      "value": "{INTNAME.1}"
     },
     {
       "type": "UPDATE",
