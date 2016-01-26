@@ -13,6 +13,8 @@ Included templates depend on following placeholder values:
 
 - SLOTREF: REF on CarPhysics topic (#1)
 - RES_BANKNAME: Car_File_Name on CarPhysics topic (#9)
+- RES_MODELNAME: Model_Name on CarPhysics topic (#13)
+- RES_VERSIONNAME: Version_Name on CarPhysics topic (#14)
 - BANKNAME: Value of resource #RES_BANKNAME
 - RIMREF.1: REF on Rims topic, first rim set (#10)
 - CARID: ID_Car on CarPhysics topic (#102)

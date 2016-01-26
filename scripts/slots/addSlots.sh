@@ -9,19 +9,27 @@ NEW_SLOTS_PATCHES_PATH=${TDUCP_PATH}/database/patches/New\ vehicle\ slots
 CAR_SLOT_TEMPLATE_PATH=${NEW_SLOTS_PATCHES_PATH}/CarSlotTemplate.mini.json
 BIKE_SLOT_TEMPLATE_PATH=${NEW_SLOTS_PATCHES_PATH}/BikeSlotTemplate.mini.json
 
+
+#TODO see if id_car supports leading 0s (e.g 0322 != 322). Otherwise
+
 echo "-> Cars..."
 cat newSlotIds.txt | while read id
 do
    echo "-${id}"
 
-   PATCH_SHORT_NAME=TDUCP-CAR_${id}
-   PATCH_PROPERTIES_PATH=/tmp/${PATCH_SHORT_NAME}.properties
-   PATCH_PATH=/tmp/${PATCH_SHORT_NAME}.mini.json
+   PATCH_NAME=TDUCP-CAR_${id}.mini.json
+   PATCH_PROPERTIES_PATH=/tmp/${PATCH_NAME}.properties
+   PATCH_PATH=/tmp/${PATCH_NAME}
 
    echo "Generating ${PATCH_PROPERTIES_PATH}..."
    rm ${PATCH_PROPERTIES_PATH}
    echo "SLOTREF=00000${id}" >> ${PATCH_PROPERTIES_PATH}
    echo "RES_BANKNAME=${id}567" >> ${PATCH_PROPERTIES_PATH}
+   echo "RES_MODELNAME=${id}3407" >> ${PATCH_PROPERTIES_PATH}
+   echo "RES_VERSIONNAME=${id}8427" >> ${PATCH_PROPERTIES_PATH}
+   echo "BANKNAME=TDUCP_${id}" >> ${PATCH_PROPERTIES_PATH}
+   echo "MODELNAME=TDUCP Model ${id}" >> ${PATCH_PROPERTIES_PATH}
+   echo "VERSIONNAME=Version ${id}" >> ${PATCH_PROPERTIES_PATH}
    echo "BANKNAME=TDUCP_${id}" >> ${PATCH_PROPERTIES_PATH}
    echo "RIMREF.1=0000${id}1" >> ${PATCH_PROPERTIES_PATH}
    echo "CARID=${id}" >> ${PATCH_PROPERTIES_PATH}

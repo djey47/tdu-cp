@@ -53,8 +53,8 @@
         "{RIMREF.1}",
         "{RES_BANKNAME}",
         "53338427",
-        "53338427",
-        "53338427",
+        "{RES_MODELNAME}",
+        "{RES_VERSIONNAME}",
         "57356917",
         "603709",
         "6192",
@@ -151,6 +151,18 @@
       "topic": "CAR_PHYSICS_DATA",
       "ref": "{RES_BANKNAME}",
       "value": "{BANKNAME}"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_PHYSICS_DATA",
+      "ref": "{RES_MODELNAME}",
+      "value": "{MODELNAME}"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_PHYSICS_DATA",
+      "ref": "{RES_VERSIONNAME}",
+      "value": "{VERSIONNAME}"
     },
     {
       "type": "UPDATE",
