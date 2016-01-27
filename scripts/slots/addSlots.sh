@@ -55,8 +55,8 @@ do
    echo "Copying ${CAR_SLOT_TEMPLATE_PATH}..."
    cp "${CAR_SLOT_TEMPLATE_PATH}" "${PATCH_PATH}"
 
-   echo "Applying patch ${PATCH_PATH}..."
-   #TODO
+   echo "Applying patch ${PATCH_PATH} onto current database..."
+   ../tduf/databaseTool.sh apply-patch -p ${PATCH_PATH} -j ${CURRENT_DB_PATH} -o ${CURRENT_DB_PATH}
 
    #TODO Create files in workspace (model, audio, hud, rims)
 
