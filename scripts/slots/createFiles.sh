@@ -5,16 +5,6 @@
 
 source ../setEnv.sh
 
-DEFAULT_MODELS_PATH=${TDUCP_PATH}/resources/physics/vehicles/models
-DEFAULT_SOUND_PATH=${TDUCP_PATH}/resources/physics/vehicles/sounds
-DEFAULT_HUD_PATH=${TDUCP_PATH}/resources/physics/vehicles/huds
-DEFAULT_RIM_PATH=${TDUCP_PATH}/resources/physics/vehicles/rims
-
-BUILD_MODELS_PATH=${BUILD_BANK_PATH}/Vehicules
-BUILD_RIMS_PATH=${BUILD_MODELS_PATH}/Rim
-BUILD_SOUNDS_PATH=${BUILD_BANK_PATH}/Sound/Vehicules
-BUILD_HUDS_HR_PATH=${BUILD_BANK_PATH}/FrontEnd/HiRes/Gauges
-BUILD_HUDS_LR_PATH=${BUILD_BANK_PATH}/FrontEnd/LowRes/Gauges
 
 echo "-> Creating build folders..."
 mkdir -p ${BUILD_MODELS_PATH} ${BUILD_SOUNDS_PATH} ${BUILD_HUDS_HR_PATH} ${BUILD_HUDS_LR_PATH}

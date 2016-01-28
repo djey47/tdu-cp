@@ -22,20 +22,23 @@ do
    echo "Generating ${PATCH_PROPERTIES_PATH}..."
    rm ${PATCH_PROPERTIES_PATH}
    # Physics
+   BANKNAME=TDUCP_${id}
    echo "SLOTREF=00000${id}" >> ${PATCH_PROPERTIES_PATH}
    echo "RES_BANKNAME=${id}567" >> ${PATCH_PROPERTIES_PATH}
    echo "RES_MODELNAME=${id}3407" >> ${PATCH_PROPERTIES_PATH}
    echo "RES_VERSIONNAME=${id}8427" >> ${PATCH_PROPERTIES_PATH}
-   echo "BANKNAME=TDUCP_${id}" >> ${PATCH_PROPERTIES_PATH}
+   echo "BANKNAME=${BANKNAME}" >> ${PATCH_PROPERTIES_PATH}
    echo "MODELNAME=TDUCP Model ${id}" >> ${PATCH_PROPERTIES_PATH}
    echo "VERSIONNAME=Version ${id}" >> ${PATCH_PROPERTIES_PATH}
    echo "CARID=${id}" >> ${PATCH_PROPERTIES_PATH}
    # Rims
+   BANKNAME_RIMS_FRONT=TDUCP_${id}_F_01
+   BANKNAME_RIMS_REAR=TDUCP_${id}_R_01
    echo "RIMREF.1=0000${id}1" >> ${PATCH_PROPERTIES_PATH}
    echo "RES_BANKNAME.FR.1=${id}1512" >> ${PATCH_PROPERTIES_PATH}
-   echo "BANKNAME.FR.1=TDUCP_${id}_F_01" >> ${PATCH_PROPERTIES_PATH}
+   echo "BANKNAME.FR.1=${BANKNAME_RIMS_FRONT}" >> ${PATCH_PROPERTIES_PATH}
    echo "RES_BANKNAME.RR.1=${id}2512" >> ${PATCH_PROPERTIES_PATH}
-   echo "BANKNAME.RR.1=TDUCP_${id}_R_01" >> ${PATCH_PROPERTIES_PATH}
+   echo "BANKNAME.RR.1=${BANKNAME_RIMS_REAR}" >> ${PATCH_PROPERTIES_PATH}
    # Ext Colors
    echo "COLORID.M.1=54356127" >> ${PATCH_PROPERTIES_PATH}
    echo "COLORID.S.1=53356127" >> ${PATCH_PROPERTIES_PATH}
@@ -58,8 +61,19 @@ do
    echo "Applying patch ${PATCH_PATH} onto current database..."
    ../tduf/databaseTool.sh apply-patch -p ${PATCH_PATH} -j ${CURRENT_DB_PATH} -o ${CURRENT_DB_PATH}
 
-   #TODO Create files in workspace (model, audio, hud, rims)
-
+   echo "Creating default bank files..."
+   echo "-${BANKNAME}"
+   cp ${DEFAULT_MODELS_PATH}/DEFAULT.bnk ${BUILD_MODELS_PATH}/${BANKNAME}.bnk
+   cp ${DEFAULT_MODELS_PATH}/DEFAULT_I.bnk ${BUILD_MODELS_PATH}/${BANKNAME}_I.bnk
+   cp ${DEFAULT_SOUND_PATH}/DEFAULT_audio.bnk ${BUILD_SOUNDS_PATH}/${BANKNAME}_audio.bnk
+   cp ${DEFAULT_HUD_PATH}/DEFAULT.bnk ${BUILD_HUDS_HR_PATH}/${BANKNAME}.bnk
+   cp ${DEFAULT_HUD_PATH}/DEFAULT.bnk ${BUILD_HUDS_LR_PATH}/${BANKNAME}.bnk
+   RIMS_PARENT_PATH=${BUILD_RIMS_PATH}/Default
+   mkdir -p "${RIMS_PARENT_PATH}"
+   echo "-${BANKNAME_RIMS_FRONT}"
+   cp ${DEFAULT_RIM_PATH}/DEFAULT.bnk ${RIMS_PARENT_PATH}/${BANKNAME_RIMS_FRONT}.bnk
+   echo "-${BANKNAME_RIMS_REAR}"
+   cp ${DEFAULT_RIM_PATH}/DEFAULT.bnk ${RIMS_PARENT_PATH}/${BANKNAME_RIMS_REAR}.bnk
 done
 
 
