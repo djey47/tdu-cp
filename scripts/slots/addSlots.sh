@@ -46,7 +46,7 @@ do
    echo "RES_COLORNAME.1=${id}1457" >> ${PATCH_PROPERTIES_PATH}
    echo "COLORNAME.1=TDUCP_${id} exterior color 1" >> ${PATCH_PROPERTIES_PATH}
    # Int Schemes
-   echo "INTREF.1=11319636" >> ${PATCH_PROPERTIES_PATH}
+   echo "INTREF.1=${id}9636" >> ${PATCH_PROPERTIES_PATH}
    echo "RES_INTNAME.1=${id}5512" >> ${PATCH_PROPERTIES_PATH}
    echo "INTNAME.1=TDUCP_${id} interior scheme 1" >> ${PATCH_PROPERTIES_PATH}
    echo "INTCOLORID.M.1=53364643" >> ${PATCH_PROPERTIES_PATH}
