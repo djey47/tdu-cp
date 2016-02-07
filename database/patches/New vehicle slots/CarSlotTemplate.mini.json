@@ -198,7 +198,7 @@
         "{RIMREF.1}",
         "55765512",
         "54276512",
-        "5436562",
+        "{RES_RIMNAME.1}",
         "225",
         "45",
         "18",
@@ -212,6 +212,12 @@
         "{RES_BANKNAME.RR.1}",
         "0"
       ]
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "RIMS",
+      "ref": "{RES_RIMNAME.1}",
+      "value": "{RIMNAME.1}"
     },
     {
       "type": "UPDATE_RES",
