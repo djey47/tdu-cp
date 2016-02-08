@@ -599,12 +599,12 @@
           },
           {
             "name": "BitField",
-            "rawValue": "0",
+            "rawValue": "1",
             "switchValues": [
               {
                 "index": 1,
                 "name": "?",
-                "enabled": false
+                "enabled": true
               },
               {
                 "index": 2,
