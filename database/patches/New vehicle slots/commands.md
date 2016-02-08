@@ -40,3 +40,5 @@ Included templates depend on following placeholder values:
 - INTCOLORID.M.1: Interior_Color_1 on Interior topic, first interior scheme (#4)
 - INTCOLORID.S.1: Interior_Color_2 on Interior topic, first interior scheme (#5)
 - INTMATERIALID.1: Material on Interior topic, first interior scheme (#6)
+
+Properties are defined in script: **scripts/slots/addSlots.sh**

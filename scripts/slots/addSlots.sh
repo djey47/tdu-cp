@@ -1,7 +1,8 @@
 #!/usr/bin/env bash
 #set -x
 
-# Create brand new slots for cars and bikes.
+# Create brand new slots and files for cars and bikes.
+# Generates property file and apply patch template onto it.
 
 source ../setEnv.sh
 
