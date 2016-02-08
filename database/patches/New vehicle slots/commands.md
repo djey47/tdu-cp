@@ -4,6 +4,7 @@
 
 Only supported for now:
 
+- Default BRAND: Generic Car (CITR)
 - 1 rim set, same rims front and rear
 - 1 exterior color set
 - 1 interior scheme (no color)
