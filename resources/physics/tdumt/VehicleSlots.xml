@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<vehicleSlots>
+    <vehicle name="AC 289" ref="632098801" camera="101" ik="101" topSpeed="222" />
+    <vehicle name="AC 427" ref="606298799" camera="102"  ik="102" topSpeed="266"/>
+    <vehicle name="ALFA 8C" ref="70033960" camera="105"  ik="105" topSpeed="300"  />
+    <vehicle name="ALFA Brera" ref="637314272" camera="275"  ik="275"  topSpeed="240"/>
+    <vehicle name="ALFA GT 3.2 V6 24V" ref="63518960" camera="103"  ik="103" topSpeed="243" />
+    <vehicle name="ALFA GT Sporting Technical Kit 1" ref="57142377" camera="103" newCamera="201" ik="103" topSpeed="255" />
+    <vehicle name="ALFA GT Sporting Technical Kit 2" ref="58142377" camera="103" newCamera="201" ik="103" topSpeed="270" />
+    <vehicle name="ALFA GT Sporting Technical Kit 3" ref="59142377" camera="103" newCamera="201" ik="103" topSpeed="285" />
+    <vehicle name="ASCARI KZ1" ref="698882776" camera="106"  ik="106" topSpeed="320" />
+    <vehicle name="ASTON MARTIN DB AR1 Zagato" ref="734237852" camera="120" ik="120" topSpeed="265"/>
+    <vehicle name="ASTON MARTIN DB4 Zagato" ref="916938324" camera="107"  ik="107" topSpeed="246"  />
+    <vehicle name="ASTON MARTIN DB7 Volante" ref="1202238231" camera="109"  ik="109" topSpeed="265"/>
+    <vehicle name="ASTON MARTIN DB7 Zagato" ref="1183238684" camera="108"  ik="108" topSpeed="297" />
+    <vehicle name="ASTON MARTIN DB9 Coupe" ref="699437593" camera="1"  ik="1" topSpeed="300" />
+    <vehicle name="ASTON MARTIN DB9 Volante" ref="1202438233" camera="110"  ik="1" topSpeed="300" />
+    <vehicle name="ASTON MARTIN V8 Vantage" ref="702444678" camera="112"  ik="112" topSpeed="300" />
+    <vehicle name="ASTON MARTIN Vanquish coupe" ref="705066200" camera="111"  ik="111" topSpeed="321" />
+    <vehicle name="AUDI A3 quattro 3.2 DSG" ref="551683160" camera="211"  ik="211" topSpeed="245"  />
+    <vehicle name="AUDI A3 V6'N'" ref="843182934" camera="211" newCamera="248" ik="211" topSpeed="245"/>
+    <vehicle name="AUDI A4 DTM" ref="1289993715" camera="311"  ik="311" topSpeed="330" />
+    <vehicle name="AUDI A6 4.2 V8 quattro" ref="551813498" camera="212"  ik="212" topSpeed="250" />
+    <vehicle name="AUDI RS4 quattro Saloon" ref="611792908" camera="1000"  ik="1000" topSpeed="250"  />
+    <vehicle name="AUDI S4 Cabriolet" ref="380893340" camera="1001"  ik="1001" topSpeed="250" />
+    <vehicle name="AUDI S6" ref="538230904" camera="212" newCamera="273" ik="212"   topSpeed="250" />
+    <vehicle name="AUDI TT Quattrosport" ref="1096032410" camera="236"  ik="236" topSpeed="250" />
+    <vehicle name="B.ENGINEERING Edonis" ref="1199178371" camera="303"  ik="303"    topSpeed="365"/>
+    <vehicle name="BRABUS B55S" ref="604354597" camera="273"  ik="273" topSpeed="280"/>
+    <vehicle name="BRABUS 61S" ref="1074527109" camera="273"  ik="273" topSpeed="300"/>
+    <vehicle name="CADILLAC Cien" ref="1188226067" camera="304"  ik="304"    topSpeed="400" />
+    <vehicle name="CADILLAC CTS-V" ref="95215035" camera="296"  ik="296"   topSpeed="260"/>
+    <vehicle name="CADILLAC Sixteen" ref="1190174404" camera="307"  ik="307" topSpeed="300"/>
+    <vehicle name="CADILLAC XLR-V" ref="95055948" camera="240"  ik="240" topSpeed="260" />
+    <vehicle name="CATERHAM CSR 260" ref="624463359" camera="71"  ik="71" topSpeed="250" />
+    <vehicle name="CHEVROLET Camaro Z28" ref="601945474" camera="218"  ik="218" topSpeed="200" />
+    <vehicle name="CHEVROLET Cobalt SS" ref="1197985552" camera="323" ik="323" topSpeed="225"/>
+    <vehicle name="CHEVROLET Corvette C1 1957" ref="631585758" camera="242"  ik="242"  topSpeed="220" />
+    <vehicle name="CHEVROLET Corvette 63" ref="631585756" camera="312"  ik="312" TopSpeed="245"/>
+    <vehicle name="CHEVROLET Corvette 69" ref="1255586495" camera="1045"  ik="1045" topSpeed="200" />
+    <vehicle name="CHEVROLET Corvette Stingray 71 Convertible" ref="1255586678" camera="263"  ik="263"  topSpeed="200"/>
+    <vehicle name="CHEVROLET Corvette C6 Convertible" ref="619586842" camera="264"  ik="264"    topSpeed="290" />
+    <vehicle name="CHEVROLET Corvette C6 Coupe" ref="619585597" camera="113"  ik="113" topSpeed="290" />
+    <vehicle name="CHEVROLET Corvette C6 'Show N Go'" ref="619586695" camera="265"  ik="264" topSpeed="290"/>
+    <vehicle name="CHEVROLET Corvette Z06" ref="582585705" camera="269"  ik="269" topSpeed="318"  />
+    <vehicle name="CHEVROLET SSR" ref="1139121456" camera="237"  ik="237" topSpeed="200" />
+    <vehicle name="CHRYSLER 300C" ref="908340580" camera="231"  ik="231" topSpeed="265"  />
+    <vehicle name="CHRYSLER Firepower" ref="1188980788" camera="243"  ik="243" topSpeed="280"  />
+    <vehicle name="CHRYSLER ME 4-12" ref="70076241" camera="233"  ik="233" topSpeed="400"  />
+    <vehicle name="CHRYSLER Crossfire SRT6 Coupe" ref="1189317831" camera="121"  ik="122" topSpeed="255" />
+    <vehicle name="CHRYSLER Crossfire SRT6 Roadster" ref="1244317236" camera="122"  ik="122" topSpeed="250"  />
+    <vehicle name="CHRYSLER Crossfire SRT6 Roadster Prime" ref="1204318124" camera="122"  ik="122" topSpeed="250"/>
+    <vehicle name="DEFAULT BIKE" ref="1210773243" camera="666" ik="666" topSpeed="332"/>
+    <vehicle name="DEFAULT CAR" ref="1216772657" camera="999" ik="999" topSpeed="332"/>
+    <vehicle name="DODGE Challenger RT" ref="1219816155" camera="276"  ik="276" topSpeed="233"  />
+    <vehicle name="DODGE Charger Super Bee" ref="1219815842" camera="300"  ik="300" topSpeed="233"  />
+    <vehicle name="DODGE Viper Coupe" ref="1221344640" camera="220"  ik="220" topSpeed="320"  />
+    <vehicle name="DODGE Viper SRT 10" ref="915344490" camera="114"  ik="114" topSpeed="305"  />
+    <vehicle name="DUCATI 999R" ref="88334891" camera="1500"  ik="1500" bike="true" topSpeed="280"/>
+    <vehicle name="DUCATI S4R" ref="615195554" camera="1501" ik="1501"  bike="true" topSpeed="240"/>
+    <vehicle name="DUCATI supersport 1000DS" ref="903336930" camera="1502"  ik="1502" bike="true" topSpeed="230" />
+    <vehicle name="FARBOUD Supercharged GTS Prototype 2005" ref="1218220598" camera="293"  ik="293" topSpeed="330"  />
+    <vehicle name="FERRARI 246 Dino GT" ref="1199127923" camera="319"  ik="319"    topSpeed="245"/>
+    <vehicle name="FERRARI 246 Dino GTS" ref="1244127953" camera="320"  ik="320" topSpeed="245"/>
+    <vehicle name="FERRARI 250 GTO" ref="698389658" camera="1019"  ik="1019"    topSpeed="280"/>
+    <vehicle name="FERRARI 288 GTO" ref="699219666" camera="1021"  ik="1021" topSpeed="305" />
+    <vehicle name="FERRARI 308 GTB quattrovalvole" ref="1193140602" camera="273"  ik="273" topSpeed="255"/>
+    <vehicle name="FERRARI 308 GTS quattrovalvole" ref="1238140632" camera="298"  ik="298"    topSpeed="255"/>
+    <vehicle name="FERRARI 512 TR" ref="1199604426" camera="321"  ik="321"    topSpeed="314"/>
+    <vehicle name="FERRARI 612 Scaglietti" ref="698554459" camera="1027"  ik="1027"    topSpeed="321"/>
+    <vehicle name="FERRARI Challenge Stradale" ref="1112402065" camera="1025"  ik="1025"    topSpeed="300"/>
+    <vehicle name="FERRARI Enzo" ref="706378577" camera="1030"  ik="1030" topSpeed="350" />
+    <vehicle name="FERRARI F40" ref="1192399594" camera="1022"  ik="1022"    topSpeed="324"/>
+    <vehicle name="FERRARI F40 Prime" ref="698399392" camera="1022"  ik="1022" topSpeed="324"/>
+    <vehicle name="FERRARI F430 coupe" ref="1214731890" camera="244"  ik="244" topSpeed="315" />
+    <vehicle name="FERRARI F430 spider" ref="1240731968" camera="245"  ik="244" topSpeed="310" />
+    <vehicle name="FERRARI 575M Maranello" ref="698912474" camera="1028"  ik="1028" topSpeed="325" />
+    <vehicle name="FORD GT" ref="70220210" camera="117"  ik="117" topSpeed="306" />
+    <vehicle name="FORD Mustang GT Convertible" ref="1189757832" camera="266"  ik="118" topSpeed="240"  />
+    <vehicle name="FORD Mustang GT Coupe" ref="1221757198" camera="118"  ik="118" topSpeed="240" />
+    <vehicle name="FORD Mustang GTR" ref="923756915" camera="262"  ik="262" topSpeed="300" />
+    <vehicle name="FORD Shelby Cobra" ref="1184713927" camera="217"  ik="217" topSpeed="330" />
+    <vehicle name="FORD Shelby GR-1 Concept" ref="898712608" camera="257"  ik="257" topSpeed="350" />
+    <vehicle name="HENNESSEY Viper SRT10 Venom 650R" ref="1108350118" camera="273"  ik="273" topSpeed="310"/>
+    <vehicle name="HENNESSEY Viper SRT10 Venom 800 TwinTurbo" ref="1108350119" camera="273"  ik="273" topSpeed="330"/>
+    <vehicle name="HENNESSEY Viper SRT10 Venom 1000 TwinTurbo" ref="1108350120" camera="273"  ik="273" topSpeed="350"/>
+    <vehicle name="HOLDEN Efijy" ref="1185082624" camera="325"  ik="325"    topSpeed="290"/>
+    <vehicle name="JAGUAR Type E" ref="1221502656" camera="219"  ik="219" topSpeed="246" />
+    <vehicle name="JAGUAR XJ220" ref="698836043" camera="229"  ik="229" topSpeed="341" />
+    <vehicle name="JAGUAR XK Convertible" ref="1182887077" camera="267" newCamera="1048" ik="267" topSpeed="250" />
+    <vehicle name="JAGUAR XK Coupe" ref="1214886443" camera="267"  ik="267" topSpeed="250" />
+    <vehicle name="JAGUAR XKR Convertible" ref="1186047058" camera="201"  ik="200" topSpeed="250"/>
+    <vehicle name="JAGUAR XKR Coupe" ref="1218046424" camera="200"   ik="200" topSpeed="250" />
+    <vehicle name="KAWASAKI Z1000" ref="1229390461" camera="1504"  ik="1504" bike="true" topSpeed="245" />
+    <vehicle name="KAWASAKI ZX10R" ref="1208480632" camera="1503"  ik="1503" bike="true" topSpeed="295"/>
+    <vehicle name="KAWASAKI ZX12R" ref="1208880589" camera="1510"  ik="1510"  bike="true" topSpeed="295"/>
+    <vehicle name="KOENIGSEGG CC8" ref="121344912" camera="1044"  ik="1044"  topSpeed="386" />
+    <vehicle name="KOENIGSEGG CCR" ref="8944912" camera="228"  ik="228"    topSpeed="395"/>
+    <vehicle name="LAMBORGHINI Countach 25th anniversary" ref="592886531" camera="281"  ik="281"    topSpeed="306"/>
+    <vehicle name="LAMBORGHINI Diablo GT" ref="921827346" camera="1010"  ik="1010" topSpeed="338"/>
+    <vehicle name="LAMBORGHINI Gallardo Coupe" ref="1220850733" camera="15"  ik="15"    topSpeed="309"/>
+    <vehicle name="LAMBORGHINI Gallardo SE" ref="784850286" camera="15" newCamera="102" ik="277" topSpeed="309" />
+    <vehicle name="LAMBORGHINI Gallardo Spyder" ref="1235851026" camera="1014"  ik="15" topSpeed="314"  />
+    <vehicle name="LAMBORGHINI Miura P400SV" ref="612836289" camera="1009"  ik="1009" topSpeed="290"  />
+    <vehicle name="LAMBORGHINI Murcielago Coupe" ref="1221657041" camera="1011"  ik="1011" topSpeed="332"  />
+    <vehicle name="LAMBORGHINI Murcielago Roadster" ref="1236657334" camera="1012"  ik="1011"    topSpeed="330"/>
+    <vehicle name="LEXUS 600h L" ref="534315870" camera="317"  ik="317"    topSpeed="210"/>
+    <vehicle name="LEXUS GS450h" ref="539110870" camera="314"  ik="314"    topSpeed="211"/>
+    <vehicle name="LEXUS IS-F" ref="700912892" camera="273"  ik="273" topSpeed="280"/>
+    <vehicle name="LEXUS IS350" ref="539012870" camera="297"  ik="297"    topSpeed="228"/>
+    <vehicle name="LEXUS LS460 L" ref="540115870" camera="313"  ik="313"  topSpeed="211"/>
+    <vehicle name="LEXUS SC430" ref="1237963205" camera="326"  ik="326"    topSpeed="240"/>
+    <vehicle name="LOTUS Elise" ref="550659019" camera="70"  ik="70" topSpeed="242"  />
+    <vehicle name="LOTUS Esprit V8" ref="705428965" camera="235"  ik="235"  topSpeed="282" />
+    <vehicle name="LOTUS Exige 240R" ref="581779037" camera="213"  ik="213" topSpeed="250"  />
+    <vehicle name="MASERATI 3500GT" ref="698390544" camera="1031"  ik="1031"  topSpeed="230" />
+    <vehicle name="MASERATI GranSport" ref="903887207" camera="246"  ik="246" topSpeed="290"  />
+    <vehicle name="MASERATI GranTurismo Coupe" ref="705918591" camera="273"  ik="273" topSpeed="290"/>
+    <vehicle name="MASERATI MC12" ref="698656360" camera="1036"  ik="1036" topSpeed="330"  />
+    <vehicle name="MASERATI Spyder 90th anniversary" ref="548713017" camera="274"  ik="274"  topSpeed="283" />
+    <vehicle name="MASERATI Spyder Cambiocorsa" ref="704744681" camera="1034"  ik="1034" topSpeed="283"  />
+    <vehicle name="MAZDA MX5 Roadster" ref="1238267235" camera="248"  ik="248" topSpeed="210"/>
+    <vehicle name="MAZDA RX8 Coupe" ref="699572006" camera="230"  ik="230" topSpeed="229"/>
+    <vehicle name="MCLAREN F1" ref="69868717" camera="224"  ik="224"  topSpeed="387" />
+    <vehicle name="MCLAREN F1 GT" ref="91668717" camera="306"  ik="224"    topSpeed="387"/>
+    <vehicle name="MCLAREN F1 GTR" ref="911668799" camera="279"  ik="279" topSpeed="340"  />
+    <vehicle name="MCLAREN F1 LM" ref="120368717" camera="241"  ik="241"    topSpeed="340"/>
+    <vehicle name="MERCEDES-BENZ 300 SL" ref="1245053135" camera="206"  ik="206" topSpeed="217" />
+    <vehicle name="MERCEDES-BENZ CLK 55" ref="591336547" camera="1042"  ik="1042" topSpeed="250" />
+    <vehicle name="MERCEDES-BENZ CLK DTM" ref="916337925" camera="232"  ik="232" topSpeed="320" />
+    <vehicle name="MERCEDES-BENZ CLK GTR" ref="919336434" camera="278"  ik="278"    topSpeed="322"/>
+    <vehicle name="MERCEDES-BENZ CLS 55 AMG" ref="592136555" camera="225"  ik="225" topSpeed="250" />
+    <vehicle name="MERCEDES-BENZ SL 65 AMG" ref="1230253255" camera="291"  ik="291" topSpeed="250"  />
+    <vehicle name="MERCEDES-BENZ SLK 55 AMG" ref="591352547" camera="204"  ik="204" topSpeed="250" />
+    <vehicle name="MERCEDES-BENZ SLK 55 Performance Package" ref="1098353260" camera="204"  ik="204" topSpeed="280" />
+    <vehicle name="MERCEDES-BENZ SLR" ref="702052277" camera="205"  ik="205" topSpeed="334" />
+    <vehicle name="MV AGUSTA Brutale" ref="1268792919" camera="1506"  ik="1506" bike="true" topSpeed="257" />
+    <vehicle name="MV AGUSTA F4 Tamburini" ref="1230834922" camera="1505"  ik="1505" bike="true"  topSpeed="306"/>
+    <vehicle name="NISSAN 350Z Coupe" ref="1214391034" camera="1039"  ik="1039" topSpeed="250" />
+    <vehicle name="NISSAN 350Z Nismo S-Tune" ref="1133391037" camera="234"  ik="234" topSpeed="250" />
+    <vehicle name="NISSAN 350Z Nismo R-Tune" ref="1133391164" camera="234"  ik="234" topSpeed="270" />
+    <vehicle name="NISSAN 350Z Nismo R-Tune Power" ref="1133391244" camera="234"  ik="234" topSpeed="285" />
+    <vehicle name="NISSAN 350Z Roadster" ref="1237390819" camera="310"  ik="310" topSpeed="250" />
+    <vehicle name="NISSAN Skyline GTR R34" ref="924263229" camera="1040"  ik="1040" topSpeed="250" />
+    <vehicle name="NOBLE M400" ref="698404775" camera="227"  ik="227"    topSpeed="296" />
+    <vehicle name="NOBLE M12 GTO" ref="916575065" camera="1041"  ik="1041" topSpeed="275" />
+    <vehicle name="NOBLE M14" ref="698774731" camera="226"  ik="226" topSpeed="305" />
+    <vehicle name="PAGANI Zonda C12S" ref="569208607" camera="115"  ik="202" topSpeed="350" />
+    <vehicle name="PAGANI Zonda C12S Roadster" ref="569209475" camera="202"  ik="202"    topSpeed="350"/>
+    <vehicle name="PONTIAC Firebird" ref="703965360" camera="209"  ik="209" topSpeed="201" />
+    <vehicle name="PONTIAC GTO" ref="701819911" camera="222"  ik="222" topSpeed="250" />
+    <vehicle name="PONTIAC GTO 'The Judge'" ref="932820187" camera="324"  ik="324" topSpeed="220"/>
+    <vehicle name="PONTIAC Solstice" ref="1244034708" camera="309"  ik="309" topSpeed="200"/>
+    <vehicle name="RUF RGT" ref="702200086" camera="261"  ik="261"    topSpeed="305"/>
+    <vehicle name="RUF RT12" ref="699182101" camera="210"  ik="210"    topSpeed="330"/>
+    <vehicle name="RUF RTURBO" ref="699035694" camera="260"  ik="260"    topSpeed="330"/>
+    <vehicle name="RUF RK Spyder" ref="1174340422" camera="318"  ik="318"    topSpeed="285"/>
+    <vehicle name="SALEEN S281 Convertible" ref="917192226" camera="266" newCamera="311" ik="118" topSpeed="250" />
+    <vehicle name="SALEEN S281 Coupe" ref="917192328" camera="118" newCamera="203"  ik="118" topSpeed="250" />
+    <vehicle name="SALEEN S281 Supercharged Speedster" ref="1189750545" camera="266" newCamera="1010" ik="118" topSpeed="270"  />
+    <vehicle name="SALEEN S281 Extreme Coupe" ref="1231750419" camera="118" newCamera="214" ik="118" topSpeed="300" />
+    <vehicle name="SALEEN S281 Supercharged Convertible" ref="1221911046" camera="266" newCamera="1503" ik="118" topSpeed="270" />
+    <vehicle name="SALEEN S281 Supercharged Coupe" ref="1231910920" camera="118" newCamera="230" ik="118" topSpeed="270" />
+    <vehicle name="SALEEN S7 Twin-Turbo" ref="1178042409" camera="116"  ik="116" topSpeed="365" />
+    <vehicle name="SATURN Curve" ref="1221647242" camera="305"  ik="305"    topSpeed="250"/>
+    <vehicle name="SATURN Sky" ref="1241742783" camera="223"  ik="223" topSpeed="225" />
+    <vehicle name="SHELBY Daytona" ref="1222147005" camera="216"  ik="216" topSpeed="305" />
+    <vehicle name="SHELBY GT500" ref="1213119631" camera="221"  ik="221" topSpeed="220" />
+    <vehicle name="SPYKER C8 Spyder" ref="1174137367" camera="239" newCamera="309" ik="238"    topSpeed="300"/>
+    <vehicle name="SPYKER C8 Laviolette" ref="1285237823" camera="238"  ik="238" topSpeed="300" />
+    <vehicle name="SPYKER C8 Spyder T" ref="96414415" camera="239"  ik="238"    topSpeed="320"/>
+    <vehicle name="TRIUMPH Speed Triple" ref="1286313474" camera="1508"  ik="1508" bike="true" topSpeed="250" />
+    <vehicle name="TRIUMPH 955i Daytona" ref="1208897332" camera="1509"  ik="1509" bike="true" topSpeed="260"/>
+    <vehicle name="TVR Tuscan S" ref="95763647" camera="208"  ik="208" topSpeed="306" />
+    <vehicle name="TVR Sagaris" ref="704362760" camera="207"  ik="207" topSpeed="306" />
+    <vehicle name="TVR T440R" ref="1192813528" camera="301"  ik="208"    topSpeed="346"/>
+    <vehicle name="VOLKSWAGEN Golf R32" ref="1176600625" camera="290"  ik="290" topSpeed="245" />
+    <vehicle name="VOLKSWAGEN W12 Coupe" ref="1214585404" camera="215" newCamera="307" ik="215" topSpeed="350" />
+    <vehicle name="VOLKSWAGEN W12 Roadster" ref="1229585697" camera="215"  ik="215" topSpeed="300" />
+    <vehicle name="WIESMANN GT" ref="1291823209" camera="273"  ik="273" topSpeed="280"/>
+    <vehicle name="WIESMANN Roadster MF3" ref="922904690" camera="280"  ik="280" topSpeed="255" />
+</vehicleSlots>
