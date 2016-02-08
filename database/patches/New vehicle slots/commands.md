@@ -20,6 +20,8 @@ Included templates depend on following placeholder values:
 - RIMREF.1: REF on Rims topic, first rim set (#10)
 - CARID: ID_Car on CarPhysics topic (#102)
 
+- RES_RIMNAME.1: DisplayName on Rims topic, first rim set (#4)
+- RIMNAME.1: Value of resource #RES_RIMNAME.1
 - RES_BANKNAME.FR.1: Rsc_File_Name_Front on Rims topic, first rim set (#14)
 - BANKNAME.FR.1: Value of resource #RES_BANKNAME.FR.1
 - RES_BANKNAME.RR.1: Rsc_File_Name_Rear on Rims topic, first rim set (#15)
