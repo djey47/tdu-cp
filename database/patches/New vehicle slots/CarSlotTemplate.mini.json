@@ -8,7 +8,7 @@
         "{COLORID.M.1}",
         "{RES_COLORNAME.1}",
         "{COLORID.S.1}",
-        "{CALIPERSID1}",
+        "{CALLIPERSID.1}",
         "0",
         "0",
         "{INTREF.1}",
@@ -29,12 +29,10 @@
       ]
     },
     {
-      "type": "UPDATE",
-      "topic": "CAR_RIMS",
-      "values": [
-        "{SLOTREF}",
-        "{RIMREF.1}"
-      ]
+      "type": "UPDATE_RES",
+      "topic": "CAR_COLORS",
+      "ref": "{RES_COLORNAME.1}",
+      "value": "{COLORNAME.1}"
     },
     {
       "type": "UPDATE",
@@ -43,18 +41,18 @@
       "values": [
         "{SLOTREF}",
         "85649",
-        "61933407",
+        "{RES_MODELNAME}",
         "55438427",
         "73900264",
         "1",
-        "250000",
+        "5000",
         "56368917",
         "{RES_BANKNAME}",
         "{RIMREF.1}",
         "{RES_BANKNAME}",
         "53338427",
-        "53338427",
-        "53338427",
+        "{RES_MODELNAME}",
+        "{RES_VERSIONNAME}",
         "57356917",
         "603709",
         "6192",
@@ -143,7 +141,7 @@
         "1",
         "100",
         "{CARID}",
-        "127"
+        "95"
       ]
     },
     {
@@ -153,8 +151,29 @@
       "value": "{BANKNAME}"
     },
     {
+      "type": "UPDATE_RES",
+      "topic": "CAR_PHYSICS_DATA",
+      "ref": "{RES_MODELNAME}",
+      "value": "{MODELNAME}"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_PHYSICS_DATA",
+      "ref": "{RES_VERSIONNAME}",
+      "value": "{VERSIONNAME}"
+    },
+    {
+      "type": "UPDATE",
+      "topic": "CAR_RIMS",
+      "values": [
+        "{SLOTREF}",
+        "{RIMREF.1}"
+      ]
+    },
+    {
       "type": "UPDATE",
       "topic": "INTERIOR",
+      "ref": "{INTREF.1}",
       "values": [
         "{INTREF.1}",
         "62938337",
@@ -166,6 +185,12 @@
       ]
     },
     {
+      "type": "UPDATE_RES",
+      "topic": "INTERIOR",
+      "ref": "{RES_INTNAME.1}",
+      "value": "{INTNAME.1}"
+    },
+    {
       "type": "UPDATE",
       "topic": "RIMS",
       "ref": "{RIMREF.1}",
@@ -173,7 +198,7 @@
         "{RIMREF.1}",
         "55765512",
         "54276512",
-        "5436562",
+        "{RES_RIMNAME.1}",
         "225",
         "45",
         "18",
@@ -187,6 +212,12 @@
         "{RES_BANKNAME.RR.1}",
         "0"
       ]
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "RIMS",
+      "ref": "{RES_RIMNAME.1}",
+      "value": "{RIMNAME.1}"
     },
     {
       "type": "UPDATE_RES",

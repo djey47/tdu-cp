@@ -21,3 +21,13 @@ export JSON_MAPPING_PATH=${TDUCP_PATH}/resources/system/magic-map/Bnk1.map.patch
 
 export JSON_MAP4_STRUCTURE=${TDUF_PATH}/structures/MAP4-map.json
 
+export BUILD_MODELS_PATH=${BUILD_BANK_PATH}/Vehicules
+export BUILD_SOUNDS_PATH=${BUILD_BANK_PATH}/Sound/Vehicules
+export BUILD_HUDS_HR_PATH=${BUILD_BANK_PATH}/FrontEnd/HiRes/Gauges
+export BUILD_HUDS_LR_PATH=${BUILD_BANK_PATH}/FrontEnd/LowRes/Gauges
+export BUILD_RIMS_PATH=${BUILD_MODELS_PATH}/Rim
+
+export DEFAULT_MODELS_PATH=${TDUCP_PATH}/resources/physics/vehicles/models
+export DEFAULT_SOUND_PATH=${TDUCP_PATH}/resources/physics/vehicles/sounds
+export DEFAULT_HUD_PATH=${TDUCP_PATH}/resources/physics/vehicles/huds
+export DEFAULT_RIM_PATH=${TDUCP_PATH}/resources/physics/vehicles/rims
