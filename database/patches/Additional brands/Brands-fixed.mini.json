@@ -45,6 +45,17 @@
           "value": "1"
         }
       ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "91197",
+      "partialValues": [
+        {
+          "rank": 7,
+          "value": "1"
+        }
+      ]
     }
   ]
 }

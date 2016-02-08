@@ -11,7 +11,8 @@ Contains all brand brought by 1.68b patch, and more:
 Fixes following brands: 
 
 - Hennessey (Dodge tuning)
-- Mazda.
+- Mazda
+- Generic (CITR, REF 91197): becomes sellable in car dealer by bitfield update
 
 ## TDUF-CLI
 
