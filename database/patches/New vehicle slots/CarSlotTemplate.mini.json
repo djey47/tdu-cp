@@ -36,14 +36,6 @@
     },
     {
       "type": "UPDATE",
-      "topic": "CAR_RIMS",
-      "values": [
-        "{SLOTREF}",
-        "{RIMREF.1}"
-      ]
-    },
-    {
-      "type": "UPDATE",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "{SLOTREF}",
       "values": [
@@ -53,7 +45,7 @@
         "55438427",
         "73900264",
         "1",
-        "250000",
+        "5000",
         "56368917",
         "{RES_BANKNAME}",
         "{RIMREF.1}",
@@ -169,6 +161,14 @@
       "topic": "CAR_PHYSICS_DATA",
       "ref": "{RES_VERSIONNAME}",
       "value": "{VERSIONNAME}"
+    },
+    {
+      "type": "UPDATE",
+      "topic": "CAR_RIMS",
+      "values": [
+        "{SLOTREF}",
+        "{RIMREF.1}"
+      ]
     },
     {
       "type": "UPDATE",
