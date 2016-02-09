@@ -8,6 +8,10 @@
 
     - *dinput8.dll* [G27 Fix]
 
+- **Euro\Bnk\Database**
+
+    - *VehicleSlots.xml* [new slots]
+
 - **Euro\Bnk\Frontend\HiRes\Gauges**
 
     - *246_GTS.bnk* [unlocked slots]

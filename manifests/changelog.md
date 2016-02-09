@@ -11,9 +11,13 @@
     
 ( can be used with any mod, you just have to rename your files to TDUCP_3000.bnk or TDUCP_4000.bnk ... see **files.md** for details )
 
+- Provides updated TDUMT's **VehicleSlots.xml** file to make both slots appear under TDUMT.
+
+
 ## Bugfixes
 
-- Name, logo and behaviour of Inifiniti brand now fixed.
+- Name, logo and behaviour of Infiniti brand now fixed
+- behaviour of Generic brand now fixed.
 
 
 ## Known Bugs
