@@ -5,11 +5,15 @@
 
 ## Features
 
-
+- Creates 2 *brand new* slots (set them to a Vehicle dealer slot to make them appear):
+    - TDUCP Model 3000 (Car)
+    - TDUCP Model 4000 (Bike)
+    
+( can be used with any mod, you just have to rename your files to TDUCP_3000.bnk or TDUCP_4000.bnk ... see **files.md** for details )
 
 ## Bugfixes
 
-
+- Name, logo and behaviour of Inifiniti brand now fixed.
 
 
 ## Known Bugs
@@ -76,4 +80,4 @@ You tell me!
 - Fixes Hennessey brand (Dodge tuning) with Dodge logo and name display properly
 - G27 support (Force Feedback, RPM LEDs)
 - Traffic sync issues (introduced by 1.68 Community Patch) 
-- F40 gets 2 identical tuning options in Forza Tuner
+- F40 gets 2 identical tuning options in Forza Tuner.
