@@ -11,7 +11,7 @@ RELEASE_PATH=${TDUCP_PATH}/workspace/releases
 TARGET_DB_PATH=${BUILD_PATH}/Euro/Bnk/Database
 
 # Init
-echo "*** Preparing directory... ***"
+echo "*** Preparing directories... ***"
 mkdir -p ${BUILD_PATH}
 mkdir -p ${TARGET_DB_PATH}
 mkdir -p ${RELEASE_PATH}
@@ -20,6 +20,13 @@ echo
 # Manifests
 echo "*** Manifests... ***"
 cp ${TDUCP_PATH}/manifests/*.md ${BUILD_PATH}
+echo
+
+# Unlocked slot files
+echo "*** Unlocked slots files... ***"
+cd ../slots/
+./createFiles.sh
+cd - > /dev/null
 echo
 
 # Generate mapping
@@ -42,10 +49,15 @@ cd - > /dev/null
 cp ${GENERATED_DB_PATH}/*.bnk ${TARGET_DB_PATH}
 echo
 
-#Zip
-echo "*** Zipping... ***"
-pushd ${BUILD_PATH} > /dev/null
-TIMESTAMP=`date +%s`
-zip -r ${TDUCP_PATH}/workspace/releases/TDUCP-2.00A-${TIMESTAMP}.zip *
-popd > /dev/null
+# Other files
+echo "*** Other contents ***"
+echo "Consider adding remaining features manually"
 echo
+
+#Zip
+#echo "*** Zipping... ***"
+#pushd ${BUILD_PATH} > /dev/null
+#TIMESTAMP=`date +%s`
+#zip -r ${TDUCP_PATH}/workspace/releases/TDUCP-2.00A-${TIMESTAMP}.zip *
+#popd > /dev/null
+#echo
