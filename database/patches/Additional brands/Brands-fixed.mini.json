@@ -56,6 +56,26 @@
           "value": "1"
         }
       ]
+    },
+    {
+      "type": "DELETE",
+      "topic": "BRANDS",
+      "ref": "906"
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "7853",
+      "partialValues": [
+        {
+          "rank": 5,
+          "value": "198"
+        },
+        {
+          "rank": 7,
+          "value": "1"
+        }
+      ]
     }
   ]
 }
