@@ -39,6 +39,10 @@
     - *Mas_GT_Cpe.bnk* [unlocked slots]
 
     - *SRT6_RstP.bnk* [unlocked slots]
+    
+    - *TDUCP_3000.bnk** [new slots]
+
+    - *TDUCP_4000.bnk** [new slots]
 
     - *Viper_VP1.bnk* [unlocked slots]
 
@@ -77,6 +81,10 @@
     - *Mas_GT_Cpe.bnk* [unlocked slots]
 
     - *SRT6_RstP.bnk* [unlocked slots]
+
+    - *TDUCP_3000.bnk** [new slots]
+
+    - *TDUCP_4000.bnk** [new slots]
 
     - *Viper_VP1.bnk* [unlocked slots]
 
@@ -127,6 +135,10 @@
     - *Solstice_audio.bnk* [unlocked slots]
     
     - *SRT6_RstP_audio.bnk* [unlocked slots]
+
+    - *TDUCP_3000_audio.bnk** [new slots]
+
+    - *TDUCP_4000_audio.bnk** [new slots]
 
     - *Viper_VP1_audio.bnk* [unlocked slots]
 
@@ -224,6 +236,14 @@
 
     - *SRT6_RstP_I.bnk* [unlocked slots]
 
+    - *TDUCP_3000.bnk** [new slots]
+
+    - *TDUCP_3000_I.bnk** [new slots]
+
+    - *TDUCP_4000.bnk** [new slots]
+
+    - *TDUCP_4000_I.bnk** [new slots]
+
     - *Viper_VP1.bnk* [unlocked slots]
 
     - *Viper_VP1_I.bnk* [unlocked slots]
@@ -274,6 +294,16 @@
 
     - *SRT6_RstP_F_01.bnk* [unlocked slots]
 
+- **Euro\Bnk\Vehicules\Rim\Default**
+
+    - *TDUCP_3000_F_01.bnk* [new slots]
+    
+    - *TDUCP_3000_R_01.bnk* [new slots]
+    
+    - *TDUCP_4000_F_01.bnk* [new slots]
+    
+    - *TDUCP_4000_R_01.bnk* [new slots]
+
 - **Euro\Bnk\Vehicules\Rim\Ferrari**
 
     - *246_GTS_F_01.bnk* [unlocked slots]
@@ -312,7 +342,7 @@
 
 - **Euro\Bnk**
                         
-    - *Bnk1.map [Magic Map, Extended Map]*
+    - *Bnk1.map [Magic Map, Extended Map, Unlocked slots, new slots]*
 
 - **Euro\Bnk\Database**
                         
@@ -324,21 +354,23 @@
     
             TDU_Achievements [ace fix]
             TDU_Bots.db [bots with megapack cars]
-            TDU_Brands.db [new brands and fixes][unlocked slots]
-            TDU_CarColors.db [1.68b colors][dealer slots update]
-            TDU_CarPacks.db [F40 tuning kits][unlocked slots]
-            TDU_CarRims.db [F40 tuning kits][Nismo Rim fix]
-            TDU_CarPhysicsData.db [Nismo hud fix][vehicle names fix][unlocked slots]
+            TDU_Brands.db [new brands and fixes][unlocked slots][new slots]
+            TDU_CarColors.db [1.68b colors][dealer slots update][new slots]
+            TDU_CarPacks.db [F40 tuning kits][unlocked slots][new slots]
+            TDU_CarRims.db [F40 tuning kits][Nismo Rim fix][new slots]
+            TDU_CarPhysicsData.db [Nismo hud fix][vehicle names fix][unlocked slots][new slots]
             TDU_CarShops.db [dealer slots update][unlocked slots]
             TDU_Clothes.db [clothes for all]
-            TDU_Rims.db [unlocked slots]
+            TDU_Interior.db [new slots]
+            TDU_Rims.db [unlocked slots][new slots]
 
     - *DB_xx.bnk*
     
             TDU_Brands.xx [new brands and fixes]
-            TDU_CarColors.xx [1.68b colors]
-            TDU_CarPhysicsData.xx [unlocked slots]
-            TDU_Rims.xx [new rim names and fixes]
+            TDU_CarColors.xx [1.68b colors][new slots]
+            TDU_CarPhysicsData.xx [unlocked slots][new slots]
+            TDU_Interior.xx [new slots][new slots]
+            TDU_Rims.xx [new rim names and fixes][new slots]
         
 - **Euro\Bnk\FrontEnd\AllRes**
 
