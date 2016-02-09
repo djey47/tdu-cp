@@ -7,7 +7,15 @@
 source ../setEnv.sh
 
 BUILD_PATH=${TDUCP_PATH}/workspace/build/private/2.00A
-RELEASE_PATH=${TDUCP_PATH}/releases
+RELEASE_PATH=${TDUCP_PATH}/workspace/releases
+TARGET_DB_PATH=${BUILD_PATH}/Euro/Bnk/Database
+
+# Init
+echo "*** Preparing directory... ***"
+mkdir -p ${BUILD_PATH}
+mkdir -p ${TARGET_DB_PATH}
+mkdir -p ${RELEASE_PATH}
+echo
 
 # Manifests
 echo "*** Manifests... ***"
@@ -21,13 +29,16 @@ cd ../mapping/
 cd - > /dev/null
 echo
 
+# References
+echo "*** References... ***"
+cp ${TDUCP_PATH}/resources/physics/tdumt/VehicleSlots.xml ${TARGET_DB_PATH}
+echo
+
 # Database
 echo "*** Database... ***"
 cd ../database/
 ./generateCurrent.sh
 cd - > /dev/null
-TARGET_DB_PATH=${BUILD_PATH}/Euro/Bnk/Database
-mkdir -p ${TARGET_DB_PATH}
 cp ${GENERATED_DB_PATH}/*.bnk ${TARGET_DB_PATH}
 echo
 
