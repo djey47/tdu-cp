@@ -953,7 +953,7 @@
           },
           {
             "name": "Logo_Global_Index",
-            "rawValue": "14",
+            "rawValue": "198",
             "fieldRank": 5
           },
           {
@@ -963,12 +963,12 @@
           },
           {
             "name": "BitField",
-            "rawValue": "0",
+            "rawValue": "1",
             "switchValues": [
               {
                 "index": 1,
                 "name": "?",
-                "enabled": false
+                "enabled": true
               },
               {
                 "index": 2,
@@ -7433,58 +7433,6 @@
         "items": [
           {
             "name": "REF",
-            "rawValue": "906",
-            "fieldRank": 1
-          },
-          {
-            "name": "Manufacturer_ID",
-            "rawValue": "61438337",
-            "fieldRank": 2
-          },
-          {
-            "name": "Manufacturer_Name",
-            "rawValue": "6148357",
-            "fieldRank": 3
-          },
-          {
-            "name": "Logo_HUD_File",
-            "rawValue": "61438337",
-            "fieldRank": 4
-          },
-          {
-            "name": "Logo_Global_Index",
-            "rawValue": "198",
-            "fieldRank": 5
-          },
-          {
-            "name": "Brand_special_param",
-            "rawValue": "0",
-            "fieldRank": 6
-          },
-          {
-            "name": "BitField",
-            "rawValue": "1",
-            "switchValues": [
-              {
-                "index": 1,
-                "name": "?",
-                "enabled": true
-              },
-              {
-                "index": 2,
-                "name": "Tuning / clothes",
-                "enabled": false
-              }
-            ],
-            "fieldRank": 7
-          }
-        ]
-      },
-      {
-        "id": 143,
-        "items": [
-          {
-            "name": "REF",
             "rawValue": "824",
             "fieldRank": 1
           },
@@ -7533,7 +7481,7 @@
         ]
       },
       {
-        "id": 144,
+        "id": 143,
         "items": [
           {
             "name": "REF",
@@ -7585,7 +7533,7 @@
         ]
       },
       {
-        "id": 145,
+        "id": 144,
         "items": [
           {
             "name": "REF",
@@ -7637,7 +7585,7 @@
         ]
       },
       {
-        "id": 146,
+        "id": 145,
         "items": [
           {
             "name": "REF",
@@ -7689,7 +7637,7 @@
         ]
       },
       {
-        "id": 147,
+        "id": 146,
         "items": [
           {
             "name": "REF",
@@ -7741,7 +7689,7 @@
         ]
       },
       {
-        "id": 148,
+        "id": 147,
         "items": [
           {
             "name": "REF",
@@ -7793,7 +7741,7 @@
         ]
       },
       {
-        "id": 149,
+        "id": 148,
         "items": [
           {
             "name": "REF",
@@ -8226,7 +8174,7 @@
           "ref": "6048357"
         },
         {
-          "value": "Infinity",
+          "value": "Infiniti",
           "ref": "6148357"
         },
         {
@@ -11257,7 +11205,7 @@
           "ref": "6048357"
         },
         {
-          "value": "Infinity",
+          "value": "Infiniti",
           "ref": "6148357"
         },
         {
@@ -14288,7 +14236,7 @@
           "ref": "6048357"
         },
         {
-          "value": "Infinity",
+          "value": "Infiniti",
           "ref": "6148357"
         },
         {
@@ -17319,7 +17267,7 @@
           "ref": "6048357"
         },
         {
-          "value": "Infinity",
+          "value": "Infiniti",
           "ref": "6148357"
         },
         {
@@ -20350,7 +20298,7 @@
           "ref": "6048357"
         },
         {
-          "value": "Infinity",
+          "value": "Infiniti",
           "ref": "6148357"
         },
         {
@@ -23381,7 +23329,7 @@
           "ref": "6048357"
         },
         {
-          "value": "Infinity",
+          "value": "Infiniti",
           "ref": "6148357"
         },
         {
@@ -26412,7 +26360,7 @@
           "ref": "6048357"
         },
         {
-          "value": "Infinity",
+          "value": "Infiniti",
           "ref": "6148357"
         },
         {
@@ -29443,7 +29391,7 @@
           "ref": "6048357"
         },
         {
-          "value": "Infinity",
+          "value": "Infiniti",
           "ref": "6148357"
         },
         {
