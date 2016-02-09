@@ -29,6 +29,9 @@ cd ../slots/
 cd - > /dev/null
 echo
 
+# New slot files
+# TODO use script without database update (create 2 separate scripts)
+
 # Generate mapping
 echo "*** Bnk1.map... ***"
 cd ../mapping/
