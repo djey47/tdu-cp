@@ -179,4 +179,7 @@
     <vehicle name="VOLKSWAGEN W12 Roadster" ref="1229585697" camera="215"  ik="215" topSpeed="300" />
     <vehicle name="WIESMANN GT" ref="1291823209" camera="273"  ik="273" topSpeed="280"/>
     <vehicle name="WIESMANN Roadster MF3" ref="922904690" camera="280"  ik="280" topSpeed="255" />
+    <!-- BEWARE! NEW SLOTS BELOW! -->
+    <vehicle name="TDUCP Car Model 3000" ref="000003000" camera="999" ik="999" topSpeed="500" />
+    <vehicle name="TDUCP Bike Model 4000" ref="000004000" camera="666" ik="666" topSpeed="500" />
 </vehicleSlots>
