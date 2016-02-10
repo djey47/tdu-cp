@@ -42,6 +42,7 @@ echo
 # References
 echo "*** References... ***"
 cp ${TDUCP_PATH}/resources/physics/tdumt/VehicleSlots.xml ${TARGET_DB_PATH}
+cp ${TDUCP_PATH}/resources/physics/tdupe/carData.mdb ${TARGET_DB_PATH}
 echo
 
 # Database

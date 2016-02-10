@@ -11,7 +11,8 @@
     
 ( can be used with any mod, you just have to rename your files to TDUCP_3000.bnk or TDUCP_4000.bnk ... see **files.md** for details )
 
-- Provides updated TDUMT's **VehicleSlots.xml** file to make both slots appear under TDUMT.
+- Provides updated TDUMT's **VehicleSlots.xml** file to make both slots appear under TDUMT
+- Provides updated TDUPE's **carData.mdb** file to make both slots appear under TDUPE.
 
 
 ## Bugfixes

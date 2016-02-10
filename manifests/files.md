@@ -10,6 +10,8 @@
 
 - **Euro\Bnk\Database**
 
+    - *carData.mdb* [new slots]
+
     - *VehicleSlots.xml* [new slots]
 
 - **Euro\Bnk\Frontend\HiRes\Gauges**
