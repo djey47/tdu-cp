@@ -938,22 +938,22 @@
           },
           {
             "name": "Manufacturer_ID",
-            "rawValue": "61438337",
+            "rawValue": "60438337",
             "fieldRank": 2
           },
           {
             "name": "Manufacturer_Name",
-            "rawValue": "6148357",
+            "rawValue": "6048357",
             "fieldRank": 3
           },
           {
             "name": "Logo_HUD_File",
-            "rawValue": "61438337",
+            "rawValue": "6048357",
             "fieldRank": 4
           },
           {
             "name": "Logo_Global_Index",
-            "rawValue": "14",
+            "rawValue": "57",
             "fieldRank": 5
           },
           {
@@ -963,12 +963,12 @@
           },
           {
             "name": "BitField",
-            "rawValue": "0",
+            "rawValue": "1",
             "switchValues": [
               {
                 "index": 1,
                 "name": "Brand enabled",
-                "enabled": false
+                "enabled": true
               },
               {
                 "index": 2,
@@ -8382,7 +8382,7 @@
           "ref": "6048357"
         },
         {
-          "value": "Infinity",
+          "value": "Infiniti",
           "ref": "6148357"
         },
         {
@@ -11413,7 +11413,7 @@
           "ref": "6048357"
         },
         {
-          "value": "Infinity",
+          "value": "Infiniti",
           "ref": "6148357"
         },
         {
@@ -14444,7 +14444,7 @@
           "ref": "6048357"
         },
         {
-          "value": "Infinity",
+          "value": "Infiniti",
           "ref": "6148357"
         },
         {
@@ -17475,7 +17475,7 @@
           "ref": "6048357"
         },
         {
-          "value": "Infinity",
+          "value": "Infiniti",
           "ref": "6148357"
         },
         {
@@ -20506,7 +20506,7 @@
           "ref": "6048357"
         },
         {
-          "value": "Infinity",
+          "value": "Infiniti",
           "ref": "6148357"
         },
         {
@@ -23537,7 +23537,7 @@
           "ref": "6048357"
         },
         {
-          "value": "Infinity",
+          "value": "Infiniti",
           "ref": "6148357"
         },
         {
@@ -26568,7 +26568,7 @@
           "ref": "6048357"
         },
         {
-          "value": "Infinity",
+          "value": "Infiniti",
           "ref": "6148357"
         },
         {
@@ -29599,7 +29599,7 @@
           "ref": "6048357"
         },
         {
-          "value": "Infinity",
+          "value": "Infiniti",
           "ref": "6148357"
         },
         {
