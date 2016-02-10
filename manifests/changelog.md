@@ -6,8 +6,8 @@
 ## Features
 
 - Creates 2 *brand new* slots (set them to a Vehicle dealer slot to make them appear):
-    - TDUCP Model 3000 (Car)
-    - TDUCP Model 4000 (Bike)
+    - 300000000 => TDUCP Model 3000 (Car)
+    - 400000000 => TDUCP Model 4000 (Bike)
     
 ( can be used with any mod, you just have to rename your files to TDUCP_3000.bnk or TDUCP_4000.bnk ... see **files.md** for details )
 
