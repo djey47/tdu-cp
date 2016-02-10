@@ -119723,6 +119723,1120 @@
             "fieldRank": 103
           }
         ]
+      },
+      {
+        "id": 214,
+        "items": [
+          {
+            "name": "REF",
+            "rawValue": "300000000",
+            "fieldRank": 1
+          },
+          {
+            "name": "Car_Brand",
+            "rawValue": "91197",
+            "fieldRank": 2
+          },
+          {
+            "name": "Car_Model",
+            "rawValue": "30003407",
+            "fieldRank": 3
+          },
+          {
+            "name": "Car_Version",
+            "rawValue": "55438427",
+            "fieldRank": 4
+          },
+          {
+            "name": "Group",
+            "rawValue": "73900264",
+            "fieldRank": 5
+          },
+          {
+            "name": "Rarety",
+            "rawValue": "1",
+            "fieldRank": 6
+          },
+          {
+            "name": "Price_dollar",
+            "rawValue": "5000",
+            "fieldRank": 7
+          },
+          {
+            "name": "TestDrive_Cat",
+            "rawValue": "56368917",
+            "fieldRank": 8
+          },
+          {
+            "name": "Car_File_Name",
+            "rawValue": "3000567",
+            "fieldRank": 9
+          },
+          {
+            "name": "Default_Rims",
+            "rawValue": "000030001",
+            "fieldRank": 10
+          },
+          {
+            "name": "HUD_File_Name",
+            "rawValue": "3000567",
+            "fieldRank": 11
+          },
+          {
+            "name": "Car_RealName",
+            "rawValue": "53338427",
+            "fieldRank": 12
+          },
+          {
+            "name": "Model_Name",
+            "rawValue": "30003407",
+            "fieldRank": 13
+          },
+          {
+            "name": "Version_Name",
+            "rawValue": "30008427",
+            "fieldRank": 14
+          },
+          {
+            "name": "Engine_Localisation",
+            "rawValue": "57356917",
+            "fieldRank": 15
+          },
+          {
+            "name": "Engine_Type",
+            "rawValue": "603709",
+            "fieldRank": 16
+          },
+          {
+            "name": "Displacement",
+            "rawValue": "6192",
+            "fieldRank": 17
+          },
+          {
+            "name": "Power_bhp",
+            "rawValue": "1000",
+            "fieldRank": 18
+          },
+          {
+            "name": "Power_RPM",
+            "rawValue": "10000",
+            "fieldRank": 19
+          },
+          {
+            "name": "Torque_Nm",
+            "rawValue": "1500",
+            "fieldRank": 20
+          },
+          {
+            "name": "Torque_RPM",
+            "rawValue": "10000",
+            "fieldRank": 21
+          },
+          {
+            "name": "Red_Line",
+            "rawValue": "10000",
+            "fieldRank": 22
+          },
+          {
+            "name": "Drive",
+            "rawValue": "54356917",
+            "fieldRank": 23
+          },
+          {
+            "name": "GearBox",
+            "rawValue": "573531",
+            "fieldRank": 24
+          },
+          {
+            "name": "Nb_Gears",
+            "rawValue": "6",
+            "fieldRank": 25
+          },
+          {
+            "name": "Final_Drive_Ratio",
+            "rawValue": "2,53",
+            "fieldRank": 26
+          },
+          {
+            "name": "Gear_ratio_1",
+            "rawValue": "2,94",
+            "fieldRank": 27
+          },
+          {
+            "name": "Gear_ratio_2",
+            "rawValue": "2,06",
+            "fieldRank": 28
+          },
+          {
+            "name": "Gear_ratio_3",
+            "rawValue": "1,52",
+            "fieldRank": 29
+          },
+          {
+            "name": "Gear_ratio_4",
+            "rawValue": "1,18",
+            "fieldRank": 30
+          },
+          {
+            "name": "Gear_ratio_5",
+            "rawValue": "1,03",
+            "fieldRank": 31
+          },
+          {
+            "name": "Gear_ratio_6",
+            "rawValue": "0,91",
+            "fieldRank": 32
+          },
+          {
+            "name": "Gear_ratio_7",
+            "rawValue": "0",
+            "fieldRank": 33
+          },
+          {
+            "name": "Nb_Doors",
+            "rawValue": "2",
+            "fieldRank": 34
+          },
+          {
+            "name": "Brakes_Characteristics_Front",
+            "rawValue": "57356917",
+            "fieldRank": 35
+          },
+          {
+            "name": "Brakes_Dim_Front",
+            "rawValue": "335",
+            "fieldRank": 36
+          },
+          {
+            "name": "Brakes_Dim_Rear",
+            "rawValue": "335",
+            "fieldRank": 37
+          },
+          {
+            "name": "Brakes_Characteristics_Rear",
+            "rawValue": "57356917",
+            "fieldRank": 38
+          },
+          {
+            "name": "Tires_Type",
+            "rawValue": "53338427",
+            "fieldRank": 39
+          },
+          {
+            "name": "Nb_Turbos",
+            "rawValue": "0",
+            "fieldRank": 40
+          },
+          {
+            "name": "Width",
+            "rawValue": "1847",
+            "fieldRank": 41
+          },
+          {
+            "name": "Lenght",
+            "rawValue": "4554",
+            "fieldRank": 42
+          },
+          {
+            "name": "Height",
+            "rawValue": "1374",
+            "fieldRank": 43
+          },
+          {
+            "name": "Track_Front",
+            "rawValue": "1620",
+            "fieldRank": 44
+          },
+          {
+            "name": "Track_Back",
+            "rawValue": "1520",
+            "fieldRank": 45
+          },
+          {
+            "name": "WheelBase",
+            "rawValue": "2854",
+            "fieldRank": 46
+          },
+          {
+            "name": "OverHang_Front",
+            "rawValue": "813",
+            "fieldRank": 47
+          },
+          {
+            "name": "OverHang_Rear",
+            "rawValue": "916",
+            "fieldRank": 48
+          },
+          {
+            "name": "Weight_Kg",
+            "rawValue": "1300",
+            "fieldRank": 49
+          },
+          {
+            "name": "Ride_Height_Front",
+            "rawValue": "150",
+            "fieldRank": 50
+          },
+          {
+            "name": "Ride_Height_Rear",
+            "rawValue": "150",
+            "fieldRank": 51
+          },
+          {
+            "name": "Ride_Height_Max_Front",
+            "rawValue": "0",
+            "fieldRank": 52
+          },
+          {
+            "name": "Ride_Height_Max_Rear",
+            "rawValue": "0",
+            "fieldRank": 53
+          },
+          {
+            "name": "Suspension_Lenght_Front",
+            "rawValue": "100",
+            "fieldRank": 54
+          },
+          {
+            "name": "Suspension_Lenght_Rear",
+            "rawValue": "100",
+            "fieldRank": 55
+          },
+          {
+            "name": "Suspension_Rate_Front",
+            "rawValue": "100",
+            "fieldRank": 56
+          },
+          {
+            "name": "Suspension_Rate_Rear",
+            "rawValue": "100",
+            "fieldRank": 57
+          },
+          {
+            "name": "Damper_Rate_Front",
+            "rawValue": "100",
+            "fieldRank": 58
+          },
+          {
+            "name": "Damper_Rate_Rear",
+            "rawValue": "100",
+            "fieldRank": 59
+          },
+          {
+            "name": "Engine_Inertia",
+            "rawValue": "100",
+            "fieldRank": 60
+          },
+          {
+            "name": "Gearbox_Inertia",
+            "rawValue": "50",
+            "fieldRank": 61
+          },
+          {
+            "name": "Gravity_Center_Length",
+            "rawValue": "55",
+            "fieldRank": 62
+          },
+          {
+            "name": "Gravity_Center_Height",
+            "rawValue": "40",
+            "fieldRank": 63
+          },
+          {
+            "name": "Cx_Length",
+            "rawValue": "0,35",
+            "fieldRank": 64
+          },
+          {
+            "name": "Cx_Height",
+            "rawValue": "0,5",
+            "fieldRank": 65
+          },
+          {
+            "name": "SteerLock",
+            "rawValue": "45",
+            "fieldRank": 66
+          },
+          {
+            "name": "Transmission_Primacy",
+            "rawValue": "30",
+            "fieldRank": 67
+          },
+          {
+            "name": "Brake_Balance",
+            "rawValue": "60",
+            "fieldRank": 68
+          },
+          {
+            "name": "Ignition_Time_Ignite",
+            "rawValue": "1,1",
+            "fieldRank": 69
+          },
+          {
+            "name": "Ignition_Time_RevUp",
+            "rawValue": "0,45",
+            "fieldRank": 70
+          },
+          {
+            "name": "Ignition_Time_RevDown",
+            "rawValue": "0,9",
+            "fieldRank": 71
+          },
+          {
+            "name": "Ignition_RPM",
+            "rawValue": "0,7",
+            "fieldRank": 72
+          },
+          {
+            "name": "DoorMaxAngle",
+            "rawValue": "1",
+            "fieldRank": 73
+          },
+          {
+            "name": "Windows_Type",
+            "rawValue": "74739427",
+            "fieldRank": 74
+          },
+          {
+            "name": "Belt_Type",
+            "rawValue": "92261406",
+            "fieldRank": 75
+          },
+          {
+            "name": "Nb_Seats",
+            "rawValue": "55533427",
+            "fieldRank": 76
+          },
+          {
+            "name": "Car_Body",
+            "rawValue": "5566317",
+            "fieldRank": 77
+          },
+          {
+            "name": "Acceleration_0_100_kmh",
+            "rawValue": "4",
+            "fieldRank": 78
+          },
+          {
+            "name": "Acceleration_0_100_mph",
+            "rawValue": "9,1",
+            "fieldRank": 79
+          },
+          {
+            "name": "Top_Speed_kmh",
+            "rawValue": "332",
+            "fieldRank": 80
+          },
+          {
+            "name": "Braking_100_0_kmh",
+            "rawValue": "130",
+            "fieldRank": 81
+          },
+          {
+            "name": "t0_to_1000m_sec",
+            "rawValue": "21,3",
+            "fieldRank": 82
+          },
+          {
+            "name": "t0_to_1000m_kmh",
+            "rawValue": "241",
+            "fieldRank": 83
+          },
+          {
+            "name": "t0_to_1000m_mph",
+            "rawValue": "0",
+            "fieldRank": 84
+          },
+          {
+            "name": "Quarter_Mile_sec",
+            "rawValue": "12,1",
+            "fieldRank": 85
+          },
+          {
+            "name": "Quarter_Mile_kmh",
+            "rawValue": "0",
+            "fieldRank": 86
+          },
+          {
+            "name": "Quarter_Mile_mph",
+            "rawValue": "121",
+            "fieldRank": 87
+          },
+          {
+            "name": "coef_grip",
+            "rawValue": "1000",
+            "fieldRank": 88
+          },
+          {
+            "name": "coef_overturning",
+            "rawValue": "100",
+            "fieldRank": 89
+          },
+          {
+            "name": "coef_accel",
+            "rawValue": "100",
+            "fieldRank": 90
+          },
+          {
+            "name": "coef_brake",
+            "rawValue": "100",
+            "fieldRank": 91
+          },
+          {
+            "name": "BrakingDist_feet",
+            "rawValue": "230",
+            "fieldRank": 92
+          },
+          {
+            "name": "Handling",
+            "rawValue": "70",
+            "fieldRank": 93
+          },
+          {
+            "name": "coef_suspension",
+            "rawValue": "100",
+            "fieldRank": 94
+          },
+          {
+            "name": "coef_sharpness",
+            "rawValue": "100",
+            "fieldRank": 95
+          },
+          {
+            "name": "GraduationChange_Speed",
+            "rawValue": "-1",
+            "fieldRank": 96
+          },
+          {
+            "name": "GraduationChange_Ratio",
+            "rawValue": "1",
+            "fieldRank": 97
+          },
+          {
+            "name": "Camera",
+            "rawValue": "999",
+            "fieldRank": 98
+          },
+          {
+            "name": "Same_IK",
+            "rawValue": "999",
+            "fieldRank": 99
+          },
+          {
+            "name": "Secu1",
+            "rawValue": "1",
+            "fieldRank": 100
+          },
+          {
+            "name": "Secu2",
+            "rawValue": "100",
+            "fieldRank": 101
+          },
+          {
+            "name": "ID_Car",
+            "rawValue": "3000",
+            "fieldRank": 102
+          },
+          {
+            "name": "BitField",
+            "rawValue": "95",
+            "switchValues": [
+              {
+                "index": 1,
+                "name": "Vehicle slot enabled",
+                "enabled": true
+              },
+              {
+                "index": 2,
+                "name": "?",
+                "enabled": true
+              },
+              {
+                "index": 3,
+                "name": "?",
+                "enabled": true
+              },
+              {
+                "index": 4,
+                "name": "?",
+                "enabled": true
+              },
+              {
+                "index": 5,
+                "name": "?",
+                "enabled": true
+              },
+              {
+                "index": 6,
+                "name": "Add-on key required",
+                "enabled": false
+              },
+              {
+                "index": 7,
+                "name": "Car Paint Luxe enabled",
+                "enabled": true
+              }
+            ],
+            "fieldRank": 103
+          }
+        ]
+      },
+      {
+        "id": 215,
+        "items": [
+          {
+            "name": "REF",
+            "rawValue": "400000000",
+            "fieldRank": 1
+          },
+          {
+            "name": "Car_Brand",
+            "rawValue": "91197",
+            "fieldRank": 2
+          },
+          {
+            "name": "Car_Model",
+            "rawValue": "40003407",
+            "fieldRank": 3
+          },
+          {
+            "name": "Car_Version",
+            "rawValue": "61933427",
+            "fieldRank": 4
+          },
+          {
+            "name": "Group",
+            "rawValue": "76800264",
+            "fieldRank": 5
+          },
+          {
+            "name": "Rarety",
+            "rawValue": "1",
+            "fieldRank": 6
+          },
+          {
+            "name": "Price_dollar",
+            "rawValue": "5000",
+            "fieldRank": 7
+          },
+          {
+            "name": "TestDrive_Cat",
+            "rawValue": "56468917",
+            "fieldRank": 8
+          },
+          {
+            "name": "Car_File_Name",
+            "rawValue": "4000567",
+            "fieldRank": 9
+          },
+          {
+            "name": "Default_Rims",
+            "rawValue": "000040001",
+            "fieldRank": 10
+          },
+          {
+            "name": "HUD_File_Name",
+            "rawValue": "4000567",
+            "fieldRank": 11
+          },
+          {
+            "name": "Car_RealName",
+            "rawValue": "53338427",
+            "fieldRank": 12
+          },
+          {
+            "name": "Model_Name",
+            "rawValue": "40003407",
+            "fieldRank": 13
+          },
+          {
+            "name": "Version_Name",
+            "rawValue": "40008427",
+            "fieldRank": 14
+          },
+          {
+            "name": "Engine_Localisation",
+            "rawValue": "57356917",
+            "fieldRank": 15
+          },
+          {
+            "name": "Engine_Type",
+            "rawValue": "563709",
+            "fieldRank": 16
+          },
+          {
+            "name": "Displacement",
+            "rawValue": "998",
+            "fieldRank": 17
+          },
+          {
+            "name": "Power_bhp",
+            "rawValue": "184",
+            "fieldRank": 18
+          },
+          {
+            "name": "Power_RPM",
+            "rawValue": "11700",
+            "fieldRank": 19
+          },
+          {
+            "name": "Torque_Nm",
+            "rawValue": "115",
+            "fieldRank": 20
+          },
+          {
+            "name": "Torque_RPM",
+            "rawValue": "9500",
+            "fieldRank": 21
+          },
+          {
+            "name": "Red_Line",
+            "rawValue": "13000",
+            "fieldRank": 22
+          },
+          {
+            "name": "Drive",
+            "rawValue": "55356917",
+            "fieldRank": 23
+          },
+          {
+            "name": "GearBox",
+            "rawValue": "573531",
+            "fieldRank": 24
+          },
+          {
+            "name": "Nb_Gears",
+            "rawValue": "6",
+            "fieldRank": 25
+          },
+          {
+            "name": "Final_Drive_Ratio",
+            "rawValue": "2,53",
+            "fieldRank": 26
+          },
+          {
+            "name": "Gear_ratio_1",
+            "rawValue": "2,94",
+            "fieldRank": 27
+          },
+          {
+            "name": "Gear_ratio_2",
+            "rawValue": "2,06",
+            "fieldRank": 28
+          },
+          {
+            "name": "Gear_ratio_3",
+            "rawValue": "1,52",
+            "fieldRank": 29
+          },
+          {
+            "name": "Gear_ratio_4",
+            "rawValue": "1,18",
+            "fieldRank": 30
+          },
+          {
+            "name": "Gear_ratio_5",
+            "rawValue": "1,03",
+            "fieldRank": 31
+          },
+          {
+            "name": "Gear_ratio_6",
+            "rawValue": "0,91",
+            "fieldRank": 32
+          },
+          {
+            "name": "Gear_ratio_7",
+            "rawValue": "0",
+            "fieldRank": 33
+          },
+          {
+            "name": "Nb_Doors",
+            "rawValue": "2",
+            "fieldRank": 34
+          },
+          {
+            "name": "Brakes_Characteristics_Front",
+            "rawValue": "57356917",
+            "fieldRank": 35
+          },
+          {
+            "name": "Brakes_Dim_Front",
+            "rawValue": "335",
+            "fieldRank": 36
+          },
+          {
+            "name": "Brakes_Dim_Rear",
+            "rawValue": "335",
+            "fieldRank": 37
+          },
+          {
+            "name": "Brakes_Characteristics_Rear",
+            "rawValue": "57356917",
+            "fieldRank": 38
+          },
+          {
+            "name": "Tires_Type",
+            "rawValue": "53338427",
+            "fieldRank": 39
+          },
+          {
+            "name": "Nb_Turbos",
+            "rawValue": "0",
+            "fieldRank": 40
+          },
+          {
+            "name": "Width",
+            "rawValue": "812",
+            "fieldRank": 41
+          },
+          {
+            "name": "Lenght",
+            "rawValue": "2010",
+            "fieldRank": 42
+          },
+          {
+            "name": "Height",
+            "rawValue": "1176",
+            "fieldRank": 43
+          },
+          {
+            "name": "Track_Front",
+            "rawValue": "0",
+            "fieldRank": 44
+          },
+          {
+            "name": "Track_Back",
+            "rawValue": "0",
+            "fieldRank": 45
+          },
+          {
+            "name": "WheelBase",
+            "rawValue": "1398",
+            "fieldRank": 46
+          },
+          {
+            "name": "OverHang_Front",
+            "rawValue": "310",
+            "fieldRank": 47
+          },
+          {
+            "name": "OverHang_Rear",
+            "rawValue": "326",
+            "fieldRank": 48
+          },
+          {
+            "name": "Weight_Kg",
+            "rawValue": "200",
+            "fieldRank": 49
+          },
+          {
+            "name": "Ride_Height_Front",
+            "rawValue": "154",
+            "fieldRank": 50
+          },
+          {
+            "name": "Ride_Height_Rear",
+            "rawValue": "154",
+            "fieldRank": 51
+          },
+          {
+            "name": "Ride_Height_Max_Front",
+            "rawValue": "0",
+            "fieldRank": 52
+          },
+          {
+            "name": "Ride_Height_Max_Rear",
+            "rawValue": "0",
+            "fieldRank": 53
+          },
+          {
+            "name": "Suspension_Lenght_Front",
+            "rawValue": "100",
+            "fieldRank": 54
+          },
+          {
+            "name": "Suspension_Lenght_Rear",
+            "rawValue": "100",
+            "fieldRank": 55
+          },
+          {
+            "name": "Suspension_Rate_Front",
+            "rawValue": "100",
+            "fieldRank": 56
+          },
+          {
+            "name": "Suspension_Rate_Rear",
+            "rawValue": "100",
+            "fieldRank": 57
+          },
+          {
+            "name": "Damper_Rate_Front",
+            "rawValue": "100",
+            "fieldRank": 58
+          },
+          {
+            "name": "Damper_Rate_Rear",
+            "rawValue": "100",
+            "fieldRank": 59
+          },
+          {
+            "name": "Engine_Inertia",
+            "rawValue": "100",
+            "fieldRank": 60
+          },
+          {
+            "name": "Gearbox_Inertia",
+            "rawValue": "50",
+            "fieldRank": 61
+          },
+          {
+            "name": "Gravity_Center_Length",
+            "rawValue": "55",
+            "fieldRank": 62
+          },
+          {
+            "name": "Gravity_Center_Height",
+            "rawValue": "40",
+            "fieldRank": 63
+          },
+          {
+            "name": "Cx_Length",
+            "rawValue": "0,35",
+            "fieldRank": 64
+          },
+          {
+            "name": "Cx_Height",
+            "rawValue": "0,5",
+            "fieldRank": 65
+          },
+          {
+            "name": "SteerLock",
+            "rawValue": "45",
+            "fieldRank": 66
+          },
+          {
+            "name": "Transmission_Primacy",
+            "rawValue": "30",
+            "fieldRank": 67
+          },
+          {
+            "name": "Brake_Balance",
+            "rawValue": "60",
+            "fieldRank": 68
+          },
+          {
+            "name": "Ignition_Time_Ignite",
+            "rawValue": "1,1",
+            "fieldRank": 69
+          },
+          {
+            "name": "Ignition_Time_RevUp",
+            "rawValue": "0,45",
+            "fieldRank": 70
+          },
+          {
+            "name": "Ignition_Time_RevDown",
+            "rawValue": "0,9",
+            "fieldRank": 71
+          },
+          {
+            "name": "Ignition_RPM",
+            "rawValue": "0,7",
+            "fieldRank": 72
+          },
+          {
+            "name": "DoorMaxAngle",
+            "rawValue": "1",
+            "fieldRank": 73
+          },
+          {
+            "name": "Windows_Type",
+            "rawValue": "77678427",
+            "fieldRank": 74
+          },
+          {
+            "name": "Belt_Type",
+            "rawValue": "92261406",
+            "fieldRank": 75
+          },
+          {
+            "name": "Nb_Seats",
+            "rawValue": "55533427",
+            "fieldRank": 76
+          },
+          {
+            "name": "Car_Body",
+            "rawValue": "57356917",
+            "fieldRank": 77
+          },
+          {
+            "name": "Acceleration_0_100_kmh",
+            "rawValue": "4",
+            "fieldRank": 78
+          },
+          {
+            "name": "Acceleration_0_100_mph",
+            "rawValue": "9,1",
+            "fieldRank": 79
+          },
+          {
+            "name": "Top_Speed_kmh",
+            "rawValue": "332",
+            "fieldRank": 80
+          },
+          {
+            "name": "Braking_100_0_kmh",
+            "rawValue": "100",
+            "fieldRank": 81
+          },
+          {
+            "name": "t0_to_1000m_sec",
+            "rawValue": "21,3",
+            "fieldRank": 82
+          },
+          {
+            "name": "t0_to_1000m_kmh",
+            "rawValue": "241",
+            "fieldRank": 83
+          },
+          {
+            "name": "t0_to_1000m_mph",
+            "rawValue": "0",
+            "fieldRank": 84
+          },
+          {
+            "name": "Quarter_Mile_sec",
+            "rawValue": "12,1",
+            "fieldRank": 85
+          },
+          {
+            "name": "Quarter_Mile_kmh",
+            "rawValue": "0",
+            "fieldRank": 86
+          },
+          {
+            "name": "Quarter_Mile_mph",
+            "rawValue": "121",
+            "fieldRank": 87
+          },
+          {
+            "name": "coef_grip",
+            "rawValue": "1000",
+            "fieldRank": 88
+          },
+          {
+            "name": "coef_overturning",
+            "rawValue": "100",
+            "fieldRank": 89
+          },
+          {
+            "name": "coef_accel",
+            "rawValue": "100",
+            "fieldRank": 90
+          },
+          {
+            "name": "coef_brake",
+            "rawValue": "100",
+            "fieldRank": 91
+          },
+          {
+            "name": "BrakingDist_feet",
+            "rawValue": "230",
+            "fieldRank": 92
+          },
+          {
+            "name": "Handling",
+            "rawValue": "70",
+            "fieldRank": 93
+          },
+          {
+            "name": "coef_suspension",
+            "rawValue": "100",
+            "fieldRank": 94
+          },
+          {
+            "name": "coef_sharpness",
+            "rawValue": "100",
+            "fieldRank": 95
+          },
+          {
+            "name": "GraduationChange_Speed",
+            "rawValue": "-1",
+            "fieldRank": 96
+          },
+          {
+            "name": "GraduationChange_Ratio",
+            "rawValue": "1",
+            "fieldRank": 97
+          },
+          {
+            "name": "Camera",
+            "rawValue": "666",
+            "fieldRank": 98
+          },
+          {
+            "name": "Same_IK",
+            "rawValue": "666",
+            "fieldRank": 99
+          },
+          {
+            "name": "Secu1",
+            "rawValue": "1",
+            "fieldRank": 100
+          },
+          {
+            "name": "Secu2",
+            "rawValue": "100",
+            "fieldRank": 101
+          },
+          {
+            "name": "ID_Car",
+            "rawValue": "4000",
+            "fieldRank": 102
+          },
+          {
+            "name": "BitField",
+            "rawValue": "95",
+            "switchValues": [
+              {
+                "index": 1,
+                "name": "Vehicle slot enabled",
+                "enabled": true
+              },
+              {
+                "index": 2,
+                "name": "?",
+                "enabled": true
+              },
+              {
+                "index": 3,
+                "name": "?",
+                "enabled": true
+              },
+              {
+                "index": 4,
+                "name": "?",
+                "enabled": true
+              },
+              {
+                "index": 5,
+                "name": "?",
+                "enabled": true
+              },
+              {
+                "index": 6,
+                "name": "Add-on key required",
+                "enabled": false
+              },
+              {
+                "index": 7,
+                "name": "Car Paint Luxe enabled",
+                "enabled": true
+              }
+            ],
+            "fieldRank": 103
+          }
+        ]
       }
     ]
   },
@@ -124756,6 +125870,30 @@
         {
           "value": "DAYTONA_955I",
           "ref": "6626580"
+        },
+        {
+          "value": "TDUCP_3000",
+          "ref": "3000567"
+        },
+        {
+          "value": "TDUCP Model 3000",
+          "ref": "30003407"
+        },
+        {
+          "value": "Version 3000",
+          "ref": "30008427"
+        },
+        {
+          "value": "TDUCP_4000",
+          "ref": "4000567"
+        },
+        {
+          "value": "TDUCP Model 4000",
+          "ref": "40003407"
+        },
+        {
+          "value": "Version 4000",
+          "ref": "40008427"
         }
       ],
       "version": "1,2",
@@ -129791,6 +130929,30 @@
         {
           "value": "DAYTONA_955I",
           "ref": "6626580"
+        },
+        {
+          "value": "TDUCP_3000",
+          "ref": "3000567"
+        },
+        {
+          "value": "TDUCP Model 3000",
+          "ref": "30003407"
+        },
+        {
+          "value": "Version 3000",
+          "ref": "30008427"
+        },
+        {
+          "value": "TDUCP_4000",
+          "ref": "4000567"
+        },
+        {
+          "value": "TDUCP Model 4000",
+          "ref": "40003407"
+        },
+        {
+          "value": "Version 4000",
+          "ref": "40008427"
         }
       ],
       "version": "1,2",
@@ -134826,6 +135988,30 @@
         {
           "value": "DAYTONA_955I",
           "ref": "6626580"
+        },
+        {
+          "value": "TDUCP_3000",
+          "ref": "3000567"
+        },
+        {
+          "value": "TDUCP Model 3000",
+          "ref": "30003407"
+        },
+        {
+          "value": "Version 3000",
+          "ref": "30008427"
+        },
+        {
+          "value": "TDUCP_4000",
+          "ref": "4000567"
+        },
+        {
+          "value": "TDUCP Model 4000",
+          "ref": "40003407"
+        },
+        {
+          "value": "Version 4000",
+          "ref": "40008427"
         }
       ],
       "version": "1,2",
@@ -139861,6 +141047,30 @@
         {
           "value": "DAYTONA_955I",
           "ref": "6626580"
+        },
+        {
+          "value": "TDUCP_3000",
+          "ref": "3000567"
+        },
+        {
+          "value": "TDUCP Model 3000",
+          "ref": "30003407"
+        },
+        {
+          "value": "Version 3000",
+          "ref": "30008427"
+        },
+        {
+          "value": "TDUCP_4000",
+          "ref": "4000567"
+        },
+        {
+          "value": "TDUCP Model 4000",
+          "ref": "40003407"
+        },
+        {
+          "value": "Version 4000",
+          "ref": "40008427"
         }
       ],
       "version": "1,2",
@@ -144896,6 +146106,30 @@
         {
           "value": "DAYTONA_955I",
           "ref": "6626580"
+        },
+        {
+          "value": "TDUCP_3000",
+          "ref": "3000567"
+        },
+        {
+          "value": "TDUCP Model 3000",
+          "ref": "30003407"
+        },
+        {
+          "value": "Version 3000",
+          "ref": "30008427"
+        },
+        {
+          "value": "TDUCP_4000",
+          "ref": "4000567"
+        },
+        {
+          "value": "TDUCP Model 4000",
+          "ref": "40003407"
+        },
+        {
+          "value": "Version 4000",
+          "ref": "40008427"
         }
       ],
       "version": "1,2",
@@ -149931,6 +151165,30 @@
         {
           "value": "DAYTONA_955I",
           "ref": "6626580"
+        },
+        {
+          "value": "TDUCP_3000",
+          "ref": "3000567"
+        },
+        {
+          "value": "TDUCP Model 3000",
+          "ref": "30003407"
+        },
+        {
+          "value": "Version 3000",
+          "ref": "30008427"
+        },
+        {
+          "value": "TDUCP_4000",
+          "ref": "4000567"
+        },
+        {
+          "value": "TDUCP Model 4000",
+          "ref": "40003407"
+        },
+        {
+          "value": "Version 4000",
+          "ref": "40008427"
         }
       ],
       "version": "1,2",
@@ -154966,6 +156224,30 @@
         {
           "value": "DAYTONA_955I",
           "ref": "6626580"
+        },
+        {
+          "value": "TDUCP_3000",
+          "ref": "3000567"
+        },
+        {
+          "value": "TDUCP Model 3000",
+          "ref": "30003407"
+        },
+        {
+          "value": "Version 3000",
+          "ref": "30008427"
+        },
+        {
+          "value": "TDUCP_4000",
+          "ref": "4000567"
+        },
+        {
+          "value": "TDUCP Model 4000",
+          "ref": "40003407"
+        },
+        {
+          "value": "Version 4000",
+          "ref": "40008427"
         }
       ],
       "version": "1,2",
@@ -160001,6 +161283,30 @@
         {
           "value": "DAYTONA_955I",
           "ref": "6626580"
+        },
+        {
+          "value": "TDUCP_3000",
+          "ref": "3000567"
+        },
+        {
+          "value": "TDUCP Model 3000",
+          "ref": "30003407"
+        },
+        {
+          "value": "Version 3000",
+          "ref": "30008427"
+        },
+        {
+          "value": "TDUCP_4000",
+          "ref": "4000567"
+        },
+        {
+          "value": "TDUCP Model 4000",
+          "ref": "40003407"
+        },
+        {
+          "value": "Version 4000",
+          "ref": "40008427"
         }
       ],
       "version": "1,2",

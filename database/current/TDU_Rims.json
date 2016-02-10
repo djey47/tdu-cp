@@ -21340,6 +21340,190 @@
             "fieldRank": 16
           }
         ]
+      },
+      {
+        "id": 231,
+        "items": [
+          {
+            "name": "REF",
+            "rawValue": "000030001",
+            "fieldRank": 1
+          },
+          {
+            "name": "Rim_Manufacturer",
+            "rawValue": "55765512",
+            "fieldRank": 2
+          },
+          {
+            "name": "Rim_Name",
+            "rawValue": "54276512",
+            "fieldRank": 3
+          },
+          {
+            "name": "DisplayName",
+            "rawValue": "3000562",
+            "fieldRank": 4
+          },
+          {
+            "name": "Largeur_Front",
+            "rawValue": "225",
+            "fieldRank": 5
+          },
+          {
+            "name": "Hauteur_Front",
+            "rawValue": "45",
+            "fieldRank": 6
+          },
+          {
+            "name": "Diameter_Front",
+            "rawValue": "18",
+            "fieldRank": 7
+          },
+          {
+            "name": "Largeur_Rear",
+            "rawValue": "225",
+            "fieldRank": 8
+          },
+          {
+            "name": "Hauteur_Rear",
+            "rawValue": "45",
+            "fieldRank": 9
+          },
+          {
+            "name": "Diameter_Rear",
+            "rawValue": "18",
+            "fieldRank": 10
+          },
+          {
+            "name": "Price_dollar",
+            "rawValue": "0",
+            "fieldRank": 11
+          },
+          {
+            "name": "Nb_Spokes",
+            "rawValue": "5",
+            "fieldRank": 12
+          },
+          {
+            "name": "Rsc_Path",
+            "rawValue": "55765512",
+            "fieldRank": 13
+          },
+          {
+            "name": "Rsc_File_Name_Front",
+            "rawValue": "30001512",
+            "fieldRank": 14
+          },
+          {
+            "name": "Rsc_File_Name_Rear",
+            "rawValue": "30002512",
+            "fieldRank": 15
+          },
+          {
+            "name": "BitField",
+            "rawValue": "0",
+            "switchValues": [
+              {
+                "index": 1,
+                "name": "?",
+                "enabled": false
+              }
+            ],
+            "fieldRank": 16
+          }
+        ]
+      },
+      {
+        "id": 232,
+        "items": [
+          {
+            "name": "REF",
+            "rawValue": "000040001",
+            "fieldRank": 1
+          },
+          {
+            "name": "Rim_Manufacturer",
+            "rawValue": "55765512",
+            "fieldRank": 2
+          },
+          {
+            "name": "Rim_Name",
+            "rawValue": "58376512",
+            "fieldRank": 3
+          },
+          {
+            "name": "DisplayName",
+            "rawValue": "4000562",
+            "fieldRank": 4
+          },
+          {
+            "name": "Largeur_Front",
+            "rawValue": "120",
+            "fieldRank": 5
+          },
+          {
+            "name": "Hauteur_Front",
+            "rawValue": "70",
+            "fieldRank": 6
+          },
+          {
+            "name": "Diameter_Front",
+            "rawValue": "17",
+            "fieldRank": 7
+          },
+          {
+            "name": "Largeur_Rear",
+            "rawValue": "190",
+            "fieldRank": 8
+          },
+          {
+            "name": "Hauteur_Rear",
+            "rawValue": "55",
+            "fieldRank": 9
+          },
+          {
+            "name": "Diameter_Rear",
+            "rawValue": "17",
+            "fieldRank": 10
+          },
+          {
+            "name": "Price_dollar",
+            "rawValue": "0",
+            "fieldRank": 11
+          },
+          {
+            "name": "Nb_Spokes",
+            "rawValue": "5",
+            "fieldRank": 12
+          },
+          {
+            "name": "Rsc_Path",
+            "rawValue": "55765512",
+            "fieldRank": 13
+          },
+          {
+            "name": "Rsc_File_Name_Front",
+            "rawValue": "40001512",
+            "fieldRank": 14
+          },
+          {
+            "name": "Rsc_File_Name_Rear",
+            "rawValue": "40002512",
+            "fieldRank": 15
+          },
+          {
+            "name": "BitField",
+            "rawValue": "0",
+            "switchValues": [
+              {
+                "index": 1,
+                "name": "?",
+                "enabled": false
+              }
+            ],
+            "fieldRank": 16
+          }
+        ]
       }
     ]
   },
@@ -24513,6 +24697,30 @@
         {
           "value": "350Z_Rst_F_01",
           "ref": "52858512"
+        },
+        {
+          "value": "TDUCP 3000 - rim set 1",
+          "ref": "3000562"
+        },
+        {
+          "value": "TDUCP_3000_F_01",
+          "ref": "30001512"
+        },
+        {
+          "value": "TDUCP_3000_R_01",
+          "ref": "30002512"
+        },
+        {
+          "value": "TDUCP 4000 - rim set 1",
+          "ref": "4000562"
+        },
+        {
+          "value": "TDUCP_4000_F_01",
+          "ref": "40001512"
+        },
+        {
+          "value": "TDUCP_4000_R_01",
+          "ref": "40002512"
         }
       ],
       "version": "1,2",
@@ -27688,6 +27896,30 @@
         {
           "value": "350Z_Rst_F_01",
           "ref": "52858512"
+        },
+        {
+          "value": "TDUCP 3000 - rim set 1",
+          "ref": "3000562"
+        },
+        {
+          "value": "TDUCP_3000_F_01",
+          "ref": "30001512"
+        },
+        {
+          "value": "TDUCP_3000_R_01",
+          "ref": "30002512"
+        },
+        {
+          "value": "TDUCP 4000 - rim set 1",
+          "ref": "4000562"
+        },
+        {
+          "value": "TDUCP_4000_F_01",
+          "ref": "40001512"
+        },
+        {
+          "value": "TDUCP_4000_R_01",
+          "ref": "40002512"
         }
       ],
       "version": "1,2",
@@ -30863,6 +31095,30 @@
         {
           "value": "350Z_Rst_F_01",
           "ref": "52858512"
+        },
+        {
+          "value": "TDUCP 3000 - rim set 1",
+          "ref": "3000562"
+        },
+        {
+          "value": "TDUCP_3000_F_01",
+          "ref": "30001512"
+        },
+        {
+          "value": "TDUCP_3000_R_01",
+          "ref": "30002512"
+        },
+        {
+          "value": "TDUCP 4000 - rim set 1",
+          "ref": "4000562"
+        },
+        {
+          "value": "TDUCP_4000_F_01",
+          "ref": "40001512"
+        },
+        {
+          "value": "TDUCP_4000_R_01",
+          "ref": "40002512"
         }
       ],
       "version": "1,2",
@@ -34038,6 +34294,30 @@
         {
           "value": "350Z_Rst_F_01",
           "ref": "52858512"
+        },
+        {
+          "value": "TDUCP 3000 - rim set 1",
+          "ref": "3000562"
+        },
+        {
+          "value": "TDUCP_3000_F_01",
+          "ref": "30001512"
+        },
+        {
+          "value": "TDUCP_3000_R_01",
+          "ref": "30002512"
+        },
+        {
+          "value": "TDUCP 4000 - rim set 1",
+          "ref": "4000562"
+        },
+        {
+          "value": "TDUCP_4000_F_01",
+          "ref": "40001512"
+        },
+        {
+          "value": "TDUCP_4000_R_01",
+          "ref": "40002512"
         }
       ],
       "version": "1,2",
@@ -37213,6 +37493,30 @@
         {
           "value": "350Z_Rst_F_01",
           "ref": "52858512"
+        },
+        {
+          "value": "TDUCP 3000 - rim set 1",
+          "ref": "3000562"
+        },
+        {
+          "value": "TDUCP_3000_F_01",
+          "ref": "30001512"
+        },
+        {
+          "value": "TDUCP_3000_R_01",
+          "ref": "30002512"
+        },
+        {
+          "value": "TDUCP 4000 - rim set 1",
+          "ref": "4000562"
+        },
+        {
+          "value": "TDUCP_4000_F_01",
+          "ref": "40001512"
+        },
+        {
+          "value": "TDUCP_4000_R_01",
+          "ref": "40002512"
         }
       ],
       "version": "1,2",
@@ -40388,6 +40692,30 @@
         {
           "value": "350Z_Rst_F_01",
           "ref": "52858512"
+        },
+        {
+          "value": "TDUCP 3000 - rim set 1",
+          "ref": "3000562"
+        },
+        {
+          "value": "TDUCP_3000_F_01",
+          "ref": "30001512"
+        },
+        {
+          "value": "TDUCP_3000_R_01",
+          "ref": "30002512"
+        },
+        {
+          "value": "TDUCP 4000 - rim set 1",
+          "ref": "4000562"
+        },
+        {
+          "value": "TDUCP_4000_F_01",
+          "ref": "40001512"
+        },
+        {
+          "value": "TDUCP_4000_R_01",
+          "ref": "40002512"
         }
       ],
       "version": "1,2",
@@ -43563,6 +43891,30 @@
         {
           "value": "350Z_Rst_F_01",
           "ref": "52858512"
+        },
+        {
+          "value": "TDUCP 3000 - rim set 1",
+          "ref": "3000562"
+        },
+        {
+          "value": "TDUCP_3000_F_01",
+          "ref": "30001512"
+        },
+        {
+          "value": "TDUCP_3000_R_01",
+          "ref": "30002512"
+        },
+        {
+          "value": "TDUCP 4000 - rim set 1",
+          "ref": "4000562"
+        },
+        {
+          "value": "TDUCP_4000_F_01",
+          "ref": "40001512"
+        },
+        {
+          "value": "TDUCP_4000_R_01",
+          "ref": "40002512"
         }
       ],
       "version": "1,2",
@@ -46738,6 +47090,30 @@
         {
           "value": "350Z_Rst_F_01",
           "ref": "52858512"
+        },
+        {
+          "value": "TDUCP 3000 - rim set 1",
+          "ref": "3000562"
+        },
+        {
+          "value": "TDUCP_3000_F_01",
+          "ref": "30001512"
+        },
+        {
+          "value": "TDUCP_3000_R_01",
+          "ref": "30002512"
+        },
+        {
+          "value": "TDUCP 4000 - rim set 1",
+          "ref": "4000562"
+        },
+        {
+          "value": "TDUCP_4000_F_01",
+          "ref": "40001512"
+        },
+        {
+          "value": "TDUCP_4000_R_01",
+          "ref": "40002512"
         }
       ],
       "version": "1,2",
