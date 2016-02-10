@@ -7843,6 +7843,162 @@
             "fieldRank": 7
           }
         ]
+      },
+      {
+        "id": 150,
+        "items": [
+          {
+            "name": "REF",
+            "rawValue": "914",
+            "fieldRank": 1
+          },
+          {
+            "name": "Manufacturer_ID",
+            "rawValue": "91438337",
+            "fieldRank": 2
+          },
+          {
+            "name": "Manufacturer_Name",
+            "rawValue": "9148357",
+            "fieldRank": 3
+          },
+          {
+            "name": "Logo_HUD_File",
+            "rawValue": "91438337",
+            "fieldRank": 4
+          },
+          {
+            "name": "Logo_Global_Index",
+            "rawValue": "63",
+            "fieldRank": 5
+          },
+          {
+            "name": "Brand_special_param",
+            "rawValue": "0",
+            "fieldRank": 6
+          },
+          {
+            "name": "BitField",
+            "rawValue": "1",
+            "switchValues": [
+              {
+                "index": 1,
+                "name": "Brand enabled",
+                "enabled": true
+              },
+              {
+                "index": 2,
+                "name": "Tuning / clothes",
+                "enabled": false
+              }
+            ],
+            "fieldRank": 7
+          }
+        ]
+      },
+      {
+        "id": 151,
+        "items": [
+          {
+            "name": "REF",
+            "rawValue": "915",
+            "fieldRank": 1
+          },
+          {
+            "name": "Manufacturer_ID",
+            "rawValue": "91538337",
+            "fieldRank": 2
+          },
+          {
+            "name": "Manufacturer_Name",
+            "rawValue": "9158357",
+            "fieldRank": 3
+          },
+          {
+            "name": "Logo_HUD_File",
+            "rawValue": "91538337",
+            "fieldRank": 4
+          },
+          {
+            "name": "Logo_Global_Index",
+            "rawValue": "63",
+            "fieldRank": 5
+          },
+          {
+            "name": "Brand_special_param",
+            "rawValue": "0",
+            "fieldRank": 6
+          },
+          {
+            "name": "BitField",
+            "rawValue": "1",
+            "switchValues": [
+              {
+                "index": 1,
+                "name": "Brand enabled",
+                "enabled": true
+              },
+              {
+                "index": 2,
+                "name": "Tuning / clothes",
+                "enabled": false
+              }
+            ],
+            "fieldRank": 7
+          }
+        ]
+      },
+      {
+        "id": 152,
+        "items": [
+          {
+            "name": "REF",
+            "rawValue": "916",
+            "fieldRank": 1
+          },
+          {
+            "name": "Manufacturer_ID",
+            "rawValue": "91638337",
+            "fieldRank": 2
+          },
+          {
+            "name": "Manufacturer_Name",
+            "rawValue": "9168357",
+            "fieldRank": 3
+          },
+          {
+            "name": "Logo_HUD_File",
+            "rawValue": "91638337",
+            "fieldRank": 4
+          },
+          {
+            "name": "Logo_Global_Index",
+            "rawValue": "63",
+            "fieldRank": 5
+          },
+          {
+            "name": "Brand_special_param",
+            "rawValue": "0",
+            "fieldRank": 6
+          },
+          {
+            "name": "BitField",
+            "rawValue": "1",
+            "switchValues": [
+              {
+                "index": 1,
+                "name": "Brand enabled",
+                "enabled": true
+              },
+              {
+                "index": 2,
+                "name": "Tuning / clothes",
+                "enabled": false
+              }
+            ],
+            "fieldRank": 7
+          }
+        ]
       }
     ]
   },
