@@ -2,7 +2,7 @@
 
 ## Notes
 
-Contains all brands brought by 1.68b patch, and more:
+Contains all brand brought by 1.68b patch, and more:
 
 - Hennessey Performance
 - Radical
@@ -12,15 +12,7 @@ Fixes following brands:
 
 - Hennessey (Dodge tuning)
 - Mazda
-- Generic (CITR, REF 91197): becomes sellable in car dealer (bitfield update)
-- Infiniti (INF, REF 7853): becomes sellable in car dealer (bitfield update)
-- Infiniti (INF, REF 7853): displayed name fix (Infinity->Infiniti)
-- Infiniti (INF, REF 7853): logo fix (set to index 198).
-
-Removes following brands:
-
-- Infiniti (INF, REF 906): may be inserted by previous Community Patch.
-
+- Generic (CITR, REF 91197): becomes sellable in car dealer by bitfield update
 
 ## TDUF-CLI
 
