@@ -1,8 +1,16 @@
 {
-  "changes" : [ {
-    "type" : "UPDATE_RES",
-    "topic" : "BRANDS",
-    "ref" : "5748357",
-    "value" : "B.Engineering"
-  } ]
+  "changes": [
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "5748357",
+      "value": "B.Engineering"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "6148357",
+      "value": "Infiniti"
+    }
+  ]
 }
