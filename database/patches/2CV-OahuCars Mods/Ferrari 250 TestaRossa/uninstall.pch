@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <patcher>
-  <properties name="Ferrari 250 Testa Rossa" version="1.0" author="http://tdumodshop.forumactif.net/forum.htm" date="01/11/2010" ref="916575065" free="" installerFileName="FERRARI_250TR.exe" infoURL="">
+  <properties name="Ferrari 250 Testa Rossa" version="1.0" author="http://tdumodshop.forumactif.net/forum.htm" date="2016-02-10" ref="300000000" free="" installerFileName="FERRARI_250TR.exe" infoURL="">
     <roles>
       <role what="Modeling" name="EDEN GAMES" />
       <role what="Convert" name="EDEN GAMES" />
@@ -14,50 +14,17 @@
     <groups customRequired="Required" />
   </properties>
   <instructions>
-    <instruction type="uninstallFile" failOnError="True" enabled="True" comment="" group="Required">
-      <parameter name="fileName" value="M12_GTO.bnk" />
-      <parameter name="destination" value="#bnkVehiclePath#" />
-      <parameter name="fileType" value="Other" />
-    </instruction>
-    <instruction type="uninstallFile" failOnError="True" enabled="True" comment="" group="Required">
-      <parameter name="fileName" value="M12_GTO_I.bnk" />
-      <parameter name="destination" value="#bnkVehiclePath#" />
-      <parameter name="fileType" value="Other" />
-    </instruction>
-    <instruction type="uninstallFile" failOnError="True" enabled="True" comment="" group="Required">
-      <parameter name="fileName" value="M12_GTO_F_01.bnk" />
-      <parameter name="destination" value="#bnkVehicleRimPath#\Noble\" />
-      <parameter name="fileType" value="Other" />
-    </instruction>
-    <instruction type="uninstallFile" failOnError="True" enabled="True" comment="" group="Required">
-      <parameter name="fileName" value="M12_GTO_audio.bnk" />
-      <parameter name="fileType" value="Other" />
-      <parameter name="destination" value="#bnkSoundVehiclePath#" />
-    </instruction>
-    <instruction type="uninstallFile" failOnError="True" enabled="True" comment="" group="Required">
-      <parameter name="fileName" value="M12_GTO.bnk" />
-      <parameter name="fileType" value="Gauges-High" />
-      <parameter name="destination" value="#bnkGaugesHighPath#" />
-    </instruction>
-    <instruction type="uninstallFile" failOnError="True" enabled="True" comment="" group="Required">
-      <parameter name="fileName" value="M12_GTO.bnk" />
-      <parameter name="fileType" value="Gauges-Low" />
-      <parameter name="destination" value="#bnkGaugesLowPath#" />
-    </instruction>
-    <instruction type="removeAllLinesFromDatabase" failOnError="True" enabled="True" comment="" group="Required">
-      <parameter name="resourceFileName" value="CarPacks" />
-      <parameter name="databaseId" value="916575065" />
-    </instruction>
     <instruction type="removeAllLinesFromDatabase" failOnError="True" enabled="True" comment="" group="Required">
       <parameter name="resourceFileName" value="CarColors" />
-      <parameter name="databaseId" value="916575065" />
+      <parameter name="databaseId" value="300000000" />
     </instruction>
     <instruction type="removeVehicleFromSpots" failOnError="True" enabled="True" comment="" group="Required">
-      <parameter name="vehicleDatabaseId" value="916575065" />
+      <parameter name="vehicleDatabaseId" value="300000000" />
     </instruction>
     <instruction type="updateDatabase" failOnError="True" enabled="True" comment="" group="Required">
       <parameter name="resourceFileName" value="CarPhysicsData" />
-      <parameter name="resourceValues" value="916575065|916575065	773468	56038407	62533427	74900264	1	90000	54638407	6156567	1190002379	6156567	53338427	56038407	62533427	553629	583709	2968	352	6200	475	3500	7500	55356917	573531	6	3,87	3,15	1,95	1,52	1,19	0,93	0,73	0	2	5645936	330	330	5645936	58338424	1	1885	4089	1143	1520	1535	2438	816	744	1080	115	115	242	192	150	150	90	80	90	75	60	20	47	0	0,4323	0,5	45	45	60	0,7	0,34	0,4	4500	1	76532427	92262406	55533427	5566317	3,7	8,8	275	115	22,8	266	0	12,6	0	111	1000	100	104	91	69	91	100	105	-1	1	1041	1041	1	100	1041	77" />
+      <!-- TODO Write TDUCP genuine entry -->
+      <!-- <parameter name="resourceValues" value="300000000|300000000	773468	56038407	62533427	74900264	1	90000	54638407	6156567	1190002379	6156567	53338427	56038407	62533427	553629	583709	2968	352	6200	475	3500	7500	55356917	573531	6	3,87	3,15	1,95	1,52	1,19	0,93	0,73	0	2	5645936	330	330	5645936	58338424	1	1885	4089	1143	1520	1535	2438	816	744	1080	115	115	242	192	150	150	90	80	90	75	60	20	47	0	0,4323	0,5	45	45	60	0,7	0,34	0,4	4500	1	76532427	92262406	55533427	5566317	3,7	8,8	275	115	22,8	266	0	12,6	0	111	1000	100	104	91	69	91	100	105	-1	1	1041	1041	1	100	1041	77" />-->
     </instruction>
     <instruction type="customizeViews" failOnError="True" enabled="True" comment="" group="Required">
       <parameter name="newHoodView" value="1041|24" />
@@ -68,59 +35,13 @@
     </instruction>
     <instruction type="updateDatabase" failOnError="True" enabled="True" comment="" group="Required">
       <parameter name="resourceFileName" value="Rims" />
-      <parameter name="resourceValues" value="1190002379|1190002379	53565512	59066512	5476562	225	40	18	265	35	18	0	10	53565512	55858512	55858512	0" />
+      <!-- TODO Write TDUCP genuine entry -->
+      <!--<parameter name="resourceValues" value="1190002379|1190002379	53565512	59066512	5476562	225	40	18	265	35	18	0	10	53565512	55858512	55858512	0" />-->
     </instruction>
     <instruction type="updateDatabase" failOnError="True" enabled="True" comment="" group="Required">
       <parameter name="resourceFileName" value="CarColors" />
-      <parameter name="resourceValues" value="916575065=1|916575065	61566127	54596457	53356127	53356127	0	0	505754135	505754973	505754572	505754050	11319636	11319636	505754451	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636" />
-    </instruction>
-    <instruction type="updateDatabase" failOnError="True" enabled="True" comment="" group="Required">
-      <parameter name="resourceFileName" value="CarColors" />
-      <parameter name="resourceValues" value="916575065=2|916575065	63166127	53406457	53356127	53356127	0	0	505754135	505754973	505755091	505754656	505754463	505754849	505754451	505754569	505754134	505753941	505754327	11319636	11319636	11319636	11319636" />
-    </instruction>
-    <instruction type="updateDatabase" failOnError="True" enabled="True" comment="" group="Required">
-      <parameter name="resourceFileName" value="CarColors" />
-      <parameter name="resourceValues" value="916575065=3|916575065	54776127	56206457	53356127	53356127	0	0	505754135	505754973	505755091	505754656	11319636	11319636	505754451	505754569	505754134	11319636	11319636	11319636	11319636	11319636	11319636" />
-    </instruction>
-    <instruction type="updateDatabase" failOnError="True" enabled="True" comment="" group="Required">
-      <parameter name="resourceFileName" value="CarColors" />
-      <parameter name="resourceValues" value="916575065=4|916575065	63266127	58676457	53356127	53356127	750	0	505754135	505754973	505755091	505754656	505754463	505754849	505754451	505754569	505754134	505753941	505754327	11319636	11319636	11319636	11319636" />
-    </instruction>
-    <instruction type="updateDatabase" failOnError="True" enabled="True" comment="" group="Required">
-      <parameter name="resourceFileName" value="CarColors" />
-      <parameter name="resourceValues" value="916575065=5|916575065	53466127	53696457	53356127	53356127	750	0	505754135	505754973	505755091	505754656	505754463	505754849	505754572	505754569	505754134	505753941	505754327	505754050	11319636	11319636	11319636" />
-    </instruction>
-    <instruction type="updateDatabase" failOnError="True" enabled="True" comment="" group="Required">
-      <parameter name="resourceFileName" value="CarColors" />
-      <parameter name="resourceValues" value="916575065=6|916575065	62366127	56316457	53356127	53356127	750	0	505754135	505754973	505755091	505754656	505754463	505754849	505754572	505754569	505754134	505753941	505754327	505754050	11319636	11319636	11319636" />
-    </instruction>
-    <instruction type="updateDatabase" failOnError="True" enabled="True" comment="" group="Required">
-      <parameter name="resourceFileName" value="CarColors" />
-      <parameter name="resourceValues" value="916575065=7|916575065	58876127	56996457	53356127	53356127	750	0	505754135	505754973	505755091	505754656	11319636	11319636	505754451	505754569	505754134	11319636	11319636	11319636	11319636	11319636	11319636" />
-    </instruction>
-    <instruction type="updateDatabase" failOnError="True" enabled="True" comment="" group="Required">
-      <parameter name="resourceFileName" value="CarColors" />
-      <parameter name="resourceValues" value="916575065=8|916575065	55556127	56106457	53356127	53356127	750	0	505754135	505754973	505754572	505754050	11319636	11319636	505754451	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636" />
-    </instruction>
-    <instruction type="updateDatabase" failOnError="True" enabled="True" comment="" group="Required">
-      <parameter name="resourceFileName" value="CarColors" />
-      <parameter name="resourceValues" value="916575065=9|916575065	54556127	59766457	53356127	53356127	750	0	505754135	505754973	505754572	505754050	11319636	11319636	505754451	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636" />
-    </instruction>
-    <instruction type="updateDatabase" failOnError="True" enabled="True" comment="" group="Required">
-      <parameter name="resourceFileName" value="CarColors" />
-      <parameter name="resourceValues" value="916575065=10|916575065	58456127	57496457	53356127	53356127	750	0	505754135	505754973	505754572	505754050	11319636	11319636	505754451	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636" />
-    </instruction>
-    <instruction type="updateDatabase" failOnError="True" enabled="True" comment="" group="Required">
-      <parameter name="resourceFileName" value="CarColors" />
-      <parameter name="resourceValues" value="916575065=11|916575065	54966127	54686457	53356127	53356127	750	0	505754135	505754973	505755091	505754656	505754463	505754849	505754451	505754569	505754134	505753941	505754327	11319636	11319636	11319636	11319636" />
-    </instruction>
-    <instruction type="updateDatabase" failOnError="True" enabled="True" comment="" group="Required">
-      <parameter name="resourceFileName" value="CarPacks" />
-      <parameter name="resourceValues" value="916575065|916575065	773468	57356917	5893697	1054454476	92900264	61085282	42000	3,6	115	91	1054454477	92900264	61085282	74000	3,4	115	92	1054454478	92900264	61085282	143000	3,2	113	93" />
-    </instruction>
-    <instruction type="setVehicleOnSpots" failOnError="True" enabled="True" comment="" group="Required">
-      <parameter name="vehicleDatabaseId" value="916575065" />
-      <parameter name="resourceValues" value="557286833|7||603479649|2||58504123|4||59144122|3||59864129|8" />
+      <!-- TODO Write TDUCP genuine entry -->
+      <!--<parameter name="resourceValues" value="300000000=1|300000000	61566127	54596457	53356127	53356127	0	0	505754135	505754973	505754572	505754050	11319636	11319636	505754451	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636" />-->
     </instruction>
   </instructions>
 </patcher>
