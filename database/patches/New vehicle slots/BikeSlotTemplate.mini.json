@@ -185,6 +185,12 @@
       ]
     },
     {
+      "type": "UPDATE_RES",
+      "topic": "INTERIOR",
+      "ref": "{RES_INTNAME.1}",
+      "value": "{INTNAME.1}"
+    },
+    {
       "type": "UPDATE",
       "topic": "RIMS",
       "ref": "{RIMREF.1}",
