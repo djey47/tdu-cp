@@ -13,6 +13,9 @@ Fixes following brands:
 - Hennessey (Dodge tuning)
 - Mazda
 - Generic (CITR, REF 91197): becomes sellable in car dealer by bitfield update
+- Honda (REF 7853): becomes sellable in car dealer by bitfield update
+- Honda (REF 7853): uses correct logo
+- Infiniti (REF 906): name fix Infinity -> Infiniti.
 
 ## TDUF-CLI
 

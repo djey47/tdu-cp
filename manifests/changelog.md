@@ -17,8 +17,9 @@
 
 ## Bugfixes
 
-- Name, logo and behaviour of Infiniti brand now fixed
-- behaviour of Generic brand now fixed.
+- Name of Infiniti brand now fixed
+- Behaviour and logo of Honda brand now fixed
+- Behaviour of Generic brand now fixed.
 
 
 ## Known Bugs
