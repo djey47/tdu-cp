@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<patcher>
+  <properties name="SUZUKI 1000 GSX-R K9" version="1.01" author="rollingtheboy" date="Aug'2010" ref="1230834922" free="Uninstaller" installerFileName="GSXR_K9_INSTALL.exe">
+    <roles>
+      <role what="Modeling" name="EDEN GAMES" />
+      <role what="Convert" name="EDEN GAMES" />
+      <role what="Sound making" name="EDEN GAMES" />
+      <role what="Gauges making" name="EDEN GAMES" />
+      <role what="Testing" name="Unknown" />
+      <role what="Tools development" name="Djey" />
+      <role what="Custom 1" name="Unknown" />
+      <role what="Custom 2" name="Unknown" />
+    </roles>
+    <groups customRequired="Required" />
+  </properties>
+  <instructions>
+    <instruction type="uninstallPackedFile" failOnError="True" enabled="True" comment="Suzuki helmet removal" group="Required">
+      <parameter name="newFile" value="helmet_00.2db" />
+      <parameter name="bnkFile" value="#bnkAvatarClothesPath#\COMMON_CLOTHES.BNK" />
+    </instruction>
+    <instruction type="uninstallFile" failOnError="True" enabled="True" comment="Exterior model" group="Required">
+      <parameter name="fileType" value="Other" />
+      <parameter name="destination" value="#bnkVehiclePath#" />
+      <parameter name="fileName" value="F4S.bnk" />
+    </instruction>
+    <instruction type="uninstallFile" failOnError="True" enabled="True" comment="Interior model" group="Required">
+      <parameter name="fileType" value="Other" />
+      <parameter name="destination" value="#bnkVehiclePath#" />
+      <parameter name="fileName" value="F4S_I.bnk" />
+    </instruction>
+    <instruction type="uninstallFile" failOnError="True" enabled="True" comment="Gauges" group="Required">
+      <parameter name="fileType" value="Gauges-High" />
+      <parameter name="destination" value="#bnkGaugesHighPath#" />
+      <parameter name="fileName" value="MV_F4.BNK" />
+    </instruction>
+    <instruction type="uninstallFile" failOnError="True" enabled="True" comment="Front rims" group="Required">
+      <parameter name="fileType" value="Other" />
+      <parameter name="destination" value="#bnkVehicleRimPath#\Mv-Agusta\" />
+      <parameter name="fileName" value="MV_F4S_F_01.bnk" />
+    </instruction>
+    <instruction type="uninstallFile" failOnError="True" enabled="True" comment="Rear rims" group="Required">
+      <parameter name="fileType" value="Other" />
+      <parameter name="destination" value="#bnkVehicleRimPath#\Mv-Agusta\" />
+      <parameter name="fileName" value="MV_F4S_R_01.bnk" />
+    </instruction>
+    <instruction type="uninstallFile" failOnError="True" enabled="True" comment="Sound" group="Required">
+      <parameter name="fileType" value="Other" />
+      <parameter name="destination" value="#bnkSoundVehiclePath#" />
+      <parameter name="fileName" value="F4S_audio.bnk" />
+    </instruction>
+    <instruction type="removeAllLinesFromDatabase" failOnError="True" enabled="True" comment="Colors cleaner" group="Required">
+      <parameter name="resourceFileName" value="CarColors" />
+      <parameter name="databaseId" value="1230834922" />
+    </instruction>
+    <instruction type="removeAllLinesFromDatabase" failOnError="True" enabled="True" comment="Tuner cleaner" group="Required">
+      <parameter name="resourceFileName" value="CarPacks" />
+      <parameter name="databaseId" value="1230834922" />
+    </instruction>
+    <instruction type="removeVehicleFromSpots" failOnError="True" enabled="True" comment="Dealer cleaner" group="Required">
+      <parameter name="vehicleDatabaseId" value="1230834922" />
+    </instruction>
+    <instruction type="updateDatabase" failOnError="True" enabled="True" comment="Physics" group="Required">
+      <parameter name="resourceFileName" value="CarPhysicsData" />
+      <parameter name="resourceValues" value="1230834922|1230834922	937	62548407	61933427	76800264	1	45000	56468917	5437567	1170960066	5826580	53338427	62193667	62282366	553629	563709	909	173	11750	113	9200	12850	55356917	573531	6	2,8	2,92	2,125	1,777	1,5	1,318	1,21	0	0	5535936	310	210	5535936	56338424	0	761	1991	1124	0	0	1382	298	313	187	100	100	220	130	170	180	80	70	90	80	10	23	40	10	0,3608	0,5	20	0	80	0,55	0,35	0,5	5500	1	77678427	92261406	54533427	57356917	3,1	0	306	115	0	0	0	0	0	0	1000	102	100	485	69	97	100	100	-1	1	666	1505	1	100	1505	73" />
+    </instruction>
+    <instruction type="updateDatabase" failOnError="True" enabled="True" comment="Colors : genuine" group="Required">
+      <parameter name="resourceFileName" value="CarColors" />
+      <parameter name="resourceValues" value="1230834922=63166127|1230834922	63166127	62776457	53356127	53356127	0	0	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636" />
+    </instruction>
+    <instruction type="updateDatabase" failOnError="True" enabled="True" comment="European Motorcycles" group="Required">
+      <parameter name="resourceFileName" value="CarShops" />
+      <parameter name="resourceValues" value="557056819|557056819	5776603	5363697	615195554	903336930	88334891	1268792919	1230834922	61085282	61085282	61085282	61085282	61085282	61085282	61085282	61085282	61085282	61085282	262137" />
+    </instruction>
+    <instruction type="updateDatabase" failOnError="True" enabled="True" comment="Kits MV" group="Required">
+      <parameter name="resourceFileName" value="CarPacks" />
+      <parameter name="resourceValues" value="1230834922|1230834922	937	57356917	6073697	397163360	92900264	61085282	15000	3	109	98	397163361	92900264	61085282	25000	2,8	100	99	397163362	92900264	61085282	40000	2,5	97	100" />
+    </instruction>
+    <instruction type="updateResource" failOnError="True" enabled="True" comment="Genuine tuner name" group="Required">
+      <parameter name="resourceFileName" value="CarShops" />
+      <parameter name="resourceValues" value="5383697|JAPAN AUTO PARTS" />
+    </instruction>
+  </instructions>
+</patcher>

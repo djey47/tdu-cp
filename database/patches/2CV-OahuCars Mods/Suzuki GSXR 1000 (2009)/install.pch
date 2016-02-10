@@ -1,0 +1,193 @@
+<?xml version="1.0"?>
+<patcher>
+  <properties name="SUZUKI 1000 GSX-R K9" version="1.01" author="ROLLINGTHEBOY and tdumodshop" date="Aug'2010" ref="1230834922" free="Replaces MV Agusta F4 Tamburini" installerFileName="GSXR_K9_INSTALL.exe">
+    <roles>
+      <role what="Modeling" name="SQUIR" />
+      <role what="Convert" name="DC300M02" />
+      <role what="Sound making" name="EDEN GAMES, ROLLINGTHEBOY, DR.GUILLOTIN" />
+      <role what="Gauges making" name="Fl0W, SHARK971" />
+      <role what="Testing" name="2CVSUPERGT, CJR70, DJEY, KENNYBZH, XIORXORN" />
+      <role what="Tools development" name="DJEY" />
+      <role what="Yoshimura exhausts" name="DC300M02, KENNYBZH" />
+      <role what="Special thanks to" name="2CVSUPERGT, FRANK WIENBERG, JEEP" />
+    </roles>
+    <groups customRequired="GSX-R 1000: stock,wh.rims, def.gauges">
+      <dependancy group="Suzuki helmet" requiredGroup="" defaultChecked="True">
+        <exclusions />
+      </dependancy>
+      <dependancy group="Exhaust: Yoshimura 1" requiredGroup="" defaultChecked="False">
+        <exclusions>
+          <exclusion group="Exhaust: Yoshimura 2" />
+        </exclusions>
+      </dependancy>
+      <dependancy group="Exhaust: Yoshimura 2" requiredGroup="" defaultChecked="False">
+        <exclusions>
+          <exclusion group="Exhaust: Yoshimura 1" />
+        </exclusions>
+      </dependancy>
+      <dependancy group="Rims: Black" requiredGroup="" defaultChecked="False">
+        <exclusions />
+      </dependancy>
+      <dependancy group="Alternate gauges" requiredGroup="" defaultChecked="False">
+        <exclusions />
+      </dependancy>
+      <dependancy group="Map Logos (for users without 1.67/68)" requiredGroup="" defaultChecked="False">
+        <exclusions />
+      </dependancy>
+    </groups>
+  </properties>
+  <instructions>
+    <instruction type="installPackedFile" failOnError="True" enabled="True" comment="Stock helmet" group="Required">
+      <parameter name="patchDirectory" value="\patchs\HELMET-STOCK\" />
+      <parameter name="newFile" value="helmet_00.2db" />
+      <parameter name="bnkFile" value="#bnkAvatarClothesPath#\COMMON_CLOTHES.BNK" />
+    </instruction>
+    <instruction type="installPackedFile" failOnError="True" enabled="True" comment="Suzuki helmet" group="Suzuki helmet">
+      <parameter name="patchDirectory" value="\patchs\HELMET-GSXR\" />
+      <parameter name="newFile" value="helmet_00.2db" />
+      <parameter name="bnkFile" value="#bnkAvatarClothesPath#\COMMON_CLOTHES.BNK" />
+    </instruction>
+    <instruction type="installFile" failOnError="True" enabled="True" comment="Exterior model: stock" group="Required">
+      <parameter name="fileType" value="Other" />
+      <parameter name="patchDirectory" value="patchs\EXHAUST-STOCK\" />
+      <parameter name="destination" value="#bnkVehiclePath#" />
+      <parameter name="fileName" value="F4S.bnk" />
+    </instruction>
+    <instruction type="installFile" failOnError="True" enabled="True" comment="Interior model: stock" group="Required">
+      <parameter name="fileType" value="Other" />
+      <parameter name="patchDirectory" value="patchs\EXHAUST-STOCK\" />
+      <parameter name="destination" value="#bnkVehiclePath#" />
+      <parameter name="fileName" value="F4S_I.bnk" />
+    </instruction>
+    <instruction type="installFile" failOnError="True" enabled="True" comment="Exterior model: yosh1" group="Exhaust: Yoshimura 1">
+      <parameter name="fileType" value="Other" />
+      <parameter name="patchDirectory" value="patchs\EXHAUST-YOSH\" />
+      <parameter name="destination" value="#bnkVehiclePath#" />
+      <parameter name="fileName" value="F4S.bnk" />
+    </instruction>
+    <instruction type="installFile" failOnError="True" enabled="True" comment="Interior model: yosh1" group="Exhaust: Yoshimura 1">
+      <parameter name="fileType" value="Other" />
+      <parameter name="patchDirectory" value="patchs\EXHAUST-YOSH\" />
+      <parameter name="destination" value="#bnkVehiclePath#" />
+      <parameter name="fileName" value="F4S_I.bnk" />
+    </instruction>
+    <instruction type="installFile" failOnError="True" enabled="True" comment="Exterior model: yosh2" group="Exhaust: Yoshimura 2">
+      <parameter name="fileType" value="Other" />
+      <parameter name="patchDirectory" value="patchs\EXHAUST-YOSH2\" />
+      <parameter name="destination" value="#bnkVehiclePath#" />
+      <parameter name="fileName" value="F4S.bnk" />
+    </instruction>
+    <instruction type="installFile" failOnError="True" enabled="True" comment="Interior model: yosh2" group="Exhaust: Yoshimura 2">
+      <parameter name="fileType" value="Other" />
+      <parameter name="patchDirectory" value="patchs\EXHAUST-YOSH2\" />
+      <parameter name="destination" value="#bnkVehiclePath#" />
+      <parameter name="fileName" value="F4S_I.bnk" />
+    </instruction>
+    <instruction type="installFile" failOnError="True" enabled="True" comment="Front rims: white" group="Required">
+      <parameter name="fileType" value="Other" />
+      <parameter name="patchDirectory" value="patchs\RIMS-WHITE\" />
+      <parameter name="destination" value="#bnkVehicleRimPath#\Mv-Agusta\" />
+      <parameter name="fileName" value="MV_F4S_F_01.bnk" />
+    </instruction>
+    <instruction type="installFile" failOnError="True" enabled="True" comment="Rear rims: white" group="Required">
+      <parameter name="fileType" value="Other" />
+      <parameter name="patchDirectory" value="patchs\RIMS-WHITE\" />
+      <parameter name="destination" value="#bnkVehicleRimPath#\Mv-Agusta\" />
+      <parameter name="fileName" value="MV_F4S_R_01.bnk" />
+    </instruction>
+    <instruction type="installFile" failOnError="True" enabled="True" comment="Front rims: black" group="Rims: Black">
+      <parameter name="fileType" value="Other" />
+      <parameter name="patchDirectory" value="patchs\RIMS-BLACK\" />
+      <parameter name="destination" value="#bnkVehicleRimPath#\Mv-Agusta\" />
+      <parameter name="fileName" value="MV_F4S_F_01.bnk" />
+    </instruction>
+    <instruction type="installFile" failOnError="True" enabled="True" comment="Rear rims: black" group="Rims: Black">
+      <parameter name="fileType" value="Other" />
+      <parameter name="patchDirectory" value="patchs\RIMS-BLACK\" />
+      <parameter name="destination" value="#bnkVehicleRimPath#\Mv-Agusta\" />
+      <parameter name="fileName" value="MV_F4S_R_01.bnk" />
+    </instruction>
+    <instruction type="installFile" failOnError="True" enabled="True" comment="Default gauges, by Fl0w" group="Required">
+      <parameter name="fileType" value="Gauges-High" />
+      <parameter name="patchDirectory" value="patchs\HUD-STOCK\" />
+      <parameter name="destination" value="#bnkGaugesHighPath#" />
+      <parameter name="fileName" value="MV_F4.BNK" />
+    </instruction>
+    <instruction type="installFile" failOnError="True" enabled="True" comment="Alternate gauges, by Shark971" group="Alternate gauges">
+      <parameter name="fileType" value="Gauges-High" />
+      <parameter name="patchDirectory" value="patchs\HUD-VARIANT" />
+      <parameter name="destination" value="#bnkGaugesHighPath#" />
+      <parameter name="fileName" value="MV_F4.BNK" />
+    </instruction>
+    <instruction type="installFile" failOnError="True" enabled="True" comment="Sound" group="Required">
+      <parameter name="fileType" value="Other" />
+      <parameter name="patchDirectory" value="patchs" />
+      <parameter name="destination" value="#bnkSoundVehiclePath#" />
+      <parameter name="fileName" value="F4S_audio.bnk" />
+    </instruction>
+    <instruction type="removeAllLinesFromDatabase" failOnError="True" enabled="True" comment="Colors cleaner" group="Required">
+      <parameter name="resourceFileName" value="CarColors" />
+      <parameter name="databaseId" value="1230834922" />
+    </instruction>
+    <instruction type="removeAllLinesFromDatabase" failOnError="True" enabled="True" comment="Tuner cleaner" group="Required">
+      <parameter name="resourceFileName" value="CarPacks" />
+      <parameter name="databaseId" value="1230834922" />
+    </instruction>
+    <instruction type="removeVehicleFromSpots" failOnError="True" enabled="True" comment="Dealer cleaner" group="Required">
+      <parameter name="vehicleDatabaseId" value="1230834922" />
+    </instruction>
+    <instruction type="updateDatabase" failOnError="True" enabled="True" comment="Physics" group="Required">
+      <parameter name="resourceFileName" value="CarPhysicsData" />
+      <parameter name="resourceValues" value="1230834922|1230834922	9933	62548407	61933427	76800264	1	14299	56468917	5437567	1170960066	5826580	53338427	54648407	53338427	553629	563709	999	173	11750	113	9200	13900	55356917	573531	6	2,8	2,92	2,125	1,777	1,5	1,318	1,21	0	0	5345936	310	220	5445936	60338424	0	761	1991	1124	0	0	1382	298	313	187	128	128	220	130	180	180	100	84	90	80	10	10	40	10	0,3608	0,5	20	0	80	0,55	0,35	0,5	5500	1	77678427	92261406	54533427	57356917	3,26	5,2	306	115	0	0	0	0	0	0	1000	102	100	485	69	97	100	100	-1	1	1502	1505	1	100	1505	73" />
+    </instruction>
+    <instruction type="customizeViews" failOnError="True" enabled="True" comment="Camera views customization" group="Required">
+      <parameter name="cameraIKIdentifier" value="1502" />
+      <parameter name="newHoodView" value="1505|24" />
+      <parameter name="newHoodBackView" value="1505|44" />
+      <parameter name="newCockpitView" value="1505|23" />
+      <parameter name="newCockpitBackView" value="1505|43" />
+    </instruction>
+    <instruction type="updateDatabase" failOnError="True" enabled="True" comment="Brands" group="Required">
+      <parameter name="resourceFileName" value="Brands" />
+      <parameter name="resourceValues" value="9933|9933	62738337	6278357	62738337	55	0	1" />
+    </instruction>
+    <instruction type="updateDatabase" failOnError="True" enabled="True" comment="Colors : Cobalt blue" group="Required">
+      <parameter name="resourceFileName" value="CarColors" />
+      <parameter name="resourceValues" value="1230834922=57476127|1230834922	57476127	55276457	60076127	53356127	2000	0	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636" />
+    </instruction>
+    <instruction type="updateDatabase" failOnError="True" enabled="True" comment="Colors : White" group="Required">
+      <parameter name="resourceFileName" value="CarColors" />
+      <parameter name="resourceValues" value="1230834922=60076127|1230834922	60076127	56926457	60076127	53356127	2000	0	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636" />
+    </instruction>
+    <instruction type="updateDatabase" failOnError="True" enabled="True" comment="Colors : Black Gloss" group="Required">
+      <parameter name="resourceFileName" value="CarColors" />
+      <parameter name="resourceValues" value="1230834922=54066127|1230834922	54066127	56066457	54066127	53356127	2000	0	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636" />
+    </instruction>
+    <instruction type="updateDatabase" failOnError="True" enabled="True" comment="Oahu Bikes" group="Required">
+      <parameter name="resourceFileName" value="CarShops" />
+      <parameter name="resourceValues" value="549710697|549710697	5416603	6093697	1230834922	61085282	61085282	61085282	61085282	61085282	61085282	61085282	61085282	61085282	61085282	61085282	61085282	61085282	61085282	262139" />
+    </instruction>
+    <instruction type="updateDatabase" failOnError="True" enabled="True" comment="Kits Suzuki" group="Required">
+      <parameter name="resourceFileName" value="CarPacks" />
+      <parameter name="resourceValues" value="1230834922|1230834922	9933	57356917	5383697	397163360	92900264	61085282	15000	3	109	98	397163361	92900264	61085282	25000	2,8	100	99	397163362	92900264	61085282	40000	2,5	97	100" />
+    </instruction>
+    <instruction type="updateResource" failOnError="True" enabled="True" comment="New tuner name" group="Required">
+      <parameter name="resourceFileName" value="CarShops" />
+      <parameter name="resourceValues" value="5383697|日本オート・モトParts" />
+    </instruction>
+    <instruction type="updateResource" failOnError="True" enabled="True" comment="Suzuki brand name" group="Required">
+      <parameter name="resourceFileName" value="Brands" />
+      <parameter name="resourceValues" value="62738337|Suzuki||6278357|Suzuki" />
+    </instruction>
+    <instruction type="installPackedFile" failOnError="True" enabled="True" comment="Map icons" group="Map Logos (for users without 1.67/68)">
+      <parameter name="patchDirectory" value="\patchs\" />
+      <parameter name="newFile" value="icons_map.2db" />
+      <parameter name="bnkFile" value="#bnkFrontEndAllResPath#\LogoTexturePage.bnk" />
+    </instruction>
+    <instruction type="installPackedFile" failOnError="True" enabled="True" comment="Brand logos" group="Map Logos (for users without 1.67/68)">
+      <parameter name="patchDirectory" value="\patchs\" />
+      <parameter name="newFile" value="logos_brands.2db" />
+      <parameter name="bnkFile" value="#bnkFrontEndAllResPath#\LogoTexturePage.bnk" />
+    </instruction>
+  </instructions>
+</patcher>

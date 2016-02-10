@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+<patcher>
+  <properties name="Ferrari 250 Testa Rossa" version="1.2" author="http://tdumodshop.forumactif.net/forum.htm" date="01/01/2011" ref="916575065" free="replace NOBLE M12 GTO" installerFileName="FERRARI_250TR.exe" infoURL="">
+    <roles>
+      <role what="Modeling" name="XIORXORN / 2CV SUPER GT" />
+      <role what="Convert" name="2CV SUPER GT" />
+      <role what="Sound making" name="CHRISTOPHE31FR" />
+      <role what="Gauges making" name="XIORXORN" />
+      <role what="Testing" name="XIOXORN / 2CV SUPER GT / DJEY" />
+      <role what="Tools development" name="DJEY" />
+      <role what="Physics / Installer Settings" name="2CV SUPER GT" />
+      <role what="Custom 2" name="Unknown" />
+    </roles>
+    <groups customRequired="Ferrari 250 Testa Rossa">
+      <dependancy group="Dynamic Cockpit View" requiredGroup="" defaultChecked="False">
+        <exclusions />
+      </dependancy>
+    </groups>
+  </properties>
+  <instructions>
+    <instruction type="installFile" failOnError="True" enabled="True" comment="" group="Required">
+      <parameter name="fileName" value="M12_GTO.bnk" />
+      <parameter name="destination" value="#bnkVehiclePath#" />
+      <parameter name="patchDirectory" value="\Patchs\" />
+      <parameter name="fileType" value="Other" />
+    </instruction>
+    <instruction type="installFile" failOnError="True" enabled="True" comment="" group="Required">
+      <parameter name="fileName" value="M12_GTO_I.bnk" />
+      <parameter name="destination" value="#bnkVehiclePath#" />
+      <parameter name="patchDirectory" value="\Patchs\" />
+      <parameter name="fileType" value="Other" />
+    </instruction>
+    <instruction type="installFile" failOnError="True" enabled="True" comment="" group="Required">
+      <parameter name="fileName" value="M12_GTO_F_01.bnk" />
+      <parameter name="destination" value="#bnkVehicleRimPath#\Noble\" />
+      <parameter name="patchDirectory" value="\Patchs\" />
+      <parameter name="fileType" value="Other" />
+    </instruction>
+    <instruction type="installFile" failOnError="True" enabled="True" comment="" group="Required">
+      <parameter name="fileName" value="M12_GTO_audio.bnk" />
+      <parameter name="fileType" value="Other" />
+      <parameter name="patchDirectory" value="\Patchs\" />
+      <parameter name="destination" value="#bnkSoundVehiclePath#" />
+    </instruction>
+    <instruction type="installFile" failOnError="True" enabled="True" comment="" group="Required">
+      <parameter name="fileName" value="M12_GTO.bnk" />
+      <parameter name="fileType" value="Gauges-High" />
+      <parameter name="patchDirectory" value="\Patchs\gauges-hi" />
+      <parameter name="destination" value="#bnkGaugesHighPath#" />
+    </instruction>
+    <instruction type="installFile" failOnError="True" enabled="True" comment="" group="Required">
+      <parameter name="fileName" value="M12_GTO.bnk" />
+      <parameter name="fileType" value="Gauges-Low" />
+      <parameter name="patchDirectory" value="\Patchs\gauges-lo" />
+      <parameter name="destination" value="#bnkGaugesLowPath#" />
+    </instruction>
+    <instruction type="removeAllLinesFromDatabase" failOnError="True" enabled="True" comment="" group="Required">
+      <parameter name="resourceFileName" value="CarPacks" />
+      <parameter name="databaseId" value="916575065" />
+    </instruction>
+    <instruction type="removeAllLinesFromDatabase" failOnError="True" enabled="True" comment="" group="Required">
+      <parameter name="resourceFileName" value="CarColors" />
+      <parameter name="databaseId" value="916575065" />
+    </instruction>
+    <instruction type="removeVehicleFromSpots" failOnError="True" enabled="True" comment="" group="Required">
+      <parameter name="vehicleDatabaseId" value="916575065" />
+    </instruction>
+    <instruction type="updateResource" failOnError="True" enabled="True" comment="" group="Required">
+      <parameter name="resourceFileName" value="CarPhysicsData" />
+      <parameter name="resourceValues" value="85582366|250||85982366|Testa Rossa" />
+    </instruction>
+    <instruction type="updateResource" failOnError="True" enabled="True" comment="" group="Required">
+      <parameter name="resourceValues" value="70416457|Pink||70426457|Giallo Argento||70436457|Rosso Cina &quot;Duce&quot;||70446457|Blu Caracalla||70456457|Avorio Le Tetrarch||70466457|Grigrio Auteuil||70476457|Grigrio Le Sancy||70486457|Celeste Metallizzato||70496457|Viola Dino Metallizzato||70506457|Marrone Dino Metallizzato||70516457|Marrone Colorado||70526457|Nocciola||70536457|Oro Kelso||70546457|Verde Medio Metallizzato||70556457|Verde Pino Metallizzato||70566457|Verde Germoglio||70576457|Rosso Cina &quot;Duce/Nero||70586457|Giallo Argento/Nero||70596457|Blu Caracalla/Nero||70606457|Grigrio Auteuil/Nero||70616457|Turchese Molveda||70626457|Rosso Cina &quot;Duce/Grigrio Auteuil||70636457|Giallo Argento/Grigrio Auteuil||70646457|Blu Caracalla/Grigrio Auteuil||70656457|Nero/Grigrio Auteuil||70036457|Noir||70226457|Blanc Meige||70236457|Gris Largentière||70246457|Gris Nacré||70256457|Beige Tholonet||70266457|Sable||70276457|Feuille Dorée||70286457|Or de Simiane||70296457|Rouge de Rio||70306457|Rouge de Grenade||70316457|Brun Scarabé||70326457|Brun de Roquebrune||70336457|Vert des Tropiques||70346457|Vert Argenté||70356457|Bleu d'Orient||70366457|Bleu Platine||70376457|Bleu de Brégançon||70386457|Bleu Delta||70396457|Gris Nacré/Noir||70406457|Rouge de Rio/Gris Nacré||70006457|Blanc Banquise||70016457|Gris Quartz||70026457|Gris Fulminator||70036457|Noir||70046457|Bleu Mauritius||70056457|Bleu Balmoral||70066457|Bleu Amiral||70076457|Vert Vega||70086457|Rouge Pivoine||70096457|Blanc Glacier||70106457|Gris Sidéral||70116457|Gris Hologramme||70126457|Bleu Eole||70136457|Bleu Méthyl||70146457|Bleu Navy||70156457|Crépuscule||70166457|Vert Abysse||70176457|Vert Epicéa||70186457|Vert Tilleul||70196457|Houblon||70206457|Rouge Nacré||70216457|Rouge Andalou" />
+      <parameter name="resourceFileName" value="CarColors" />
+    </instruction>
+    <instruction type="updateDatabase" failOnError="True" enabled="True" comment="" group="Required">
+      <parameter name="resourceFileName" value="CarPhysicsData" />
+      <parameter name="resourceValues" value="916575065|916575065	81940960	56038407	62533427	79900264	1	9000000	54638407	6156567	1190002379	6156567	53338427	85582366	85982366	543629	603709	2953	352	7200	221	7200	8500	55356917	573531	4	2,82	3,6	2,19	1,41	1	0	0	0	2	5635936	0	0	5635936	58338424	1	1549	4178	1013	1408	1400	2350	917	966	1080	170	180	240	250	110	110	80	70	80	70	100	20	47	0	0,45	0,5	45	45	60	1,2	0,8	0,65	4500	1	77678427	92260406	55533427	5666317	6,3	0	270	145	0	0	0	0	0	111	900	103	73	71	99	54	100	105	-1	1	1041	219	1	100	1041	77" />
+    </instruction>
+    <instruction type="customizeViewsUnlimited" failOnError="True" enabled="True" comment="" group="Required">
+      <parameter name="newHoodView" value="1041|24" />
+      <parameter name="cameraIKIdentifier" value="1041" />
+      <parameter name="newHoodBackView" value="1041|44" />
+      <parameter name="newCockpitView" value="1041|23" />
+      <parameter name="newCockpitBackView" value="1041|43" />
+      <parameter name="fileName" value="#patchPath#\Patchs\cameras.bin" />
+    </instruction>
+    <instruction type="updateDatabase" failOnError="True" enabled="True" comment="" group="Required">
+      <parameter name="resourceFileName" value="Rims" />
+      <parameter name="resourceValues" value="1190002379|1190002379	53565512	59066512	5476562	165	70	16	185	70	16	0	0	53565512	55858512	55858512	0" />
+    </instruction>
+    <instruction type="updateDatabase" failOnError="True" enabled="True" comment="Rosso Cina &quot;Duce&quot;" group="Required">
+      <parameter name="resourceFileName" value="CarColors" />
+      <parameter name="resourceValues" value="916575065=1|916575065	60266127	70436457	60266127	62366127	0	0	1253133416	1098549191	561009442	1098548986	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636" />
+    </instruction>
+    <instruction type="updateDatabase" failOnError="True" enabled="True" comment="Giallo Argento" group="Required">
+      <parameter name="resourceFileName" value="CarColors" />
+      <parameter name="resourceValues" value="916575065=7|916575065	56666127	70426457	56666127	62366127	0	0	1098549648	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636" />
+    </instruction>
+    <instruction type="updateDatabase" failOnError="True" enabled="True" comment="Avario Le Tetrarch" group="Required">
+      <parameter name="resourceFileName" value="CarColors" />
+      <parameter name="resourceValues" value="916575065=4|916575065	62076127	70456457	62076127	62366127	0	0	1253133416	561009442	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636" />
+    </instruction>
+    <instruction type="updateDatabase" failOnError="True" enabled="True" comment="Grigrio Le Sancy" group="Required">
+      <parameter name="resourceFileName" value="CarColors" />
+      <parameter name="resourceValues" value="916575065=9|916575065	62366127	70476457	62366127	62366127	0	0	1253133416	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636" />
+    </instruction>
+    <instruction type="updateDatabase" failOnError="True" enabled="True" comment="Blu Caracalla" group="Required">
+      <parameter name="resourceFileName" value="CarColors" />
+      <parameter name="resourceValues" value="916575065=11|916575065	57656127	70446457	57656127	53356127	0	0	561009442	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636" />
+    </instruction>
+    <instruction type="updateDatabase" failOnError="True" enabled="True" comment="Nero / Rosso Cina &quot;Duce&quot;" group="Required">
+      <parameter name="resourceFileName" value="CarColors" />
+      <parameter name="resourceValues" value="916575065=8|916575065	54966127	53506457	60266127	62366127	0	0	1253133416	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636" />
+    </instruction>
+    <instruction type="updateDatabase" failOnError="True" enabled="True" comment="Rosso Cina &quot;Duce&quot; / Avario Le Tetrarch" group="Required">
+      <parameter name="resourceFileName" value="CarColors" />
+      <parameter name="resourceValues" value="916575065=3|916575065	60266127	70436457	62076127	62366127	0	0	1253133416	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636" />
+    </instruction>
+    <instruction type="updateDatabase" failOnError="True" enabled="True" comment="Giallo Argento / Verda" group="Required">
+      <parameter name="resourceFileName" value="CarColors" />
+      <parameter name="resourceValues" value="916575065=6|916575065	56666127	70426457	55876127	62366127	0	0	1098549648	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636" />
+    </instruction>
+    <instruction type="updateDatabase" failOnError="True" enabled="True" comment="Blu Caracalla / Rosso Cina &quot;Duce&quot;" group="Required">
+      <parameter name="resourceFileName" value="CarColors" />
+      <parameter name="resourceValues" value="916575065=10|916575065	57656127	70446457	60266127	62366127	0	0	1253133416	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636	11319636" />
+    </instruction>
+    <instruction type="setVehicleOnSpots" failOnError="True" enabled="True" comment="" group="Required">
+      <parameter name="vehicleDatabaseId" value="916575065" />
+      <parameter name="resourceValues" value="595033714|8" />
+    </instruction>
+    <instruction type="customizeViewsUnlimited" failOnError="True" enabled="True" comment="" group="Dynamic Cockpit View">
+      <parameter name="newHoodView" value="1041|24" />
+      <parameter name="cameraIKIdentifier" value="1041" />
+      <parameter name="newHoodBackView" value="1041|44" />
+      <parameter name="newCockpitView" value="1041|23" />
+      <parameter name="newCockpitBackView" value="1041|43" />
+      <parameter name="fileName" value="#patchPath#\Patchs\Extra\cameras.bin" />
+    </instruction>
+  </instructions>
+</patcher>
