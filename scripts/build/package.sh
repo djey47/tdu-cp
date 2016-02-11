@@ -22,13 +22,17 @@ echo
 
 # Unlocked slot files
 echo "*** Unlocked slots files... ***"
-cd ../slots/
+cd ../slots/unlocked
 ./createFiles.sh
 cd - > /dev/null
 echo
 
 # New slot files
-# TODO use script without database update (create 2 separate scripts)
+echo "*** Unlocked slots files... ***"
+cd ../slots/new
+./createFiles.sh
+cd - > /dev/null
+echo
 
 # Generate mapping
 echo "*** Bnk1.map... ***"
