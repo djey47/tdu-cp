@@ -48,6 +48,7 @@ echo
 echo "*** Database... ***"
 cd ../database/
 ./generateCurrent.sh
+./checkBuild.sh
 cd - > /dev/null
 cp ${GENERATED_DB_PATH}/*.bnk ${BUILD_DB_PATH}
 echo
