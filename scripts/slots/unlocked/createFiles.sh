@@ -3,7 +3,7 @@
 
 # Create required files for slots.
 
-source ../setEnv.sh
+source ../../setEnv.sh
 
 
 echo "-> Creating build folders..."
