@@ -1,4 +1,7 @@
 #!/usr/bin/env bash
+#set -x
+
+# Init script providing common variables, must be sourced in other scripts.
 
 # Customize this line to actual TDUF location (symlink is highly recommended!)
 export TDUF_PATH=/opt/apps/tduf
@@ -6,7 +9,7 @@ export TDUF_PATH=/opt/apps/tduf
 # Below should not be modified
 export TDUF_VERSION=`cat ${TDUF_PATH}/lib/version.info`
 
-CURRENT_PATH=`pwd`
+CURRENT_PATH=`readlink -f $BASH_SOURCE`
 SCRIPTS_PATH=`dirname ${CURRENT_PATH}`
 export TDUCP_PATH=`dirname ${SCRIPTS_PATH}`
 
@@ -24,7 +27,7 @@ export JSON_MAP4_STRUCTURE=${TDUF_PATH}/structures/MAP4-map.json
 
 export BUILD_MODELS_PATH=${BUILD_BANK_PATH}/Vehicules
 export BUILD_SOUNDS_PATH=${BUILD_BANK_PATH}/Sound/Vehicules
-export BUILD_HUDS_HR_PATH=${BUILD_BANK_PATH}/FrontEnd/HiRes/Gauges
+export BUILD_HUDS_HR_PATH=${BUILD_BANK_PATH}/FrontEnd/HiRes/GaugesSl
 export BUILD_HUDS_LR_PATH=${BUILD_BANK_PATH}/FrontEnd/LowRes/Gauges
 export BUILD_RIMS_PATH=${BUILD_MODELS_PATH}/Rim
 
