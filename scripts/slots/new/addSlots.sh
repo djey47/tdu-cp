@@ -1,10 +1,9 @@
 #!/usr/bin/env bash
 #set -x
 
-# Create brand new slots and files for cars and bikes.
-# Generates property file and apply patch template onto it.
+# Generates property file for new slots and apply patch template onto it.
 
-source ../setEnv.sh
+source ../../setEnv.sh
 
 NEW_SLOTS_PATCHES_PATH=${TDUCP_PATH}/database/patches/New\ vehicle\ slots
 CAR_SLOT_TEMPLATE_PATH=${NEW_SLOTS_PATCHES_PATH}/CarSlotTemplate.mini.json
@@ -71,25 +70,7 @@ do
    cp "${SLOT_TEMPLATE_PATH}" "${PATCH_PATH}"
 
    echo "Applying patch ${PATCH_PATH} onto current database..."
-   ../tduf/databaseTool.sh apply-patch -p ${PATCH_PATH} -j ${CURRENT_DB_PATH} -o ${CURRENT_DB_PATH}
-
-   echo "Creating default bank files..."
-   echo "-${BANKNAME}"
-   # Ext/int models
-   cp ${DEFAULT_MODELS_PATH}/DEFAULT.bnk ${BUILD_MODELS_PATH}/${BANKNAME}.bnk
-   cp ${DEFAULT_MODELS_PATH}/DEFAULT_I.bnk ${BUILD_MODELS_PATH}/${BANKNAME}_I.bnk
-   # Sound
-   cp ${DEFAULT_SOUND_PATH}/DEFAULT_audio.bnk ${BUILD_SOUNDS_PATH}/${BANKNAME}_audio.bnk
-   # HUDs
-   cp ${DEFAULT_HUD_PATH}/DEFAULT.bnk ${BUILD_HUDS_HR_PATH}/${BANKNAME}.bnk
-   cp ${DEFAULT_HUD_PATH}/DEFAULT.bnk ${BUILD_HUDS_LR_PATH}/${BANKNAME}.bnk
-   # Rims
-   RIMS_PARENT_PATH=${BUILD_RIMS_PATH}/Default
-   mkdir -p "${RIMS_PARENT_PATH}"
-   echo "-${BANKNAME_RIMS_FRONT}"
-   cp ${DEFAULT_RIM_PATH}/DEFAULT.bnk ${RIMS_PARENT_PATH}/${BANKNAME_RIMS_FRONT}.bnk
-   echo "-${BANKNAME_RIMS_REAR}"
-   cp ${DEFAULT_RIM_PATH}/DEFAULT.bnk ${RIMS_PARENT_PATH}/${BANKNAME_RIMS_REAR}.bnk
+   ../../tduf/databaseTool.sh apply-patch -p ${PATCH_PATH} -j ${CURRENT_DB_PATH} -o ${CURRENT_DB_PATH}
 
    echo
 done
