@@ -6,7 +6,6 @@
 
 source ../setEnv.sh
 
-BUILD_PATH=${TDUCP_PATH}/workspace/build/private/2.00A
 RELEASE_PATH=${TDUCP_PATH}/workspace/releases
 
 # Init
@@ -50,7 +49,6 @@ cd ../database/
 ./generateCurrent.sh
 ./checkBuild.sh
 cd - > /dev/null
-cp ${GENERATED_DB_PATH}/*.bnk ${BUILD_DB_PATH}
 echo
 
 # Other files

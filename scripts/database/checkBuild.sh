@@ -5,7 +5,6 @@
 
 source ../setEnv.sh
 
-BUILD_DB_PATH=${TDUCP_PATH}/workspace/build/private/2.00A/Euro/Bnk/Database/
 JSON_DB_PATH=/tmp/tdu-cp/dbcheck
 
 rm -rf JSON_DB_PATH
