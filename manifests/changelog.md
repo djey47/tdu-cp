@@ -20,7 +20,8 @@
 
 - Name of Infiniti brand now fixed
 - Behaviour and logo of Honda brand now fixed
-- Behaviour of Generic brand now fixed.
+- Behaviour of Generic brand now fixed
+- Behaviour of Suzuki brand now fixed.
 
 
 ## Known Bugs
