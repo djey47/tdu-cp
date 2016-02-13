@@ -58,6 +58,18 @@
       "topic": "CAR_PHYSICS_DATA",
       "ref": "6626580",
       "value": "DAYTONA_955I"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "RIMS",
+      "ref": "616858512",
+      "value": "DAYTONA_955I_F_01"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "RIMS",
+      "ref": "626858512",
+      "value": "DAYTONA_955I_R_01"
     }
   ]
 }
