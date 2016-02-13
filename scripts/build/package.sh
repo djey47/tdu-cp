@@ -52,10 +52,14 @@ echo
 # Database
 echo "*** Database... ***"
 cd ../database/
-./generateCurrent.sh
-./checkBuild.sh
+./generateCurrent.sh && ./checkBuild.sh
 cd - > /dev/null
 echo
+
+# G27 fix
+echo "*** G27 fix... ***"
+cp ${TDUCP_PATH}/resources/system/LeanSpeeder-G27-fix/dinput8.dll ${BUILD_PATH}
+
 
 # HD Patch
 echo "*** HD Patch (SD mode)... ***"
@@ -63,7 +67,7 @@ unzip -o ${TDUCP_PATH}/resources/system/2CV-patch-hd/FX.ini.hd.zip -d ${BUILD_FX
 
 # Other files
 echo "*** Other contents ***"
-echo "Consider adding remaining features manually"
+echo "Consider adding remaining features manually."
 echo
 
 #Zip
