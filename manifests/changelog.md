@@ -5,25 +5,10 @@
 
 ## Features
 
-- Creates 2 *brand new* slots:
-    - 300000000 => TDUCP Model 3000 (Car), available @ [OC-Barber's point Golf, SW]
-    - 400000000 => TDUCP Model 4000 (Bike), available @ [OB-Crater, SE]
-    
-( can be used with any mod, you just have to rename your files to TDUCP_3000.bnk or TDUCP_4000.bnk ... see **files.md** for details )
-
-- Provides updated TDUMT's **VehicleSlots.xml** file to make both slots appear under TDUMT
-- Provides updated TDUPE's **carData.mdb** file to make both slots appear under TDUPE
-- Add 3 new brands: Hennessey Performance, Radical, Rossion.
 
 
 ## Bugfixes
 
-- Include patched **FX\FX.ini** from Patch HD (absent from previous releases)
-- Rim file for Triumph 955i follows same naming rules as other vehicles
-- Name of Infiniti brand now fixed
-- Behaviour and logo of Honda brand now fixed
-- Behaviour of Generic brand now fixed
-- Behaviour of Suzuki brand now fixed.
 
 
 ## Known Bugs
@@ -44,6 +29,7 @@ You tell me!
 - Provides new rim names for many mods (Bugatti Atlantic, Facel Vega...)
 - Unlocks Car Paint Deluxe for all cars
 - Adds new bots driving megapack vehicles
+- Adds 3 new brands: Hennessey Performance, Radical, Rossion
 - Gives bike-clothes for cars, car-clothes for bikes
 - Unlocks 27 car slots (check them out at Oahu Cars/Bikes):
  
@@ -80,13 +66,28 @@ You tell me!
 [OB-Crater, SE]
     - Triumph 955I Daytona
 
+- Creates 2 *brand new* slots:
+    - 300000000 => TDUCP Model 3000 (Car), available @ [OC-Barber's point Golf, SW]
+    - 400000000 => TDUCP Model 4000 (Bike), available @ [OB-Crater, SE]
+    
+( can be used with any mod, you just have to rename your files to TDUCP_3000.bnk or TDUCP_4000.bnk ... see **files.md** for details )
+
+- Provides updated TDUMT's **VehicleSlots.xml** file to make both slots appear under TDUMT
+- Provides updated TDUPE's **carData.mdb** file to make both slots appear under TDUPE.
+
+
 ### Bugfixes
 
 - Propose Nismo rim set for Nissan 350Z RTune and RTune power (required for car dealers)
+- Rim file for Triumph 955i follows same naming rules as other vehicles
 - Give ACE rank at 98% game completion: ignore broken inter-club achievement
 - Clothes For All: fixes some invalid entries due to ALPHA 0
 - Associate dedicated hud file to all 350Z Nismo
 - Brand names: e.g Edonis => B.Engineering ...
+- Name of Infiniti brand now fixed
+- Behaviour and logo of Honda brand now fixed
+- Behaviour of Generic brand now fixed
+- Behaviour of Suzuki brand now fixed
 - Fixes Hennessey brand (Dodge tuning) with Dodge logo and name display properly
 - G27 support (Force Feedback, RPM LEDs)
 - Traffic sync issues (introduced by 1.68 Community Patch) 

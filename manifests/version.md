@@ -1,5 +1,5 @@
 # Version
 
-- Current version number: **ALPHA-5**
+- Current version number: **ALPHA-6**
 
-- Release date: **2016-02-13**
+- Release date: **2016-02-??**
