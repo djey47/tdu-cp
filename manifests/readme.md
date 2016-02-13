@@ -10,6 +10,8 @@
 
 - Copy all extracted files to TDU directory, always replace files when prompted
 
+- TDUMT/TDUPE: use updated references from Euro\Bnk\Database folder: **VehicleSlots.xml** and **carData.mdb** - replace original files
+
 - That's all!
 
 
