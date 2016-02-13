@@ -28,7 +28,7 @@ cd - > /dev/null
 echo
 
 # New slot files
-echo "*** Unlocked slots files... ***"
+echo "*** New slots files... ***"
 cd ../slots/new
 ./createFiles.sh
 cd - > /dev/null
