@@ -19,6 +19,7 @@
 ## Bugfixes
 
 - Include patched **FX\FX.ini** from Patch HD (absent from previous releases)
+- Rim file for Triumph 955i follows same naming rules as other vehicles
 - Name of Infiniti brand now fixed
 - Behaviour and logo of Honda brand now fixed
 - Behaviour of Generic brand now fixed
