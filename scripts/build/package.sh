@@ -7,11 +7,13 @@
 source ../setEnv.sh
 
 RELEASE_PATH=${TDUCP_PATH}/workspace/releases
+BUILD_FX_PATH=${BUILD_BANK_PATH}/FX
 
 # Init
 echo "*** Preparing directories... ***"
 mkdir -p ${BUILD_PATH}
 mkdir -p ${BUILD_DB_PATH}
+mkdir -p ${BUILD_FX_PATH}
 mkdir -p ${RELEASE_PATH}
 echo
 
@@ -54,6 +56,10 @@ cd ../database/
 ./checkBuild.sh
 cd - > /dev/null
 echo
+
+# HD Patch
+echo "*** HD Patch (SD mode)... ***"
+unzip -o ${TDUCP_PATH}/resources/system/2CV-patch-hd/FX.ini.hd.zip -d ${BUILD_FX_PATH}
 
 # Other files
 echo "*** Other contents ***"

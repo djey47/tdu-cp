@@ -18,6 +18,7 @@
 
 ## Bugfixes
 
+- Include patched **FX\FX.ini** from Patch HD (absent from previous releases)
 - Name of Infiniti brand now fixed
 - Behaviour and logo of Honda brand now fixed
 - Behaviour of Generic brand now fixed
