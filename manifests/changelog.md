@@ -14,7 +14,7 @@
 
 ## Bugfixes
 
-- All Saleen Mustang cars get own rim set with proper file name (**S281_F_01.bnk** to **S281_F_06.bnk**)
+- All Saleen Mustang cars get own rim set with proper file name ( **S281_F_01.bnk** to **S281_F_06.bnk** )
 
 
 ## Known Bugs
