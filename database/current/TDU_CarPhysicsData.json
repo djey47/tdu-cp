@@ -22207,12 +22207,12 @@
           },
           {
             "name": "BitField",
-            "rawValue": "110",
+            "rawValue": "79",
             "switchValues": [
               {
                 "index": 1,
                 "name": "Vehicle slot enabled",
-                "enabled": false
+                "enabled": true
               },
               {
                 "index": 2,
@@ -22237,7 +22237,7 @@
               {
                 "index": 6,
                 "name": "Add-on key required",
-                "enabled": true
+                "enabled": false
               },
               {
                 "index": 7,
