@@ -1,2 +1,1 @@
-Unlock vehicles/UnlockChevrolet-CobaltSS.mini.json
-Unlock vehicles/VehicleDealers.mini.json
+Own rims/AddOwnRimsForSaleenMustangs.mini.json
