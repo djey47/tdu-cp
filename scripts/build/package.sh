@@ -36,6 +36,13 @@ cd ../slots/new
 cd - > /dev/null
 echo
 
+# Own rims files
+echo "*** Own rims files... ***"
+cd ../slots/rims
+./createFiles.sh
+cd - > /dev/null
+echo
+
 # Generate mapping
 echo "*** Bnk1.map... ***"
 cd ../mapping/
