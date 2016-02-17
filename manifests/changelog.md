@@ -5,6 +5,11 @@
 
 ## Features
 
+- Unlocks 2 car slots (check them out at Oahu Cars):
+
+[OC-Barber's point Golf, SW]
+    - Chevrolet Cobalt SS
+    - Chevrolet Corvette'63     
 
 
 ## Bugfixes

@@ -25,12 +25,16 @@
     - *A3_V6N.bnk* [unlocked slots]
     
     - *A4_TC.bnk* [unlocked slots]
-    
-    - *C6_SNG.bnk* [unlocked slots]
-    
-    - *B55S.bnk* [unlocked slots]
-    
+        
+    - *B55S.bnk* [unlocked slots]    
+
     - *B61S.bnk* [unlocked slots]
+
+    - *C6_SNG.bnk* [unlocked slots]
+
+    - *Cobalt.bnk* [unlocked slots]
+
+    - *Corv_63.bnk* [unlocked slots]
     
     - *DAYTONA_955I.bnk* [unlocked slots]
 
@@ -67,13 +71,17 @@
     - *A3_V6N.bnk* [unlocked slots]
     
     - *A4_TC.bnk* [unlocked slots]
-    
-    - *C6_SNG.bnk* [unlocked slots]
-    
+        
     - *B55S.bnk* [unlocked slots]
     
     - *B61S.bnk* [unlocked slots]
+
+    - *C6_SNG.bnk* [unlocked slots]
     
+    - *Cobalt.bnk* [unlocked slots]
+
+    - *Corv_63.bnk* [unlocked slots]
+
     - *DAYTONA_955I.bnk* [unlocked slots]
 
     - *DB7_Vol.bnk* [unlocked slots]
@@ -117,7 +125,11 @@
     - *B61S_audio.bnk* [unlocked slots]
 
     - *C6_SNG_audio.bnk* [unlocked slots]
+
+    - *Cobalt_SS_audio.bnk* [unlocked slots]
     
+    - *Corv_63_audio.bnk* [unlocked slots]
+
     - *DB7_Vol_audio.bnk* [unlocked slots]
     
     - *DBAR1_audio.bnk* [unlocked slots]
@@ -193,6 +205,14 @@
     - *C6_SNG.bnk* [unlocked slots]
 
     - *C6_SNG_I.bnk* [unlocked slots]
+
+    - *Cobalt_SS.bnk* [unlocked slots]
+
+    - *Cobalt_SS_I.bnk* [unlocked slots]
+
+    - *Corv_63.bnk* [unlocked slots]
+
+    - *Corv_63_I.bnk* [unlocked slots]
     
     - *DB7_Vol.bnk* [unlocked slots]
 
@@ -295,6 +315,8 @@
 - **Euro\Bnk\Vehicules\Rim\Chevrolet**
 
     - *C6_SNG_F_01.bnk* [unlocked slots]
+
+    - *Cobalt_SS_F_01.bnk* [unlocked slots]
 
 - **Euro\Bnk\Vehicules\Rim\Chrysler**
 
