@@ -360,6 +360,18 @@
 
     - *Mas_GT_Cpe_F_01.bnk* [unlocked slots]
 
+- **Euro\Bnk\Vehicules\Rim\Saleen**
+
+    - *S281_F_02.bnk* [own rims]
+
+    - *S281_F_03.bnk* [own rims]
+
+    - *S281_F_04.bnk* [own rims]
+
+    - *S281_F_05.bnk* [own rims]
+
+    - *S281_F_06.bnk* [own rims]
+
 - **Euro\Bnk\Vehicules\Rim\Triumph**
 
     - *DAYTONA_955I_F.bnk* [unlocked slots]
