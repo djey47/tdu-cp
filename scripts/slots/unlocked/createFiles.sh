@@ -17,6 +17,7 @@ do
    cp ${DEFAULT_MODELS_PATH}/DEFAULT_I.bnk ${BUILD_MODELS_PATH}/${name}_I.bnk
    cp ${DEFAULT_SOUND_PATH}/DEFAULT_audio.bnk ${BUILD_SOUNDS_PATH}/${name}_audio.bnk
 done
+echo
 
 echo "-> Creating hud files..."
 cat huds.txt | while read name
@@ -25,6 +26,7 @@ do
    cp ${DEFAULT_HUD_PATH}/DEFAULT.bnk ${BUILD_HUDS_HR_PATH}/${name}.bnk
    cp ${DEFAULT_HUD_PATH}/DEFAULT.bnk ${BUILD_HUDS_LR_PATH}/${name}.bnk
 done
+echo
 
 echo "-> Creating rim files..."
 cat rims.txt | while read name
@@ -34,3 +36,4 @@ do
    mkdir -p "${PARENT_PATH}"
    cp ${DEFAULT_RIM_PATH}/DEFAULT.bnk "${BUILD_RIMS_PATH}/${name}.bnk"
 done
+echo
