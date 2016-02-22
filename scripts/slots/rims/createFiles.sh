@@ -13,4 +13,12 @@ do
    mkdir -p "${PARENT_PATH}"
    cp ${DEFAULT_RIM_PATH}/SALEEN.bnk "${BUILD_RIMS_PATH}/${name}.bnk"
 done
+
+cat rims_alfa.txt | while read name
+do
+   echo "-${name}"
+   PARENT_PATH=`dirname "${BUILD_RIMS_PATH}/${name}"`
+   mkdir -p "${PARENT_PATH}"
+   cp ${DEFAULT_RIM_PATH}/ALFAGT.bnk "${BUILD_RIMS_PATH}/${name}.bnk"
+done
 echo
