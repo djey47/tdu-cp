@@ -1,0 +1,99 @@
+{
+  "changes": [
+    {
+      "type": "UPDATE",
+      "topic": "RIMS",
+      "ref": "1216409248",
+      "partialValues": [
+        {
+          "rank": 1,
+          "value": "1216409248"
+        },
+        {
+          "rank": 2,
+          "value": "62465512"
+        },
+        {
+          "rank": 3,
+          "value": "54266512"
+        },
+        {
+          "rank": 4,
+          "value": "6016562"
+        },
+        {
+          "rank": 5,
+          "value": "245"
+        },
+        {
+          "rank": 6,
+          "value": "40"
+        },
+        {
+          "rank": 7,
+          "value": "19"
+        },
+        {
+          "rank": 8,
+          "value": "245"
+        },
+        {
+          "rank": 9,
+          "value": "45"
+        },
+        {
+          "rank": 10,
+          "value": "19"
+        },
+        {
+          "rank": 11,
+          "value": "0"
+        },
+        {
+          "rank": 12,
+          "value": "5"
+        },
+        {
+          "rank": 13,
+          "value": "62465512"
+        },
+        {
+          "rank": 14,
+          "value": "56458512"
+        },
+        {
+          "rank": 15,
+          "value": "56458512"
+        },
+        {
+          "rank": 16,
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "RIMS",
+      "ref": "6016562",
+      "value": "NISMO Alloy Wheels"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "RIMS",
+      "ref": "54266512",
+      "value": "Nismo Alloy Wheel"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "RIMS",
+      "ref": "56458512",
+      "value": "350ZNISMO_F_01"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "RIMS",
+      "ref": "62465512",
+      "value": "Nissan"
+    }
+  ]
+}

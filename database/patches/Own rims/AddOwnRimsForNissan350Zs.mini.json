@@ -1,0 +1,178 @@
+{
+  "changes": [
+    {
+      "type": "UPDATE",
+      "topic": "CAR_PHYSICS_DATA",
+      "ref": "1133391244",
+      "partialValues": [
+        {
+          "rank": 10,
+          "value": "1216409249"
+        }
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "CAR_PHYSICS_DATA",
+      "ref": "1133391037",
+      "partialValues": [
+        {
+          "rank": 10,
+          "value": "1216409250"
+        }
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "CAR_PHYSICS_DATA",
+      "ref": "1133391164",
+      "partialValues": [
+        {
+          "rank": 10,
+          "value": "1216409251"
+        }
+      ]
+    },
+    {
+      "type": "DELETE",
+      "topic": "CAR_RIMS",
+      "filter": [
+        {
+          "rank": 1,
+          "value": "1133391244"
+        }
+      ]
+    },
+    {
+      "type": "DELETE",
+      "topic": "CAR_RIMS",
+      "filter": [
+        {
+          "rank": 1,
+          "value": "1133391037"
+        }
+      ]
+    },
+    {
+      "type": "DELETE",
+      "topic": "CAR_RIMS",
+      "filter": [
+        {
+          "rank": 1,
+          "value": "1133391164"
+        }
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "CAR_RIMS",
+      "values": [
+        "1133391244",
+        "1216409249"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "CAR_RIMS",
+      "values": [
+        "1133391037",
+        "1216409250"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "CAR_RIMS",
+      "values": [
+        "1133391164",
+        "1216409251"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "RIMS",
+      "ref": "1216409251",
+      "values": [
+        "1216409251",
+        "62465512",
+        "54266512",
+        "6016562",
+        "245",
+        "40",
+        "19",
+        "245",
+        "40",
+        "19",
+        "0",
+        "5",
+        "62465512",
+        "66458512",
+        "66458512",
+        "0"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "RIMS",
+      "ref": "1216409250",
+      "values": [
+        "1216409250",
+        "62465512",
+        "54266512",
+        "6016562",
+        "245",
+        "40",
+        "19",
+        "245",
+        "40",
+        "19",
+        "0",
+        "5",
+        "62465512",
+        "65458512",
+        "65458512",
+        "0"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "RIMS",
+      "ref": "1216409249",
+      "values": [
+        "1216409249",
+        "62465512",
+        "54266512",
+        "6016562",
+        "245",
+        "40",
+        "19",
+        "245",
+        "40",
+        "19",
+        "0",
+        "5",
+        "62465512",
+        "64458512",
+        "64458512",
+        "0"
+      ]
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "RIMS",
+      "ref": "64458512",
+      "value": "350ZNISMO_F_02"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "RIMS",
+      "ref": "65458512",
+      "value": "350ZNISMO_F_03"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "RIMS",
+      "ref": "66458512",
+      "value": "350ZNISMO_F_04"
+    }
+  ]
+}

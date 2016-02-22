@@ -1,2 +1,3 @@
 Own rims/AddOwnRimsForSaleenMustangs.mini.json
 Own rims/AddOwnRimsForAlfaGTs.mini.json
+Own rims/AddOwnRimsForNissan350Zs.mini.json
