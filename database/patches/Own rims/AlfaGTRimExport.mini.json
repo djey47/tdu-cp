@@ -1,0 +1,105 @@
+{
+  "changes": [
+    {
+      "type": "UPDATE",
+      "topic": "RIMS",
+      "ref": "1229561950",
+      "partialValues": [
+        {
+          "rank": 1,
+          "value": "1229561950"
+        },
+        {
+          "rank": 2,
+          "value": "54365512"
+        },
+        {
+          "rank": 3,
+          "value": "57576512"
+        },
+        {
+          "rank": 4,
+          "value": "5347562"
+        },
+        {
+          "rank": 5,
+          "value": "225"
+        },
+        {
+          "rank": 6,
+          "value": "40"
+        },
+        {
+          "rank": 7,
+          "value": "18"
+        },
+        {
+          "rank": 8,
+          "value": "225"
+        },
+        {
+          "rank": 9,
+          "value": "40"
+        },
+        {
+          "rank": 10,
+          "value": "18"
+        },
+        {
+          "rank": 11,
+          "value": "700"
+        },
+        {
+          "rank": 12,
+          "value": "10"
+        },
+        {
+          "rank": 13,
+          "value": "56890512"
+        },
+        {
+          "rank": 14,
+          "value": "535758512"
+        },
+        {
+          "rank": 15,
+          "value": "535758512"
+        },
+        {
+          "rank": 16,
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "RIMS",
+      "ref": "5347562",
+      "value": "Alloy Wheels 18\" with Spoke Design"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "RIMS",
+      "ref": "54365512",
+      "value": "Alfa-Romeo"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "RIMS",
+      "ref": "56890512",
+      "value": "Alfa"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "RIMS",
+      "ref": "57576512",
+      "value": "Alloy wheels 18” with spoke design "
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "RIMS",
+      "ref": "535758512",
+      "value": "ARGT02_F_01"
+    }
+  ]
+}

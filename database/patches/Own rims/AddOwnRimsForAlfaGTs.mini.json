@@ -1,0 +1,178 @@
+{
+  "changes": [
+    {
+      "type": "UPDATE",
+      "topic": "CAR_PHYSICS_DATA",
+      "ref": "57142377",
+      "partialValues": [
+        {
+          "rank": 10,
+          "value": "1229561951"
+        }
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "CAR_PHYSICS_DATA",
+      "ref": "58142377",
+      "partialValues": [
+        {
+          "rank": 10,
+          "value": "1229561952"
+        }
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "CAR_PHYSICS_DATA",
+      "ref": "59142377",
+      "partialValues": [
+        {
+          "rank": 10,
+          "value": "1229561953"
+        }
+      ]
+    },
+    {
+      "type": "DELETE",
+      "topic": "CAR_RIMS",
+      "filter": [
+        {
+          "rank": 1,
+          "value": "57142377"
+        }
+      ]
+    },
+    {
+      "type": "DELETE",
+      "topic": "CAR_RIMS",
+      "filter": [
+        {
+          "rank": 1,
+          "value": "58142377"
+        }
+      ]
+    },
+    {
+      "type": "DELETE",
+      "topic": "CAR_RIMS",
+      "filter": [
+        {
+          "rank": 1,
+          "value": "59142377"
+        }
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "CAR_RIMS",
+      "values": [
+        "57142377",
+        "1229561951"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "CAR_RIMS",
+      "values": [
+        "58142377",
+        "1229561952"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "CAR_RIMS",
+      "values": [
+        "59142377",
+        "1229561953"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "RIMS",
+      "ref": "1229561953",
+      "values": [
+        "1229561953",
+        "54365512",
+        "57576512",
+        "5347562",
+        "225",
+        "40",
+        "18",
+        "225",
+        "40",
+        "18",
+        "700",
+        "10",
+        "56890512",
+        "654758512",
+        "654758512",
+        "0"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "RIMS",
+      "ref": "1229561952",
+      "values": [
+        "1229561952",
+        "54365512",
+        "57576512",
+        "5347562",
+        "225",
+        "40",
+        "18",
+        "225",
+        "40",
+        "18",
+        "700",
+        "10",
+        "56890512",
+        "644758512",
+        "644758512",
+        "0"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "RIMS",
+      "ref": "1229561951",
+      "values": [
+        "1229561951",
+        "54365512",
+        "57576512",
+        "5347562",
+        "225",
+        "40",
+        "18",
+        "225",
+        "40",
+        "18",
+        "700",
+        "10",
+        "56890512",
+        "634758512",
+        "634758512",
+        "0"
+      ]
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "RIMS",
+      "ref": "634758512",
+      "value": "ARGT02_F_02"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "RIMS",
+      "ref": "644758512",
+      "value": "ARGT02_F_03"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "RIMS",
+      "ref": "654758512",
+      "value": "ARGT03_F_04"
+    }
+  ]
+}

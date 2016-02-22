@@ -1,0 +1,90 @@
+{
+  "changes": [
+    {
+      "type": "UPDATE",
+      "topic": "CAR_PHYSICS_DATA",
+      "ref": "57142377",
+      "partialValues": [
+        {
+          "rank": 10,
+          "value": "1229561950"
+        }
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "CAR_PHYSICS_DATA",
+      "ref": "58142377",
+      "partialValues": [
+        {
+          "rank": 10,
+          "value": "1229561950"
+        }
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "CAR_PHYSICS_DATA",
+      "ref": "59142377",
+      "partialValues": [
+        {
+          "rank": 10,
+          "value": "1229561950"
+        }
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "RIMS",
+      "ref": "1229561950",
+      "values": [
+        "1229561950",
+        "54365512",
+        "57576512",
+        "5347562",
+        "225",
+        "40",
+        "18",
+        "225",
+        "40",
+        "18",
+        "700",
+        "10",
+        "56890512",
+        "535758512",
+        "535758512",
+        "0"
+      ]
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "RIMS",
+      "ref": "5347562",
+      "value": "Alloy Wheels 18\" with Spoke Design"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "RIMS",
+      "ref": "54365512",
+      "value": "Alfa-Romeo"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "RIMS",
+      "ref": "56890512",
+      "value": "Alfa"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "RIMS",
+      "ref": "57576512",
+      "value": "Alloy wheels 18” with spoke design "
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "RIMS",
+      "ref": "535758512",
+      "value": "ARGT02_F_01"
+    }
+  ]
+}
