@@ -368,6 +368,14 @@
 
     - *Mas_GT_Cpe_F_01.bnk* [unlocked slots]
 
+- **Euro\Bnk\Vehicules\Rim\Nissan**
+
+    - *350ZNISMO_F_02.bnk* [own rims]
+    
+    - *350ZNISMO_F_03.bnk* [own rims]
+    
+    - *350ZNISMO_F_04.bnk* [own rims]
+
 - **Euro\Bnk\Vehicules\Rim\Saleen**
 
     - *S281_F_02.bnk* [own rims]

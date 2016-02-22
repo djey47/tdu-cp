@@ -15,7 +15,8 @@
 ## Bugfixes
 
 - All Saleen Mustang cars get own rim set with proper file name ( **S281_F_01.bnk** to **S281_F_06.bnk** )
-- All Alfa GT cars get own rim set with proper file name ( **ARGT02_F_F02.bnk** to **ARGT02_F_F04.bnk** )
+- All Alfa GTs get own rim set with proper file name ( **ARGT02_F_F02.bnk** to **ARGT02_F_F04.bnk** )
+- All Nissan 350Zs get own rim set with proper file name ( **350ZNISMO_F_02.bnk** to **350ZNISMO_F_04.bnk** )
 
 
 ## Known Bugs
