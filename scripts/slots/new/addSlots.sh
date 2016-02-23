@@ -29,7 +29,7 @@ do
    PATCH_PATH=/tmp/${PATCH_NAME}
 
    echo "Generating ${PATCH_PROPERTIES_PATH}..."
-   rm ${PATCH_PROPERTIES_PATH}
+   rm ${PATCH_PROPERTIES_PATH} 2> /dev/null
    # Physics
    BANKNAME=TDUCP_${id}
    echo "SLOTREF=${id}00000" >> ${PATCH_PROPERTIES_PATH}
