@@ -5,6 +5,12 @@
 
 ## Features
 
+- Creates 120 *brand new* slots:
+    - 300000000 to 310000000: TDUCP Model 3000 to 3100 (Cars)
+    - 400000000 to 402000000: TDUCP Model 4000 to 4020 (Bikes)
+
+(you have to set them manually to dealers, using tools).
+
 - Unlocks 2 car slots (check them out at Oahu Cars):
 
 [OC-Barber's point Golf, SW]
