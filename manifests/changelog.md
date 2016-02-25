@@ -48,7 +48,7 @@ You tell me!
 - Unlocks 27 car slots (check them out at Oahu Cars/Bikes):
  
 [OC-Honolulu Downtown]
-    - Aston Martin DB AR1 Zagato 
+    - Aston Martin DB AR1 Zagato
     - Aston Martin DB7 Volante
     - Audi A3 V6 'N'
     - Audi A4 DTM
@@ -75,8 +75,8 @@ You tell me!
     - Nissan 350Z Roadster
     - Pontiac GTO 'The Judge'
 [OC-Barber's point Golf, SW]
-    - Pontiac Solstice     
-    - Wiesmann GT 
+    - Pontiac Solstice
+    - Wiesmann GT
 [OB-Crater, SE]
     - Triumph 955I Daytona
 

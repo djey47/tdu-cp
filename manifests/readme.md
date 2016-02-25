@@ -12,6 +12,8 @@
 
 - TDUMT/TDUPE: use updated references from Euro\Bnk\Database folder: **VehicleSlots.xml** and **carData.mdb** - replace original files
 
+- Make sure to also read **files.md** and **changelog.md** before asking for help
+
 - That's all!
 
 
