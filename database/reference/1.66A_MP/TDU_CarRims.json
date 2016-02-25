@@ -4028,126 +4028,84 @@
       }
     ]
   },
-  "resources": [
-    {
-      "entries": [
-        {
-          "value": "ERREUR!!",
-          "ref": "909787"
-        },
-        {
-          "value": "Main",
-          "ref": "86037407"
-        }
-      ],
-      "version": "1,2",
-      "categoryCount": 2,
-      "locale": "FRANCE"
-    },
-    {
-      "entries": [
-        {
-          "value": "ERROR",
-          "ref": "909787"
-        },
-        {
-          "value": "Main",
-          "ref": "86037407"
-        }
-      ],
-      "version": "1,2",
-      "categoryCount": 2,
-      "locale": "GERMANY"
-    },
-    {
-      "entries": [
-        {
-          "value": "ERROR",
-          "ref": "909787"
-        },
-        {
-          "value": "Main",
-          "ref": "86037407"
-        }
-      ],
-      "version": "1,2",
-      "categoryCount": 2,
-      "locale": "UNITED_STATES"
-    },
-    {
-      "entries": [
-        {
-          "value": "ERROR",
-          "ref": "909787"
-        },
-        {
-          "value": "Main",
-          "ref": "86037407"
-        }
-      ],
-      "version": "1,2",
-      "categoryCount": 2,
-      "locale": "KOREA"
-    },
-    {
-      "entries": [
-        {
-          "value": "ERROR",
-          "ref": "909787"
-        },
-        {
-          "value": "Main",
-          "ref": "86037407"
-        }
-      ],
-      "version": "1,2",
-      "categoryCount": 2,
-      "locale": "CHINA"
-    },
-    {
-      "entries": [
-        {
-          "value": "ERROR",
-          "ref": "909787"
-        },
-        {
-          "value": "Main",
-          "ref": "86037407"
-        }
-      ],
-      "version": "1,2",
-      "categoryCount": 2,
-      "locale": "JAPAN"
-    },
-    {
-      "entries": [
-        {
-          "value": "ERROR",
-          "ref": "909787"
-        },
-        {
-          "value": "Main",
-          "ref": "86037407"
-        }
-      ],
-      "version": "1,2",
-      "categoryCount": 2,
-      "locale": "ITALY"
-    },
-    {
-      "entries": [
-        {
-          "value": "ERROR",
-          "ref": "909787"
-        },
-        {
-          "value": "Main",
-          "ref": "86037407"
-        }
-      ],
-      "version": "1,2",
-      "categoryCount": 2,
-      "locale": "SPAIN"
-    }
-  ]
+  "resource": {
+    "version": "1,2",
+    "categoryCount": 2,
+    "entries": [
+      {
+        "items": [
+          {
+            "locale": "FRANCE",
+            "value": "ERREUR!!"
+          },
+          {
+            "locale": "GERMANY",
+            "value": "ERROR"
+          },
+          {
+            "locale": "UNITED_STATES",
+            "value": "ERROR"
+          },
+          {
+            "locale": "KOREA",
+            "value": "ERROR"
+          },
+          {
+            "locale": "CHINA",
+            "value": "ERROR"
+          },
+          {
+            "locale": "JAPAN",
+            "value": "ERROR"
+          },
+          {
+            "locale": "ITALY",
+            "value": "ERROR"
+          },
+          {
+            "locale": "SPAIN",
+            "value": "ERROR"
+          }
+        ],
+        "ref": "909787"
+      },
+      {
+        "items": [
+          {
+            "locale": "FRANCE",
+            "value": "Main"
+          },
+          {
+            "locale": "GERMANY",
+            "value": "Main"
+          },
+          {
+            "locale": "UNITED_STATES",
+            "value": "Main"
+          },
+          {
+            "locale": "KOREA",
+            "value": "Main"
+          },
+          {
+            "locale": "CHINA",
+            "value": "Main"
+          },
+          {
+            "locale": "JAPAN",
+            "value": "Main"
+          },
+          {
+            "locale": "ITALY",
+            "value": "Main"
+          },
+          {
+            "locale": "SPAIN",
+            "value": "Main"
+          }
+        ],
+        "ref": "86037407"
+      }
+    ]
+  }
 }
