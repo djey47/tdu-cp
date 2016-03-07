@@ -5,24 +5,10 @@
 
 ## Features
 
-- Creates 120 *brand new* slots:
-    - 300000000 to 310000000: TDUCP Model 3000 to 3100 (Cars)
-    - 400000000 to 402000000: TDUCP Model 4000 to 4020 (Bikes)
-
-(you have to set them manually to dealers, using tools).
-
-- Unlocks 2 car slots (check them out at Oahu Cars):
-
-[OC-Barber's point Golf, SW]
-    - Chevrolet Cobalt SS
-    - Chevrolet Corvette'63     
 
 
 ## Bugfixes
 
-- All Saleen Mustang cars get own rim set with proper file name ( **S281_F_01.bnk** to **S281_F_06.bnk** )
-- All Alfa GTs get own rim set with proper file name ( **ARGT02_F_F02.bnk** to **ARGT02_F_F04.bnk** )
-- All Nissan 350Zs get own rim set with proper file name ( **350ZNISMO_F_02.bnk** to **350ZNISMO_F_04.bnk** )
 
 
 ## Known Bugs
@@ -45,7 +31,7 @@ You tell me!
 - Adds new bots driving megapack vehicles
 - Adds 3 new brands: Hennessey Performance, Radical, Rossion
 - Gives bike-clothes for cars, car-clothes for bikes
-- Unlocks 27 car slots (check them out at Oahu Cars/Bikes):
+- Unlocks 29 car slots (check them out at Oahu Cars/Bikes):
  
 [OC-Honolulu Downtown]
     - Aston Martin DB AR1 Zagato
@@ -77,17 +63,21 @@ You tell me!
 [OC-Barber's point Golf, SW]
     - Pontiac Solstice
     - Wiesmann GT
+    - Chevrolet Cobalt SS
+    - Chevrolet Corvette'63
 [OB-Crater, SE]
     - Triumph 955I Daytona
 
-- Creates 2 *brand new* slots:
+- Creates 120 *brand new* slots:
+( can be used with any mod, you just have to rename your files to TDUCP_3000.bnk or TDUCP_4000.bnk ... see **files.md** for details )
     - 300000000 => TDUCP Model 3000 (Car), available @ [OC-Barber's point Golf, SW]
     - 400000000 => TDUCP Model 4000 (Bike), available @ [OB-Crater, SE]
-    
-( can be used with any mod, you just have to rename your files to TDUCP_3000.bnk or TDUCP_4000.bnk ... see **files.md** for details )
+    - 300100000 to 310000000 => TDUCP Model 3001 to 3100 (Cars)
+    - 400100000 to 402000000 => TDUCP Model 4001 to 4020 (Bikes)
+( you have to set them manually to dealers, using tools ).   
 
-- Provides updated TDUMT's **VehicleSlots.xml** file to make both slots appear under TDUMT
-- Provides updated TDUPE's **carData.mdb** file to make both slots appear under TDUPE.
+- Provides updated TDUMT's **VehicleSlots.xml** file to make above slots appear under TDUMT
+- Provides updated TDUPE's **carData.mdb** file to make above slots appear under TDUPE.
 
 
 ### Bugfixes
@@ -105,4 +95,7 @@ You tell me!
 - Fixes Hennessey brand (Dodge tuning) with Dodge logo and name display properly
 - G27 support (Force Feedback, RPM LEDs)
 - Traffic sync issues (introduced by 1.68 Community Patch) 
-- F40 gets 2 identical tuning options in Forza Tuner.
+- F40 gets 2 identical tuning options in Forza Tuner
+- All Saleen Mustang cars get own rim set with proper file name ( **S281_F_01.bnk** to **S281_F_06.bnk** )
+- All Alfa GTs get own rim set with proper file name ( **ARGT02_F_F02.bnk** to **ARGT02_F_F04.bnk** )
+- All Nissan 350Zs get own rim set with proper file name ( **350ZNISMO_F_02.bnk** to **350ZNISMO_F_04.bnk** ).
