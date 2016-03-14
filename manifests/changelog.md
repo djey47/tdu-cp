@@ -5,6 +5,9 @@
 
 ## Features
 
+- Moves updated TDUMT's **VehicleSlots.xml** file to make above slots appear under TDUMT
+- Moves updated TDUPE's **carData.mdb** file to make above slots appear under TDUPE.
+(check **tools** directory)
 
 
 ## Bugfixes
@@ -76,8 +79,6 @@ You tell me!
     - 400100000 to 402000000 => TDUCP Model 4001 to 4020 (Bikes)
 ( you have to set them manually to dealers, using tools ).   
 
-- Provides updated TDUMT's **VehicleSlots.xml** file to make above slots appear under TDUMT
-- Provides updated TDUPE's **carData.mdb** file to make above slots appear under TDUPE.
 
 
 ### Bugfixes

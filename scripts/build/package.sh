@@ -52,8 +52,9 @@ echo
 
 # References
 echo "*** References... ***"
-cp ${TDUCP_PATH}/resources/physics/tdumt/VehicleSlots.xml ${BUILD_DB_PATH}
-cp ${TDUCP_PATH}/resources/physics/tdupe/carData.mdb ${BUILD_DB_PATH}
+mkdir -p ${BUILD_TOOLS_PATH}
+cp ${TDUCP_PATH}/resources/physics/tdumt/VehicleSlots.xml ${BUILD_TOOLS_PATH}
+cp ${TDUCP_PATH}/resources/physics/tdupe/carData.mdb ${BUILD_TOOLS_PATH}
 echo
 
 # Database

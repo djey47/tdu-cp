@@ -8,12 +8,6 @@
 
     - *dinput8.dll* [G27 Fix]
 
-- **Euro\Bnk\Database**
-
-    - *carData.mdb* [new slots]
-
-    - *VehicleSlots.xml* [new slots]
-
 - **Euro\Bnk\Frontend\HiRes\Gauges**
 
     - *246_GTS.bnk* [unlocked slots]
@@ -460,6 +454,12 @@
     - *CommonWorldDiv2.bnk*
     
             Library.3dd [hd patch]
+
+- **tools**
+
+    - *carData.mdb* [new slots]
+
+    - *VehicleSlots.xml* [new slots]
 
 ## REMOVED files
 

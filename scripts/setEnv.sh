@@ -22,6 +22,7 @@ export GENERATED_DB_PATH=${TDUCP_PATH}/workspace/wip/private/database-generated
 
 export BUILD_PATH=${TDUCP_PATH}/workspace/build/private/${BUILD_PATCH_VERSION}
 export BUILD_BANK_PATH=${BUILD_PATH}/Euro/Bnk
+export BUILD_TOOLS_PATH=${BUILD_PATH}/tools
 
 export MAPPING_CURRENT=${BUILD_BANK_PATH}/Bnk1.map
 
