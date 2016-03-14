@@ -17,7 +17,9 @@ CURRENT_PATH=`readlink -f $BASH_SOURCE`
 SCRIPTS_PATH=`dirname ${CURRENT_PATH}`
 export TDUCP_PATH=`dirname ${SCRIPTS_PATH}`
 
+
 export CURRENT_DB_PATH=${TDUCP_PATH}/database/current
+export DIFF_PATCHES_PATH=${TDUCP_PATH}/database/patches/0-ALL-FullUpdate
 export GENERATED_DB_PATH=${TDUCP_PATH}/workspace/wip/private/database-generated
 
 export BUILD_PATH=${TDUCP_PATH}/workspace/build/private/${BUILD_PATCH_VERSION}
