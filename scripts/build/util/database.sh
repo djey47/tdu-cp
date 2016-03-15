@@ -7,3 +7,11 @@ diffPatches() {
     cp ${DIFF_PATCHES_PATH}/*.json ${INSTALLER_PATCHES_PATH}
     echo
 }
+
+generateAndCheckDatabase() {
+    echo "*** Database... ***"
+    cd ../database/
+    ./generateCurrent.sh && ./checkBuild.sh
+    cd - > /dev/null
+    echo
+}

@@ -1,9 +1,29 @@
 #!/usr/bin/env bash
 
 replacedFiles() {
-    echo "*** FX configuration for PATCH HD (SD MODE)... ***"
-    unzip -o ${TDUCP_PATH}/resources/system/2CV-patch-hd/FX.ini.hd.zip -d ${BUILD_FX_PATH}
-    echo
+    echo "*** ***"
+    # TODO Brand logos, menu logo, Patch HD Level files
+
+#    # Unlocked slot files
+#    echo "*** Unlocked slots files... ***"
+#    cd ../slots/unlocked
+#    ./createFiles.sh
+#    cd - > /dev/null
+#    echo
+#
+#    # New slot files
+#    echo "*** New slots files... ***"
+#    cd ../slots/new
+#    ./createFiles.sh
+#    cd - > /dev/null
+#    echo
+#
+#    # Own rims files
+#    echo "*** Own rims files... ***"
+#    cd ../slots/rims
+#    ./createFiles.sh
+#    cd - > /dev/null
+#    echo
 }
 
 newFiles() {
@@ -19,6 +39,10 @@ newFiles() {
 
     echo "*** G27 fix... ***"
     cp ${TDUCP_PATH}/resources/system/LeanSpeeder-G27-fix/dinput8.dll ${BUILD_PATH}
+    echo
+
+    echo "*** FX configuration for PATCH HD (SD MODE)... ***"
+    unzip -o ${TDUCP_PATH}/resources/system/2CV-patch-hd/FX.ini.hd.zip -d ${BUILD_FX_PATH}
     echo
 }
 
