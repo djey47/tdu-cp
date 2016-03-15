@@ -17,6 +17,7 @@ CURRENT_PATH=`readlink -f $BASH_SOURCE`
 SCRIPTS_PATH=`dirname ${CURRENT_PATH}`
 export TDUCP_PATH=`dirname ${SCRIPTS_PATH}`
 
+export RELEASE_PATH=${TDUCP_PATH}/workspace/releases
 
 export CURRENT_DB_PATH=${TDUCP_PATH}/database/current
 export DIFF_PATCHES_PATH=${TDUCP_PATH}/database/patches/0-ALL-FullUpdate
@@ -34,6 +35,7 @@ export BUILD_SOUNDS_PATH=${BUILD_BANK_PATH}/Sound/Vehicules
 export BUILD_HUDS_HR_PATH=${BUILD_BANK_PATH}/FrontEnd/HiRes/Gauges
 export BUILD_HUDS_LR_PATH=${BUILD_BANK_PATH}/FrontEnd/LowRes/Gauges
 export BUILD_RIMS_PATH=${BUILD_MODELS_PATH}/Rim
+export BUILD_FX_PATH=${BUILD_BANK_PATH}/FX
 
 export DEFAULT_MODELS_PATH=${TDUCP_PATH}/resources/physics/vehicles/models
 export DEFAULT_SOUND_PATH=${TDUCP_PATH}/resources/physics/vehicles/sounds

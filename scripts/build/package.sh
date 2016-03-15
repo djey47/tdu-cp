@@ -1,13 +1,10 @@
 #!/usr/bin/env bash
 #set -x
 
-# Prepares packaging of Community Patch
+# Prepares packaging of Community Patch: FULL VERSION
 # Does not include all files yet (to be copied manually to BUILD PATH before launching script).
 
 source ../setEnv.sh
-
-RELEASE_PATH=${TDUCP_PATH}/workspace/releases
-BUILD_FX_PATH=${BUILD_BANK_PATH}/FX
 
 # Init
 echo "*** Preparing directories... ***"
@@ -82,6 +79,6 @@ echo
 #echo "*** Zipping... ***"
 #pushd ${BUILD_PATH} > /dev/null
 #TIMESTAMP=`date +%s`
-#zip -r ${TDUCP_PATH}/workspace/releases/TDUCP-2.00A-${TIMESTAMP}.zip *
+#zip -r ${TDUCP_PATH}/workspace/releases/FULL-TDUCP-2.00A-${TIMESTAMP}.zip *
 #popd > /dev/null
 #echo
