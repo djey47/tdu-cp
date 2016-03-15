@@ -25,8 +25,8 @@ newFiles() {
 updatedBankFiles() {
     TEXTURES_LOW_PATH=${INSTALLER_FILES_PATH}/textures-low
     TEXTURES_HIGH_PATH=${INSTALLER_FILES_PATH}/textures-high
-    mkdir -p TEXTURES_LOW_PATH
-    mkdir -p TEXTURES_HIGH_PATH
+    mkdir -p ${TEXTURES_LOW_PATH}
+    mkdir -p ${TEXTURES_HIGH_PATH}
 
     echo "*** Textures for MENU LOGO... ***"
     cp ${TDUCP_PATH}/resources/textures/menus/\(LOW\)fla_0013.2db ${TEXTURES_LOW_PATH}/fla_0013.2db
