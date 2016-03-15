@@ -1,0 +1,4593 @@
+{
+  "changes": [
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "104",
+      "values": [
+        "104",
+        "87838337",
+        "8788357",
+        "87838337",
+        "369",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "105",
+      "values": [
+        "105",
+        "87938337",
+        "8798357",
+        "87938337",
+        "370",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "114",
+      "values": [
+        "114",
+        "88738337",
+        "8878357",
+        "88738337",
+        "379",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "118",
+      "values": [
+        "118",
+        "89138337",
+        "8918357",
+        "89138337",
+        "383",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "138",
+      "values": [
+        "138",
+        "90938337",
+        "9098357",
+        "90938337",
+        "404",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "141",
+      "values": [
+        "141",
+        "91238337",
+        "9128357",
+        "91238337",
+        "407",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "145",
+      "values": [
+        "145",
+        "90238337",
+        "9028357",
+        "90238337",
+        "411",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "157",
+      "values": [
+        "157",
+        "85338337",
+        "8538357",
+        "85338337",
+        "423",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "159",
+      "values": [
+        "159",
+        "85138337",
+        "8518357",
+        "85138337",
+        "425",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "160",
+      "values": [
+        "160",
+        "84738337",
+        "8478357",
+        "84738337",
+        "426",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "736",
+      "values": [
+        "736",
+        "70038337",
+        "7008357",
+        "70038337",
+        "19",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "737",
+      "values": [
+        "737",
+        "70138337",
+        "7018357",
+        "70138337",
+        "37",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "738",
+      "values": [
+        "738",
+        "70238337",
+        "7028357",
+        "70238337",
+        "31",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "739",
+      "values": [
+        "739",
+        "70338337",
+        "7038357",
+        "70338337",
+        "14",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "740",
+      "values": [
+        "740",
+        "70438337",
+        "7048357",
+        "70438337",
+        "43",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "742",
+      "values": [
+        "742",
+        "70638337",
+        "7068357",
+        "70638337",
+        "51",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "743",
+      "values": [
+        "743",
+        "70738337",
+        "7078357",
+        "70738337",
+        "52",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "744",
+      "values": [
+        "744",
+        "70838337",
+        "7088357",
+        "70838337",
+        "53",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "745",
+      "values": [
+        "745",
+        "70938337",
+        "7098357",
+        "70938337",
+        "54",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "746",
+      "values": [
+        "746",
+        "71038337",
+        "7108357",
+        "71038337",
+        "59",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "747",
+      "values": [
+        "747",
+        "71138337",
+        "7118357",
+        "71138337",
+        "60",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "749",
+      "values": [
+        "749",
+        "71338337",
+        "7138357",
+        "71338337",
+        "146",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "750",
+      "values": [
+        "750",
+        "71438337",
+        "7148357",
+        "71438337",
+        "209",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "751",
+      "values": [
+        "751",
+        "71538337",
+        "7158357",
+        "71538337",
+        "257",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "752",
+      "values": [
+        "752",
+        "71638337",
+        "7168357",
+        "71638337",
+        "209",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "754",
+      "values": [
+        "754",
+        "71838337",
+        "7188357",
+        "71838337",
+        "226",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "755",
+      "values": [
+        "755",
+        "71938337",
+        "7198357",
+        "71938337",
+        "195",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "756",
+      "values": [
+        "756",
+        "72038337",
+        "7208357",
+        "72038337",
+        "211",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "757",
+      "values": [
+        "757",
+        "72138337",
+        "7218357",
+        "72138337",
+        "229",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "758",
+      "values": [
+        "758",
+        "72238337",
+        "7228357",
+        "72238337",
+        "277",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "759",
+      "values": [
+        "759",
+        "72338337",
+        "7238357",
+        "72338337",
+        "129",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "760",
+      "values": [
+        "760",
+        "72438337",
+        "7248357",
+        "72438337",
+        "162",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "763",
+      "values": [
+        "763",
+        "72738337",
+        "7278357",
+        "72738337",
+        "63",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "764",
+      "values": [
+        "764",
+        "72838337",
+        "7288357",
+        "72838337",
+        "135",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "765",
+      "values": [
+        "765",
+        "72938337",
+        "7298357",
+        "72938337",
+        "63",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "766",
+      "values": [
+        "766",
+        "73038337",
+        "7308357",
+        "73038337",
+        "63",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "767",
+      "values": [
+        "767",
+        "73138337",
+        "7318357",
+        "73138337",
+        "61",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "768",
+      "values": [
+        "768",
+        "73238337",
+        "7328357",
+        "73238337",
+        "175",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "769",
+      "values": [
+        "769",
+        "73338337",
+        "7338357",
+        "73338337",
+        "264",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "783",
+      "values": [
+        "783",
+        "74538337",
+        "7458357",
+        "74538337",
+        "148",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "799",
+      "values": [
+        "799",
+        "74938337",
+        "7498357",
+        "74938337",
+        "164",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "802",
+      "values": [
+        "802",
+        "75138337",
+        "7518357",
+        "75138337",
+        "167",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "803",
+      "values": [
+        "803",
+        "75238337",
+        "7528357",
+        "75238337",
+        "168",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "806",
+      "values": [
+        "806",
+        "75538337",
+        "7558357",
+        "75538337",
+        "171",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "807",
+      "values": [
+        "807",
+        "75638337",
+        "7568357",
+        "75638337",
+        "172",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "820",
+      "values": [
+        "820",
+        "76238337",
+        "7628357",
+        "76238337",
+        "185",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "821",
+      "values": [
+        "821",
+        "76338337",
+        "7638357",
+        "76338337",
+        "186",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "823",
+      "values": [
+        "823",
+        "76538337",
+        "7658357",
+        "76538337",
+        "188",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "824",
+      "values": [
+        "824",
+        "76638337",
+        "7668357",
+        "76638337",
+        "189",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "825",
+      "values": [
+        "825",
+        "76738337",
+        "7678357",
+        "76738337",
+        "190",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "828",
+      "values": [
+        "828",
+        "77038337",
+        "7708357",
+        "77038337",
+        "193",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "829",
+      "values": [
+        "829",
+        "59738337",
+        "5978357",
+        "59738337",
+        "194",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "831",
+      "values": [
+        "831",
+        "77238337",
+        "7728357",
+        "77238337",
+        "197",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "833",
+      "values": [
+        "833",
+        "77338337",
+        "7738357",
+        "77338337",
+        "200",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "834",
+      "values": [
+        "834",
+        "77438337",
+        "7748357",
+        "77438337",
+        "201",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "836",
+      "values": [
+        "836",
+        "77638337",
+        "7768357",
+        "77638337",
+        "203",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "848",
+      "values": [
+        "848",
+        "78338337",
+        "7838357",
+        "78338337",
+        "215",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "850",
+      "values": [
+        "850",
+        "78438337",
+        "7848357",
+        "78438337",
+        "217",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "851",
+      "values": [
+        "851",
+        "78538337",
+        "7858357",
+        "78538337",
+        "218",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "856",
+      "values": [
+        "856",
+        "78738337",
+        "7878357",
+        "78738337",
+        "224",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "858",
+      "values": [
+        "858",
+        "81038337",
+        "8108357",
+        "81038337",
+        "269",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "860",
+      "values": [
+        "860",
+        "78938337",
+        "7898357",
+        "78938337",
+        "228",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "862",
+      "values": [
+        "862",
+        "79038337",
+        "7908357",
+        "79038337",
+        "231",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "865",
+      "values": [
+        "865",
+        "79338337",
+        "7938357",
+        "79338337",
+        "234",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "868",
+      "values": [
+        "868",
+        "79538337",
+        "7958357",
+        "79538337",
+        "237",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "871",
+      "values": [
+        "871",
+        "79738337",
+        "7978357",
+        "79738337",
+        "240",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "876",
+      "values": [
+        "876",
+        "79838337",
+        "7988357",
+        "79838337",
+        "245",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "883",
+      "values": [
+        "883",
+        "79938337",
+        "7998357",
+        "79938337",
+        "252",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "896",
+      "values": [
+        "896",
+        "80838337",
+        "8088357",
+        "80838337",
+        "266",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "898",
+      "values": [
+        "898",
+        "81538337",
+        "8158357",
+        "81538337",
+        "284",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "900",
+      "values": [
+        "900",
+        "54738337",
+        "5478357",
+        "54738337",
+        "48",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "902",
+      "values": [
+        "902",
+        "58638337",
+        "5868357",
+        "58638337",
+        "47",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "903",
+      "values": [
+        "903",
+        "60338337",
+        "6038357",
+        "60338337",
+        "62",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "905",
+      "values": [
+        "905",
+        "61338337",
+        "6138357",
+        "61338337",
+        "38",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "906",
+      "values": [
+        "906",
+        "61438337",
+        "6148357",
+        "61438337",
+        "198",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "907",
+      "values": [
+        "907",
+        "62338337",
+        "6238357",
+        "62338337",
+        "58",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "908",
+      "values": [
+        "908",
+        "62538337",
+        "6258357",
+        "62538337",
+        "56",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "909",
+      "values": [
+        "909",
+        "56738337",
+        "5678357",
+        "56738337",
+        "133",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "910",
+      "values": [
+        "910",
+        "57738337",
+        "5778357",
+        "57738337",
+        "141",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "911",
+      "values": [
+        "911",
+        "54838337",
+        "5488357",
+        "54838337",
+        "280",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "913",
+      "values": [
+        "913",
+        "53738337",
+        "5378357",
+        "53738337",
+        "49",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "914",
+      "values": [
+        "914",
+        "91438337",
+        "9148357",
+        "91438337",
+        "63",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "915",
+      "values": [
+        "915",
+        "91538337",
+        "9158357",
+        "91538337",
+        "63",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "916",
+      "values": [
+        "916",
+        "91638337",
+        "9168357",
+        "91638337",
+        "63",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "928",
+      "values": [
+        "928",
+        "70538337",
+        "7058357",
+        "70538337",
+        "293",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "965",
+      "values": [
+        "965",
+        "75338337",
+        "7538357",
+        "75338337",
+        "329",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "977",
+      "values": [
+        "977",
+        "85738337",
+        "8578357",
+        "85738337",
+        "341",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "987",
+      "values": [
+        "987",
+        "86738337",
+        "8678357",
+        "86738337",
+        "352",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "996",
+      "values": [
+        "996",
+        "87438337",
+        "8748357",
+        "87438337",
+        "361",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "998",
+      "values": [
+        "998",
+        "71238337",
+        "7128357",
+        "71238337",
+        "363",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "7853",
+      "partialValues": [
+        {
+          "rank": 2,
+          "value": "60438337"
+        },
+        {
+          "rank": 3,
+          "value": "6048357"
+        },
+        {
+          "rank": 4,
+          "value": "6048357"
+        },
+        {
+          "rank": 5,
+          "value": "57"
+        },
+        {
+          "rank": 7,
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "9933",
+      "partialValues": [
+        {
+          "rank": 3,
+          "value": "6278357"
+        },
+        {
+          "rank": 4,
+          "value": "62738337"
+        },
+        {
+          "rank": 5,
+          "value": "55"
+        },
+        {
+          "rank": 7,
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "91197",
+      "partialValues": [
+        {
+          "rank": 7,
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "727727",
+      "partialValues": [
+        {
+          "rank": 3,
+          "value": "5958357"
+        },
+        {
+          "rank": 4,
+          "value": "59538337"
+        },
+        {
+          "rank": 5,
+          "value": "22"
+        },
+        {
+          "rank": 7,
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "12778906",
+      "partialValues": [
+        {
+          "rank": 3,
+          "value": "61838337"
+        },
+        {
+          "rank": 4,
+          "value": "61838337"
+        },
+        {
+          "rank": 5,
+          "value": "24"
+        },
+        {
+          "rank": 7,
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "BRANDS",
+      "ref": "1137632324",
+      "partialValues": [
+        {
+          "rank": 3,
+          "value": "54038337"
+        },
+        {
+          "rank": 4,
+          "value": "56438337"
+        },
+        {
+          "rank": 5,
+          "value": "9"
+        },
+        {
+          "rank": 7,
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7008357",
+      "value": "Citroën"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7018357",
+      "value": "Renault"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7028357",
+      "value": "Peugeot"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7038357",
+      "value": "Lancia"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7048357",
+      "value": "Opel"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7058357",
+      "value": "Alpine"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7068357",
+      "value": "Volvo"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7078357",
+      "value": "Skoda"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7088357",
+      "value": "Rover"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7098357",
+      "value": "Fiat"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7108357",
+      "value": "Saab"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7118357",
+      "value": "Seat"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7128357",
+      "value": "Matra"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7138357",
+      "value": "Bizzarrini"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7148357",
+      "value": "Vaz"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7158357",
+      "value": "Rolls Royce"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7168357",
+      "value": "Lada"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7178357",
+      "value": "Trabant"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7188357",
+      "value": "Melling"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7198357",
+      "value": "Hummer"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7208357",
+      "value": "Land Rover"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7218357",
+      "value": "Mini"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7228357",
+      "value": "Vauxhall"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7238357",
+      "value": "Acura"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7248357",
+      "value": "Dacia"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7258357",
+      "value": "Smart"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7268357",
+      "value": "Vector"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7278357",
+      "value": "Gaz"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7288357",
+      "value": "Ariel"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7298357",
+      "value": "Buick"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7308357",
+      "value": "Venturi"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7318357",
+      "value": "Daihatsu"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7328357",
+      "value": "Facel Vega"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7338357",
+      "value": "Simca"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7348357",
+      "value": "Abarth"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7358357",
+      "value": "Alpina"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7368357",
+      "value": "AMC"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7378357",
+      "value": "Arash"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7388357",
+      "value": "Internationnal"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7398357",
+      "value": "Austin"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7408357",
+      "value": "Austin Healey"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7418357",
+      "value": "Auto Union"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7428357",
+      "value": "Berliet"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7438357",
+      "value": "BFG"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7448357",
+      "value": "Bimota"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7458357",
+      "value": "Buell"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7468357",
+      "value": "CAT"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7478357",
+      "value": "Claas"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7488357",
+      "value": "Cord"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7498357",
+      "value": "Daewoo"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7508357",
+      "value": "Daimler"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7518357",
+      "value": "Datsun"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7528357",
+      "value": "Dauer"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7538357",
+      "value": "Delage"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7548357",
+      "value": "Delahaye"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7558357",
+      "value": "DeTomaso"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7568357",
+      "value": "Dino"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7578357",
+      "value": "DMC"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7588357",
+      "value": "Eagle"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7598357",
+      "value": "Farbio"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7608357",
+      "value": "Fendt"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7618357",
+      "value": "Flandria"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7628357",
+      "value": "Gemballa"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7638357",
+      "value": "Gillet"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7648357",
+      "value": "GM"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7658357",
+      "value": "GMC"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7668357",
+      "value": "Gumpert"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7678357",
+      "value": "Harley Davidson"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7688357",
+      "value": "Heuliez"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7698357",
+      "value": "Hispano Suiza"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7708357",
+      "value": "Hommell"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7718357",
+      "value": "Hyosung"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7728357",
+      "value": "Hyundai"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7738357",
+      "value": "Isuzu"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7748357",
+      "value": "Italdesign"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7758357",
+      "value": "Iveco"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7768357",
+      "value": "Jeep"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7778357",
+      "value": "Jensen"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7788357",
+      "value": "John Deere"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7798357",
+      "value": "KIA"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7808357",
+      "value": "KTM"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7818357",
+      "value": "Landini"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7828357",
+      "value": "Laverda"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7838357",
+      "value": "Ligier"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7848357",
+      "value": "Lincoln"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7858357",
+      "value": "Marcos"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7868357",
+      "value": "Massey Ferguson"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7878357",
+      "value": "Maybach"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7888357",
+      "value": "McCormick"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7898357",
+      "value": "Mercury"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7908357",
+      "value": "Morgan"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7918357",
+      "value": "Morini"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7928357",
+      "value": "Morris"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7938357",
+      "value": "Mosler"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7948357",
+      "value": "Motobecane"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7958357",
+      "value": "Moto Guzzi"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7968357",
+      "value": "New Holland"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7978357",
+      "value": "Oldsmobile"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7988357",
+      "value": "Panhard"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "7998357",
+      "value": "Proton"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8008357",
+      "value": "Rene Bonnet"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8018357",
+      "value": "Royal Enfield"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8028357",
+      "value": "Same"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8038357",
+      "value": "Sbarro"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8048357",
+      "value": "Scania"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8058357",
+      "value": "ShuanGhuan"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8068357",
+      "value": "Someca"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8078357",
+      "value": "SSangYong"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8088357",
+      "value": "Talbot"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8098357",
+      "value": "Tata"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8108357",
+      "value": "Tesla"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8118357",
+      "value": "TGB"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8128357",
+      "value": "Vespa"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8138357",
+      "value": "Zastava"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8148357",
+      "value": "Case"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8158357",
+      "value": "Zaz"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8168357",
+      "value": "AMCA"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8178357",
+      "value": "Arista"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8188357",
+      "value": "Aixam"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8198357",
+      "value": "Allard"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8208357",
+      "value": "Alvis"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8218357",
+      "value": "Amilcar"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8228357",
+      "value": "Zil"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8238357",
+      "value": "WSK"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8248357",
+      "value": "ARO"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8258357",
+      "value": "ASA"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8268357",
+      "value": "Auburn"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8278357",
+      "value": "Austin Healey"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8288357",
+      "value": "Austin Rover"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8298357",
+      "value": "Autobianchi"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8308357",
+      "value": "Avanti"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8318357",
+      "value": "Bajaj"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8328357",
+      "value": "Ballot"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8338357",
+      "value": "Bertone"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8348357",
+      "value": "Wolseley"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8358357",
+      "value": "Bitter"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8368357",
+      "value": "Bogward"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8378357",
+      "value": "Bristol"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8388357",
+      "value": "Western"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8398357",
+      "value": "BSA"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8408357",
+      "value": "Bultaco"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8418357",
+      "value": "Cizeta"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8428357",
+      "value": "Cooper"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8438357",
+      "value": "Corre La Licorne"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8448357",
+      "value": "Coste"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8458357",
+      "value": "DAF"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8468357",
+      "value": "Wartburg"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8478357",
+      "value": "Voxan"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8488357",
+      "value": "DeSoto"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8498357",
+      "value": "DKW"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8508357",
+      "value": "Donkervoort"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8518357",
+      "value": "Voisin"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8528357",
+      "value": "Duesenberg"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8538357",
+      "value": "Trabant"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8548357",
+      "value": "Edsel"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8558357",
+      "value": "Elva"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8568357",
+      "value": "FN"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8578357",
+      "value": "Gaz"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8588357",
+      "value": "Geely"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8598357",
+      "value": "Geo"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8608357",
+      "value": "Ginetta"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8618357",
+      "value": "Gordini"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8628357",
+      "value": "Hillman"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8638357",
+      "value": "Hindustan"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8648357",
+      "value": "Hodaka"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8658357",
+      "value": "Hudson"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8668357",
+      "value": "Tornado"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8678357",
+      "value": "Iso"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8688357",
+      "value": "Josse"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8698357",
+      "value": "Kaiser"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8708357",
+      "value": "Terrot"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8718357",
+      "value": "Lagonda"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8728357",
+      "value": "Lightning"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8738357",
+      "value": "Lola"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8748357",
+      "value": "Lotec"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8758357",
+      "value": "Luaz"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8768357",
+      "value": "MCV"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8778357",
+      "value": "Mega"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8788357",
+      "value": "Messerschmitt"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8798357",
+      "value": "MG"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8808357",
+      "value": "Monica"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8818357",
+      "value": "Monteverdi"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8828357",
+      "value": "Moretti"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8838357",
+      "value": "Moskvitch"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8848357",
+      "value": "Tatra"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8858357",
+      "value": "Nash"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8868357",
+      "value": "Norton"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8878357",
+      "value": "NSU"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8888357",
+      "value": "Sunbeam"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8898357",
+      "value": "Osca"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8908357",
+      "value": "Packhard"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8918357",
+      "value": "Panoz"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8928357",
+      "value": "Pegaso"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8938357",
+      "value": "Pierce Arrow"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8948357",
+      "value": "Stutz"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8958357",
+      "value": "Premier"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8968357",
+      "value": "Puch"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8978357",
+      "value": "Puma"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8988357",
+      "value": "Purvis"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "8998357",
+      "value": "Quantum"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "9008357",
+      "value": "Qvale"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "9018357",
+      "value": "Reliant"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "9028357",
+      "value": "Studebaker"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "9038357",
+      "value": "Riley"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "9048357",
+      "value": "Rosenberg"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "9058357",
+      "value": "Saipa"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "9068357",
+      "value": "Salmson"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "9078357",
+      "value": "Sterling"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "9088357",
+      "value": "Scion"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "9098357",
+      "value": "Smart"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "9108357",
+      "value": "Spectre"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "9118357",
+      "value": "Standard"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "9128357",
+      "value": "SSC"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "9148357",
+      "value": "Hennessey Performance"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "9158357",
+      "value": "Radical"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "9168357",
+      "value": "Rossion"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "70038337",
+      "value": "Citroën"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "70138337",
+      "value": "Renault"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "70238337",
+      "value": "Peugeot"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "70338337",
+      "value": "Lancia"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "70438337",
+      "value": "Opel"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "70538337",
+      "value": "Alpine"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "70638337",
+      "value": "Volvo"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "70738337",
+      "value": "Skoda"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "70838337",
+      "value": "Rover"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "70938337",
+      "value": "Fiat"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "71038337",
+      "value": "Saab"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "71138337",
+      "value": "Seat"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "71238337",
+      "value": "Matra"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "71338337",
+      "value": "Bizzarrini"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "71438337",
+      "value": "Vaz"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "71538337",
+      "value": "Rolls Royce"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "71638337",
+      "value": "Lada"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "71738337",
+      "value": "Trabant"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "71838337",
+      "value": "Melling"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "71938337",
+      "value": "Hummer"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "72038337",
+      "value": "Land Rover"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "72138337",
+      "value": "Mini"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "72238337",
+      "value": "Vauxhall"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "72338337",
+      "value": "Acura"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "72438337",
+      "value": "Dacia"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "72538337",
+      "value": "Smart"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "72638337",
+      "value": "Vector"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "72738337",
+      "value": "Gaz"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "72838337",
+      "value": "Ariel"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "72938337",
+      "value": "Buick"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "73038337",
+      "value": "Venturi"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "73138337",
+      "value": "Daihatsu"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "73238337",
+      "value": "Facel Vega"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "73338337",
+      "value": "Simca"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "73438337",
+      "value": "Abarth"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "73538337",
+      "value": "Alpina"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "73638337",
+      "value": "AMC"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "73738337",
+      "value": "Arash"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "73838337",
+      "value": "Internationnal"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "73938337",
+      "value": "Austin"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "74038337",
+      "value": "Austin Healey"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "74138337",
+      "value": "Auto Union"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "74238337",
+      "value": "Berliet"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "74338337",
+      "value": "BFG"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "74438337",
+      "value": "Bimota"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "74538337",
+      "value": "Buell"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "74638337",
+      "value": "CAT"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "74738337",
+      "value": "Claas"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "74838337",
+      "value": "Cord"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "74938337",
+      "value": "Daewoo"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "75038337",
+      "value": "Daimler"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "75138337",
+      "value": "Datsun"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "75238337",
+      "value": "Dauer"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "75338337",
+      "value": "Delage"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "75438337",
+      "value": "Delahaye"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "75538337",
+      "value": "DeTomaso"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "75638337",
+      "value": "Dino"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "75738337",
+      "value": "DMC"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "75838337",
+      "value": "Eagle"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "75938337",
+      "value": "Farbio"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "76038337",
+      "value": "Fendt"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "76138337",
+      "value": "Flandria"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "76238337",
+      "value": "Gemballa"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "76338337",
+      "value": "Gillet"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "76438337",
+      "value": "GM"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "76538337",
+      "value": "GMC"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "76638337",
+      "value": "Gumpert"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "76738337",
+      "value": "Harley Davidson"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "76838337",
+      "value": "Heuliez"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "76938337",
+      "value": "Hispano Suiza"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "77038337",
+      "value": "Hommell"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "77138337",
+      "value": "Hyosung"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "77238337",
+      "value": "Hyundai"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "77338337",
+      "value": "Isuzu"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "77438337",
+      "value": "Italdesign"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "77538337",
+      "value": "Iveco"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "77638337",
+      "value": "Jeep"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "77738337",
+      "value": "Jensen"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "77838337",
+      "value": "John Deere"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "77938337",
+      "value": "KIA"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "78038337",
+      "value": "KTM"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "78138337",
+      "value": "Landini"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "78238337",
+      "value": "Laverda"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "78338337",
+      "value": "Ligier"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "78438337",
+      "value": "Lincoln"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "78538337",
+      "value": "Marcos"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "78638337",
+      "value": "Massey Ferguson"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "78738337",
+      "value": "Maybach"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "78838337",
+      "value": "McCormick"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "78938337",
+      "value": "Mercury"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "79038337",
+      "value": "Morgan"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "79138337",
+      "value": "Morini"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "79238337",
+      "value": "Morris"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "79338337",
+      "value": "Mosler"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "79438337",
+      "value": "Motobecane"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "79538337",
+      "value": "Moto Guzzi"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "79638337",
+      "value": "New Holland"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "79738337",
+      "value": "Oldsmobile"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "79838337",
+      "value": "Panhard"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "79938337",
+      "value": "Proton"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "80038337",
+      "value": "Rene Bonnet"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "80138337",
+      "value": "Royal Enfield"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "80238337",
+      "value": "Same"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "80338337",
+      "value": "Sbarro"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "80438337",
+      "value": "Scania"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "80538337",
+      "value": "ShuanGhuan"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "80638337",
+      "value": "Someca"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "80738337",
+      "value": "SSangYong"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "80838337",
+      "value": "Talbot"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "80938337",
+      "value": "Tata"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "81038337",
+      "value": "Tesla"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "81138337",
+      "value": "TGB"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "81238337",
+      "value": "Vespa"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "81338337",
+      "value": "Zastava"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "81438337",
+      "value": "Case"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "81538337",
+      "value": "Zaz"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "81638337",
+      "value": "AMCA"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "81738337",
+      "value": "Arista"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "81838337",
+      "value": "Aixam"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "81938337",
+      "value": "Allard"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "82038337",
+      "value": "Alvis"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "82138337",
+      "value": "Amilcar"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "82238337",
+      "value": "Zil"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "82338337",
+      "value": "WSK"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "82438337",
+      "value": "ARO"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "82538337",
+      "value": "ASA"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "82638337",
+      "value": "Auburn"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "82738337",
+      "value": "Austin Healey"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "82838337",
+      "value": "Austin Rover"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "82938337",
+      "value": "Autobianchi"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "83038337",
+      "value": "Avanti"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "83138337",
+      "value": "Bajaj"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "83238337",
+      "value": "Ballot"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "83338337",
+      "value": "Bertone"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "83438337",
+      "value": "Wolseley"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "83538337",
+      "value": "Bitter"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "83638337",
+      "value": "Bogward"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "83738337",
+      "value": "Bristol"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "83838337",
+      "value": "Western"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "83938337",
+      "value": "BSA"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "84038337",
+      "value": "Bultaco"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "84138337",
+      "value": "Cizeta"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "84238337",
+      "value": "Cooper"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "84338337",
+      "value": "Corre La Licorne"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "84438337",
+      "value": "Coste"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "84538337",
+      "value": "DAF"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "84638337",
+      "value": "Wartburg"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "84738337",
+      "value": "Voxan"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "84838337",
+      "value": "DeSoto"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "84938337",
+      "value": "DKW"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "85038337",
+      "value": "Donkervoort"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "85138337",
+      "value": "Voisin"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "85238337",
+      "value": "Duesenberg"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "85338337",
+      "value": "Trabant"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "85438337",
+      "value": "Edsel"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "85538337",
+      "value": "Elva"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "85638337",
+      "value": "FN"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "85738337",
+      "value": "Gaz"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "85838337",
+      "value": "Geely"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "85938337",
+      "value": "Geo"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "86038337",
+      "value": "Ginetta"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "86138337",
+      "value": "Gordini"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "86238337",
+      "value": "Hillman"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "86338337",
+      "value": "Hindustan"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "86438337",
+      "value": "Hodaka"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "86538337",
+      "value": "Hudson"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "86638337",
+      "value": "Tornado"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "86738337",
+      "value": "Iso"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "86838337",
+      "value": "Josse"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "86938337",
+      "value": "Kaiser"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "87038337",
+      "value": "Terrot"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "87138337",
+      "value": "Lagonda"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "87238337",
+      "value": "Lightning"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "87338337",
+      "value": "Lola"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "87438337",
+      "value": "Lotec"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "87538337",
+      "value": "Luaz"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "87638337",
+      "value": "MCV"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "87738337",
+      "value": "Mega"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "87838337",
+      "value": "Messerschmitt"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "87938337",
+      "value": "MG"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "88038337",
+      "value": "Monica"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "88138337",
+      "value": "Monteverdi"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "88238337",
+      "value": "Moretti"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "88338337",
+      "value": "Moskvitch"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "88438337",
+      "value": "Tatra"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "88538337",
+      "value": "Nash"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "88638337",
+      "value": "Norton"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "88738337",
+      "value": "NSU"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "88838337",
+      "value": "Sunbeam"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "88938337",
+      "value": "Osca"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "89038337",
+      "value": "Packhard"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "89138337",
+      "value": "Panoz"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "89238337",
+      "value": "Pegaso"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "89338337",
+      "value": "Pierce Arrow"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "89438337",
+      "value": "Stutz"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "89538337",
+      "value": "Premier"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "89638337",
+      "value": "Puch"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "89738337",
+      "value": "Puma"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "89838337",
+      "value": "Purvis"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "89938337",
+      "value": "Quantum"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "90038337",
+      "value": "Qvale"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "90138337",
+      "value": "Reliant"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "90238337",
+      "value": "Studebaker"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "90338337",
+      "value": "Riley"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "90438337",
+      "value": "Rosenberg"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "90538337",
+      "value": "Saipa"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "90638337",
+      "value": "Salmson"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "90738337",
+      "value": "Sterling"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "90838337",
+      "value": "Scion"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "90938337",
+      "value": "Smart"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "91038337",
+      "value": "Spectre"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "91138337",
+      "value": "Standard"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "91238337",
+      "value": "SSC"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "91438337",
+      "value": "Hennessey Performance"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "91538337",
+      "value": "Radical"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "91638337",
+      "value": "Rossion"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "153438337",
+      "value": "Caterham 1990"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "153638337",
+      "value": "Nissan 1970"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "153838337",
+      "value": "Triumph 1934"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "154438337",
+      "value": "Chevrolet 1970"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "154738337",
+      "value": "Toyota 1960"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "154838337",
+      "value": "Yamaha Red"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "155438337",
+      "value": "Chrysler 1950"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "156338337",
+      "value": "Alfa Romeo 1946"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "156638337",
+      "value": "Plymouth 1940"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "158338337",
+      "value": "Aston Martin 1920"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "158738337",
+      "value": "Ducati 1970"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "159438337",
+      "value": "Ferrari 1950"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "159538337",
+      "value": "Mazda 1968"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "160638337",
+      "value": "Shelby 1960"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "160738337",
+      "value": "Kawasaki Green"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "161438337",
+      "value": "Honda Bike"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "161538337",
+      "value": "Mercedes-Benz 1920"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "170038337",
+      "value": "Citroen 1914"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "170138337",
+      "value": "Renault 1946"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "170238337",
+      "value": "Peugeot 1936"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "170338337",
+      "value": "Lancia 1990"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "170438337",
+      "value": "Opel 1937"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "170538337",
+      "value": "Alpine 1960"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "170938337",
+      "value": "Fiat 1938"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "171138337",
+      "value": "Seat 1980"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "171238337",
+      "value": "Matra 1960"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "171338337",
+      "value": "Bizzarinni 1960"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "172238337",
+      "value": "Vauxhall 1930"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "172438337",
+      "value": "Dacia 1930"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "172938337",
+      "value": "Buick 1990"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "173438337",
+      "value": "Abarth 1960"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "173638337",
+      "value": "AMC 1950"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "174038337",
+      "value": "Austin Healey 1930"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "174538337",
+      "value": "Buell 1990"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "174938337",
+      "value": "Daewoo 1990"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "175138337",
+      "value": "Datsun 1930"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "175338337",
+      "value": "Delage 1920"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "175838337",
+      "value": "Eagle 1960"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "178238337",
+      "value": "Laverda 1960"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "178338337",
+      "value": "Ligier 1960"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "178438337",
+      "value": "Lincoln 1930"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "179038337",
+      "value": "Morgan 1960"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "179238337",
+      "value": "Morris 1930"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "179438337",
+      "value": "Motobecane 1960"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "179738337",
+      "value": "Oldsmobile 1930"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "180038337",
+      "value": "Rene Bonnet 1930"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "180138337",
+      "value": "Royal Enfield 1930"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "180738337",
+      "value": "SsangYong 1980"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "180838337",
+      "value": "Talbot 1930"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "181338337",
+      "value": "Zastava 1960"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "181538337",
+      "value": "Zaz 1961"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "182138337",
+      "value": "Amilcar 1930"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "183338337",
+      "value": "Bertone 1930"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "183738337",
+      "value": "Bristol 1930"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "184538337",
+      "value": "DAF 1950"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "185238337",
+      "value": "Duesenberg 1920"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "185338337",
+      "value": "Trabant 1980"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "187038337",
+      "value": "Terrot 1930"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "188338337",
+      "value": "Moskvitch 1940"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "188838337",
+      "value": "Sunbeam 1930"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "189338337",
+      "value": "Pierce Arrow 1930"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "189438337",
+      "value": "Stutz 1940"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "190238337",
+      "value": "Studebaker 1912"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "190638337",
+      "value": "Salmson 1930"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "190738337",
+      "value": "Sterling 1930"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "253838337",
+      "value": "Triumph 1960"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "255438337",
+      "value": "Chrysler 1990"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "258338337",
+      "value": "Aston Martin 1947"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "259538337",
+      "value": "Mazda 1991"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "261538337",
+      "value": "Mercedes-Benz 1930"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "270038337",
+      "value": "Citroen 1960"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "270138337",
+      "value": "Renault 1972"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "270238337",
+      "value": "Peugeot 1950"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "270438337",
+      "value": "Opel 1947"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "270538337",
+      "value": "Alpine 1970"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "270938337",
+      "value": "Fiat 1959"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "271238337",
+      "value": "Matra 1970"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "272238337",
+      "value": "Vauxhall 1970"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "272438337",
+      "value": "Dacia 1990"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "281338337",
+      "value": "Zastava 1960"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "281538337",
+      "value": "Zaz 1970"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "282138337",
+      "value": "Amilcar 1950"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "284538337",
+      "value": "DAF 1960"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "289438337",
+      "value": "Stutz 1960"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "358338337",
+      "value": "Aston Martin 1984"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "361538337",
+      "value": "Mercedes-Benz 1940"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "370038337",
+      "value": "Citroen 1980"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "370138337",
+      "value": "Renault 1992"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "370238337",
+      "value": "Peugeot 1960"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "370438337",
+      "value": "Opel 1954"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "370938337",
+      "value": "Fiat 1965"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "372238337",
+      "value": "Vauxhall 2000"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "381538337",
+      "value": "Zaz 1980"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "461538337",
+      "value": "Mercedes-Benz 1950"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "470238337",
+      "value": "Peugeot 1965"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "470438337",
+      "value": "Opel 1964"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "470938337",
+      "value": "Fiat 1968"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "570238337",
+      "value": "Peugeot 1980"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "570938337",
+      "value": "Fiat 1991"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "670238337",
+      "value": "Peugeot 1995"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "BRANDS",
+      "ref": "670938337",
+      "value": "Fiat 1999"
+    }
+  ],
+  "comment": "BRANDS"
+}
