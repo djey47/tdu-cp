@@ -2,6 +2,254 @@
   "changes": [
     {
       "type": "DELETE",
+      "topic": "CLOTHES",
+      "ref": "765627"
+    },
+    {
+      "type": "DELETE",
+      "topic": "CLOTHES",
+      "ref": "768550"
+    },
+    {
+      "type": "DELETE",
+      "topic": "PNJ",
+      "filter": [
+        {
+          "rank": 1,
+          "value": "1128652269"
+        },
+        {
+          "rank": 2,
+          "value": "55966256"
+        }
+      ]
+    },
+    {
+      "type": "DELETE",
+      "topic": "PNJ",
+      "filter": [
+        {
+          "rank": 1,
+          "value": "1128652269"
+        },
+        {
+          "rank": 2,
+          "value": "55966256"
+        }
+      ]
+    },
+    {
+      "type": "DELETE",
+      "topic": "PNJ",
+      "filter": [
+        {
+          "rank": 1,
+          "value": "1128652270"
+        },
+        {
+          "rank": 2,
+          "value": "56966256"
+        }
+      ]
+    },
+    {
+      "type": "DELETE",
+      "topic": "PNJ",
+      "filter": [
+        {
+          "rank": 1,
+          "value": "1128652270"
+        },
+        {
+          "rank": 2,
+          "value": "56066256"
+        }
+      ]
+    },
+    {
+      "type": "DELETE",
+      "topic": "PNJ",
+      "filter": [
+        {
+          "rank": 1,
+          "value": "1128652271"
+        },
+        {
+          "rank": 2,
+          "value": "57966256"
+        }
+      ]
+    },
+    {
+      "type": "DELETE",
+      "topic": "PNJ",
+      "filter": [
+        {
+          "rank": 1,
+          "value": "1128652272"
+        },
+        {
+          "rank": 2,
+          "value": "58966256"
+        }
+      ]
+    },
+    {
+      "type": "DELETE",
+      "topic": "PNJ",
+      "filter": [
+        {
+          "rank": 1,
+          "value": "1128652273"
+        },
+        {
+          "rank": 2,
+          "value": "59966256"
+        }
+      ]
+    },
+    {
+      "type": "DELETE",
+      "topic": "PNJ",
+      "filter": [
+        {
+          "rank": 1,
+          "value": "1128652274"
+        },
+        {
+          "rank": 2,
+          "value": "60966256"
+        }
+      ]
+    },
+    {
+      "type": "DELETE",
+      "topic": "PNJ",
+      "filter": [
+        {
+          "rank": 1,
+          "value": "1128652275"
+        },
+        {
+          "rank": 2,
+          "value": "61966256"
+        }
+      ]
+    },
+    {
+      "type": "DELETE",
+      "topic": "PNJ",
+      "filter": [
+        {
+          "rank": 1,
+          "value": "1128652276"
+        },
+        {
+          "rank": 2,
+          "value": "62966256"
+        }
+      ]
+    },
+    {
+      "type": "DELETE",
+      "topic": "PNJ",
+      "filter": [
+        {
+          "rank": 1,
+          "value": "1128652277"
+        },
+        {
+          "rank": 2,
+          "value": "54066256"
+        }
+      ]
+    },
+    {
+      "type": "DELETE",
+      "topic": "PNJ",
+      "filter": [
+        {
+          "rank": 1,
+          "value": "1205655002"
+        },
+        {
+          "rank": 2,
+          "value": "55666256"
+        }
+      ]
+    },
+    {
+      "type": "DELETE",
+      "topic": "PNJ",
+      "filter": [
+        {
+          "rank": 1,
+          "value": "1205655003"
+        },
+        {
+          "rank": 2,
+          "value": "56666256"
+        }
+      ]
+    },
+    {
+      "type": "DELETE",
+      "topic": "PNJ",
+      "filter": [
+        {
+          "rank": 1,
+          "value": "1205655003"
+        },
+        {
+          "rank": 2,
+          "value": "55766256"
+        }
+      ]
+    },
+    {
+      "type": "DELETE",
+      "topic": "PNJ",
+      "filter": [
+        {
+          "rank": 1,
+          "value": "1205655004"
+        },
+        {
+          "rank": 2,
+          "value": "57666256"
+        }
+      ]
+    },
+    {
+      "type": "DELETE",
+      "topic": "PNJ",
+      "filter": [
+        {
+          "rank": 1,
+          "value": "1205655004"
+        },
+        {
+          "rank": 2,
+          "value": "56766256"
+        }
+      ]
+    },
+    {
+      "type": "DELETE",
+      "topic": "PNJ",
+      "filter": [
+        {
+          "rank": 1,
+          "value": "1205655004"
+        },
+        {
+          "rank": 2,
+          "value": "55866256"
+        }
+      ]
+    },
+    {
+      "type": "DELETE",
       "topic": "RIMS",
       "filter": [
         {
