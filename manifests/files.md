@@ -463,4 +463,8 @@
 
 ## REMOVED files
 
-None.
+ - **Euro\Bnk\Database**
+
+   - *carData.mdb* [new slots]
+
+   - *VehicleSlots.xml* [new slots]

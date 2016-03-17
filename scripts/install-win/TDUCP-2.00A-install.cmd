@@ -39,7 +39,8 @@ CALL .\CheckJava.cmd
 CALL .\SetVersion.cmd
 ECHO.
 
-REM ECHO .Patching game files, please wait...
+
+ECHO .Patching game files, please wait...
 
 REM TODO find packed paths
 REM TODO use batch replace feature from TDUMT-CLI
@@ -53,14 +54,19 @@ CALL %TDUMTCLI_EXE% BANK-R %BANKS_DIR%\FrontEnd\AllRes\LogoTexturePage.bnk ??? %
 CALL %TDUMTCLI_EXE% BANK-R %BANKS_DIR%\Level\Hawai\CommonWorld.bnk ??? %INSTALLER_FILES_DIR%\Library.3DD
 CALL %TDUMTCLI_EXE% BANK-R %BANKS_DIR%\Level\Hawai\CommonWorldDiv2.bnk ??? %INSTALLER_FILES_DIR%\Library.3DD
 
-
-REM ECHO.
+ECHO.
 
 ECHO .Patching database, please wait...
 CALL .\DatabaseTool.cmd unpack-all -d "%DATABASE_DIR%" -j "%JSON_DATABASE_DIR%"
 CALL .\DatabaseTool.cmd apply-patches -j "%JSON_DATABASE_DIR%" -o "%JSON_DATABASE_DIR%" -p "%START_DIR%\TDUCP-2.00A-installer\database\patches"
 CALL .\DatabaseTool.cmd repack-all -j "%JSON_DATABASE_DIR%" -o "%DATABASE_DIR%"
 ECHO.
+
+ECHO .Cleaning, please wait...
+DEL %DATABASE_DIR%\carData.mdb
+DEL %DATABASE_DIR%\VehicleSlots.xml
+ECHO.
+
 
 ECHO .All done!
 ECHO.
