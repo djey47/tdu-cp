@@ -20,8 +20,10 @@ ECHO UAC.ShellExecute "!batchPath!", "ELEV", "", "runas", 1 >> "%temp%\OEgetPriv
 exit /B
 
 :gotPrivileges
-SET DATABASE_DIR=%START_DIR%\Euro\Bnk\Database
+SET BANKS_DIR=%START_DIR%\Euro\Bnk
+SET DATABASE_DIR=%BANKS_DIR%\Database
 SET JSON_DATABASE_DIR=%START_DIR%\TDUCP-2.00A-installer\database\current
+SET INSTALLER_FILES_DIR=%START_DIR%\TDUCP-2.00A-installer\files
 SET TDUMTCLI_EXE=%START_DIR%\TDUCP-2.00A-installer\tduf\tools\tdumt-cli\tdumt-cli.exe
 
 CD /D %START_DIR%
@@ -38,7 +40,20 @@ CALL .\SetVersion.cmd
 ECHO.
 
 REM ECHO .Patching game files, please wait...
-REM CALL %TDUMTCLI_EXE%
+
+REM TODO find packed paths
+REM TODO use batch replace feature from TDUMT-CLI
+
+CALL %TDUMTCLI_EXE% BANK-R %BANKS_DIR%\FrontEnd\HiRes\LOG_IN.bnk ??? %INSTALLER_FILES_DIR%\textures-high\fla_0013.2db
+CALL %TDUMTCLI_EXE% BANK-R %BANKS_DIR%\FrontEnd\LowRes\LOG_IN.bnk ??? %INSTALLER_FILES_DIR%\textures-low\fla_0013.2db
+
+CALL %TDUMTCLI_EXE% BANK-R %BANKS_DIR%\FrontEnd\AllRes\LogoTexturePage.bnk ??? %INSTALLER_FILES_DIR%\textures-high\icons_map.2db
+CALL %TDUMTCLI_EXE% BANK-R %BANKS_DIR%\FrontEnd\AllRes\LogoTexturePage.bnk ??? %INSTALLER_FILES_DIR%\textures-high\logos_brands.2db
+
+CALL %TDUMTCLI_EXE% BANK-R %BANKS_DIR%\Level\Hawai\CommonWorld.bnk ??? %INSTALLER_FILES_DIR%\Library.3DD
+CALL %TDUMTCLI_EXE% BANK-R %BANKS_DIR%\Level\Hawai\CommonWorldDiv2.bnk ??? %INSTALLER_FILES_DIR%\Library.3DD
+
+
 REM ECHO.
 
 ECHO .Patching database, please wait...

@@ -2,78 +2,22 @@
 #set -x
 
 # Prepares packaging of Community Patch: FULL VERSION
-# Does not include all files yet (to be copied manually to BUILD PATH before launching script).
 
 source ../setEnv.sh
+source ./util/init.sh
+source ./util/files.sh
+source ./util/database.sh
 
 # Init
-echo "*** Preparing directories... ***"
-mkdir -p ${BUILD_PATH}
-mkdir -p ${BUILD_DB_PATH}
-mkdir -p ${BUILD_FX_PATH}
-mkdir -p ${RELEASE_PATH}
-echo
+makeDirectories
 
-# Manifests
-echo "*** Manifests... ***"
-cp ${TDUCP_PATH}/manifests/*.md ${BUILD_PATH}
-echo
-
-# Unlocked slot files
-echo "*** Unlocked slots files... ***"
-cd ../slots/unlocked
-./createFiles.sh
-cd - > /dev/null
-echo
-
-# New slot files
-echo "*** New slots files... ***"
-cd ../slots/new
-./createFiles.sh
-cd - > /dev/null
-echo
-
-# Own rims files
-echo "*** Own rims files... ***"
-cd ../slots/rims
-./createFiles.sh
-cd - > /dev/null
-echo
-
-# Generate mapping
-echo "*** Bnk1.map... ***"
-cd ../mapping/
-./generateCurrent.sh
-cd - > /dev/null
-echo
-
-# References
-echo "*** References... ***"
-mkdir -p ${BUILD_TOOLS_PATH}
-cp ${TDUCP_PATH}/resources/physics/tdumt/VehicleSlots.xml ${BUILD_TOOLS_PATH}
-cp ${TDUCP_PATH}/resources/physics/tdupe/carData.mdb ${BUILD_TOOLS_PATH}
-echo
+#Files
+newFiles
+replacedFiles
+generateMapping
 
 # Database
-echo "*** Database... ***"
-cd ../database/
-./generateCurrent.sh && ./checkBuild.sh
-cd - > /dev/null
-echo
-
-# G27 fix
-echo "*** G27 fix... ***"
-cp ${TDUCP_PATH}/resources/system/LeanSpeeder-G27-fix/dinput8.dll ${BUILD_PATH}
-
-
-# HD Patch
-echo "*** HD Patch (SD mode)... ***"
-unzip -o ${TDUCP_PATH}/resources/system/2CV-patch-hd/FX.ini.hd.zip -d ${BUILD_FX_PATH}
-
-# Other files
-echo "*** Other contents ***"
-echo "Consider adding remaining features manually."
-echo
+generateAndCheckDatabase
 
 #Zip
 #echo "*** Zipping... ***"
