@@ -41,18 +41,17 @@ ECHO.
 
 
 ECHO .Patching game files, please wait...
+SET PACKED_PATH="D:\Eden-Prog\Games\TestDrive\Resources\4Build\PC\\EURO\FrontEnd\LOG_IN\.2db\fla_0013"
+CALL %TDUMTCLI_EXE% BANK-R "%BANKS_DIR%\FrontEnd\HiRes\LOG_IN.bnk" %PACKED_PATH% "%INSTALLER_FILES_DIR%\textures-high\fla_0013.2db"
+CALL %TDUMTCLI_EXE% BANK-R "%BANKS_DIR%\FrontEnd\LowRes\LOG_IN.bnk" %PACKED_PATH% "%INSTALLER_FILES_DIR%\textures-low\fla_0013.2db"
 
-REM TODO find packed paths
-REM TODO use batch replace feature from TDUMT-CLI
+COPY %INSTALLER_FILES_DIR%\textures-high\icons_map.2db %TEMP%
+COPY %INSTALLER_FILES_DIR%\textures-high\logos_brands.2db %TEMP%
+CALL %TDUMTCLI_EXE% BANK-RX "%BANKS_DIR%\FrontEnd\AllRes\LogoTexturePage.bnk" banksReplace_LOGO_TEX.json
 
-CALL %TDUMTCLI_EXE% BANK-R %BANKS_DIR%\FrontEnd\HiRes\LOG_IN.bnk ??? %INSTALLER_FILES_DIR%\textures-high\fla_0013.2db
-CALL %TDUMTCLI_EXE% BANK-R %BANKS_DIR%\FrontEnd\LowRes\LOG_IN.bnk ??? %INSTALLER_FILES_DIR%\textures-low\fla_0013.2db
-
-CALL %TDUMTCLI_EXE% BANK-R %BANKS_DIR%\FrontEnd\AllRes\LogoTexturePage.bnk ??? %INSTALLER_FILES_DIR%\textures-high\icons_map.2db
-CALL %TDUMTCLI_EXE% BANK-R %BANKS_DIR%\FrontEnd\AllRes\LogoTexturePage.bnk ??? %INSTALLER_FILES_DIR%\textures-high\logos_brands.2db
-
-CALL %TDUMTCLI_EXE% BANK-R %BANKS_DIR%\Level\Hawai\CommonWorld.bnk ??? %INSTALLER_FILES_DIR%\Library.3DD
-CALL %TDUMTCLI_EXE% BANK-R %BANKS_DIR%\Level\Hawai\CommonWorldDiv2.bnk ??? %INSTALLER_FILES_DIR%\Library.3DD
+SET PACKED_PATH="D:\Eden-Prog\Games\TestDrive\Resources\4Build\PC\EURO\Level\Hawai\Common\Library\.3DD\Library"
+CALL %TDUMTCLI_EXE% BANK-R "%BANKS_DIR%\Level\Hawai\CommonWorld.bnk" %PACKED_PATH% "%INSTALLER_FILES_DIR%\Library.3DD"
+CALL %TDUMTCLI_EXE% BANK-R "%BANKS_DIR%\Level\Hawai\CommonWorldDiv2.bnk" %PACKED_PATH% "%INSTALLER_FILES_DIR%\Library.3DD"
 
 ECHO.
 
