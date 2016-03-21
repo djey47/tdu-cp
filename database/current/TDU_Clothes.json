@@ -15557,83 +15557,6 @@
         "items": [
           {
             "name": "REF_",
-            "rawValue": "765627",
-            "fieldRank": 1
-          },
-          {
-            "name": "File_",
-            "rawValue": "558740827",
-            "fieldRank": 2
-          },
-          {
-            "name": "ID_Num_",
-            "rawValue": "1158",
-            "fieldRank": 3
-          },
-          {
-            "name": "Price_dollar",
-            "rawValue": "99",
-            "fieldRank": 4
-          },
-          {
-            "name": "Brand_",
-            "rawValue": "92522758",
-            "fieldRank": 5
-          },
-          {
-            "name": "ClotheName_",
-            "rawValue": "5966727",
-            "fieldRank": 6
-          },
-          {
-            "name": "Sex_",
-            "rawValue": "55758127",
-            "fieldRank": 7
-          },
-          {
-            "name": "DrivingType_",
-            "rawValue": "918999438",
-            "fieldRank": 8
-          },
-          {
-            "name": "Lenght_",
-            "rawValue": "5857427",
-            "fieldRank": 9
-          },
-          {
-            "name": "PartType_",
-            "rawValue": "5572827",
-            "fieldRank": 10
-          },
-          {
-            "name": "Size_",
-            "rawValue": "545882127",
-            "fieldRank": 11
-          },
-          {
-            "name": "Nb_Colors",
-            "rawValue": "1",
-            "fieldRank": 12
-          },
-          {
-            "name": "BitField",
-            "rawValue": "0",
-            "switchValues": [
-              {
-                "index": 1,
-                "name": "?",
-                "enabled": false
-              }
-            ],
-            "fieldRank": 13
-          }
-        ]
-      },
-      {
-        "id": 202,
-        "items": [
-          {
-            "name": "REF_",
             "rawValue": "767925",
             "fieldRank": 1
           },
@@ -15707,84 +15630,7 @@
         ]
       },
       {
-        "id": 203,
-        "items": [
-          {
-            "name": "REF_",
-            "rawValue": "768550",
-            "fieldRank": 1
-          },
-          {
-            "name": "File_",
-            "rawValue": "578740827",
-            "fieldRank": 2
-          },
-          {
-            "name": "ID_Num_",
-            "rawValue": "1157",
-            "fieldRank": 3
-          },
-          {
-            "name": "Price_dollar",
-            "rawValue": "99",
-            "fieldRank": 4
-          },
-          {
-            "name": "Brand_",
-            "rawValue": "92522758",
-            "fieldRank": 5
-          },
-          {
-            "name": "ClotheName_",
-            "rawValue": "5966727",
-            "fieldRank": 6
-          },
-          {
-            "name": "Sex_",
-            "rawValue": "55758127",
-            "fieldRank": 7
-          },
-          {
-            "name": "DrivingType_",
-            "rawValue": "918999438",
-            "fieldRank": 8
-          },
-          {
-            "name": "Lenght_",
-            "rawValue": "5857427",
-            "fieldRank": 9
-          },
-          {
-            "name": "PartType_",
-            "rawValue": "5572827",
-            "fieldRank": 10
-          },
-          {
-            "name": "Size_",
-            "rawValue": "545882127",
-            "fieldRank": 11
-          },
-          {
-            "name": "Nb_Colors",
-            "rawValue": "1",
-            "fieldRank": 12
-          },
-          {
-            "name": "BitField",
-            "rawValue": "0",
-            "switchValues": [
-              {
-                "index": 1,
-                "name": "?",
-                "enabled": false
-              }
-            ],
-            "fieldRank": 13
-          }
-        ]
-      },
-      {
-        "id": 204,
+        "id": 202,
         "items": [
           {
             "name": "REF_",
@@ -15861,7 +15707,7 @@
         ]
       },
       {
-        "id": 205,
+        "id": 203,
         "items": [
           {
             "name": "REF_",
@@ -15938,7 +15784,7 @@
         ]
       },
       {
-        "id": 206,
+        "id": 204,
         "items": [
           {
             "name": "REF_",
@@ -16015,7 +15861,7 @@
         ]
       },
       {
-        "id": 207,
+        "id": 205,
         "items": [
           {
             "name": "REF_",
@@ -16092,7 +15938,7 @@
         ]
       },
       {
-        "id": 208,
+        "id": 206,
         "items": [
           {
             "name": "REF_",
@@ -16169,7 +16015,7 @@
         ]
       },
       {
-        "id": 209,
+        "id": 207,
         "items": [
           {
             "name": "REF_",
@@ -16246,7 +16092,7 @@
         ]
       },
       {
-        "id": 210,
+        "id": 208,
         "items": [
           {
             "name": "REF_",
@@ -16323,7 +16169,7 @@
         ]
       },
       {
-        "id": 211,
+        "id": 209,
         "items": [
           {
             "name": "REF_",
@@ -16400,7 +16246,7 @@
         ]
       },
       {
-        "id": 212,
+        "id": 210,
         "items": [
           {
             "name": "REF_",
@@ -16477,7 +16323,7 @@
         ]
       },
       {
-        "id": 213,
+        "id": 211,
         "items": [
           {
             "name": "REF_",
@@ -16554,7 +16400,7 @@
         ]
       },
       {
-        "id": 214,
+        "id": 212,
         "items": [
           {
             "name": "REF_",
@@ -16631,7 +16477,7 @@
         ]
       },
       {
-        "id": 215,
+        "id": 213,
         "items": [
           {
             "name": "REF_",
@@ -16708,7 +16554,7 @@
         ]
       },
       {
-        "id": 216,
+        "id": 214,
         "items": [
           {
             "name": "REF_",
@@ -16785,7 +16631,7 @@
         ]
       },
       {
-        "id": 217,
+        "id": 215,
         "items": [
           {
             "name": "REF_",
@@ -16862,7 +16708,7 @@
         ]
       },
       {
-        "id": 218,
+        "id": 216,
         "items": [
           {
             "name": "REF_",
@@ -16939,7 +16785,7 @@
         ]
       },
       {
-        "id": 219,
+        "id": 217,
         "items": [
           {
             "name": "REF_",
@@ -17016,7 +16862,7 @@
         ]
       },
       {
-        "id": 220,
+        "id": 218,
         "items": [
           {
             "name": "REF_",
@@ -17093,7 +16939,7 @@
         ]
       },
       {
-        "id": 221,
+        "id": 219,
         "items": [
           {
             "name": "REF_",
@@ -17170,7 +17016,7 @@
         ]
       },
       {
-        "id": 222,
+        "id": 220,
         "items": [
           {
             "name": "REF_",
@@ -17247,7 +17093,7 @@
         ]
       },
       {
-        "id": 223,
+        "id": 221,
         "items": [
           {
             "name": "REF_",
@@ -17324,7 +17170,7 @@
         ]
       },
       {
-        "id": 224,
+        "id": 222,
         "items": [
           {
             "name": "REF_",
@@ -17401,7 +17247,7 @@
         ]
       },
       {
-        "id": 225,
+        "id": 223,
         "items": [
           {
             "name": "REF_",
@@ -17478,7 +17324,7 @@
         ]
       },
       {
-        "id": 226,
+        "id": 224,
         "items": [
           {
             "name": "REF_",
@@ -17555,7 +17401,7 @@
         ]
       },
       {
-        "id": 227,
+        "id": 225,
         "items": [
           {
             "name": "REF_",
@@ -17632,7 +17478,7 @@
         ]
       },
       {
-        "id": 228,
+        "id": 226,
         "items": [
           {
             "name": "REF_",
@@ -17709,7 +17555,7 @@
         ]
       },
       {
-        "id": 229,
+        "id": 227,
         "items": [
           {
             "name": "REF_",
@@ -17786,7 +17632,7 @@
         ]
       },
       {
-        "id": 230,
+        "id": 228,
         "items": [
           {
             "name": "REF_",
@@ -17863,7 +17709,7 @@
         ]
       },
       {
-        "id": 231,
+        "id": 229,
         "items": [
           {
             "name": "REF_",
@@ -17940,7 +17786,7 @@
         ]
       },
       {
-        "id": 232,
+        "id": 230,
         "items": [
           {
             "name": "REF_",
@@ -18017,7 +17863,7 @@
         ]
       },
       {
-        "id": 233,
+        "id": 231,
         "items": [
           {
             "name": "REF_",
@@ -18094,7 +17940,7 @@
         ]
       },
       {
-        "id": 234,
+        "id": 232,
         "items": [
           {
             "name": "REF_",
@@ -18171,7 +18017,7 @@
         ]
       },
       {
-        "id": 235,
+        "id": 233,
         "items": [
           {
             "name": "REF_",
@@ -18248,7 +18094,7 @@
         ]
       },
       {
-        "id": 236,
+        "id": 234,
         "items": [
           {
             "name": "REF_",
@@ -18325,7 +18171,7 @@
         ]
       },
       {
-        "id": 237,
+        "id": 235,
         "items": [
           {
             "name": "REF_",
@@ -18402,7 +18248,7 @@
         ]
       },
       {
-        "id": 238,
+        "id": 236,
         "items": [
           {
             "name": "REF_",
@@ -18479,7 +18325,7 @@
         ]
       },
       {
-        "id": 239,
+        "id": 237,
         "items": [
           {
             "name": "REF_",
@@ -18556,7 +18402,7 @@
         ]
       },
       {
-        "id": 240,
+        "id": 238,
         "items": [
           {
             "name": "REF_",
@@ -18633,7 +18479,7 @@
         ]
       },
       {
-        "id": 241,
+        "id": 239,
         "items": [
           {
             "name": "REF_",
@@ -18710,7 +18556,7 @@
         ]
       },
       {
-        "id": 242,
+        "id": 240,
         "items": [
           {
             "name": "REF_",
@@ -18787,7 +18633,7 @@
         ]
       },
       {
-        "id": 243,
+        "id": 241,
         "items": [
           {
             "name": "REF_",
@@ -18864,7 +18710,7 @@
         ]
       },
       {
-        "id": 244,
+        "id": 242,
         "items": [
           {
             "name": "REF_",
