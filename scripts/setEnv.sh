@@ -14,7 +14,7 @@ export BUILD_PATCH_VERSION=2.00A
 export TDUF_VERSION=`cat ${TDUF_PATH}/lib/version.info`
 
 CURRENT_PATH=`readlink -f $BASH_SOURCE`
-SCRIPTS_PATH=`dirname ${CURRENT_PATH}`
+export SCRIPTS_PATH=`dirname ${CURRENT_PATH}`
 export TDUCP_PATH=`dirname ${SCRIPTS_PATH}`
 
 export RELEASE_PATH=${TDUCP_PATH}/workspace/releases
