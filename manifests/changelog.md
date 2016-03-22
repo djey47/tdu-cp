@@ -5,13 +5,24 @@
 
 ## Features
 
-- Moves updated TDUMT's **VehicleSlots.xml** file to make above slots appear under TDUMT
-- Moves updated TDUPE's **carData.mdb** file to make above slots appear under TDUPE.
+- Now proposes 2 Zip files to download:
+
+    - **Full** version, to install onto a freshly installed game
+    
+    - **Update** version, to apply to an already modified game. Contains most of the features (see list below).
+
+- Moves updated TDUMT's **VehicleSlots.xml** file
+- Moves updated TDUPE's **carData.mdb** file
 (check **tools** directory)
+
+- Unlocked/new slots have been removed from OahuCars dealers. Now locating vehicles is up to you !
 
 
 ## Bugfixes
 
+- Adds missing rims and huds in TDUPE reference
+- Fixes new slots can't be saved in TDUPE
+- Removes some database duplicates
 
 
 ## Known Bugs
@@ -28,15 +39,13 @@ You tell me!
 - Includes official MagicMap
 - Maximize number of vehicles on every car dealer
 - Unlocks tuning kits for Ferrari F40
-- Special tuned cars available in tuners (Alfa GT SP, ...)
+- Special tuned cars available in tuners (Alfa GT SP, ...) [FULL PACKAGE ONLY]
 - Provides new rim names for many mods (Bugatti Atlantic, Facel Vega...)
 - Unlocks Car Paint Deluxe for all cars
 - Adds new bots driving megapack vehicles
 - Adds 3 new brands: Hennessey Performance, Radical, Rossion
 - Gives bike-clothes for cars, car-clothes for bikes
-- Unlocks 29 car slots (check them out at Oahu Cars/Bikes):
- 
-[OC-Honolulu Downtown]
+- Unlocks 29 car slots:
     - Aston Martin DB AR1 Zagato
     - Aston Martin DB7 Volante
     - Audi A3 V6 'N'
@@ -45,7 +54,6 @@ You tell me!
     - Brabus S61
     - Cadillac Sixteen
     - Mazda MX5
-[OC-Honolulu Airport]
     - Chevrolet Corvette C6 'Show N Go'
     - Chrysler Crossfire Roadster'
     - Dino 246 GTS
@@ -54,7 +62,6 @@ You tell me!
     - Hennessey Viper SRT10 Venom 650R
     - Hennessey Viper SRT10 Venom 800 TwinTurbo
     - Hennessey Viper SRT10 Venom 1000 TwinTurbo 
-[OC-Circuit/Airport]
     - AC 427
     - Jaguar XKR Convertible
     - Lamborghini Diablo GT 1999
@@ -63,20 +70,16 @@ You tell me!
     - Mazda RX8 Coupe
     - Nissan 350Z Roadster
     - Pontiac GTO 'The Judge'
-[OC-Barber's point Golf, SW]
     - Pontiac Solstice
     - Wiesmann GT
     - Chevrolet Cobalt SS
     - Chevrolet Corvette'63
-[OB-Crater, SE]
     - Triumph 955I Daytona
 
 - Creates 120 *brand new* slots:
 ( can be used with any mod, you just have to rename your files to TDUCP_3000.bnk or TDUCP_4000.bnk ... see **files.md** for details )
-    - 300000000 => TDUCP Model 3000 (Car), available @ [OC-Barber's point Golf, SW]
-    - 400000000 => TDUCP Model 4000 (Bike), available @ [OB-Crater, SE]
-    - 300100000 to 310000000 => TDUCP Model 3001 to 3100 (Cars)
-    - 400100000 to 402000000 => TDUCP Model 4001 to 4020 (Bikes)
+    - 300000000 to 310000000 => TDUCP Model 3000 to 3100 (Cars)
+    - 400000000 to 402000000 => TDUCP Model 4000 to 4020 (Bikes)
 ( you have to set them manually to dealers, using tools ).   
 
 
