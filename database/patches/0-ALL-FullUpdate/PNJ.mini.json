@@ -3,31 +3,148 @@
     {
       "type": "UPDATE",
       "topic": "PNJ",
-      "ref": "1205655005",
+      "ref": "1128652269",
       "partialValues": [
         {
           "rank": 2,
-          "value": "57766256"
+          "value": "55966256"
         },
         {
           "rank": 4,
-          "value": "57766256"
+          "value": "55966256"
         },
         {
           "rank": 5,
-          "value": "96685756"
+          "value": "77118209"
         },
         {
           "rank": 6,
-          "value": "7292891"
+          "value": "81174719"
         },
         {
           "rank": 7,
-          "value": "78164969"
+          "value": "77120919"
         },
         {
           "rank": 9,
-          "value": "793580"
+          "value": "86841381"
+        },
+        {
+          "rank": 11,
+          "value": "0"
+        },
+        {
+          "rank": 12,
+          "value": "0"
+        },
+        {
+          "rank": 13,
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "PNJ",
+      "ref": "1128652270",
+      "partialValues": [
+        {
+          "rank": 2,
+          "value": "56966256"
+        },
+        {
+          "rank": 4,
+          "value": "56966256"
+        },
+        {
+          "rank": 5,
+          "value": "77104014"
+        },
+        {
+          "rank": 6,
+          "value": "81174719"
+        },
+        {
+          "rank": 7,
+          "value": "77120919"
+        },
+        {
+          "rank": 9,
+          "value": "86841381"
+        },
+        {
+          "rank": 11,
+          "value": "0"
+        },
+        {
+          "rank": 12,
+          "value": "0"
+        },
+        {
+          "rank": 13,
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "PNJ",
+      "ref": "1128652270",
+      "partialValues": [
+        {
+          "rank": 2,
+          "value": "56066256"
+        },
+        {
+          "rank": 4,
+          "value": "56066256"
+        },
+        {
+          "rank": 5,
+          "value": "96681621"
+        },
+        {
+          "rank": 6,
+          "value": "82477506"
+        },
+        {
+          "rank": 7,
+          "value": "75039123"
+        },
+        {
+          "rank": 11,
+          "value": "0"
+        },
+        {
+          "rank": 12,
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "PNJ",
+      "ref": "1128652271",
+      "partialValues": [
+        {
+          "rank": 2,
+          "value": "57966256"
+        },
+        {
+          "rank": 4,
+          "value": "57966256"
+        },
+        {
+          "rank": 5,
+          "value": "77105052"
+        },
+        {
+          "rank": 6,
+          "value": "82464803"
+        },
+        {
+          "rank": 7,
+          "value": "910921"
         },
         {
           "rank": 11,
@@ -35,7 +152,479 @@
         },
         {
           "rank": 13,
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "PNJ",
+      "ref": "1128652272",
+      "partialValues": [
+        {
+          "rank": 2,
+          "value": "58966256"
+        },
+        {
+          "rank": 4,
+          "value": "58966256"
+        },
+        {
+          "rank": 5,
+          "value": "8112069"
+        },
+        {
+          "rank": 6,
+          "value": "82477506"
+        },
+        {
+          "rank": 7,
+          "value": "83713116"
+        },
+        {
+          "rank": 11,
+          "value": "2"
+        },
+        {
+          "rank": 13,
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "PNJ",
+      "ref": "1128652273",
+      "partialValues": [
+        {
+          "rank": 2,
+          "value": "59966256"
+        },
+        {
+          "rank": 4,
+          "value": "59966256"
+        },
+        {
+          "rank": 5,
+          "value": "77111815"
+        },
+        {
+          "rank": 6,
+          "value": "78163444"
+        },
+        {
+          "rank": 7,
+          "value": "910921"
+        },
+        {
+          "rank": 11,
+          "value": "0"
+        },
+        {
+          "rank": 12,
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "PNJ",
+      "ref": "1128652274",
+      "partialValues": [
+        {
+          "rank": 2,
+          "value": "60966256"
+        },
+        {
+          "rank": 4,
+          "value": "60966256"
+        },
+        {
+          "rank": 5,
+          "value": "78033077"
+        },
+        {
+          "rank": 7,
+          "value": "78164959"
+        },
+        {
+          "rank": 11,
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "PNJ",
+      "ref": "1128652275",
+      "partialValues": [
+        {
+          "rank": 2,
+          "value": "61966256"
+        },
+        {
+          "rank": 4,
+          "value": "61966256"
+        },
+        {
+          "rank": 5,
+          "value": "7293176"
+        },
+        {
+          "rank": 6,
+          "value": "78163444"
+        },
+        {
+          "rank": 7,
+          "value": "794486"
+        },
+        {
+          "rank": 11,
           "value": "3"
+        },
+        {
+          "rank": 12,
+          "value": "0"
+        },
+        {
+          "rank": 13,
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "PNJ",
+      "ref": "1128652276",
+      "partialValues": [
+        {
+          "rank": 2,
+          "value": "62966256"
+        },
+        {
+          "rank": 4,
+          "value": "62966256"
+        },
+        {
+          "rank": 5,
+          "value": "77111818"
+        },
+        {
+          "rank": 6,
+          "value": "77120482"
+        },
+        {
+          "rank": 7,
+          "value": "75039123"
+        },
+        {
+          "rank": 11,
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "PNJ",
+      "ref": "1128652277",
+      "partialValues": [
+        {
+          "rank": 2,
+          "value": "54066256"
+        },
+        {
+          "rank": 4,
+          "value": "54066256"
+        },
+        {
+          "rank": 5,
+          "value": "84811816"
+        },
+        {
+          "rank": 6,
+          "value": "77108839"
+        },
+        {
+          "rank": 7,
+          "value": "75011766"
+        },
+        {
+          "rank": 11,
+          "value": "4"
+        },
+        {
+          "rank": 12,
+          "value": "0"
+        },
+        {
+          "rank": 13,
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "PNJ",
+      "ref": "1205655002",
+      "partialValues": [
+        {
+          "rank": 2,
+          "value": "55666256"
+        },
+        {
+          "rank": 4,
+          "value": "55666256"
+        },
+        {
+          "rank": 5,
+          "value": "84811826"
+        },
+        {
+          "rank": 6,
+          "value": "84818995"
+        },
+        {
+          "rank": 7,
+          "value": "86839106"
+        },
+        {
+          "rank": 11,
+          "value": "2"
+        },
+        {
+          "rank": 12,
+          "value": "0"
+        },
+        {
+          "rank": 13,
+          "value": "6"
+        },
+        {
+          "rank": 15,
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "PNJ",
+      "ref": "1205655003",
+      "partialValues": [
+        {
+          "rank": 2,
+          "value": "55766256"
+        },
+        {
+          "rank": 4,
+          "value": "55766256"
+        },
+        {
+          "rank": 5,
+          "value": "7501918"
+        },
+        {
+          "rank": 6,
+          "value": "96691287"
+        },
+        {
+          "rank": 7,
+          "value": "78113273"
+        },
+        {
+          "rank": 9,
+          "value": "86841391"
+        },
+        {
+          "rank": 11,
+          "value": "2"
+        },
+        {
+          "rank": 12,
+          "value": "2"
+        },
+        {
+          "rank": 13,
+          "value": "2"
+        },
+        {
+          "rank": 15,
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "PNJ",
+      "ref": "1205655003",
+      "partialValues": [
+        {
+          "rank": 2,
+          "value": "56666256"
+        },
+        {
+          "rank": 4,
+          "value": "56666256"
+        },
+        {
+          "rank": 5,
+          "value": "96681532"
+        },
+        {
+          "rank": 6,
+          "value": "75074470"
+        },
+        {
+          "rank": 7,
+          "value": "86839106"
+        },
+        {
+          "rank": 9,
+          "value": "86841391"
+        },
+        {
+          "rank": 11,
+          "value": "6"
+        },
+        {
+          "rank": 12,
+          "value": "1"
+        },
+        {
+          "rank": 13,
+          "value": "6"
+        },
+        {
+          "rank": 15,
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "PNJ",
+      "ref": "1205655004",
+      "partialValues": [
+        {
+          "rank": 2,
+          "value": "57666256"
+        },
+        {
+          "rank": 4,
+          "value": "57666256"
+        },
+        {
+          "rank": 5,
+          "value": "8681891"
+        },
+        {
+          "rank": 6,
+          "value": "7293647"
+        },
+        {
+          "rank": 7,
+          "value": "78113273"
+        },
+        {
+          "rank": 11,
+          "value": "5"
+        },
+        {
+          "rank": 13,
+          "value": "2"
+        },
+        {
+          "rank": 14,
+          "value": "0"
+        },
+        {
+          "rank": 15,
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "PNJ",
+      "ref": "1205655004",
+      "partialValues": [
+        {
+          "rank": 2,
+          "value": "55866256"
+        },
+        {
+          "rank": 4,
+          "value": "55866256"
+        },
+        {
+          "rank": 5,
+          "value": "96685756"
+        },
+        {
+          "rank": 6,
+          "value": "86874443"
+        },
+        {
+          "rank": 7,
+          "value": "86839106"
+        },
+        {
+          "rank": 11,
+          "value": "1"
+        },
+        {
+          "rank": 13,
+          "value": "1"
+        },
+        {
+          "rank": 14,
+          "value": "0"
+        },
+        {
+          "rank": 15,
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "PNJ",
+      "ref": "1205655004",
+      "partialValues": [
+        {
+          "rank": 2,
+          "value": "56766256"
+        },
+        {
+          "rank": 4,
+          "value": "56766256"
+        },
+        {
+          "rank": 5,
+          "value": "8681891"
+        },
+        {
+          "rank": 6,
+          "value": "80508740"
+        },
+        {
+          "rank": 9,
+          "value": "7340150"
+        },
+        {
+          "rank": 11,
+          "value": "5"
+        },
+        {
+          "rank": 12,
+          "value": "1"
+        },
+        {
+          "rank": 14,
+          "value": "0"
+        },
+        {
+          "rank": 15,
+          "value": "0"
         }
       ]
     },
@@ -77,31 +666,35 @@
     {
       "type": "UPDATE",
       "topic": "PNJ",
-      "ref": "1205655006",
+      "ref": "1205655005",
       "partialValues": [
         {
           "rank": 2,
-          "value": "58766256"
+          "value": "57766256"
         },
         {
           "rank": 4,
-          "value": "58766256"
+          "value": "57766256"
         },
         {
           "rank": 5,
-          "value": "74728624"
+          "value": "96685756"
         },
         {
           "rank": 6,
-          "value": "86874443"
+          "value": "7292891"
+        },
+        {
+          "rank": 7,
+          "value": "78164969"
+        },
+        {
+          "rank": 9,
+          "value": "793580"
         },
         {
           "rank": 11,
-          "value": "4"
-        },
-        {
-          "rank": 12,
-          "value": "3"
+          "value": "0"
         },
         {
           "rank": 13,
@@ -151,39 +744,35 @@
     {
       "type": "UPDATE",
       "topic": "PNJ",
-      "ref": "1205655007",
+      "ref": "1205655006",
       "partialValues": [
         {
           "rank": 2,
-          "value": "60666256"
+          "value": "58766256"
         },
         {
           "rank": 4,
-          "value": "60666256"
+          "value": "58766256"
         },
         {
           "rank": 5,
-          "value": "923079"
+          "value": "74728624"
         },
         {
           "rank": 6,
-          "value": "84818995"
-        },
-        {
-          "rank": 7,
-          "value": "84806992"
+          "value": "86874443"
         },
         {
           "rank": 11,
-          "value": "2"
+          "value": "4"
         },
         {
           "rank": 12,
-          "value": "0"
+          "value": "3"
         },
         {
           "rank": 13,
-          "value": "2"
+          "value": "3"
         }
       ]
     },
@@ -223,6 +812,45 @@
         {
           "rank": 13,
           "value": "0"
+        }
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "PNJ",
+      "ref": "1205655007",
+      "partialValues": [
+        {
+          "rank": 2,
+          "value": "60666256"
+        },
+        {
+          "rank": 4,
+          "value": "60666256"
+        },
+        {
+          "rank": 5,
+          "value": "923079"
+        },
+        {
+          "rank": 6,
+          "value": "84818995"
+        },
+        {
+          "rank": 7,
+          "value": "84806992"
+        },
+        {
+          "rank": 11,
+          "value": "2"
+        },
+        {
+          "rank": 12,
+          "value": "0"
+        },
+        {
+          "rank": 13,
+          "value": "2"
         }
       ]
     },
@@ -319,41 +947,6 @@
       "partialValues": [
         {
           "rank": 2,
-          "value": "62666256"
-        },
-        {
-          "rank": 4,
-          "value": "62666256"
-        },
-        {
-          "rank": 5,
-          "value": "7292892"
-        },
-        {
-          "rank": 6,
-          "value": "84812126"
-        },
-        {
-          "rank": 7,
-          "value": "7294062"
-        },
-        {
-          "rank": 11,
-          "value": "4"
-        },
-        {
-          "rank": 13,
-          "value": "2"
-        }
-      ]
-    },
-    {
-      "type": "UPDATE",
-      "topic": "PNJ",
-      "ref": "1205655009",
-      "partialValues": [
-        {
-          "rank": 2,
           "value": "61766256"
         },
         {
@@ -391,6 +984,41 @@
         {
           "rank": 15,
           "value": "3"
+        }
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "PNJ",
+      "ref": "1205655009",
+      "partialValues": [
+        {
+          "rank": 2,
+          "value": "62666256"
+        },
+        {
+          "rank": 4,
+          "value": "62666256"
+        },
+        {
+          "rank": 5,
+          "value": "7292892"
+        },
+        {
+          "rank": 6,
+          "value": "84812126"
+        },
+        {
+          "rank": 7,
+          "value": "7294062"
+        },
+        {
+          "rank": 11,
+          "value": "4"
+        },
+        {
+          "rank": 13,
+          "value": "2"
         }
       ]
     },
