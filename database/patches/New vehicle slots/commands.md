@@ -43,3 +43,6 @@ Included templates depend on following placeholder values:
 - INTMATERIALID.1: Material on Interior topic, first interior scheme (#6)
 
 Properties are defined in script: **scripts/slots/addSlots.sh**
+
+
+**VehicleDealers-reset.mini.json**: removes all vehicles from those dealers.
