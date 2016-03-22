@@ -8,6 +8,8 @@ All unlocked vehicles are located in Oahu Cars dealers:
 - 611093710: Honolulu Airport
 - 591093708: ???
 
+**VehicleDealers-reset.mini.json**: removes all vehicles from those dealers.
+
 ## TDUF-CLI
 
     DatabaseTool apply-patch -p "<...>\tdu-cp\database\patches\Unlock vehicles\UnlockMazdaMX5.mini.json" -j "<...>\tdu-cp\database\current" -o "<...>\tdu-cp\database\current"
