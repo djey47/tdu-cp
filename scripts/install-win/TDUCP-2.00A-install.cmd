@@ -67,8 +67,9 @@ ECHO.
 
 REM TODO Copy files, do not replace existing
 
-REM Update Bnk1.map with TDUF
-
+ECHO .Updating AwesomeMap, please wait...
+CALL .\MappingTool.cmd fix-missing -b "%BANKS_DIR%"
+ECHO.
 
 ECHO .All done!
 ECHO.
