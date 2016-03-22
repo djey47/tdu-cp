@@ -2,9 +2,12 @@
 
 # For full package
 replacedFiles() {
-    echo "*** ***"
-    # TODO Brand logos, menu logo, Patch HD Level files
+    echo "*** 1.68b's Cameras ***"
+    cp ${TDUCP_PATH}/resources/physics/cameras.bin ${BUILD_DB_PATH}
+    echo
 
+    # TODO Brand logos, menu logo, Patch HD Level files
+    # TODO Slot files : in full package (classic location), or separate location in update package
 #    # Unlocked slot files
 #    echo "*** Unlocked slots files... ***"
 #    cd ../slots/unlocked
