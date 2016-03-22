@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+# For full package
 replacedFiles() {
     echo "*** ***"
     # TODO Brand logos, menu logo, Patch HD Level files
@@ -26,6 +27,7 @@ replacedFiles() {
 #    echo
 }
 
+# For both full and update packages
 newFiles() {
     echo "*** Manifests... ***"
     cp ${TDUCP_PATH}/manifests/*.md ${BUILD_PATH}
@@ -46,7 +48,11 @@ newFiles() {
     echo
 }
 
+# For update package
 updatedBankFiles() {
+    INSTALLER_FILES_PATCHES_PATH=${INSTALLER_FILES_PATH}/patches
+    mkdir -p ${INSTALLER_FILES_PATCHES_PATH}
+
     TEXTURES_LOW_PATH=${INSTALLER_FILES_PATH}/textures-low
     TEXTURES_HIGH_PATH=${INSTALLER_FILES_PATH}/textures-high
     mkdir -p ${TEXTURES_LOW_PATH}
@@ -60,6 +66,7 @@ updatedBankFiles() {
     echo "*** Textures for BRAND LOGOS... ***"
     cp ${TDUCP_PATH}/resources/textures/logos/icons_map.2db ${TEXTURES_HIGH_PATH}
     cp ${TDUCP_PATH}/resources/textures/logos/logos_brands.2db ${TEXTURES_HIGH_PATH}
+    cp ${TDUCP_PATH}/resources/textures/logos/patches/* ${INSTALLER_FILES_PATCHES_PATH}
     echo
 
     echo "*** 3D Definition files for PATCH HD (SD MODE)... ***"

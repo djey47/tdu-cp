@@ -39,15 +39,14 @@ CALL .\CheckJava.cmd
 CALL .\SetVersion.cmd
 ECHO.
 
-
 ECHO .Patching game files, please wait...
-SET PACKED_PATH="D:\Eden-Prog\Games\TestDrive\Resources\4Build\PC\\EURO\FrontEnd\LOG_IN\.2db\fla_0013"
+SET PACKED_PATH="D:\Eden-Prog\Games\TestDrive\Resources\4Build\PC\EURO\FrontEnd\LOG_IN\.2db\fla_0013"
 CALL %TDUMTCLI_EXE% BANK-R "%BANKS_DIR%\FrontEnd\HiRes\LOG_IN.bnk" %PACKED_PATH% "%INSTALLER_FILES_DIR%\textures-high\fla_0013.2db"
 CALL %TDUMTCLI_EXE% BANK-R "%BANKS_DIR%\FrontEnd\LowRes\LOG_IN.bnk" %PACKED_PATH% "%INSTALLER_FILES_DIR%\textures-low\fla_0013.2db"
 
 COPY %INSTALLER_FILES_DIR%\textures-high\icons_map.2db %TEMP%
 COPY %INSTALLER_FILES_DIR%\textures-high\logos_brands.2db %TEMP%
-CALL %TDUMTCLI_EXE% BANK-RX "%BANKS_DIR%\FrontEnd\AllRes\LogoTexturePage.bnk" banksReplace_LOGO_TEX.json
+CALL %TDUMTCLI_EXE% BANK-RX "%BANKS_DIR%\FrontEnd\AllRes\LogoTexturePage.bnk" "%INSTALLER_FILES_DIR%\patches\banksReplace_LOGO_TEX.json"
 
 SET PACKED_PATH="D:\Eden-Prog\Games\TestDrive\Resources\4Build\PC\EURO\Level\Hawai\Common\Library\.3DD\Library"
 CALL %TDUMTCLI_EXE% BANK-R "%BANKS_DIR%\Level\Hawai\CommonWorld.bnk" %PACKED_PATH% "%INSTALLER_FILES_DIR%\Library.3DD"
@@ -65,6 +64,10 @@ ECHO .Cleaning, please wait...
 DEL %DATABASE_DIR%\carData.mdb
 DEL %DATABASE_DIR%\VehicleSlots.xml
 ECHO.
+
+REM TODO Copy files, do not replace existing
+
+REM Update Bnk1.map with TDUF
 
 
 ECHO .All done!
