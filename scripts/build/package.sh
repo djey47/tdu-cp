@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 #set -x
+set -e
 
 # Prepares packaging of Community Patch: FULL VERSION
 
@@ -26,3 +27,5 @@ generateAndCheckDatabase
 #zip -r ${TDUCP_PATH}/workspace/releases/FULL-TDUCP-2.00A-${TIMESTAMP}.zip *
 #popd > /dev/null
 #echo
+
+echo "All done!"
