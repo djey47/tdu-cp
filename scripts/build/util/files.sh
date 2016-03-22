@@ -82,3 +82,12 @@ generateMapping() {
     cd - > /dev/null
     echo
 }
+
+makeZip() {
+    echo "*** Zipping... ***"
+    pushd ${BUILD_PATH} > /dev/null
+    TIMESTAMP=`date +%s`
+    zip -r ${TDUCP_PATH}/workspace/releases/$1-${TIMESTAMP}.zip *
+    popd > /dev/null
+    echo
+}

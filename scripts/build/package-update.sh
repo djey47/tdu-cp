@@ -34,11 +34,6 @@ deployTDUF
 installerScript
 
 #Zip
-#echo "*** Zipping... ***"
-#pushd ${BUILD_PATH} > /dev/null
-#TIMESTAMP=`date +%s`
-#zip -r ${TDUCP_PATH}/workspace/releases/UPDATE-TDUCP-2.00A-${TIMESTAMP}.zip *
-#popd > /dev/null
-#echo
+makeZip UPDATE-TDUCP-2.00A
 
 echo "All done!"
