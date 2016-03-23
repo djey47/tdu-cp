@@ -49,6 +49,10 @@ newFiles() {
     echo "*** FX configuration for PATCH HD (SD MODE)... ***"
     unzip -o ${TDUCP_PATH}/resources/system/2CV-patch-hd/FX.ini.hd.zip -d ${BUILD_FX_PATH}
     echo
+
+    echo "*** Default traffic configuration ***"
+    cp ${TDUCP_PATH}/resources/ia/default-traffic/AIConfig.xml ${BUILD_DB_PATH}
+    echo
 }
 
 # For update package
