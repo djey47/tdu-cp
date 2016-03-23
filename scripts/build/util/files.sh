@@ -30,7 +30,7 @@ replacedFiles() {
 #    echo
 }
 
-# For both full and update packages
+# For both full and update packages: to replace existing files in TDU install while extracting ZIP
 newFiles() {
     echo "*** Manifests... ***"
     cp ${TDUCP_PATH}/manifests/*.md ${BUILD_PATH}
@@ -55,8 +55,8 @@ newFiles() {
     echo
 }
 
-# For update package
-updatedBankFiles() {
+# For update package: to replace in existing BNK files by Windows installer script
+updatedPackedFiles() {
     INSTALLER_FILES_PATCHES_PATH=${INSTALLER_FILES_PATH}/patches
     mkdir -p ${INSTALLER_FILES_PATCHES_PATH}
 
@@ -81,7 +81,7 @@ updatedBankFiles() {
     echo
 }
 
-# Only for full release
+# For full release only: mapping update will be performed by Windows installer script
 generateMapping() {
     echo "*** Bnk1.map... ***"
     cd ../mapping/

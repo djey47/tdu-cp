@@ -22,7 +22,7 @@ makeDirectoriesForUpdate
 
 # Files
 newFiles
-updatedBankFiles
+updatedPackedFiles
 
 # Database
 diffPatches
