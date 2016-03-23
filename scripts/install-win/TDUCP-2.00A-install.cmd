@@ -53,7 +53,11 @@ CALL %TDUMTCLI_EXE% BANK-RX "%BANKS_DIR%\FrontEnd\AllRes\LogoTexturePage.bnk" "%
 SET PACKED_PATH="D:\Eden-Prog\Games\TestDrive\Resources\4Build\PC\EURO\Level\Hawai\Common\Library\.3DD\Library"
 CALL %TDUMTCLI_EXE% BANK-R "%BANKS_DIR%\Level\Hawai\CommonWorld.bnk" %PACKED_PATH% "%INSTALLER_FILES_PATCHES_DIR%\Library.3DD"
 CALL %TDUMTCLI_EXE% BANK-R "%BANKS_DIR%\Level\Hawai\CommonWorldDiv2.bnk" %PACKED_PATH% "%INSTALLER_FILES_PATCHES_DIR%\Library.3DD"
+ECHO.
 
+REM TODO Find cleaner way to copy
+ECHO .Copying new game files, please wait...
+XCOPY "%INSTALLER_FILES_DIR%\Euro" "%BANKS_DIR%\Euro" /S /-Y /I < "%START_DIR%\no"
 ECHO.
 
 ECHO .Patching database, please wait...
@@ -65,9 +69,8 @@ ECHO.
 ECHO .Cleaning, please wait...
 DEL %DATABASE_DIR%\carData.mdb
 DEL %DATABASE_DIR%\VehicleSlots.xml
+REM Additional cleaning here
 ECHO.
-
-REM TODO Copy files, do not replace existing
 
 ECHO .Updating AwesomeMap, please wait...
 CALL .\MappingTool.cmd fix-missing -b "%BANKS_DIR%"
