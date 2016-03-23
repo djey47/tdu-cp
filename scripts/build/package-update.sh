@@ -21,7 +21,7 @@ export INSTALLER_TDUF_PATH=${INSTALLER_PATH}/tduf
 makeDirectoriesForUpdate
 
 # Files
-newFiles
+newFilesForUpdate
 updatedPackedFiles
 
 # Database

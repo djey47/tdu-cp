@@ -1,13 +1,13 @@
 #!/usr/bin/env bash
 
-# For full package
+# For full package: to replace existing files in TDU install while extracting ZIP
 replacedFiles() {
     echo "*** 1.68b's Cameras ***"
     cp ${TDUCP_PATH}/resources/physics/1.68B-cameras/cameras.bin ${BUILD_DB_PATH}
     echo
 
     # TODO Brand logos, menu logo, Patch HD Level files
-    # TODO Slot files : in full package (classic location), or separate location in update package
+    # TODO Slot files : in full package (classic location)
 #    # Unlocked slot files
 #    echo "*** Unlocked slots files... ***"
 #    cd ../slots/unlocked
@@ -55,7 +55,16 @@ newFiles() {
     echo
 }
 
-# For update package: to replace in existing BNK files by Windows installer script
+# For update package only: copy to existing TDU install if non-existing, by Windows installer script
+newFilesForUpdate() {
+    newFiles
+
+    # TODO Brand logos, menu logo, Patch HD Level files
+    # TODO Slot files
+
+}
+
+# For update package only: replace in existing BNK files by Windows installer script
 updatedPackedFiles() {
     INSTALLER_FILES_PATCHES_PATH=${INSTALLER_FILES_PATH}/patches
     mkdir -p ${INSTALLER_FILES_PATCHES_PATH}
