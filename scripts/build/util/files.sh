@@ -3,7 +3,7 @@
 # For full package
 replacedFiles() {
     echo "*** 1.68b's Cameras ***"
-    cp ${TDUCP_PATH}/resources/physics/cameras.bin ${BUILD_DB_PATH}
+    cp ${TDUCP_PATH}/resources/physics/1.68B-cameras/cameras.bin ${BUILD_DB_PATH}
     echo
 
     # TODO Brand logos, menu logo, Patch HD Level files
