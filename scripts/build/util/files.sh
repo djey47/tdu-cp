@@ -70,8 +70,8 @@ updatedPackedFiles() {
     INSTALLER_FILES_PATCHES_PATH=${INSTALLER_FILES_PATH}/patches
     mkdir -p ${INSTALLER_FILES_PATCHES_PATH}
 
-    TEXTURES_LOW_PATH=${INSTALLER_FILES_PATH}/textures-low
-    TEXTURES_HIGH_PATH=${INSTALLER_FILES_PATH}/textures-high
+    TEXTURES_LOW_PATH=${INSTALLER_FILES_PATCHES_PATH}/textures-low
+    TEXTURES_HIGH_PATH=${INSTALLER_FILES_PATCHES_PATH}/textures-high
     mkdir -p ${TEXTURES_LOW_PATH}
     mkdir -p ${TEXTURES_HIGH_PATH}
 
@@ -87,7 +87,7 @@ updatedPackedFiles() {
     echo
 
     echo "*** 3D Definition files for PATCH HD (SD MODE)... ***"
-    cp ${TDUCP_PATH}/resources/system/2CV-patch-hd/SD/Library.3DD ${INSTALLER_FILES_PATH}
+    cp ${TDUCP_PATH}/resources/system/2CV-patch-hd/SD/Library.3DD ${INSTALLER_FILES_PATCHES_PATH}
     echo
 }
 

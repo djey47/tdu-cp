@@ -23,7 +23,8 @@ exit /B
 SET BANKS_DIR=%START_DIR%\Euro\Bnk
 SET DATABASE_DIR=%BANKS_DIR%\Database
 SET JSON_DATABASE_DIR=%START_DIR%\TDUCP-2.00A-installer\database\current
-SET INSTALLER_FILES_DIR=%START_DIR%\TDUCP-2.00A-installer\files
+SET INSTALLER_FILES_DIR=%START_DIR%\TDUCP-2.00A-installer\files\patches
+SET INSTALLER_FILES_PATCHES_DIR=%INSTALLER_FILES_DIR%\patches
 SET TDUMTCLI_EXE=%START_DIR%\TDUCP-2.00A-installer\tduf\tools\tdumt-cli\tdumt-cli.exe
 
 CD /D %START_DIR%
@@ -41,16 +42,17 @@ ECHO.
 
 ECHO .Patching game files, please wait...
 SET PACKED_PATH="D:\Eden-Prog\Games\TestDrive\Resources\4Build\PC\EURO\FrontEnd\LOG_IN\.2db\fla_0013"
-CALL %TDUMTCLI_EXE% BANK-R "%BANKS_DIR%\FrontEnd\HiRes\LOG_IN.bnk" %PACKED_PATH% "%INSTALLER_FILES_DIR%\textures-high\fla_0013.2db"
-CALL %TDUMTCLI_EXE% BANK-R "%BANKS_DIR%\FrontEnd\LowRes\LOG_IN.bnk" %PACKED_PATH% "%INSTALLER_FILES_DIR%\textures-low\fla_0013.2db"
+CALL %TDUMTCLI_EXE% BANK-R "%BANKS_DIR%\FrontEnd\HiRes\LOG_IN.bnk" %PACKED_PATH% "%INSTALLER_FILES_PATCHES_DIR%\textures-high\fla_0013.2db"
+CALL %TDUMTCLI_EXE% BANK-R "%BANKS_DIR%\FrontEnd\LowRes\LOG_IN.bnk" %PACKED_PATH% "%INSTALLER_FILES_PATCHES_DIR%\textures-low\fla_0013.2db"
 
-COPY %INSTALLER_FILES_DIR%\textures-high\icons_map.2db %TEMP%
-COPY %INSTALLER_FILES_DIR%\textures-high\logos_brands.2db %TEMP%
-CALL %TDUMTCLI_EXE% BANK-RX "%BANKS_DIR%\FrontEnd\AllRes\LogoTexturePage.bnk" "%INSTALLER_FILES_DIR%\patches\banksReplace_LOGO_TEX.json"
+REM TODO Check if TEMP env var can be resolved from json file
+COPY %INSTALLER_FILES_PATCHES_DIR%\textures-high\icons_map.2db %TEMP%
+COPY %INSTALLER_FILES_PATCHES_DIR%\textures-high\logos_brands.2db %TEMP%
+CALL %TDUMTCLI_EXE% BANK-RX "%BANKS_DIR%\FrontEnd\AllRes\LogoTexturePage.bnk" "%INSTALLER_FILES_PATCHES_DIR%\banksReplace_LOGO_TEX.json"
 
 SET PACKED_PATH="D:\Eden-Prog\Games\TestDrive\Resources\4Build\PC\EURO\Level\Hawai\Common\Library\.3DD\Library"
-CALL %TDUMTCLI_EXE% BANK-R "%BANKS_DIR%\Level\Hawai\CommonWorld.bnk" %PACKED_PATH% "%INSTALLER_FILES_DIR%\Library.3DD"
-CALL %TDUMTCLI_EXE% BANK-R "%BANKS_DIR%\Level\Hawai\CommonWorldDiv2.bnk" %PACKED_PATH% "%INSTALLER_FILES_DIR%\Library.3DD"
+CALL %TDUMTCLI_EXE% BANK-R "%BANKS_DIR%\Level\Hawai\CommonWorld.bnk" %PACKED_PATH% "%INSTALLER_FILES_PATCHES_DIR%\Library.3DD"
+CALL %TDUMTCLI_EXE% BANK-R "%BANKS_DIR%\Level\Hawai\CommonWorldDiv2.bnk" %PACKED_PATH% "%INSTALLER_FILES_PATCHES_DIR%\Library.3DD"
 
 ECHO.
 
