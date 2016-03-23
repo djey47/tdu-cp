@@ -21,11 +21,6 @@ generateMapping
 generateAndCheckDatabase
 
 #Zip
-#echo "*** Zipping... ***"
-#pushd ${BUILD_PATH} > /dev/null
-#TIMESTAMP=`date +%s`
-#zip -r ${TDUCP_PATH}/workspace/releases/FULL-TDUCP-2.00A-${TIMESTAMP}.zip *
-#popd > /dev/null
-#echo
+makeZip FULL-TDUCP-2.00A
 
 echo "All done!"
