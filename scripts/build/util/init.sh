@@ -13,9 +13,10 @@ makeDirectories() {
 
 makeDirectoriesForUpdate() {
     makeDirectories
-    mkdir -p ${INSTALLER_PATH}
+#    mkdir -p ${INSTALLER_PATH}
     mkdir -p ${INSTALLER_DB_PATH}
-    mkdir -p ${INSTALLER_FILES_PATH}
+    mkdir -p ${INSTALLER_BANK_PATH}/FrontEnd/HiRes
+    mkdir -p ${INSTALLER_BANK_PATH}/FrontEnd/LowRes
 }
 
 makeDirectoriesForFull() {

@@ -24,26 +24,8 @@ replacedFiles() {
     cp ${FULL_BANK_PATH}/Level/Hawai/CommonWorldDiv2.bnk ${BUILD_BANK_PATH}/Level/Hawai
     echo
 
-    # Unlocked slot files
-    echo "*** Unlocked slots files... ***"
-    cd ../slots/unlocked
-    ./createFiles.sh
-    cd - > /dev/null
-    echo
-
-    # New slot files
-    echo "*** New slots files... ***"
-    cd ../slots/new
-    ./createFiles.sh
-    cd - > /dev/null
-    echo
-
-    # Own rims files
-    echo "*** Own rims files... ***"
-    cd ../slots/rims
-    ./createFiles.sh
-    cd - > /dev/null
-    echo
+    #Slot files
+    slotFiles
 }
 
 # For both full and update packages: to replace existing files in TDU install while extracting ZIP
@@ -70,13 +52,17 @@ newFiles() {
     echo
 }
 
-# For update package only: copy to existing TDU install if non-existing, by Windows installer script
+# For update package only: to copy to existing TDU install if non-existing, by Windows installer script
 newFilesForUpdate() {
     newFiles
+    slotFiles
 
-    # TODO Brand logos, menu logo, Patch HD Level files
-    # TODO Slot files
-
+    # Move slot files to installer paths
+    mv ${BUILD_BANK_PATH}/Vehicules ${INSTALLER_BANK_PATH}
+    mv ${BUILD_BANK_PATH}/Sound ${INSTALLER_BANK_PATH}
+    mv ${BUILD_BANK_PATH}/FrontEnd/HiRes/Gauges ${INSTALLER_BANK_PATH}/FrontEnd/HiRes
+    mv ${BUILD_BANK_PATH}/FrontEnd/LowRes/Gauges ${INSTALLER_BANK_PATH}/FrontEnd/LowRes
+    rm -rf ${BUILD_BANK_PATH}/FrontEnd
 }
 
 # For update package only: replace in existing BNK files by Windows installer script
@@ -110,6 +96,30 @@ generateMapping() {
     echo "*** Bnk1.map... ***"
     cd ../mapping/
     ./generateCurrent.sh
+    cd - > /dev/null
+    echo
+}
+
+# For both full and update packages: files related to unlocked/new slots
+slotFiles() {
+    # Unlocked slot files
+    echo "*** Unlocked slots files... ***"
+    cd ../slots/unlocked
+    ./createFiles.sh
+    cd - > /dev/null
+    echo
+
+    # New slot files
+    echo "*** New slots files... ***"
+    cd ../slots/new
+    ./createFiles.sh
+    cd - > /dev/null
+    echo
+
+    # Own rims files
+    echo "*** Own rims files... ***"
+    cd ../slots/rims
+    ./createFiles.sh
     cd - > /dev/null
     echo
 }
