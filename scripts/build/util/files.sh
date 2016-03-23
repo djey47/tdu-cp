@@ -7,27 +7,27 @@ replacedFiles() {
     echo
 
     # TODO Brand logos, menu logo, Patch HD Level files
-    # TODO Slot files : in full package (classic location)
-#    # Unlocked slot files
-#    echo "*** Unlocked slots files... ***"
-#    cd ../slots/unlocked
-#    ./createFiles.sh
-#    cd - > /dev/null
-#    echo
-#
-#    # New slot files
-#    echo "*** New slots files... ***"
-#    cd ../slots/new
-#    ./createFiles.sh
-#    cd - > /dev/null
-#    echo
-#
-#    # Own rims files
-#    echo "*** Own rims files... ***"
-#    cd ../slots/rims
-#    ./createFiles.sh
-#    cd - > /dev/null
-#    echo
+
+    # Unlocked slot files
+    echo "*** Unlocked slots files... ***"
+    cd ../slots/unlocked
+    ./createFiles.sh
+    cd - > /dev/null
+    echo
+
+    # New slot files
+    echo "*** New slots files... ***"
+    cd ../slots/new
+    ./createFiles.sh
+    cd - > /dev/null
+    echo
+
+    # Own rims files
+    echo "*** Own rims files... ***"
+    cd ../slots/rims
+    ./createFiles.sh
+    cd - > /dev/null
+    echo
 }
 
 # For both full and update packages: to replace existing files in TDU install while extracting ZIP
