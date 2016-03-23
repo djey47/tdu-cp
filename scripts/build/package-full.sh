@@ -10,7 +10,7 @@ source ./util/files.sh
 source ./util/database.sh
 
 # Init
-makeDirectories
+makeDirectoriesForFull
 
 #Files
 newFiles

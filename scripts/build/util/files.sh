@@ -6,7 +6,23 @@ replacedFiles() {
     cp ${TDUCP_PATH}/resources/physics/1.68B-cameras/cameras.bin ${BUILD_DB_PATH}
     echo
 
-    # TODO Brand logos, menu logo, Patch HD Level files
+    # Brand logos
+    echo "*** Brand logos... ***"
+    cp ${FULL_BANK_PATH}/FrontEnd/AllRes/LogoTexturePage.bnk ${BUILD_BANK_PATH}/FrontEnd/AllRes
+
+    # Menu logo
+    echo
+    echo "*** Menu logo... ***"
+    cp ${FULL_BANK_PATH}/FrontEnd/LowRes/LOG_IN.bnk ${BUILD_BANK_PATH}/FrontEnd/LowRes
+    cp ${FULL_BANK_PATH}/FrontEnd/HiRes/LOG_IN.bnk ${BUILD_BANK_PATH}/FrontEnd/HiRes
+    echo
+
+    # Level files
+    echo
+    echo "*** Level files for Patch HD... ***"
+    cp ${FULL_BANK_PATH}/Level/Hawai/CommonWorld.bnk ${BUILD_BANK_PATH}/Level/Hawai
+    cp ${FULL_BANK_PATH}/Level/Hawai/CommonWorldDiv2.bnk ${BUILD_BANK_PATH}/Level/Hawai
+    echo
 
     # Unlocked slot files
     echo "*** Unlocked slots files... ***"
@@ -37,7 +53,6 @@ newFiles() {
     echo
 
     echo "*** References... ***"
-    mkdir -p ${BUILD_TOOLS_PATH}
     cp ${TDUCP_PATH}/resources/physics/tdumt/VehicleSlots.xml ${BUILD_TOOLS_PATH}
     cp ${TDUCP_PATH}/resources/physics/tdupe/carData.mdb ${BUILD_TOOLS_PATH}
     echo
