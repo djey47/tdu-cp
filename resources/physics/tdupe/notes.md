@@ -7,3 +7,12 @@ TDUMT -> TDUPE
 - Save to .xlsx file
 - Open Access and import from Excel .xlsx file into carList table
 - Check everything went ok.
+
+
+Working Copy -> TDUPE
+---------------------
+
+- Make changes in Excel sheets
+- Open Access, empty following tables: carList, hud, rim
+- Import from Excel .xlsx file into carList, hud, rim tables
+- Check everything went ok.
