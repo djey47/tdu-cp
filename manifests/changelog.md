@@ -15,14 +15,16 @@
 - Moves updated TDUPE's **carData.mdb** file
 (check **tools** directory)
 
-- Unlocked/new slots have been removed from OahuCars dealers. Now locating vehicles is up to you !
+- Unlocked/new slots have been removed from OahuCars/Bikes dealers. Locating vehicles is up to you now!
 
 
 ## Bugfixes
 
+- Removes some database duplicates
 - Adds missing rims and huds in TDUPE reference
 - Fixes new slots can't be saved in TDUPE
-- Removes some database duplicates
+- Fixes HUD file reference for Unlocked Brabus S55 Slot
+- Fixes conflict in HUD file reference for Unlocked Mazda RX8 Slot
 
 
 ## Known Bugs
@@ -39,7 +41,7 @@ You tell me!
 - Includes official MagicMap
 - Maximize number of vehicles on every car dealer
 - Unlocks tuning kits for Ferrari F40
-- Special tuned cars available in tuners (Alfa GT SP, ...) [FULL PACKAGE ONLY]
+- Special tuned cars available in dealers (Alfa GT SP, ...) [FULL PACKAGE ONLY]
 - Provides new rim names for many mods (Bugatti Atlantic, Facel Vega...)
 - Unlocks Car Paint Deluxe for all cars
 - Adds new bots driving megapack vehicles
