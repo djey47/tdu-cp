@@ -2,11 +2,11 @@
   "items": [
     {
       "iPath": "D:\\Eden-Prog\\Games\\TestDrive\\Resources\\4Build\\PC\\EURO\\FrontEnd\\logotexturepage\\.2db\\icons_map",
-      "eFile": "%TEMP%\\icons_map.2db"
+      "eFile": ".\\textures-high\\icons_map.2db"
     },
     {
       "iPath": "D:\\Eden-Prog\\Games\\TestDrive\\Resources\\4Build\\PC\\EURO\\FrontEnd\\logotexturepage\\.2db\\logos_brands",
-      "eFile": "%TEMP%\\logos_brands.2db"
+      "eFile": "\\textures-high\\logos_brands.2db"
     }
   ]
 }

@@ -27,9 +27,6 @@ SET INSTALLER_FILES_DIR=%START_DIR%\TDUCP-2.00A-installer\files
 SET INSTALLER_FILES_PATCHES_DIR=%INSTALLER_FILES_DIR%\patches
 SET TDUMTCLI_EXE=%START_DIR%\TDUCP-2.00A-installer\tduf\tools\tdumt-cli\tdumt-cli.exe
 
-CD /D %START_DIR%
-CD TDUCP-2.00A-installer\tduf\cli
-
 ECHO TDUCP 2.00A INSTALLER
 ECHO =====================
 
@@ -42,21 +39,24 @@ ECHO.
 
 ECHO .Patching game files, please wait...
 SET PACKED_PATH="D:\Eden-Prog\Games\TestDrive\Resources\4Build\PC\EURO\FrontEnd\LOG_IN\.2db\fla_0013"
-ECHO *1*
+
+ECHO *1-Menu HI*
 CALL %TDUMTCLI_EXE% BANK-R "%BANKS_DIR%\FrontEnd\HiRes\LOG_IN.bnk" %PACKED_PATH% "%INSTALLER_FILES_PATCHES_DIR%\textures-high\fla_0013.2db"
-ECHO *2*
+
+ECHO *2-Menu LO*
 CALL %TDUMTCLI_EXE% BANK-R "%BANKS_DIR%\FrontEnd\LowRes\LOG_IN.bnk" %PACKED_PATH% "%INSTALLER_FILES_PATCHES_DIR%\textures-low\fla_0013.2db"
 
-REM TODO Check if TEMP env var can be resolved from json file
-ECHO *3*
-COPY %INSTALLER_FILES_PATCHES_DIR%\textures-high\icons_map.2db %TEMP%
-COPY %INSTALLER_FILES_PATCHES_DIR%\textures-high\logos_brands.2db %TEMP%
+ECHO *3-Brand logos*
+CD /D "%INSTALLER_FILES_PATCHES_DIR%"
 CALL %TDUMTCLI_EXE% BANK-RX "%BANKS_DIR%\FrontEnd\AllRes\LogoTexturePage.bnk" "%INSTALLER_FILES_PATCHES_DIR%\banksReplace_LOGO_TEX.json"
+CD -
 
 SET PACKED_PATH="D:\Eden-Prog\Games\TestDrive\Resources\4Build\PC\EURO\Level\Hawai\Common\Library\.3DD\Library"
-ECHO *4*
+
+ECHO *4-Patch HD Level Data HI*
 CALL %TDUMTCLI_EXE% BANK-R "%BANKS_DIR%\Level\Hawai\CommonWorld.bnk" %PACKED_PATH% "%INSTALLER_FILES_PATCHES_DIR%\Library.3DD"
-ECHO *5*
+
+ECHO *4-Patch HD Level Data LO*
 CALL %TDUMTCLI_EXE% BANK-R "%BANKS_DIR%\Level\Hawai\CommonWorldDiv2.bnk" %PACKED_PATH% "%INSTALLER_FILES_PATCHES_DIR%\Library.3DD"
 ECHO.
 
@@ -64,6 +64,8 @@ REM TODO Find cleaner way to copy
 ECHO .Copying new game files, please wait...
 XCOPY "%INSTALLER_FILES_DIR%\Euro" "%START_DIR%\Euro" /S /-Y /I < "%START_DIR%\no"
 ECHO.
+
+CD /D %START_DIR%\TDUCP-2.00A-installer\tduf\cli
 
 ECHO .Patching database, please wait...
 CALL .\DatabaseTool.cmd unpack-all -d "%DATABASE_DIR%" -j "%JSON_DATABASE_DIR%"
