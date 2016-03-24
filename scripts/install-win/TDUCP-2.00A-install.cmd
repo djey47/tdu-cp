@@ -23,7 +23,7 @@ exit /B
 SET BANKS_DIR=%START_DIR%\Euro\Bnk
 SET DATABASE_DIR=%BANKS_DIR%\Database
 SET JSON_DATABASE_DIR=%START_DIR%\TDUCP-2.00A-installer\database\current
-SET INSTALLER_FILES_DIR=%START_DIR%\TDUCP-2.00A-installer\files\patches
+SET INSTALLER_FILES_DIR=%START_DIR%\TDUCP-2.00A-installer\files
 SET INSTALLER_FILES_PATCHES_DIR=%INSTALLER_FILES_DIR%\patches
 SET TDUMTCLI_EXE=%START_DIR%\TDUCP-2.00A-installer\tduf\tools\tdumt-cli\tdumt-cli.exe
 
@@ -57,7 +57,7 @@ ECHO.
 
 REM TODO Find cleaner way to copy
 ECHO .Copying new game files, please wait...
-XCOPY "%INSTALLER_FILES_DIR%\Euro" "%BANKS_DIR%\Euro" /S /-Y /I < "%START_DIR%\no"
+XCOPY "%INSTALLER_FILES_DIR%\Euro" "%START_DIR%\Euro" /S /-Y /I < "%START_DIR%\no"
 ECHO.
 
 ECHO .Patching database, please wait...
