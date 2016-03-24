@@ -16,6 +16,10 @@
       "ref": "699572006",
       "partialValues": [
         {
+          "rank": 11,
+          "value": "6406580"
+        },
+        {
           "rank": 13,
           "value": "55448407"
         },
@@ -28,6 +32,12 @@
           "value": "111"
         }
       ]
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_PHYSICS_DATA",
+      "ref": "6406580",
+      "value": "RX8"
     }
   ]
 }

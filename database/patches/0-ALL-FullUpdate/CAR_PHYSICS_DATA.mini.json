@@ -15620,6 +15620,12 @@
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
+      "ref": "6406580",
+      "value": "RX8"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "CAR_PHYSICS_DATA",
       "ref": "6426580",
       "value": "C6_SNG"
     },
