@@ -1,16 +1,16 @@
-# TDU COMMUNITY PACK FULL INSTALL
+# TDU COMMUNITY PACK UPDATE INSTALL
 
 ## How to install?
 
-- Make sure you get TDU properly installed with following version: **1.66 + MEGAPACK**
+- Make sure you get TDU properly installed with one of following versions: **1.66 + MEGAPACK, 1.67, 1.68, 2.00A**
 
 - Make a backup copy of current install
 
-- Unzip all contents to directory of your choice
+- Unzip all contents to TDU directory, always replace all files when prompted
 
-- Copy all extracted files to TDU directory, always replace files when prompted
+- From Windows explorer, go TDU install location and run **TDUCP-2.00A-install.cmd** script
 
-- TDUMT/TDUPE: use updated references from Euro\Bnk\Database folder: **VehicleSlots.xml** and **carData.mdb** - replace original files
+- TDUMT/TDUPE: use updated references from tools folder: **VehicleSlots.xml** and **carData.mdb** - replace original files
 
 - Make sure to also read **files.md** and **changelog.md** before asking for help
 

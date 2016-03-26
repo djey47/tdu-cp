@@ -57,12 +57,27 @@ newFilesForUpdate() {
     newFiles
     slotFiles
 
+    # Readme
+    echo "*** Readme... ***"
+    cp ${TDUCP_PATH}/manifests/update/readme.md ${BUILD_PATH}
+    echo
+
     # Move slot files to installer paths
     mv ${BUILD_BANK_PATH}/Vehicules ${INSTALLER_BANK_PATH}
     mv ${BUILD_BANK_PATH}/Sound ${INSTALLER_BANK_PATH}
     mv ${BUILD_BANK_PATH}/FrontEnd/HiRes/Gauges ${INSTALLER_BANK_PATH}/FrontEnd/HiRes
     mv ${BUILD_BANK_PATH}/FrontEnd/LowRes/Gauges ${INSTALLER_BANK_PATH}/FrontEnd/LowRes
     rm -rf ${BUILD_BANK_PATH}/FrontEnd
+}
+
+# For full package only: to copy to existing TDU install, will replace files
+newFilesForFull() {
+    newFiles
+
+    # Readme
+    echo "*** Readme... ***"
+    cp ${TDUCP_PATH}/manifests/full/readme.md ${BUILD_PATH}
+    echo
 }
 
 # For update package only: replace in existing BNK files by Windows installer script

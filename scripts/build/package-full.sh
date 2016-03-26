@@ -13,7 +13,7 @@ source ./util/database.sh
 makeDirectoriesForFull
 
 #Files
-newFiles
+newFilesForFull
 replacedFiles
 generateMapping
 
