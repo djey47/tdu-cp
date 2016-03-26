@@ -13,6 +13,6 @@ Working Copy -> TDUPE
 ---------------------
 
 - Make changes in Excel sheets
-- Open Access, empty following tables: carList, hud, rim
-- Import from Excel .xlsx file into carList, hud, rim tables
+- Open Access, empty following tables: carList, hud, rims, cameras
+- Import from Excel .xlsx file into carList, hud, rim, cameras tables
 - Check everything went ok.
