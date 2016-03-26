@@ -5,26 +5,11 @@
 
 ## Features
 
-- Now proposes 2 Zip files to download:
 
-    - **Full** version, to install onto a freshly installed game
-    
-    - **Update** version, to apply to an already modified game. Contains most of the features (see list below).
-
-- Moves updated TDUMT's **VehicleSlots.xml** file
-- Moves updated TDUPE's **carData.mdb** file
-(check **tools** directory)
-
-- Unlocked/new slots have been removed from OahuCars/Bikes dealers. Locating vehicles is up to you now!
 
 
 ## Bugfixes
 
-- Removes some database duplicates
-- Adds missing rims and huds in TDUPE reference
-- Fixes new slots can't be saved in TDUPE
-- Fixes HUD file reference for Unlocked Brabus S55 Slot
-- Fixes conflict in HUD file reference for Unlocked Mazda RX8 Slot
 
 
 ## Known Bugs
@@ -104,4 +89,9 @@ You tell me!
 - F40 gets 2 identical tuning options in Forza Tuner
 - All Saleen Mustang cars get own rim set with proper file name ( **S281_F_01.bnk** to **S281_F_06.bnk** )
 - All Alfa GTs get own rim set with proper file name ( **ARGT02_F_F02.bnk** to **ARGT02_F_F04.bnk** )
-- All Nissan 350Zs get own rim set with proper file name ( **350ZNISMO_F_02.bnk** to **350ZNISMO_F_04.bnk** ).
+- All Nissan 350Zs get own rim set with proper file name ( **350ZNISMO_F_02.bnk** to **350ZNISMO_F_04.bnk** )
+- Removes some database duplicates
+- Adds missing rims and huds in TDUPE reference
+- Fixes new slots can't be saved in TDUPE
+- Fixes HUD file reference for Unlocked Brabus S55 Slot
+- Fixes conflict in HUD file reference for Unlocked Mazda RX8 Slot.
