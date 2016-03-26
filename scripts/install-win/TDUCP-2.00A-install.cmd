@@ -25,7 +25,8 @@ SET DATABASE_DIR=%BANKS_DIR%\Database
 SET JSON_DATABASE_DIR=%START_DIR%\TDUCP-2.00A-installer\database\current
 SET INSTALLER_FILES_DIR=%START_DIR%\TDUCP-2.00A-installer\files
 SET INSTALLER_FILES_PATCHES_DIR=%INSTALLER_FILES_DIR%\patches
-SET TDUMTCLI_EXE=%START_DIR%\TDUCP-2.00A-installer\tduf\tools\tdumt-cli\tdumt-cli.exe
+SET TDUF_DIR=%START_DIR%\TDUCP-2.00A-installer\tduf
+SET TDUMTCLI_EXE=%TDUF_DIR%\tools\tdumt-cli\tdumt-cli.exe
 
 ECHO TDUCP 2.00A INSTALLER
 ECHO =====================
@@ -33,6 +34,8 @@ ECHO =====================
 PAUSE
 
 ECHO .Initializing, please wait...
+ECHO %TDUF_DIR%
+CD /D "%TDUF_DIR%\cli"
 CALL .\CheckJava.cmd
 CALL .\SetVersion.cmd
 ECHO.
@@ -49,14 +52,14 @@ CALL %TDUMTCLI_EXE% BANK-R "%BANKS_DIR%\FrontEnd\LowRes\LOG_IN.bnk" %PACKED_PATH
 ECHO *3-Brand logos*
 CD /D "%INSTALLER_FILES_PATCHES_DIR%"
 CALL %TDUMTCLI_EXE% BANK-RX "%BANKS_DIR%\FrontEnd\AllRes\LogoTexturePage.bnk" "%INSTALLER_FILES_PATCHES_DIR%\banksReplace_LOGO_TEX.json"
-CD -
+REM CD -
 
 SET PACKED_PATH="D:\Eden-Prog\Games\TestDrive\Resources\4Build\PC\EURO\Level\Hawai\Common\Library\.3DD\Library"
 
 ECHO *4-Patch HD Level Data HI*
 CALL %TDUMTCLI_EXE% BANK-R "%BANKS_DIR%\Level\Hawai\CommonWorld.bnk" %PACKED_PATH% "%INSTALLER_FILES_PATCHES_DIR%\Library.3DD"
 
-ECHO *4-Patch HD Level Data LO*
+ECHO *5-Patch HD Level Data LO*
 CALL %TDUMTCLI_EXE% BANK-R "%BANKS_DIR%\Level\Hawai\CommonWorldDiv2.bnk" %PACKED_PATH% "%INSTALLER_FILES_PATCHES_DIR%\Library.3DD"
 ECHO.
 
