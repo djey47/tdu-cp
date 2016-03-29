@@ -5,11 +5,12 @@
 
 ## Features
 
-
+- Now comes under 7Zip format, making archives even smaller!
 
 
 ## Bugfixes
 
+- Fix update would replace custom physics on TDUCP vehicle slots.
 
 
 ## Known Bugs
