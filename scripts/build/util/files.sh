@@ -143,7 +143,7 @@ makeZip() {
     echo "*** Zipping... ***"
     pushd ${BUILD_PATH} > /dev/null
     TIMESTAMP=`date +%s`
-    zip -r ${TDUCP_PATH}/workspace/releases/$1-${TIMESTAMP}.zip *
+    7z a ${TDUCP_PATH}/workspace/releases/$1-${TIMESTAMP}.7z *
     popd > /dev/null
     echo
 }
