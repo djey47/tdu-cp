@@ -1320,583 +1320,680 @@
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "70007256",
-      "value": "Alice"
+      "value": "Alice",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "70017256",
-      "value": "Sophie"
+      "value": "Sophie",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "70027256",
-      "value": "Britney"
+      "value": "Britney",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "70037256",
-      "value": "Monique"
+      "value": "Monique",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "70047256",
-      "value": "Sigourney"
+      "value": "Sigourney",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "70057256",
-      "value": "Andie"
+      "value": "Andie",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "70067256",
-      "value": "Amelie"
+      "value": "Amelie",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "70077256",
-      "value": "Courtney"
+      "value": "Courtney",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "70087256",
-      "value": "Jennifer"
+      "value": "Jennifer",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "70097256",
-      "value": "Milla"
+      "value": "Milla",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "70107256",
-      "value": "Urma"
+      "value": "Urma",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "70117256",
-      "value": "Samantha"
+      "value": "Samantha",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "70127256",
-      "value": "Elise"
+      "value": "Elise",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "70137256",
-      "value": "Geraldine"
+      "value": "Geraldine",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "70147256",
-      "value": "Takeko"
+      "value": "Takeko",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "70157256",
-      "value": "Carmen"
+      "value": "Carmen",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "70167256",
-      "value": "Jessica"
+      "value": "Jessica",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "70177256",
-      "value": "Kevina"
+      "value": "Kevina",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "70187256",
-      "value": "Tiffany"
+      "value": "Tiffany",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "70197256",
-      "value": "Bonnie"
+      "value": "Bonnie",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "70207256",
-      "value": "Connie"
+      "value": "Connie",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "70217256",
-      "value": "Angela"
+      "value": "Angela",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "70227256",
-      "value": "Condolezza"
+      "value": "Condolezza",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "70237256",
-      "value": "Rachida"
+      "value": "Rachida",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "70247256",
-      "value": "Rama"
+      "value": "Rama",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "70257256",
-      "value": "Ashley"
+      "value": "Ashley",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "70267256",
-      "value": "Yasmina"
+      "value": "Yasmina",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "70277256",
-      "value": "Huguette"
+      "value": "Huguette",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "70287256",
-      "value": "Laetitia"
+      "value": "Laetitia",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "70297256",
-      "value": "Ophelie"
+      "value": "Ophelie",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "70307256",
-      "value": "Soyinka"
+      "value": "Soyinka",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "80007256",
-      "value": "Sebastien"
+      "value": "Sebastien",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "80017256",
-      "value": "Christophe"
+      "value": "Christophe",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "80027256",
-      "value": "Jerome"
+      "value": "Jerome",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "80037256",
-      "value": "Phillipe"
+      "value": "Phillipe",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "80047256",
-      "value": "Jean-Baptiste"
+      "value": "Jean-Baptiste",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "80057256",
-      "value": "Janot"
+      "value": "Janot",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "80067256",
-      "value": "Dimitri"
+      "value": "Dimitri",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "80077256",
-      "value": "Bart"
+      "value": "Bart",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "80087256",
-      "value": "Homer"
+      "value": "Homer",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "80097256",
-      "value": "Bud"
+      "value": "Bud",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "80107256",
-      "value": "Terence"
+      "value": "Terence",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "80117256",
-      "value": "Dick"
+      "value": "Dick",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "80127256",
-      "value": "Eddy"
+      "value": "Eddy",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "80137256",
-      "value": "Jim"
+      "value": "Jim",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "80147256",
-      "value": "James"
+      "value": "James",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "80157256",
-      "value": "Douglas"
+      "value": "Douglas",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "80167256",
-      "value": "Dallas"
+      "value": "Dallas",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "80177256",
-      "value": "Pierre"
+      "value": "Pierre",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "80187256",
-      "value": "Andre"
+      "value": "Andre",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "80197256",
-      "value": "Burt"
+      "value": "Burt",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "80207256",
-      "value": "Song Cha"
+      "value": "Song Cha",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "80217256",
-      "value": "Tetsuro"
+      "value": "Tetsuro",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "80227256",
-      "value": "Yves"
+      "value": "Yves",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "80237256",
-      "value": "Brett"
+      "value": "Brett",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "80247256",
-      "value": "Steve"
+      "value": "Steve",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "80257256",
-      "value": "Nelson"
+      "value": "Nelson",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "80267256",
-      "value": "Ricardo"
+      "value": "Ricardo",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "80277256",
-      "value": "David"
+      "value": "David",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "80287256",
-      "value": "Pedro"
+      "value": "Pedro",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "80297256",
-      "value": "Diego"
+      "value": "Diego",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "80307256",
-      "value": "Colt"
+      "value": "Colt",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "90007256",
-      "value": "Christopher"
+      "value": "Christopher",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "90017256",
-      "value": "Louis"
+      "value": "Louis",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "90027256",
-      "value": "Luis"
+      "value": "Luis",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "90037256",
-      "value": "Martial"
+      "value": "Martial",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "90047256",
-      "value": "John"
+      "value": "John",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "90057256",
-      "value": "Janot"
+      "value": "Janot",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "90067256",
-      "value": "Hervé"
+      "value": "Hervé",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "90077256",
-      "value": "Juan-Carlo"
+      "value": "Juan-Carlo",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "90087256",
-      "value": "Ayrton"
+      "value": "Ayrton",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "90097256",
-      "value": "Alain"
+      "value": "Alain",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "90107256",
-      "value": "Horst"
+      "value": "Horst",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "90117256",
-      "value": "Stephen"
+      "value": "Stephen",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "90127256",
-      "value": "Nino"
+      "value": "Nino",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "90137256",
-      "value": "Jawen"
+      "value": "Jawen",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "90147256",
-      "value": "Arthur"
+      "value": "Arthur",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "90157256",
-      "value": "Antoine"
+      "value": "Antoine",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "90167256",
-      "value": "Theodore"
+      "value": "Theodore",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "90177256",
-      "value": "Colin"
+      "value": "Colin",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "90187256",
-      "value": "Marcel"
+      "value": "Marcel",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "90197256",
-      "value": "Jules"
+      "value": "Jules",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "90207256",
-      "value": "Hector"
+      "value": "Hector",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "90217256",
-      "value": "Vincent"
+      "value": "Vincent",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "90227256",
-      "value": "Honore"
+      "value": "Honore",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "90237256",
-      "value": "Ettore"
+      "value": "Ettore",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "90247256",
-      "value": "Dino"
+      "value": "Dino",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "90257256",
-      "value": "Enzo"
+      "value": "Enzo",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "90267256",
-      "value": "Michael"
+      "value": "Michael",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "90277256",
-      "value": "Bruce"
+      "value": "Bruce",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "90287256",
-      "value": "Oleg"
+      "value": "Oleg",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "90297256",
-      "value": "Sergeï"
+      "value": "Sergeï",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "90307256",
-      "value": "Claudio"
+      "value": "Claudio",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "90317256",
-      "value": "Victor"
+      "value": "Victor",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "90327256",
-      "value": "Guy"
+      "value": "Guy",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "90337256",
-      "value": "Cody"
+      "value": "Cody",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "BOTS",
       "ref": "90347256",
-      "value": "Haggar"
+      "value": "Haggar",
+      "onlyAdd": true
     }
   ],
   "comment": "BOTS"

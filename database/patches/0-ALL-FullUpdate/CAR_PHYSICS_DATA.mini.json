@@ -198,7 +198,8 @@
         "100",
         "3000",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -308,7 +309,8 @@
         "100",
         "3001",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -418,7 +420,8 @@
         "100",
         "3002",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -528,7 +531,8 @@
         "100",
         "3003",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -638,7 +642,8 @@
         "100",
         "3004",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -748,7 +753,8 @@
         "100",
         "3005",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -858,7 +864,8 @@
         "100",
         "3006",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -968,7 +975,8 @@
         "100",
         "3007",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -1078,7 +1086,8 @@
         "100",
         "3008",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -1188,7 +1197,8 @@
         "100",
         "3009",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -1298,7 +1308,8 @@
         "100",
         "3010",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -1408,7 +1419,8 @@
         "100",
         "3011",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -1518,7 +1530,8 @@
         "100",
         "3012",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -1628,7 +1641,8 @@
         "100",
         "3013",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -1738,7 +1752,8 @@
         "100",
         "3014",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -1848,7 +1863,8 @@
         "100",
         "3015",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -1958,7 +1974,8 @@
         "100",
         "3016",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -2068,7 +2085,8 @@
         "100",
         "3017",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -2178,7 +2196,8 @@
         "100",
         "3018",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -2288,7 +2307,8 @@
         "100",
         "3019",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -2398,7 +2418,8 @@
         "100",
         "3020",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -2508,7 +2529,8 @@
         "100",
         "3021",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -2618,7 +2640,8 @@
         "100",
         "3022",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -2728,7 +2751,8 @@
         "100",
         "3023",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -2838,7 +2862,8 @@
         "100",
         "3024",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -2948,7 +2973,8 @@
         "100",
         "3025",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -3058,7 +3084,8 @@
         "100",
         "3026",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -3168,7 +3195,8 @@
         "100",
         "3027",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -3278,7 +3306,8 @@
         "100",
         "3028",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -3388,7 +3417,8 @@
         "100",
         "3029",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -3498,7 +3528,8 @@
         "100",
         "3030",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -3608,7 +3639,8 @@
         "100",
         "3031",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -3718,7 +3750,8 @@
         "100",
         "3032",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -3828,7 +3861,8 @@
         "100",
         "3033",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -3938,7 +3972,8 @@
         "100",
         "3034",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -4048,7 +4083,8 @@
         "100",
         "3035",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -4158,7 +4194,8 @@
         "100",
         "3036",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -4268,7 +4305,8 @@
         "100",
         "3037",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -4378,7 +4416,8 @@
         "100",
         "3038",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -4488,7 +4527,8 @@
         "100",
         "3039",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -4598,7 +4638,8 @@
         "100",
         "3040",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -4708,7 +4749,8 @@
         "100",
         "3041",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -4818,7 +4860,8 @@
         "100",
         "3042",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -4928,7 +4971,8 @@
         "100",
         "3043",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -5038,7 +5082,8 @@
         "100",
         "3044",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -5148,7 +5193,8 @@
         "100",
         "3045",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -5258,7 +5304,8 @@
         "100",
         "3046",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -5368,7 +5415,8 @@
         "100",
         "3047",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -5478,7 +5526,8 @@
         "100",
         "3048",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -5588,7 +5637,8 @@
         "100",
         "3049",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -5698,7 +5748,8 @@
         "100",
         "3050",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -5808,7 +5859,8 @@
         "100",
         "3051",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -5918,7 +5970,8 @@
         "100",
         "3052",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -6028,7 +6081,8 @@
         "100",
         "3053",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -6138,7 +6192,8 @@
         "100",
         "3054",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -6248,7 +6303,8 @@
         "100",
         "3055",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -6358,7 +6414,8 @@
         "100",
         "3056",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -6468,7 +6525,8 @@
         "100",
         "3057",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -6578,7 +6636,8 @@
         "100",
         "3058",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -6688,7 +6747,8 @@
         "100",
         "3059",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -6798,7 +6858,8 @@
         "100",
         "3060",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -6908,7 +6969,8 @@
         "100",
         "3061",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -7018,7 +7080,8 @@
         "100",
         "3062",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -7128,7 +7191,8 @@
         "100",
         "3063",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -7238,7 +7302,8 @@
         "100",
         "3064",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -7348,7 +7413,8 @@
         "100",
         "3065",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -7458,7 +7524,8 @@
         "100",
         "3066",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -7568,7 +7635,8 @@
         "100",
         "3067",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -7678,7 +7746,8 @@
         "100",
         "3068",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -7788,7 +7857,8 @@
         "100",
         "3069",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -7898,7 +7968,8 @@
         "100",
         "3070",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -8008,7 +8079,8 @@
         "100",
         "3071",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -8118,7 +8190,8 @@
         "100",
         "3072",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -8228,7 +8301,8 @@
         "100",
         "3073",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -8338,7 +8412,8 @@
         "100",
         "3074",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -8448,7 +8523,8 @@
         "100",
         "3075",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -8558,7 +8634,8 @@
         "100",
         "3076",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -8668,7 +8745,8 @@
         "100",
         "3077",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -8778,7 +8856,8 @@
         "100",
         "3078",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -8888,7 +8967,8 @@
         "100",
         "3079",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -8998,7 +9078,8 @@
         "100",
         "3080",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -9108,7 +9189,8 @@
         "100",
         "3081",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -9218,7 +9300,8 @@
         "100",
         "3082",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -9328,7 +9411,8 @@
         "100",
         "3083",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -9438,7 +9522,8 @@
         "100",
         "3084",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -9548,7 +9633,8 @@
         "100",
         "3085",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -9658,7 +9744,8 @@
         "100",
         "3086",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -9768,7 +9855,8 @@
         "100",
         "3087",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -9878,7 +9966,8 @@
         "100",
         "3088",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -9988,7 +10077,8 @@
         "100",
         "3089",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -10098,7 +10188,8 @@
         "100",
         "3090",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -10208,7 +10299,8 @@
         "100",
         "3091",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -10318,7 +10410,8 @@
         "100",
         "3092",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -10428,7 +10521,8 @@
         "100",
         "3093",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -10538,7 +10632,8 @@
         "100",
         "3094",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -10648,7 +10743,8 @@
         "100",
         "3095",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -10758,7 +10854,8 @@
         "100",
         "3096",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -10868,7 +10965,8 @@
         "100",
         "3097",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -10978,7 +11076,8 @@
         "100",
         "3098",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -11088,7 +11187,8 @@
         "100",
         "3099",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -11198,7 +11298,8 @@
         "100",
         "3100",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -11308,7 +11409,8 @@
         "100",
         "4000",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -11418,7 +11520,8 @@
         "100",
         "4001",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -11528,7 +11631,8 @@
         "100",
         "4002",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -11638,7 +11742,8 @@
         "100",
         "4003",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -11748,7 +11853,8 @@
         "100",
         "4004",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -11858,7 +11964,8 @@
         "100",
         "4005",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -11968,7 +12075,8 @@
         "100",
         "4006",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -12078,7 +12186,8 @@
         "100",
         "4007",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -12188,7 +12297,8 @@
         "100",
         "4008",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -12298,7 +12408,8 @@
         "100",
         "4009",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -12408,7 +12519,8 @@
         "100",
         "4010",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -12518,7 +12630,8 @@
         "100",
         "4011",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -12628,7 +12741,8 @@
         "100",
         "4012",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -12738,7 +12852,8 @@
         "100",
         "4013",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -12848,7 +12963,8 @@
         "100",
         "4014",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -12958,7 +13074,8 @@
         "100",
         "4015",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -13068,7 +13185,8 @@
         "100",
         "4016",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -13178,7 +13296,8 @@
         "100",
         "4017",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -13288,7 +13407,8 @@
         "100",
         "4018",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -13398,7 +13518,8 @@
         "100",
         "4019",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -13508,7 +13629,8 @@
         "100",
         "4020",
         "95"
-      ]
+      ],
+      "onlyAdd": true
     },
     {
       "type": "UPDATE",
@@ -14791,2425 +14913,2829 @@
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3000567",
-      "value": "TDUCP_3000"
+      "value": "TDUCP_3000",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3001567",
-      "value": "TDUCP_3001"
+      "value": "TDUCP_3001",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3002567",
-      "value": "TDUCP_3002"
+      "value": "TDUCP_3002",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3003567",
-      "value": "TDUCP_3003"
+      "value": "TDUCP_3003",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3004567",
-      "value": "TDUCP_3004"
+      "value": "TDUCP_3004",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3005567",
-      "value": "TDUCP_3005"
+      "value": "TDUCP_3005",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3006567",
-      "value": "TDUCP_3006"
+      "value": "TDUCP_3006",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3007567",
-      "value": "TDUCP_3007"
+      "value": "TDUCP_3007",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3008567",
-      "value": "TDUCP_3008"
+      "value": "TDUCP_3008",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3009567",
-      "value": "TDUCP_3009"
+      "value": "TDUCP_3009",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3010567",
-      "value": "TDUCP_3010"
+      "value": "TDUCP_3010",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3011567",
-      "value": "TDUCP_3011"
+      "value": "TDUCP_3011",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3012567",
-      "value": "TDUCP_3012"
+      "value": "TDUCP_3012",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3013567",
-      "value": "TDUCP_3013"
+      "value": "TDUCP_3013",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3014567",
-      "value": "TDUCP_3014"
+      "value": "TDUCP_3014",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3015567",
-      "value": "TDUCP_3015"
+      "value": "TDUCP_3015",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3016567",
-      "value": "TDUCP_3016"
+      "value": "TDUCP_3016",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3017567",
-      "value": "TDUCP_3017"
+      "value": "TDUCP_3017",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3018567",
-      "value": "TDUCP_3018"
+      "value": "TDUCP_3018",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3019567",
-      "value": "TDUCP_3019"
+      "value": "TDUCP_3019",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3020567",
-      "value": "TDUCP_3020"
+      "value": "TDUCP_3020",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3021567",
-      "value": "TDUCP_3021"
+      "value": "TDUCP_3021",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3022567",
-      "value": "TDUCP_3022"
+      "value": "TDUCP_3022",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3023567",
-      "value": "TDUCP_3023"
+      "value": "TDUCP_3023",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3024567",
-      "value": "TDUCP_3024"
+      "value": "TDUCP_3024",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3025567",
-      "value": "TDUCP_3025"
+      "value": "TDUCP_3025",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3026567",
-      "value": "TDUCP_3026"
+      "value": "TDUCP_3026",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3027567",
-      "value": "TDUCP_3027"
+      "value": "TDUCP_3027",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3028567",
-      "value": "TDUCP_3028"
+      "value": "TDUCP_3028",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3029567",
-      "value": "TDUCP_3029"
+      "value": "TDUCP_3029",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3030567",
-      "value": "TDUCP_3030"
+      "value": "TDUCP_3030",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3031567",
-      "value": "TDUCP_3031"
+      "value": "TDUCP_3031",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3032567",
-      "value": "TDUCP_3032"
+      "value": "TDUCP_3032",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3033567",
-      "value": "TDUCP_3033"
+      "value": "TDUCP_3033",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3034567",
-      "value": "TDUCP_3034"
+      "value": "TDUCP_3034",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3035567",
-      "value": "TDUCP_3035"
+      "value": "TDUCP_3035",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3036567",
-      "value": "TDUCP_3036"
+      "value": "TDUCP_3036",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3037567",
-      "value": "TDUCP_3037"
+      "value": "TDUCP_3037",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3038567",
-      "value": "TDUCP_3038"
+      "value": "TDUCP_3038",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3039567",
-      "value": "TDUCP_3039"
+      "value": "TDUCP_3039",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3040567",
-      "value": "TDUCP_3040"
+      "value": "TDUCP_3040",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3041567",
-      "value": "TDUCP_3041"
+      "value": "TDUCP_3041",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3042567",
-      "value": "TDUCP_3042"
+      "value": "TDUCP_3042",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3043567",
-      "value": "TDUCP_3043"
+      "value": "TDUCP_3043",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3044567",
-      "value": "TDUCP_3044"
+      "value": "TDUCP_3044",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3045567",
-      "value": "TDUCP_3045"
+      "value": "TDUCP_3045",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3046567",
-      "value": "TDUCP_3046"
+      "value": "TDUCP_3046",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3047567",
-      "value": "TDUCP_3047"
+      "value": "TDUCP_3047",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3048567",
-      "value": "TDUCP_3048"
+      "value": "TDUCP_3048",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3049567",
-      "value": "TDUCP_3049"
+      "value": "TDUCP_3049",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3050567",
-      "value": "TDUCP_3050"
+      "value": "TDUCP_3050",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3051567",
-      "value": "TDUCP_3051"
+      "value": "TDUCP_3051",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3052567",
-      "value": "TDUCP_3052"
+      "value": "TDUCP_3052",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3053567",
-      "value": "TDUCP_3053"
+      "value": "TDUCP_3053",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3054567",
-      "value": "TDUCP_3054"
+      "value": "TDUCP_3054",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3055567",
-      "value": "TDUCP_3055"
+      "value": "TDUCP_3055",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3056567",
-      "value": "TDUCP_3056"
+      "value": "TDUCP_3056",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3057567",
-      "value": "TDUCP_3057"
+      "value": "TDUCP_3057",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3058567",
-      "value": "TDUCP_3058"
+      "value": "TDUCP_3058",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3059567",
-      "value": "TDUCP_3059"
+      "value": "TDUCP_3059",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3060567",
-      "value": "TDUCP_3060"
+      "value": "TDUCP_3060",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3061567",
-      "value": "TDUCP_3061"
+      "value": "TDUCP_3061",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3062567",
-      "value": "TDUCP_3062"
+      "value": "TDUCP_3062",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3063567",
-      "value": "TDUCP_3063"
+      "value": "TDUCP_3063",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3064567",
-      "value": "TDUCP_3064"
+      "value": "TDUCP_3064",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3065567",
-      "value": "TDUCP_3065"
+      "value": "TDUCP_3065",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3066567",
-      "value": "TDUCP_3066"
+      "value": "TDUCP_3066",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3067567",
-      "value": "TDUCP_3067"
+      "value": "TDUCP_3067",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3068567",
-      "value": "TDUCP_3068"
+      "value": "TDUCP_3068",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3069567",
-      "value": "TDUCP_3069"
+      "value": "TDUCP_3069",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3070567",
-      "value": "TDUCP_3070"
+      "value": "TDUCP_3070",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3071567",
-      "value": "TDUCP_3071"
+      "value": "TDUCP_3071",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3072567",
-      "value": "TDUCP_3072"
+      "value": "TDUCP_3072",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3073567",
-      "value": "TDUCP_3073"
+      "value": "TDUCP_3073",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3074567",
-      "value": "TDUCP_3074"
+      "value": "TDUCP_3074",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3075567",
-      "value": "TDUCP_3075"
+      "value": "TDUCP_3075",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3076567",
-      "value": "TDUCP_3076"
+      "value": "TDUCP_3076",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3077567",
-      "value": "TDUCP_3077"
+      "value": "TDUCP_3077",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3078567",
-      "value": "TDUCP_3078"
+      "value": "TDUCP_3078",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3079567",
-      "value": "TDUCP_3079"
+      "value": "TDUCP_3079",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3080567",
-      "value": "TDUCP_3080"
+      "value": "TDUCP_3080",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3081567",
-      "value": "TDUCP_3081"
+      "value": "TDUCP_3081",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3082567",
-      "value": "TDUCP_3082"
+      "value": "TDUCP_3082",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3083567",
-      "value": "TDUCP_3083"
+      "value": "TDUCP_3083",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3084567",
-      "value": "TDUCP_3084"
+      "value": "TDUCP_3084",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3085567",
-      "value": "TDUCP_3085"
+      "value": "TDUCP_3085",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3086567",
-      "value": "TDUCP_3086"
+      "value": "TDUCP_3086",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3087567",
-      "value": "TDUCP_3087"
+      "value": "TDUCP_3087",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3088567",
-      "value": "TDUCP_3088"
+      "value": "TDUCP_3088",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3089567",
-      "value": "TDUCP_3089"
+      "value": "TDUCP_3089",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3090567",
-      "value": "TDUCP_3090"
+      "value": "TDUCP_3090",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3091567",
-      "value": "TDUCP_3091"
+      "value": "TDUCP_3091",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3092567",
-      "value": "TDUCP_3092"
+      "value": "TDUCP_3092",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3093567",
-      "value": "TDUCP_3093"
+      "value": "TDUCP_3093",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3094567",
-      "value": "TDUCP_3094"
+      "value": "TDUCP_3094",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3095567",
-      "value": "TDUCP_3095"
+      "value": "TDUCP_3095",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3096567",
-      "value": "TDUCP_3096"
+      "value": "TDUCP_3096",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3097567",
-      "value": "TDUCP_3097"
+      "value": "TDUCP_3097",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3098567",
-      "value": "TDUCP_3098"
+      "value": "TDUCP_3098",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3099567",
-      "value": "TDUCP_3099"
+      "value": "TDUCP_3099",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "3100567",
-      "value": "TDUCP_3100"
+      "value": "TDUCP_3100",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "4000567",
-      "value": "TDUCP_4000"
+      "value": "TDUCP_4000",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "4001567",
-      "value": "TDUCP_4001"
+      "value": "TDUCP_4001",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "4002567",
-      "value": "TDUCP_4002"
+      "value": "TDUCP_4002",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "4003567",
-      "value": "TDUCP_4003"
+      "value": "TDUCP_4003",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "4004567",
-      "value": "TDUCP_4004"
+      "value": "TDUCP_4004",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "4005567",
-      "value": "TDUCP_4005"
+      "value": "TDUCP_4005",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "4006567",
-      "value": "TDUCP_4006"
+      "value": "TDUCP_4006",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "4007567",
-      "value": "TDUCP_4007"
+      "value": "TDUCP_4007",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "4008567",
-      "value": "TDUCP_4008"
+      "value": "TDUCP_4008",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "4009567",
-      "value": "TDUCP_4009"
+      "value": "TDUCP_4009",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "4010567",
-      "value": "TDUCP_4010"
+      "value": "TDUCP_4010",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "4011567",
-      "value": "TDUCP_4011"
+      "value": "TDUCP_4011",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "4012567",
-      "value": "TDUCP_4012"
+      "value": "TDUCP_4012",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "4013567",
-      "value": "TDUCP_4013"
+      "value": "TDUCP_4013",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "4014567",
-      "value": "TDUCP_4014"
+      "value": "TDUCP_4014",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "4015567",
-      "value": "TDUCP_4015"
+      "value": "TDUCP_4015",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "4016567",
-      "value": "TDUCP_4016"
+      "value": "TDUCP_4016",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "4017567",
-      "value": "TDUCP_4017"
+      "value": "TDUCP_4017",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "4018567",
-      "value": "TDUCP_4018"
+      "value": "TDUCP_4018",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "4019567",
-      "value": "TDUCP_4019"
+      "value": "TDUCP_4019",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "4020567",
-      "value": "TDUCP_4020"
+      "value": "TDUCP_4020",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "5146567",
-      "value": "B55S"
+      "value": "B55S",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "5156580",
-      "value": "B55S"
+      "value": "B55S",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "5186567",
-      "value": "DBAR1"
+      "value": "DBAR1",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "5246567",
-      "value": "B61S"
+      "value": "B61S",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "5256580",
-      "value": "B61S"
+      "value": "B61S",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "5266580",
-      "value": "A3_V6N"
+      "value": "A3_V6N",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "5277580",
-      "value": "246_GTS"
+      "value": "246_GTS",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "5286567",
-      "value": "DB7_Vol"
+      "value": "DB7_Vol",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "6277580",
-      "value": "DB7_Vol"
+      "value": "DB7_Vol",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "6337567",
-      "value": "C6_SNG"
+      "value": "C6_SNG",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "6346567",
-      "value": "F40_P"
+      "value": "F40_P",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "6356580",
-      "value": "350Z_Rst"
+      "value": "350Z_Rst",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "6357580",
-      "value": "308_GTB_U"
+      "value": "308_GTB_U",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "6367567",
-      "value": "Mas_GT_Cpe"
+      "value": "Mas_GT_Cpe",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "6376580",
-      "value": "Mas_GT_Cpe"
+      "value": "Mas_GT_Cpe",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "6377580",
-      "value": "DBAR1"
+      "value": "DBAR1",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "6387567",
-      "value": "SRT6_RstP"
+      "value": "SRT6_RstP",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "6406580",
-      "value": "RX8"
+      "value": "RX8",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "6426580",
-      "value": "C6_SNG"
+      "value": "C6_SNG",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "6446567",
-      "value": "Viper_VP1"
+      "value": "Viper_VP1",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "6477580",
-      "value": "F40_P"
+      "value": "F40_P",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "6526580",
-      "value": "SRT6_RstP"
+      "value": "SRT6_RstP",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "6546567",
-      "value": "Viper_VP2"
+      "value": "Viper_VP2",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "6577580",
-      "value": "Viper_VP1"
+      "value": "Viper_VP1",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "6626580",
-      "value": "DAYTONA_955I"
+      "value": "DAYTONA_955I",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "6646567",
-      "value": "Viper_VP3"
+      "value": "Viper_VP3",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "6677580",
-      "value": "Viper_VP2"
+      "value": "Viper_VP2",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "6777580",
-      "value": "Viper_VP3"
+      "value": "Viper_VP3",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30003407",
-      "value": "TDUCP Model 3000"
+      "value": "TDUCP Model 3000",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30008427",
-      "value": "Version 3000"
+      "value": "Version 3000",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30013407",
-      "value": "TDUCP Model 3001"
+      "value": "TDUCP Model 3001",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30018427",
-      "value": "Version 3001"
+      "value": "Version 3001",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30023407",
-      "value": "TDUCP Model 3002"
+      "value": "TDUCP Model 3002",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30028427",
-      "value": "Version 3002"
+      "value": "Version 3002",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30033407",
-      "value": "TDUCP Model 3003"
+      "value": "TDUCP Model 3003",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30038427",
-      "value": "Version 3003"
+      "value": "Version 3003",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30043407",
-      "value": "TDUCP Model 3004"
+      "value": "TDUCP Model 3004",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30048427",
-      "value": "Version 3004"
+      "value": "Version 3004",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30053407",
-      "value": "TDUCP Model 3005"
+      "value": "TDUCP Model 3005",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30058427",
-      "value": "Version 3005"
+      "value": "Version 3005",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30063407",
-      "value": "TDUCP Model 3006"
+      "value": "TDUCP Model 3006",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30068427",
-      "value": "Version 3006"
+      "value": "Version 3006",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30073407",
-      "value": "TDUCP Model 3007"
+      "value": "TDUCP Model 3007",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30078427",
-      "value": "Version 3007"
+      "value": "Version 3007",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30083407",
-      "value": "TDUCP Model 3008"
+      "value": "TDUCP Model 3008",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30088427",
-      "value": "Version 3008"
+      "value": "Version 3008",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30093407",
-      "value": "TDUCP Model 3009"
+      "value": "TDUCP Model 3009",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30098427",
-      "value": "Version 3009"
+      "value": "Version 3009",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30103407",
-      "value": "TDUCP Model 3010"
+      "value": "TDUCP Model 3010",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30108427",
-      "value": "Version 3010"
+      "value": "Version 3010",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30113407",
-      "value": "TDUCP Model 3011"
+      "value": "TDUCP Model 3011",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30118427",
-      "value": "Version 3011"
+      "value": "Version 3011",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30123407",
-      "value": "TDUCP Model 3012"
+      "value": "TDUCP Model 3012",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30128427",
-      "value": "Version 3012"
+      "value": "Version 3012",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30133407",
-      "value": "TDUCP Model 3013"
+      "value": "TDUCP Model 3013",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30138427",
-      "value": "Version 3013"
+      "value": "Version 3013",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30143407",
-      "value": "TDUCP Model 3014"
+      "value": "TDUCP Model 3014",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30148427",
-      "value": "Version 3014"
+      "value": "Version 3014",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30153407",
-      "value": "TDUCP Model 3015"
+      "value": "TDUCP Model 3015",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30158427",
-      "value": "Version 3015"
+      "value": "Version 3015",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30163407",
-      "value": "TDUCP Model 3016"
+      "value": "TDUCP Model 3016",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30168427",
-      "value": "Version 3016"
+      "value": "Version 3016",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30173407",
-      "value": "TDUCP Model 3017"
+      "value": "TDUCP Model 3017",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30178427",
-      "value": "Version 3017"
+      "value": "Version 3017",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30183407",
-      "value": "TDUCP Model 3018"
+      "value": "TDUCP Model 3018",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30188427",
-      "value": "Version 3018"
+      "value": "Version 3018",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30193407",
-      "value": "TDUCP Model 3019"
+      "value": "TDUCP Model 3019",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30198427",
-      "value": "Version 3019"
+      "value": "Version 3019",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30203407",
-      "value": "TDUCP Model 3020"
+      "value": "TDUCP Model 3020",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30208427",
-      "value": "Version 3020"
+      "value": "Version 3020",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30213407",
-      "value": "TDUCP Model 3021"
+      "value": "TDUCP Model 3021",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30218427",
-      "value": "Version 3021"
+      "value": "Version 3021",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30223407",
-      "value": "TDUCP Model 3022"
+      "value": "TDUCP Model 3022",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30228427",
-      "value": "Version 3022"
+      "value": "Version 3022",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30233407",
-      "value": "TDUCP Model 3023"
+      "value": "TDUCP Model 3023",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30238427",
-      "value": "Version 3023"
+      "value": "Version 3023",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30243407",
-      "value": "TDUCP Model 3024"
+      "value": "TDUCP Model 3024",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30248427",
-      "value": "Version 3024"
+      "value": "Version 3024",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30253407",
-      "value": "TDUCP Model 3025"
+      "value": "TDUCP Model 3025",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30258427",
-      "value": "Version 3025"
+      "value": "Version 3025",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30263407",
-      "value": "TDUCP Model 3026"
+      "value": "TDUCP Model 3026",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30268427",
-      "value": "Version 3026"
+      "value": "Version 3026",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30273407",
-      "value": "TDUCP Model 3027"
+      "value": "TDUCP Model 3027",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30278427",
-      "value": "Version 3027"
+      "value": "Version 3027",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30283407",
-      "value": "TDUCP Model 3028"
+      "value": "TDUCP Model 3028",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30288427",
-      "value": "Version 3028"
+      "value": "Version 3028",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30293407",
-      "value": "TDUCP Model 3029"
+      "value": "TDUCP Model 3029",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30298427",
-      "value": "Version 3029"
+      "value": "Version 3029",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30303407",
-      "value": "TDUCP Model 3030"
+      "value": "TDUCP Model 3030",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30308427",
-      "value": "Version 3030"
+      "value": "Version 3030",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30313407",
-      "value": "TDUCP Model 3031"
+      "value": "TDUCP Model 3031",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30318427",
-      "value": "Version 3031"
+      "value": "Version 3031",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30323407",
-      "value": "TDUCP Model 3032"
+      "value": "TDUCP Model 3032",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30328427",
-      "value": "Version 3032"
+      "value": "Version 3032",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30333407",
-      "value": "TDUCP Model 3033"
+      "value": "TDUCP Model 3033",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30338427",
-      "value": "Version 3033"
+      "value": "Version 3033",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30343407",
-      "value": "TDUCP Model 3034"
+      "value": "TDUCP Model 3034",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30348427",
-      "value": "Version 3034"
+      "value": "Version 3034",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30353407",
-      "value": "TDUCP Model 3035"
+      "value": "TDUCP Model 3035",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30358427",
-      "value": "Version 3035"
+      "value": "Version 3035",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30363407",
-      "value": "TDUCP Model 3036"
+      "value": "TDUCP Model 3036",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30368427",
-      "value": "Version 3036"
+      "value": "Version 3036",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30373407",
-      "value": "TDUCP Model 3037"
+      "value": "TDUCP Model 3037",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30378427",
-      "value": "Version 3037"
+      "value": "Version 3037",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30383407",
-      "value": "TDUCP Model 3038"
+      "value": "TDUCP Model 3038",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30388427",
-      "value": "Version 3038"
+      "value": "Version 3038",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30393407",
-      "value": "TDUCP Model 3039"
+      "value": "TDUCP Model 3039",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30398427",
-      "value": "Version 3039"
+      "value": "Version 3039",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30403407",
-      "value": "TDUCP Model 3040"
+      "value": "TDUCP Model 3040",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30408427",
-      "value": "Version 3040"
+      "value": "Version 3040",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30413407",
-      "value": "TDUCP Model 3041"
+      "value": "TDUCP Model 3041",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30418427",
-      "value": "Version 3041"
+      "value": "Version 3041",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30423407",
-      "value": "TDUCP Model 3042"
+      "value": "TDUCP Model 3042",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30428427",
-      "value": "Version 3042"
+      "value": "Version 3042",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30433407",
-      "value": "TDUCP Model 3043"
+      "value": "TDUCP Model 3043",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30438427",
-      "value": "Version 3043"
+      "value": "Version 3043",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30443407",
-      "value": "TDUCP Model 3044"
+      "value": "TDUCP Model 3044",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30448427",
-      "value": "Version 3044"
+      "value": "Version 3044",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30453407",
-      "value": "TDUCP Model 3045"
+      "value": "TDUCP Model 3045",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30458427",
-      "value": "Version 3045"
+      "value": "Version 3045",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30463407",
-      "value": "TDUCP Model 3046"
+      "value": "TDUCP Model 3046",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30468427",
-      "value": "Version 3046"
+      "value": "Version 3046",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30473407",
-      "value": "TDUCP Model 3047"
+      "value": "TDUCP Model 3047",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30478427",
-      "value": "Version 3047"
+      "value": "Version 3047",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30483407",
-      "value": "TDUCP Model 3048"
+      "value": "TDUCP Model 3048",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30488427",
-      "value": "Version 3048"
+      "value": "Version 3048",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30493407",
-      "value": "TDUCP Model 3049"
+      "value": "TDUCP Model 3049",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30498427",
-      "value": "Version 3049"
+      "value": "Version 3049",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30503407",
-      "value": "TDUCP Model 3050"
+      "value": "TDUCP Model 3050",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30508427",
-      "value": "Version 3050"
+      "value": "Version 3050",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30513407",
-      "value": "TDUCP Model 3051"
+      "value": "TDUCP Model 3051",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30518427",
-      "value": "Version 3051"
+      "value": "Version 3051",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30523407",
-      "value": "TDUCP Model 3052"
+      "value": "TDUCP Model 3052",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30528427",
-      "value": "Version 3052"
+      "value": "Version 3052",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30533407",
-      "value": "TDUCP Model 3053"
+      "value": "TDUCP Model 3053",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30538427",
-      "value": "Version 3053"
+      "value": "Version 3053",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30543407",
-      "value": "TDUCP Model 3054"
+      "value": "TDUCP Model 3054",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30548427",
-      "value": "Version 3054"
+      "value": "Version 3054",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30553407",
-      "value": "TDUCP Model 3055"
+      "value": "TDUCP Model 3055",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30558427",
-      "value": "Version 3055"
+      "value": "Version 3055",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30563407",
-      "value": "TDUCP Model 3056"
+      "value": "TDUCP Model 3056",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30568427",
-      "value": "Version 3056"
+      "value": "Version 3056",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30573407",
-      "value": "TDUCP Model 3057"
+      "value": "TDUCP Model 3057",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30578427",
-      "value": "Version 3057"
+      "value": "Version 3057",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30583407",
-      "value": "TDUCP Model 3058"
+      "value": "TDUCP Model 3058",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30588427",
-      "value": "Version 3058"
+      "value": "Version 3058",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30593407",
-      "value": "TDUCP Model 3059"
+      "value": "TDUCP Model 3059",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30598427",
-      "value": "Version 3059"
+      "value": "Version 3059",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30603407",
-      "value": "TDUCP Model 3060"
+      "value": "TDUCP Model 3060",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30608427",
-      "value": "Version 3060"
+      "value": "Version 3060",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30613407",
-      "value": "TDUCP Model 3061"
+      "value": "TDUCP Model 3061",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30618427",
-      "value": "Version 3061"
+      "value": "Version 3061",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30623407",
-      "value": "TDUCP Model 3062"
+      "value": "TDUCP Model 3062",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30628427",
-      "value": "Version 3062"
+      "value": "Version 3062",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30633407",
-      "value": "TDUCP Model 3063"
+      "value": "TDUCP Model 3063",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30638427",
-      "value": "Version 3063"
+      "value": "Version 3063",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30643407",
-      "value": "TDUCP Model 3064"
+      "value": "TDUCP Model 3064",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30648427",
-      "value": "Version 3064"
+      "value": "Version 3064",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30653407",
-      "value": "TDUCP Model 3065"
+      "value": "TDUCP Model 3065",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30658427",
-      "value": "Version 3065"
+      "value": "Version 3065",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30663407",
-      "value": "TDUCP Model 3066"
+      "value": "TDUCP Model 3066",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30668427",
-      "value": "Version 3066"
+      "value": "Version 3066",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30673407",
-      "value": "TDUCP Model 3067"
+      "value": "TDUCP Model 3067",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30678427",
-      "value": "Version 3067"
+      "value": "Version 3067",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30683407",
-      "value": "TDUCP Model 3068"
+      "value": "TDUCP Model 3068",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30688427",
-      "value": "Version 3068"
+      "value": "Version 3068",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30693407",
-      "value": "TDUCP Model 3069"
+      "value": "TDUCP Model 3069",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30698427",
-      "value": "Version 3069"
+      "value": "Version 3069",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30703407",
-      "value": "TDUCP Model 3070"
+      "value": "TDUCP Model 3070",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30708427",
-      "value": "Version 3070"
+      "value": "Version 3070",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30713407",
-      "value": "TDUCP Model 3071"
+      "value": "TDUCP Model 3071",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30718427",
-      "value": "Version 3071"
+      "value": "Version 3071",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30723407",
-      "value": "TDUCP Model 3072"
+      "value": "TDUCP Model 3072",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30728427",
-      "value": "Version 3072"
+      "value": "Version 3072",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30733407",
-      "value": "TDUCP Model 3073"
+      "value": "TDUCP Model 3073",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30738427",
-      "value": "Version 3073"
+      "value": "Version 3073",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30743407",
-      "value": "TDUCP Model 3074"
+      "value": "TDUCP Model 3074",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30748427",
-      "value": "Version 3074"
+      "value": "Version 3074",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30753407",
-      "value": "TDUCP Model 3075"
+      "value": "TDUCP Model 3075",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30758427",
-      "value": "Version 3075"
+      "value": "Version 3075",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30763407",
-      "value": "TDUCP Model 3076"
+      "value": "TDUCP Model 3076",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30768427",
-      "value": "Version 3076"
+      "value": "Version 3076",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30773407",
-      "value": "TDUCP Model 3077"
+      "value": "TDUCP Model 3077",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30778427",
-      "value": "Version 3077"
+      "value": "Version 3077",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30783407",
-      "value": "TDUCP Model 3078"
+      "value": "TDUCP Model 3078",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30788427",
-      "value": "Version 3078"
+      "value": "Version 3078",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30793407",
-      "value": "TDUCP Model 3079"
+      "value": "TDUCP Model 3079",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30798427",
-      "value": "Version 3079"
+      "value": "Version 3079",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30803407",
-      "value": "TDUCP Model 3080"
+      "value": "TDUCP Model 3080",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30808427",
-      "value": "Version 3080"
+      "value": "Version 3080",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30813407",
-      "value": "TDUCP Model 3081"
+      "value": "TDUCP Model 3081",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30818427",
-      "value": "Version 3081"
+      "value": "Version 3081",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30823407",
-      "value": "TDUCP Model 3082"
+      "value": "TDUCP Model 3082",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30828427",
-      "value": "Version 3082"
+      "value": "Version 3082",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30833407",
-      "value": "TDUCP Model 3083"
+      "value": "TDUCP Model 3083",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30838427",
-      "value": "Version 3083"
+      "value": "Version 3083",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30843407",
-      "value": "TDUCP Model 3084"
+      "value": "TDUCP Model 3084",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30848427",
-      "value": "Version 3084"
+      "value": "Version 3084",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30853407",
-      "value": "TDUCP Model 3085"
+      "value": "TDUCP Model 3085",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30858427",
-      "value": "Version 3085"
+      "value": "Version 3085",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30863407",
-      "value": "TDUCP Model 3086"
+      "value": "TDUCP Model 3086",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30868427",
-      "value": "Version 3086"
+      "value": "Version 3086",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30873407",
-      "value": "TDUCP Model 3087"
+      "value": "TDUCP Model 3087",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30878427",
-      "value": "Version 3087"
+      "value": "Version 3087",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30883407",
-      "value": "TDUCP Model 3088"
+      "value": "TDUCP Model 3088",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30888427",
-      "value": "Version 3088"
+      "value": "Version 3088",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30893407",
-      "value": "TDUCP Model 3089"
+      "value": "TDUCP Model 3089",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30898427",
-      "value": "Version 3089"
+      "value": "Version 3089",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30903407",
-      "value": "TDUCP Model 3090"
+      "value": "TDUCP Model 3090",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30908427",
-      "value": "Version 3090"
+      "value": "Version 3090",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30913407",
-      "value": "TDUCP Model 3091"
+      "value": "TDUCP Model 3091",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30918427",
-      "value": "Version 3091"
+      "value": "Version 3091",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30923407",
-      "value": "TDUCP Model 3092"
+      "value": "TDUCP Model 3092",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30928427",
-      "value": "Version 3092"
+      "value": "Version 3092",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30933407",
-      "value": "TDUCP Model 3093"
+      "value": "TDUCP Model 3093",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30938427",
-      "value": "Version 3093"
+      "value": "Version 3093",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30943407",
-      "value": "TDUCP Model 3094"
+      "value": "TDUCP Model 3094",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30948427",
-      "value": "Version 3094"
+      "value": "Version 3094",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30953407",
-      "value": "TDUCP Model 3095"
+      "value": "TDUCP Model 3095",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30958427",
-      "value": "Version 3095"
+      "value": "Version 3095",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30963407",
-      "value": "TDUCP Model 3096"
+      "value": "TDUCP Model 3096",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30968427",
-      "value": "Version 3096"
+      "value": "Version 3096",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30973407",
-      "value": "TDUCP Model 3097"
+      "value": "TDUCP Model 3097",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30978427",
-      "value": "Version 3097"
+      "value": "Version 3097",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30983407",
-      "value": "TDUCP Model 3098"
+      "value": "TDUCP Model 3098",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30988427",
-      "value": "Version 3098"
+      "value": "Version 3098",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30993407",
-      "value": "TDUCP Model 3099"
+      "value": "TDUCP Model 3099",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "30998427",
-      "value": "Version 3099"
+      "value": "Version 3099",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "31003407",
-      "value": "TDUCP Model 3100"
+      "value": "TDUCP Model 3100",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "31008427",
-      "value": "Version 3100"
+      "value": "Version 3100",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "40003407",
-      "value": "TDUCP Model 4000"
+      "value": "TDUCP Model 4000",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "40008427",
-      "value": "Version 4000"
+      "value": "Version 4000",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "40013407",
-      "value": "TDUCP Model 4001"
+      "value": "TDUCP Model 4001",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "40018427",
-      "value": "Version 4001"
+      "value": "Version 4001",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "40023407",
-      "value": "TDUCP Model 4002"
+      "value": "TDUCP Model 4002",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "40028427",
-      "value": "Version 4002"
+      "value": "Version 4002",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "40033407",
-      "value": "TDUCP Model 4003"
+      "value": "TDUCP Model 4003",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "40038427",
-      "value": "Version 4003"
+      "value": "Version 4003",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "40043407",
-      "value": "TDUCP Model 4004"
+      "value": "TDUCP Model 4004",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "40048427",
-      "value": "Version 4004"
+      "value": "Version 4004",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "40053407",
-      "value": "TDUCP Model 4005"
+      "value": "TDUCP Model 4005",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "40058427",
-      "value": "Version 4005"
+      "value": "Version 4005",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "40063407",
-      "value": "TDUCP Model 4006"
+      "value": "TDUCP Model 4006",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "40068427",
-      "value": "Version 4006"
+      "value": "Version 4006",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "40073407",
-      "value": "TDUCP Model 4007"
+      "value": "TDUCP Model 4007",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "40078427",
-      "value": "Version 4007"
+      "value": "Version 4007",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "40083407",
-      "value": "TDUCP Model 4008"
+      "value": "TDUCP Model 4008",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "40088427",
-      "value": "Version 4008"
+      "value": "Version 4008",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "40093407",
-      "value": "TDUCP Model 4009"
+      "value": "TDUCP Model 4009",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "40098427",
-      "value": "Version 4009"
+      "value": "Version 4009",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "40103407",
-      "value": "TDUCP Model 4010"
+      "value": "TDUCP Model 4010",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "40108427",
-      "value": "Version 4010"
+      "value": "Version 4010",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "40113407",
-      "value": "TDUCP Model 4011"
+      "value": "TDUCP Model 4011",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "40118427",
-      "value": "Version 4011"
+      "value": "Version 4011",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "40123407",
-      "value": "TDUCP Model 4012"
+      "value": "TDUCP Model 4012",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "40128427",
-      "value": "Version 4012"
+      "value": "Version 4012",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "40133407",
-      "value": "TDUCP Model 4013"
+      "value": "TDUCP Model 4013",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "40138427",
-      "value": "Version 4013"
+      "value": "Version 4013",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "40143407",
-      "value": "TDUCP Model 4014"
+      "value": "TDUCP Model 4014",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "40148427",
-      "value": "Version 4014"
+      "value": "Version 4014",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "40153407",
-      "value": "TDUCP Model 4015"
+      "value": "TDUCP Model 4015",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "40158427",
-      "value": "Version 4015"
+      "value": "Version 4015",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "40163407",
-      "value": "TDUCP Model 4016"
+      "value": "TDUCP Model 4016",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "40168427",
-      "value": "Version 4016"
+      "value": "Version 4016",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "40173407",
-      "value": "TDUCP Model 4017"
+      "value": "TDUCP Model 4017",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "40178427",
-      "value": "Version 4017"
+      "value": "Version 4017",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "40183407",
-      "value": "TDUCP Model 4018"
+      "value": "TDUCP Model 4018",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "40188427",
-      "value": "Version 4018"
+      "value": "Version 4018",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "40193407",
-      "value": "TDUCP Model 4019"
+      "value": "TDUCP Model 4019",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "40198427",
-      "value": "Version 4019"
+      "value": "Version 4019",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "40203407",
-      "value": "TDUCP Model 4020"
+      "value": "TDUCP Model 4020",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "40208427",
-      "value": "Version 4020"
+      "value": "Version 4020",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "52603667",
-      "value": "SRT6 Roadster Prime"
+      "value": "SRT6 Roadster Prime",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "53138407",
-      "value": "DBAR1"
+      "value": "DBAR1",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "58738427",
-      "value": "6.1"
+      "value": "6.1",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "59738427",
-      "value": "5.5"
+      "value": "5.5",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "63592366",
-      "value": "C6™ 'ShowNGo'"
+      "value": "C6™ 'ShowNGo'",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "63648407",
-      "value": "DB AR1"
+      "value": "DB AR1",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "63882366",
-      "value": "V6 'N'"
+      "value": "V6 'N'",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "64093667",
-      "value": "GranTurismo"
+      "value": "GranTurismo",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "64592366",
-      "value": "Prime"
+      "value": "Prime",
+      "onlyAdd": true
     },
     {
       "type": "UPDATE_RES",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "81082366",
-      "value": "3.2 V6 24v Sport Technical Kit"
+      "value": "3.2 V6 24v Sport Technical Kit",
+      "onlyAdd": true
     }
   ],
   "comment": "CAR_PHYSICS_DATA"
