@@ -5,12 +5,12 @@
 
 ## Features
 
-- Now comes under 7Zip format, making archives even smaller!
+- 
 
 
 ## Bugfixes
 
-- Fix update would replace custom physics on TDUCP vehicle slots.
+- Removes unlocked slots from various dealers and V-rent to free up space [FULL PACKAGE ONLY]
 
 
 ## Known Bugs
@@ -22,6 +22,7 @@ You tell me!
 
 ### Features
 
+- Now comes under 7Zip format, making archives even smaller!
 - Includes Community Patch 1.68b cameras
 - Includes Patch HD in SD mode. Instructions to disable/upgrade to higher level in a further release
 - Includes official MagicMap
@@ -95,4 +96,5 @@ You tell me!
 - Adds missing rims and huds in TDUPE reference
 - Fixes new slots can't be saved in TDUPE
 - Fixes HUD file reference for Unlocked Brabus S55 Slot
-- Fixes conflict in HUD file reference for Unlocked Mazda RX8 Slot.
+- Fixes conflict in HUD file reference for Unlocked Mazda RX8 Slot
+- Fix update would replace custom physics on TDUCP vehicle slots.
