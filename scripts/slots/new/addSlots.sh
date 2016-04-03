@@ -9,7 +9,7 @@ NEW_SLOTS_PATCHES_PATH=${TDUCP_PATH}/database/patches/New\ vehicle\ slots
 CAR_SLOT_TEMPLATE_PATH=${NEW_SLOTS_PATCHES_PATH}/CarSlotTemplate.mini.json
 BIKE_SLOT_TEMPLATE_PATH=${NEW_SLOTS_PATCHES_PATH}/BikeSlotTemplate.mini.json
 
-cat newSlotIds.txt | while read id
+cat newSlotIds_phase2.txt | while read id
 do
    if [[ ${id} == 3* ]]; then
       echo "- ${id} (car slot)"
@@ -58,8 +58,6 @@ do
    echo "COLORNAME.1=TDUCP_${id} exterior color 1" >> ${PATCH_PROPERTIES_PATH}
    # Int Schemes
    echo "INTREF.1=${id}9636" >> ${PATCH_PROPERTIES_PATH}
-   echo "RES_INTNAME.1=${id}5512" >> ${PATCH_PROPERTIES_PATH}
-   echo "INTNAME.1=TDUCP_${id} interior scheme 1" >> ${PATCH_PROPERTIES_PATH}
    echo "INTCOLORID.M.1=53364643" >> ${PATCH_PROPERTIES_PATH}
    echo "INTCOLORID.S.1=53364643" >> ${PATCH_PROPERTIES_PATH}
    echo "INTMATERIALID.1=53364643" >> ${PATCH_PROPERTIES_PATH}
