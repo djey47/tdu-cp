@@ -5,7 +5,11 @@
 
 ## Features
 
-- 
+- Creates again 120 *brand new* slots:
+( can be used with any mod, you just have to rename your files to TDUCP_xxxx.bnk ... see **files.md** for details )
+    - 310100000 to 320000000 => TDUCP Model 3101 to 3200 (Cars)
+    - 402100000 to 404000000 => TDUCP Model 4021 to 4040 (Bikes)
+( you have to set them manually to dealers, using tools ).   
 
 
 ## Bugfixes

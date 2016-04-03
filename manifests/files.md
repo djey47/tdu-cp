@@ -44,9 +44,9 @@
 
     - *SRT6_RstP.bnk* [unlocked slots]
     
-    - *TDUCP_3000.bnk ... TDUCP_3100.bnk* [new slots]
+    - *TDUCP_3000.bnk ... TDUCP_3200.bnk* [new slots]
 
-    - *TDUCP_4000.bnk ... TDUCP_4020.bnk* [new slots]
+    - *TDUCP_4000.bnk ... TDUCP_4040.bnk* [new slots]
 
     - *Viper_VP1.bnk* [unlocked slots]
 
@@ -90,9 +90,9 @@
 
     - *SRT6_RstP.bnk* [unlocked slots]
 
-    - *TDUCP_3000.bnk ... TDUCP_3100.bnk* [new slots]
+    - *TDUCP_3000.bnk ... TDUCP_3200.bnk* [new slots]
 
-    - *TDUCP_4000.bnk ... TDUCP_4020.bnk* [new slots]
+    - *TDUCP_4000.bnk ... TDUCP_4040.bnk* [new slots]
 
     - *Viper_VP1.bnk* [unlocked slots]
 
@@ -148,9 +148,9 @@
     
     - *SRT6_RstP_audio.bnk* [unlocked slots]
 
-    - *TDUCP_3000_audio.bnk ... TDUCP_3100_audio.bnk* [new slots]
+    - *TDUCP_3000_audio.bnk ... TDUCP_3200_audio.bnk* [new slots]
 
-    - *TDUCP_4000_audio.bnk ... TDUCP_4020_audio.bnk* [new slots]
+    - *TDUCP_4000_audio.bnk ... TDUCP_4040_audio.bnk* [new slots]
 
     - *Viper_VP1_audio.bnk* [unlocked slots]
 
@@ -256,13 +256,13 @@
 
     - *SRT6_RstP_I.bnk* [unlocked slots]
 
-    - *TDUCP_3000.bnk ... TDUCP_3100.bnk* [new slots]
+    - *TDUCP_3000.bnk ... TDUCP_3200.bnk* [new slots]
 
-    - *TDUCP_3000_I.bnk ... TDUCP_3100_I.bnk* [new slots]
+    - *TDUCP_3000_I.bnk ... TDUCP_3200_I.bnk* [new slots]
 
-    - *TDUCP_4000.bnk ... TDUCP_4020.bnk* [new slots]
+    - *TDUCP_4000.bnk ... TDUCP_4040.bnk* [new slots]
 
-    - *TDUCP_4000_I.bnk ... TDUCP_4020_I.bnk* [new slots]
+    - *TDUCP_4000_I.bnk ... TDUCP_4040_I.bnk* [new slots]
 
     - *Viper_VP1.bnk* [unlocked slots]
 
@@ -326,13 +326,13 @@
 
 - **Euro\Bnk\Vehicules\Rim\Default**
 
-    - *TDUCP_3000_F_01.bnk ... *TDUCP_3100_F_01.bnk* [new slots]
+    - *TDUCP_3000_F_01.bnk ... *TDUCP_3200_F_01.bnk* [new slots]
 
-    - *TDUCP_3000_R_01.bnk ... *TDUCP_3100_R_01.bnk* [new slots]
+    - *TDUCP_3000_R_01.bnk ... *TDUCP_3200_R_01.bnk* [new slots]
     
-    - *TDUCP_4000_F_01.bnk ... *TDUCP_4020_F_01.bnk* [new slots]
+    - *TDUCP_4000_F_01.bnk ... *TDUCP_4040_F_01.bnk* [new slots]
 
-    - *TDUCP_4000_R_01.bnk ... *TDUCP_4020_R_01.bnk* [new slots]
+    - *TDUCP_4000_R_01.bnk ... *TDUCP_4040_R_01.bnk* [new slots]
 
 - **Euro\Bnk\Vehicules\Rim\Ferrari**
 
