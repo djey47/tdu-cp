@@ -36,8 +36,6 @@ Included templates depend on following placeholder values:
 - INTREF.1: Interior_1 on CarColors topic, first color set (#8)
 
 - INTREF.1: REF on Interior topic, first interior scheme (#1)
-- RES_INTNAME.1: Interior_Name on Interior topic, first interior scheme (#3)
-- INTNAME.1: Value of resource #RES_INTNAME.1
 - INTCOLORID.M.1: Interior_Color_1 on Interior topic, first interior scheme (#4)
 - INTCOLORID.S.1: Interior_Color_2 on Interior topic, first interior scheme (#5)
 - INTMATERIALID.1: Material on Interior topic, first interior scheme (#6)
