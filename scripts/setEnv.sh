@@ -11,7 +11,7 @@ export BUILD_PATCH_VERSION=2.00A
 
 
 # Below should not be modified
-export TDUF_VERSION=`cat ${TDUF_PATH}/lib/version.info`
+export TDUF_VERSION=`cat ${TDUF_PATH}/tools/lib/version.info`
 
 CURRENT_PATH=`readlink -f $BASH_SOURCE`
 export SCRIPTS_PATH=`dirname ${CURRENT_PATH}`

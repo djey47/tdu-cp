@@ -5,5 +5,5 @@
 source ../setEnv.sh
 
 cd ${TDUF_PATH}
-java -cp ./lib/tduf-gui-database-all-${TDUF_VERSION}.jar fr.tduf.gui.database.DatabaseEditor "${CURRENT_DB_PATH}"
+java -cp ./tools/lib/tduf-${TDUF_VERSION}.jar fr.tduf.gui.database.DatabaseEditor "${CURRENT_DB_PATH}"
 cd - > /dev/null
