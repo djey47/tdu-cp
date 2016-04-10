@@ -5,16 +5,12 @@
 
 ## Features
 
-- Creates again 120 *brand new* slots:
-( can be used with any mod, you just have to rename your files to TDUCP_xxxx.bnk ... see **files.md** for details )
-    - 310100000 to 320000000 => TDUCP Model 3101 to 3200 (Cars)
-    - 402100000 to 404000000 => TDUCP Model 4021 to 4040 (Bikes)
-( you have to set them manually to dealers, using tools ).   
+-    
 
 
 ## Bugfixes
 
-- Removes unlocked slots from various dealers and V-rent to free up space [FULL PACKAGE ONLY]
+-
 
 
 ## Known Bugs
@@ -69,12 +65,11 @@ You tell me!
     - Chevrolet Corvette'63
     - Triumph 955I Daytona
 
-- Creates 120 *brand new* slots:
+- Brings 240 *brand new* slots:
 ( can be used with any mod, you just have to rename your files to TDUCP_3000.bnk or TDUCP_4000.bnk ... see **files.md** for details )
-    - 300000000 to 310000000 => TDUCP Model 3000 to 3100 (Cars)
-    - 400000000 to 402000000 => TDUCP Model 4000 to 4020 (Bikes)
+    - 300000000 to 310000000 => TDUCP Model 3000 to 3200 (Cars)
+    - 400000000 to 402000000 => TDUCP Model 4000 to 4040 (Bikes)
 ( you have to set them manually to dealers, using tools ).   
-
 
 
 ### Bugfixes
@@ -101,4 +96,5 @@ You tell me!
 - Fixes new slots can't be saved in TDUPE
 - Fixes HUD file reference for Unlocked Brabus S55 Slot
 - Fixes conflict in HUD file reference for Unlocked Mazda RX8 Slot
-- Fix update would replace custom physics on TDUCP vehicle slots.
+- Fix update would replace custom physics on TDUCP vehicle slots
+- Removes unlocked slots from various dealers and V-rent to free up space [FULL PACKAGE ONLY].
