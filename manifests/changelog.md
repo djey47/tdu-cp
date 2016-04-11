@@ -5,12 +5,12 @@
 
 ## Features
 
--    
-
+Nope this time.
+    
 
 ## Bugfixes
 
--
+- Enable new slots [UPDATE PACKAGE ONLY]
 
 
 ## Known Bugs
