@@ -26,6 +26,7 @@ SET JSON_DATABASE_DIR=%START_DIR%\TDUCP-2.00A-installer\database\current
 SET INSTALLER_FILES_DIR=%START_DIR%\TDUCP-2.00A-installer\files
 SET INSTALLER_FILES_PATCHES_DIR=%INSTALLER_FILES_DIR%\patches
 SET TDUF_DIR=%START_DIR%\TDUCP-2.00A-installer\tduf
+SET TDUF_CLI_DIR=%TDUF_DIR%\tools\cli
 SET TDUMTCLI_EXE=%TDUF_DIR%\tools\tdumt-cli\tdumt-cli.exe
 
 ECHO TDUCP 2.00A INSTALLER
@@ -34,8 +35,8 @@ ECHO =====================
 PAUSE
 
 ECHO .Initializing, please wait...
-ECHO %TDUF_DIR%
-CD /D "%TDUF_DIR%\cli"
+ECHO TDUF location: %TDUF_DIR%
+CD /D "%TDUF_CLI_DIR%"
 CALL .\CheckJava.cmd
 CALL .\SetVersion.cmd
 ECHO.
@@ -68,7 +69,7 @@ ECHO .Copying new game files, please wait...
 XCOPY "%INSTALLER_FILES_DIR%\Euro" "%START_DIR%\Euro" /S /-Y /I < "%START_DIR%\no"
 ECHO.
 
-CD /D %START_DIR%\TDUCP-2.00A-installer\tduf\cli
+CD /D "%TDUF_CLI_DIR%"
 
 ECHO .Patching database, please wait...
 CALL .\DatabaseTool.cmd unpack-all -d "%DATABASE_DIR%" -j "%JSON_DATABASE_DIR%"
