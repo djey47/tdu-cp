@@ -10,6 +10,8 @@
 
 - From Windows explorer, go TDU install location and run **TDUCP-2.00A-install.cmd** script
 
+- Install results will be stored in **TDUCP-install.log** file
+
 - TDUMT/TDUPE: use updated references from tools folder: **VehicleSlots.xml** and **carData.mdb** - replace original files
 
 - Make sure to also read **files.md** and **changelog.md** before asking for help

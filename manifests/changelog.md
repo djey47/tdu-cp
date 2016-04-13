@@ -5,12 +5,12 @@
 
 ## Features
 
-Nope this time.
+- Enhance install script with logging [UPDATE PACKAGE ONLY]
     
 
 ## Bugfixes
 
-- Enable new slots [UPDATE PACKAGE ONLY]
+Nope this time. 
 
 
 ## Known Bugs
