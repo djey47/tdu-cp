@@ -21,7 +21,7 @@ exit /B
 
 :gotPrivileges
 
-CD \D %START_DIR%
+CD /D %START_DIR%
 
 ECHO TDUCP PATCH HD SETTINGS
 ECHO =======================
@@ -36,9 +36,9 @@ ECHO 6.Nope, just get me out of here!
 ECHO.
 
 CHOICE /C 0123456 /M "Enter your choice:"
-SET PATCHOPTION = %ERRORLEVEL%
+SET PATCHOPTION=%ERRORLEVEL%
 
-IF %PATCHOPTION% EQ 6 ( GOTO :EOF )
+IF %PATCHOPTION% == 7  GOTO :EOF
 
 ECHO.
 ECHO .Now configuring HD PATCH, please wait...
