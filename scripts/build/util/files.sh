@@ -70,6 +70,31 @@ newFilesForUpdate() {
     rm -rf ${BUILD_BANK_PATH}/FrontEnd
 }
 
+newFilesForPatchHD() {
+    # Readme
+    echo "*** Readme... ***"
+    cp ${TDUCP_PATH}/manifests/patch-hd/readme.md ${BUILD_PATH}
+    echo
+
+    # Patch HD modes directories
+    echo "*** Tree... ***"
+    mkdir -p ${INSTALLER_FILES_PATH}/OFF
+    mkdir -p ${INSTALLER_FILES_PATH}/SD
+    mkdir -p ${INSTALLER_FILES_PATH}/HD100
+    mkdir -p ${INSTALLER_FILES_PATH}/HD300
+    mkdir -p ${INSTALLER_FILES_PATH}/HD500
+    mkdir -p ${INSTALLER_FILES_PATH}/HDU
+    echo
+
+    # FX.ini file
+    echo "*** FX.ini... ***"
+    unzip -o ${PATCH_HD_RESOURCES_PATH}/Genuine/FX.ini.tdu.zip FX.ini -d ${INSTALLER_FILES_PATH}/OFF
+    unzip -o ${PATCH_HD_RESOURCES_PATH}/FX.ini.hd.zip FX.ini -d ${INSTALLER_FILES_PATH}/SD
+
+    echo ${INSTALLER_FILES_PATH}/HD100 ${INSTALLER_FILES_PATH}/HD300 ${INSTALLER_FILES_PATH}/HD500 ${INSTALLER_FILES_PATH}/HDU | xargs -n 1 cp ${INSTALLER_FILES_PATH}/SD/FX.ini
+    echo
+}
+
 # For full package only: to copy to existing TDU install, will replace files
 newFilesForFull() {
     newFiles
@@ -103,6 +128,17 @@ updatedPackedFiles() {
 
     echo "*** 3D Definition files for PATCH HD (SD MODE)... ***"
     cp ${TDUCP_PATH}/resources/system/2CV-patch-hd/SD/Library.3DD ${INSTALLER_FILES_PATCHES_PATH}
+    echo
+}
+
+updatedPackedFilesForPatchHD() {
+    echo "*** 3D Definition files for PATCH HD (SD MODE)... ***"
+    cp ${PATCH_HD_RESOURCES_PATH}/Genuine/Library.3DD ${INSTALLER_FILES_PATH}/OFF
+    cp ${PATCH_HD_RESOURCES_PATH}/SD/Library.3DD ${INSTALLER_FILES_PATH}/SD
+    cp ${PATCH_HD_RESOURCES_PATH}/HD100/Library.3DD ${INSTALLER_FILES_PATH}/HD100
+    cp ${PATCH_HD_RESOURCES_PATH}/HD300/Library.3DD ${INSTALLER_FILES_PATH}/HD300
+    cp ${PATCH_HD_RESOURCES_PATH}/HD500/Library.3DD ${INSTALLER_FILES_PATH}/HD500
+    cp ${PATCH_HD_RESOURCES_PATH}/HDU/Library.3DD ${INSTALLER_FILES_PATH}/HDU
     echo
 }
 

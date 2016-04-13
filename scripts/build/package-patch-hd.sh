@@ -1,23 +1,30 @@
 #!/usr/bin/env bash
 #set -x
+set -e
 
-# Prepares packaging of Community Patch
-# Does not include all files yet (to be copied manually to BUILD PATH before launching script).
+# Prepares packaging of PATCH HD
 
 source ../setEnv.sh
+source ./util/init.sh
+source ./util/files.sh
+source ./util/win.sh
 
-BUILD_PATH=${TDUCP_PATH}/workspace/build/private/PATCH-HD-OD
-RELEASE_PATH=${TDUCP_PATH}/releases
+# Init
+export BUILD_PATH=${TDUCP_PATH}/workspace/build/private/PATCH-HD-OD
+makeDirectoriesForPatchHD
 
-# Manifests
-echo "*** Manifests... ***"
-cp ${TDUCP_PATH}/manifests/patch-hd/*.md ${BUILD_PATH}
-echo
+# Files
+export INSTALLER_FILES_PATH=${BUILD_PATH}/TDUCP-PATCHHD-installer/files
+export PATCH_HD_RESOURCES_PATH=${TDUCP_PATH}/resources/system/2CV-patch-hd
+newFilesForPatchHD
+updatedPackedFilesForPatchHD
+
+# Windows installer script
+export SCRIPTS_PATH=${SCRIPTS_PATH}/patch-hd
+installerScript
 
 #Zip
-echo "*** Zipping... ***"
-pushd ${BUILD_PATH} > /dev/null
-TIMESTAMP=`date +%s`
-zip -r ${TDUCP_PATH}/workspace/releases/TDUCP-PATCH-HD-ON-DEMAND-${TIMESTAMP}.zip *
-popd > /dev/null
-echo
+makeZip TDUCP-PATCH-HD
+
+echo "All done!"
+
