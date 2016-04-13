@@ -64,8 +64,6 @@ CALL .\DatabaseTool.cmd repack-all -j "%JSON_DATABASE_DIR%" -o "%DATABASE_DIR%"
 ECHO.
 
 ECHO .Cleaning, please wait...
-DEL %DATABASE_DIR%\carData.mdb
-DEL %DATABASE_DIR%\VehicleSlots.xml
 REM Additional cleaning here
 ECHO.
 
