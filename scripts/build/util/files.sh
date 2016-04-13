@@ -59,7 +59,7 @@ newFilesForUpdate() {
 
     # Readme
     echo "*** Readme... ***"
-    cp ${TDUCP_PATH}/manifests/update/readme.md ${BUILD_PATH}
+    cp ${TDUCP_PATH}/manifests/update/readme-tducp-update.md ${BUILD_PATH}
     echo
 
     # Move slot files to installer paths
@@ -73,7 +73,7 @@ newFilesForUpdate() {
 newFilesForPatchHD() {
     # Readme
     echo "*** Readme... ***"
-    cp ${TDUCP_PATH}/manifests/patch-hd/readme.md ${BUILD_PATH}
+    cp ${TDUCP_PATH}/manifests/patch-hd/readme-patch-hd.md ${BUILD_PATH}
     echo
 
     # Patch HD modes directories
@@ -101,7 +101,7 @@ newFilesForFull() {
 
     # Readme
     echo "*** Readme... ***"
-    cp ${TDUCP_PATH}/manifests/full/readme.md ${BUILD_PATH}
+    cp ${TDUCP_PATH}/manifests/full/readme-tducp-full.md ${BUILD_PATH}
     echo
 }
 
