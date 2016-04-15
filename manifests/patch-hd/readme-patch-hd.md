@@ -4,10 +4,6 @@
 
 - Make sure you get TDU COMMUNITY PATCH 2.00A properly installed (either FULL or UPDATE version)
 
-- Make a backup copy of current install
-
-- Unzip all contents to TDU directory, always replace all files when prompted
-
 - From Windows explorer, go TDU install location and run **TDUCP-PATCHHD-settings.cmd** script
 
 - Follow instructions
@@ -19,7 +15,7 @@
 
 ## How to uninstall
 
-- Run **TDUCP-PATCHHD-settings.cmd** script and hit 0 key.
+- Run **TDUCP-PATCHHD-settings.cmd** script and hit '1' key - it will revert to SD mode.
 
 
 ## Credits
