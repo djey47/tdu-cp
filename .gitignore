@@ -1,8 +1,6 @@
 # Created by .ignore support plugin (hsz.mobi)
 .idea/
-/database/reference/*/private/
-/resources/private/
-/workspace/*/private/
-/workspace/releases/*.zip
+/workspace/build/private
 /workspace/releases/*.7z
+/workspace/wip/private
 /database/current/original-*.bnk
