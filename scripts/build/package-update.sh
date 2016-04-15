@@ -11,6 +11,7 @@ source ./util/files.sh
 source ./util/database.sh
 source ./util/tduf.sh
 source ./util/win.sh
+source ./util/patchhd.sh
 
 export INSTALLER_PATH=${BUILD_PATH}/TDUCP-2.00A-installer
 export INSTALLER_DB_PATH=${INSTALLER_PATH}/database
@@ -33,6 +34,9 @@ deployTDUF
 
 # Windows installer script
 installerScript
+
+# Patch HD - Settings App
+includePatchHD
 
 #Zip
 makeZip UPDATE-TDUCP-2.00A

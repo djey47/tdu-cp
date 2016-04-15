@@ -25,11 +25,3 @@ makeDirectoriesForFull() {
     mkdir -p ${BUILD_BANK_PATH}/Level/Hawai
     echo
 }
-
-makeDirectoriesForPatchHD() {
-    echo "*** Preparing directories... ***"
-    rm -rf ${BUILD_PATH}
-    mkdir -p ${BUILD_PATH}
-    mkdir -p ${RELEASE_PATH}
-}
-
