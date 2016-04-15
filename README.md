@@ -40,15 +40,23 @@ Discussion and support are provided via the [TurboDuck Community](http://forum.t
 
 - **manifests**: misc patch properties
 
+    - **full**: TDUCP full package related info
+    
+    - **update**: TDUCP update package related info
+
+    - **patch-hd**: HD Patch settings app related info
+    
     - **changelog.md**: patch contents
 
     - **files.md**: list of added/updated/removed files
     
-    - **readme.md**: contents of readme file to be distributed
-
     - **version.md**: current version number and release date.
   
 - **resources**: all external files required by update
+
+    - **ia**: artficial intelligence fixes and overrides
+
+    - **physics**: vehicle behaviour and management, tools support
 
     - **system**: to perform game-wide changes (graphics...)
 
@@ -58,16 +66,24 @@ Discussion and support are provided via the [TurboDuck Community](http://forum.t
 
     - **setEnv.sh**: utility script to initialize environment (called by others)
     
-    - **build**: support scripts
+    - **build**: support scripts for packaging or SCM release
 
-    - **database**: location of db-specific scripts.
+    - **database**: location of db-specific scripts
 
+    - **install-win**: CMD scripts for Windows
+
+    - **mapping**: scripts to operate on mapping system
+
+    - **patch-hd**: HD patch related, CMD scripts for Windows
+    
+    - **slots**: scripts to create new slots or enhance existing ones
+
+    - **tduf**: shortcuts to some TDUF/TDUMTCLI features.
+    
 - **workspace**: default location to forge patch contents
 
-    - **build**: final contents of patch, will be zipped for release
+    - **build**: final contents of patch, will be prepared by packaging scripts then 7-zipped
+
+    - **releases**: location of created 7-zip packages
     
-    - **wip**: intermediate files
-    
-        
-    
-    
+    - **wip**: intermediate files.
