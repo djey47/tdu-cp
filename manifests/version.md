@@ -2,4 +2,4 @@
 
 - Current version number: **BETA-4**
 
-- Release date: **2016-04-??**
+- Release date: **2016-05-??**

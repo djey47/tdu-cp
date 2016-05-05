@@ -5,12 +5,13 @@
 
 ## Features
 
+- Include Patch HD customization (OFF, SD ... HDU)
 - Enhance install script with logging [UPDATE PACKAGE ONLY]
     
 
 ## Bugfixes
 
-Nope this time. 
+- Make Cadillac Sixteen appear under TDUPE  
 
 
 ## Known Bugs
