@@ -11,12 +11,13 @@
 
 ## Bugfixes
 
-- Make Cadillac Sixteen appear under TDUPE  
+- Make Cadillac Sixteen appear under TDUPE
+- Relocate Saturn Sky and Curve to Chevvy/Saturn dealer [FULL PACKAGE ONLY]
 
 
 ## Known Bugs
 
-You tell me!
+- Workaround: if Saturn Sky and Curve are not available @ Chevvy/Saturn dealer, use TDUMT to relocate them [UPDATE PACKAGE ONLY]
 
 
 ## Previous contents
