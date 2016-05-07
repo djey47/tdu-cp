@@ -25,20 +25,12 @@
 
 - Restore backup copy of your TDU install.
 
-### Patch HD (SD MODE to OFF)
-
-Restore backup copy of following files:
-
-- **Euro\Bnk\FX\FX.ini**
-- **Euro\Bnk\Level\Hawai\CommonWorld.bnk** 
-- **Euro\Bnk\Level\Hawai\CommonWorldDiv2.bnk.**
-
 
 ## Credits
 
 - **2CVSUPERGT** : Clothes for all, brands, F40 tuning kits, Nismo hud, Nismo rims, bots with megapack cars, rim names, tuned cars in dealers, HD patch
 
-- **Community** : ACE Project
+- **Community** : ACE Project, beta testing
 
 - **JPTH** : Dealer slots update
 
