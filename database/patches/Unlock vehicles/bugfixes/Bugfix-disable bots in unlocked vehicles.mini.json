@@ -1,418 +1,272 @@
 {
   "changes": [
     {
-      "type": "UPDATE",
+      "type": "DELETE",
       "topic": "BOTS",
       "filter": [
         {
           "rank": 6,
           "value": "1208897332"
         }
-      ],
-      "partialValues": [
-        {
-          "rank": 8,
-          "value": "0"
-        }
       ]
     },
     {
-      "type": "UPDATE",
+      "type": "DELETE",
       "topic": "BOTS",
       "filter": [
         {
           "rank": 6,
           "value": "619586695"
         }
-      ],
-      "partialValues": [
-        {
-          "rank": 8,
-          "value": "0"
-        }
       ]
     },
     {
-      "type": "UPDATE",
+      "type": "DELETE",
       "topic": "BOTS",
       "filter": [
         {
           "rank": 6,
           "value": "1244127953"
         }
-      ],
-      "partialValues": [
-        {
-          "rank": 8,
-          "value": "0"
-        }
       ]
     },
     {
-      "type": "UPDATE",
+      "type": "DELETE",
       "topic": "BOTS",
       "filter": [
         {
           "rank": 6,
           "value": "932820187"
         }
-      ],
-      "partialValues": [
-        {
-          "rank": 8,
-          "value": "0"
-        }
       ]
     },
     {
-      "type": "UPDATE",
+      "type": "DELETE",
       "topic": "BOTS",
       "filter": [
         {
           "rank": 6,
           "value": "932820187"
         }
-      ],
-      "partialValues": [
-        {
-          "rank": 8,
-          "value": "0"
-        }
       ]
     },
     {
-      "type": "UPDATE",
+      "type": "DELETE",
       "topic": "BOTS",
       "filter": [
         {
           "rank": 6,
           "value": "843182934"
         }
-      ],
-      "partialValues": [
-        {
-          "rank": 8,
-          "value": "0"
-        }
       ]
     },
     {
-      "type": "UPDATE",
+      "type": "DELETE",
       "topic": "BOTS",
       "filter": [
         {
           "rank": 6,
           "value": "1238267235"
         }
-      ],
-      "partialValues": [
-        {
-          "rank": 8,
-          "value": "0"
-        }
       ]
     },
     {
-      "type": "UPDATE",
+      "type": "DELETE",
       "topic": "BOTS",
       "filter": [
         {
           "rank": 6,
           "value": "700912892"
         }
-      ],
-      "partialValues": [
-        {
-          "rank": 8,
-          "value": "0"
-        }
       ]
     },
     {
-      "type": "UPDATE",
+      "type": "DELETE",
       "topic": "BOTS",
       "filter": [
         {
           "rank": 6,
           "value": "699572006"
         }
-      ],
-      "partialValues": [
-        {
-          "rank": 8,
-          "value": "0"
-        }
       ]
     },
     {
-      "type": "UPDATE",
+      "type": "DELETE",
       "topic": "BOTS",
       "filter": [
         {
           "rank": 6,
           "value": "1197985552"
         }
-      ],
-      "partialValues": [
-        {
-          "rank": 8,
-          "value": "0"
-        }
       ]
     },
     {
-      "type": "UPDATE",
+      "type": "DELETE",
       "topic": "BOTS",
       "filter": [
         {
           "rank": 6,
           "value": "1291823209"
         }
-      ],
-      "partialValues": [
-        {
-          "rank": 8,
-          "value": "0"
-        }
       ]
     },
     {
-      "type": "UPDATE",
+      "type": "DELETE",
       "topic": "BOTS",
       "filter": [
         {
           "rank": 6,
           "value": "1108350119"
         }
-      ],
-      "partialValues": [
-        {
-          "rank": 8,
-          "value": "0"
-        }
       ]
     },
     {
-      "type": "UPDATE",
+      "type": "DELETE",
       "topic": "BOTS",
       "filter": [
         {
           "rank": 6,
           "value": "1244034708"
         }
-      ],
-      "partialValues": [
-        {
-          "rank": 8,
-          "value": "0"
-        }
       ]
     },
     {
-      "type": "UPDATE",
+      "type": "DELETE",
       "topic": "BOTS",
       "filter": [
         {
           "rank": 6,
           "value": "1074527109"
         }
-      ],
-      "partialValues": [
-        {
-          "rank": 8,
-          "value": "0"
-        }
       ]
     },
     {
-      "type": "UPDATE",
+      "type": "DELETE",
       "topic": "BOTS",
       "filter": [
         {
           "rank": 6,
           "value": "604354597"
         }
-      ],
-      "partialValues": [
-        {
-          "rank": 8,
-          "value": "0"
-        }
       ]
     },
     {
-      "type": "UPDATE",
+      "type": "DELETE",
       "topic": "BOTS",
       "filter": [
         {
           "rank": 6,
           "value": "1190174404"
         }
-      ],
-      "partialValues": [
-        {
-          "rank": 8,
-          "value": "0"
-        }
       ]
     },
     {
-      "type": "UPDATE",
+      "type": "DELETE",
       "topic": "BOTS",
       "filter": [
         {
           "rank": 6,
           "value": "734237852"
         }
-      ],
-      "partialValues": [
-        {
-          "rank": 8,
-          "value": "0"
-        }
       ]
     },
     {
-      "type": "UPDATE",
+      "type": "DELETE",
       "topic": "BOTS",
       "filter": [
         {
           "rank": 6,
           "value": "1108350118"
         }
-      ],
-      "partialValues": [
-        {
-          "rank": 8,
-          "value": "0"
-        }
       ]
     },
     {
-      "type": "UPDATE",
+      "type": "DELETE",
       "topic": "BOTS",
       "filter": [
         {
           "rank": 6,
           "value": "705918591"
         }
-      ],
-      "partialValues": [
-        {
-          "rank": 8,
-          "value": "0"
-        }
       ]
     },
     {
-      "type": "UPDATE",
+      "type": "DELETE",
       "topic": "BOTS",
       "filter": [
         {
           "rank": 6,
           "value": "1186047058"
         }
-      ],
-      "partialValues": [
-        {
-          "rank": 8,
-          "value": "0"
-        }
       ]
     },
     {
-      "type": "UPDATE",
+      "type": "DELETE",
       "topic": "BOTS",
       "filter": [
         {
           "rank": 6,
           "value": "1289993715"
         }
-      ],
-      "partialValues": [
-        {
-          "rank": 8,
-          "value": "0"
-        }
       ]
     },
     {
-      "type": "UPDATE",
+      "type": "DELETE",
       "topic": "BOTS",
       "filter": [
         {
           "rank": 6,
           "value": "1202238231"
         }
-      ],
-      "partialValues": [
-        {
-          "rank": 8,
-          "value": "0"
-        }
       ]
     },
     {
-      "type": "UPDATE",
+      "type": "DELETE",
       "topic": "BOTS",
       "filter": [
         {
           "rank": 6,
           "value": "1108350120"
         }
-      ],
-      "partialValues": [
-        {
-          "rank": 8,
-          "value": "0"
-        }
       ]
     },
     {
-      "type": "UPDATE",
+      "type": "DELETE",
       "topic": "BOTS",
       "filter": [
         {
           "rank": 6,
           "value": "1237390819"
         }
-      ],
-      "partialValues": [
-        {
-          "rank": 8,
-          "value": "0"
-        }
       ]
     },
     {
-      "type": "UPDATE",
+      "type": "DELETE",
       "topic": "BOTS",
       "filter": [
         {
           "rank": 6,
           "value": "921827346"
         }
-      ],
-      "partialValues": [
-        {
-          "rank": 8,
-          "value": "0"
-        }
       ]
     },
     {
-      "type": "UPDATE",
+      "type": "DELETE",
       "topic": "BOTS",
       "filter": [
         {
           "rank": 6,
           "value": "1193140602"
         }
-      ],
-      "partialValues": [
+      ]
+    },
+    {
+      "type": "DELETE",
+      "topic": "BOTS",
+      "filter": [
         {
-          "rank": 8,
-          "value": "0"
+          "rank": 6,
+          "value": "606298799"
         }
       ]
     }
