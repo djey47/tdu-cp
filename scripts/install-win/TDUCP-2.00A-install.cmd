@@ -21,7 +21,7 @@ exit /B
 
 :gotPrivileges
 
-CD %START_DIR%
+CD /D %START_DIR%
 
 ECHO TDUCP 2.00A INSTALLER
 ECHO =====================
@@ -37,7 +37,7 @@ ECHO .Now installing, please wait...
 CALL TDUCP-util.cmd >TDUCP-install.log 2>&1
 
 ECHO.
-ECHO .All done, installation details in TDUCP-install.log file.
+ECHO .All done, installation details in TDUCP-install.log file (will be displayed below).
 ECHO.
 
 PAUSE
