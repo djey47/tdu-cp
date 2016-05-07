@@ -3566,51 +3566,6 @@
         "items": [
           {
             "name": "FirstName_",
-            "rawValue": "53477256",
-            "fieldRank": 1
-          },
-          {
-            "name": "Behaviour",
-            "rawValue": "53473256",
-            "fieldRank": 2
-          },
-          {
-            "name": "PNJ",
-            "rawValue": "620091918",
-            "fieldRank": 3
-          },
-          {
-            "name": "Difficulty",
-            "rawValue": "1",
-            "fieldRank": 4
-          },
-          {
-            "name": "ZoneIndex",
-            "rawValue": "1",
-            "fieldRank": 5
-          },
-          {
-            "name": "BotCar",
-            "rawValue": "1208897332",
-            "fieldRank": 6
-          },
-          {
-            "name": "ColorIndex",
-            "rawValue": "0",
-            "fieldRank": 7
-          },
-          {
-            "name": "Rarety",
-            "rawValue": "0",
-            "fieldRank": 8
-          }
-        ]
-      },
-      {
-        "id": 79,
-        "items": [
-          {
-            "name": "FirstName_",
             "rawValue": "54477256",
             "fieldRank": 1
           },
@@ -3652,7 +3607,7 @@
         ]
       },
       {
-        "id": 80,
+        "id": 79,
         "items": [
           {
             "name": "FirstName_",
@@ -3697,7 +3652,7 @@
         ]
       },
       {
-        "id": 81,
+        "id": 80,
         "items": [
           {
             "name": "FirstName_",
@@ -3742,7 +3697,7 @@
         ]
       },
       {
-        "id": 82,
+        "id": 81,
         "items": [
           {
             "name": "FirstName_",
@@ -3787,7 +3742,7 @@
         ]
       },
       {
-        "id": 83,
+        "id": 82,
         "items": [
           {
             "name": "FirstName_",
@@ -3832,7 +3787,7 @@
         ]
       },
       {
-        "id": 84,
+        "id": 83,
         "items": [
           {
             "name": "FirstName_",
@@ -3877,7 +3832,7 @@
         ]
       },
       {
-        "id": 85,
+        "id": 84,
         "items": [
           {
             "name": "FirstName_",
@@ -3922,7 +3877,7 @@
         ]
       },
       {
-        "id": 86,
+        "id": 85,
         "items": [
           {
             "name": "FirstName_",
@@ -3967,7 +3922,7 @@
         ]
       },
       {
-        "id": 87,
+        "id": 86,
         "items": [
           {
             "name": "FirstName_",
@@ -4012,7 +3967,7 @@
         ]
       },
       {
-        "id": 88,
+        "id": 87,
         "items": [
           {
             "name": "FirstName_",
@@ -4057,7 +4012,7 @@
         ]
       },
       {
-        "id": 89,
+        "id": 88,
         "items": [
           {
             "name": "FirstName_",
@@ -4102,7 +4057,7 @@
         ]
       },
       {
-        "id": 90,
+        "id": 89,
         "items": [
           {
             "name": "FirstName_",
@@ -4147,7 +4102,7 @@
         ]
       },
       {
-        "id": 91,
+        "id": 90,
         "items": [
           {
             "name": "FirstName_",
@@ -4192,52 +4147,7 @@
         ]
       },
       {
-        "id": 92,
-        "items": [
-          {
-            "name": "FirstName_",
-            "rawValue": "80267256",
-            "fieldRank": 1
-          },
-          {
-            "name": "Behaviour",
-            "rawValue": "60373256",
-            "fieldRank": 2
-          },
-          {
-            "name": "PNJ",
-            "rawValue": "610091912",
-            "fieldRank": 3
-          },
-          {
-            "name": "Difficulty",
-            "rawValue": "1",
-            "fieldRank": 4
-          },
-          {
-            "name": "ZoneIndex",
-            "rawValue": "6",
-            "fieldRank": 5
-          },
-          {
-            "name": "BotCar",
-            "rawValue": "619586695",
-            "fieldRank": 6
-          },
-          {
-            "name": "ColorIndex",
-            "rawValue": "0",
-            "fieldRank": 7
-          },
-          {
-            "name": "Rarety",
-            "rawValue": "0",
-            "fieldRank": 8
-          }
-        ]
-      },
-      {
-        "id": 93,
+        "id": 91,
         "items": [
           {
             "name": "FirstName_",
@@ -4282,52 +4192,7 @@
         ]
       },
       {
-        "id": 94,
-        "items": [
-          {
-            "name": "FirstName_",
-            "rawValue": "70257256",
-            "fieldRank": 1
-          },
-          {
-            "name": "Behaviour",
-            "rawValue": "53473256",
-            "fieldRank": 2
-          },
-          {
-            "name": "PNJ",
-            "rawValue": "1106064573",
-            "fieldRank": 3
-          },
-          {
-            "name": "Difficulty",
-            "rawValue": "1",
-            "fieldRank": 4
-          },
-          {
-            "name": "ZoneIndex",
-            "rawValue": "0",
-            "fieldRank": 5
-          },
-          {
-            "name": "BotCar",
-            "rawValue": "1244127953",
-            "fieldRank": 6
-          },
-          {
-            "name": "ColorIndex",
-            "rawValue": "0",
-            "fieldRank": 7
-          },
-          {
-            "name": "Rarety",
-            "rawValue": "0",
-            "fieldRank": 8
-          }
-        ]
-      },
-      {
-        "id": 95,
+        "id": 92,
         "items": [
           {
             "name": "FirstName_",
@@ -4372,7 +4237,7 @@
         ]
       },
       {
-        "id": 96,
+        "id": 93,
         "items": [
           {
             "name": "FirstName_",
@@ -4417,7 +4282,7 @@
         ]
       },
       {
-        "id": 97,
+        "id": 94,
         "items": [
           {
             "name": "FirstName_",
@@ -4462,7 +4327,7 @@
         ]
       },
       {
-        "id": 98,
+        "id": 95,
         "items": [
           {
             "name": "FirstName_",
@@ -4507,52 +4372,7 @@
         ]
       },
       {
-        "id": 99,
-        "items": [
-          {
-            "name": "FirstName_",
-            "rawValue": "90137256",
-            "fieldRank": 1
-          },
-          {
-            "name": "Behaviour",
-            "rawValue": "54473256",
-            "fieldRank": 2
-          },
-          {
-            "name": "PNJ",
-            "rawValue": "59170956",
-            "fieldRank": 3
-          },
-          {
-            "name": "Difficulty",
-            "rawValue": "1",
-            "fieldRank": 4
-          },
-          {
-            "name": "ZoneIndex",
-            "rawValue": "2",
-            "fieldRank": 5
-          },
-          {
-            "name": "BotCar",
-            "rawValue": "932820187",
-            "fieldRank": 6
-          },
-          {
-            "name": "ColorIndex",
-            "rawValue": "0",
-            "fieldRank": 7
-          },
-          {
-            "name": "Rarety",
-            "rawValue": "0",
-            "fieldRank": 8
-          }
-        ]
-      },
-      {
-        "id": 100,
+        "id": 96,
         "items": [
           {
             "name": "FirstName_",
@@ -4597,52 +4417,7 @@
         ]
       },
       {
-        "id": 101,
-        "items": [
-          {
-            "name": "FirstName_",
-            "rawValue": "80247256",
-            "fieldRank": 1
-          },
-          {
-            "name": "Behaviour",
-            "rawValue": "53473256",
-            "fieldRank": 2
-          },
-          {
-            "name": "PNJ",
-            "rawValue": "580091922",
-            "fieldRank": 3
-          },
-          {
-            "name": "Difficulty",
-            "rawValue": "1",
-            "fieldRank": 4
-          },
-          {
-            "name": "ZoneIndex",
-            "rawValue": "4",
-            "fieldRank": 5
-          },
-          {
-            "name": "BotCar",
-            "rawValue": "606298799",
-            "fieldRank": 6
-          },
-          {
-            "name": "ColorIndex",
-            "rawValue": "0",
-            "fieldRank": 7
-          },
-          {
-            "name": "Rarety",
-            "rawValue": "0.5",
-            "fieldRank": 8
-          }
-        ]
-      },
-      {
-        "id": 102,
+        "id": 97,
         "items": [
           {
             "name": "FirstName_",
@@ -4687,7 +4462,7 @@
         ]
       },
       {
-        "id": 103,
+        "id": 98,
         "items": [
           {
             "name": "FirstName_",
@@ -4732,7 +4507,7 @@
         ]
       },
       {
-        "id": 104,
+        "id": 99,
         "items": [
           {
             "name": "FirstName_",
@@ -4777,7 +4552,7 @@
         ]
       },
       {
-        "id": 105,
+        "id": 100,
         "items": [
           {
             "name": "FirstName_",
@@ -4822,7 +4597,7 @@
         ]
       },
       {
-        "id": 106,
+        "id": 101,
         "items": [
           {
             "name": "FirstName_",
@@ -4867,7 +4642,7 @@
         ]
       },
       {
-        "id": 107,
+        "id": 102,
         "items": [
           {
             "name": "FirstName_",
@@ -4912,97 +4687,7 @@
         ]
       },
       {
-        "id": 108,
-        "items": [
-          {
-            "name": "FirstName_",
-            "rawValue": "80017256",
-            "fieldRank": 1
-          },
-          {
-            "name": "Behaviour",
-            "rawValue": "54473256",
-            "fieldRank": 2
-          },
-          {
-            "name": "PNJ",
-            "rawValue": "56170956",
-            "fieldRank": 3
-          },
-          {
-            "name": "Difficulty",
-            "rawValue": "1",
-            "fieldRank": 4
-          },
-          {
-            "name": "ZoneIndex",
-            "rawValue": "1",
-            "fieldRank": 5
-          },
-          {
-            "name": "BotCar",
-            "rawValue": "843182934",
-            "fieldRank": 6
-          },
-          {
-            "name": "ColorIndex",
-            "rawValue": "0",
-            "fieldRank": 7
-          },
-          {
-            "name": "Rarety",
-            "rawValue": "0",
-            "fieldRank": 8
-          }
-        ]
-      },
-      {
-        "id": 109,
-        "items": [
-          {
-            "name": "FirstName_",
-            "rawValue": "70237256",
-            "fieldRank": 1
-          },
-          {
-            "name": "Behaviour",
-            "rawValue": "53473256",
-            "fieldRank": 2
-          },
-          {
-            "name": "PNJ",
-            "rawValue": "1091409480",
-            "fieldRank": 3
-          },
-          {
-            "name": "Difficulty",
-            "rawValue": "1",
-            "fieldRank": 4
-          },
-          {
-            "name": "ZoneIndex",
-            "rawValue": "5",
-            "fieldRank": 5
-          },
-          {
-            "name": "BotCar",
-            "rawValue": "1238267235",
-            "fieldRank": 6
-          },
-          {
-            "name": "ColorIndex",
-            "rawValue": "0",
-            "fieldRank": 7
-          },
-          {
-            "name": "Rarety",
-            "rawValue": "0",
-            "fieldRank": 8
-          }
-        ]
-      },
-      {
-        "id": 110,
+        "id": 103,
         "items": [
           {
             "name": "FirstName_",
@@ -5047,52 +4732,7 @@
         ]
       },
       {
-        "id": 111,
-        "items": [
-          {
-            "name": "FirstName_",
-            "rawValue": "90037256",
-            "fieldRank": 1
-          },
-          {
-            "name": "Behaviour",
-            "rawValue": "61373256",
-            "fieldRank": 2
-          },
-          {
-            "name": "PNJ",
-            "rawValue": "55070956",
-            "fieldRank": 3
-          },
-          {
-            "name": "Difficulty",
-            "rawValue": "1",
-            "fieldRank": 4
-          },
-          {
-            "name": "ZoneIndex",
-            "rawValue": "4",
-            "fieldRank": 5
-          },
-          {
-            "name": "BotCar",
-            "rawValue": "700912892",
-            "fieldRank": 6
-          },
-          {
-            "name": "ColorIndex",
-            "rawValue": "0",
-            "fieldRank": 7
-          },
-          {
-            "name": "Rarety",
-            "rawValue": "0",
-            "fieldRank": 8
-          }
-        ]
-      },
-      {
-        "id": 112,
+        "id": 104,
         "items": [
           {
             "name": "FirstName_",
@@ -5137,97 +4777,7 @@
         ]
       },
       {
-        "id": 113,
-        "items": [
-          {
-            "name": "FirstName_",
-            "rawValue": "90027256",
-            "fieldRank": 1
-          },
-          {
-            "name": "Behaviour",
-            "rawValue": "55373256",
-            "fieldRank": 2
-          },
-          {
-            "name": "PNJ",
-            "rawValue": "55053286",
-            "fieldRank": 3
-          },
-          {
-            "name": "Difficulty",
-            "rawValue": "1",
-            "fieldRank": 4
-          },
-          {
-            "name": "ZoneIndex",
-            "rawValue": "3",
-            "fieldRank": 5
-          },
-          {
-            "name": "BotCar",
-            "rawValue": "699572006",
-            "fieldRank": 6
-          },
-          {
-            "name": "ColorIndex",
-            "rawValue": "0",
-            "fieldRank": 7
-          },
-          {
-            "name": "Rarety",
-            "rawValue": "0",
-            "fieldRank": 8
-          }
-        ]
-      },
-      {
-        "id": 114,
-        "items": [
-          {
-            "name": "FirstName_",
-            "rawValue": "90247256",
-            "fieldRank": 1
-          },
-          {
-            "name": "Behaviour",
-            "rawValue": "55373256",
-            "fieldRank": 2
-          },
-          {
-            "name": "PNJ",
-            "rawValue": "1254340356",
-            "fieldRank": 3
-          },
-          {
-            "name": "Difficulty",
-            "rawValue": "1",
-            "fieldRank": 4
-          },
-          {
-            "name": "ZoneIndex",
-            "rawValue": "2",
-            "fieldRank": 5
-          },
-          {
-            "name": "BotCar",
-            "rawValue": "1197985552",
-            "fieldRank": 6
-          },
-          {
-            "name": "ColorIndex",
-            "rawValue": "0",
-            "fieldRank": 7
-          },
-          {
-            "name": "Rarety",
-            "rawValue": "0",
-            "fieldRank": 8
-          }
-        ]
-      },
-      {
-        "id": 115,
+        "id": 105,
         "items": [
           {
             "name": "FirstName_",
@@ -5272,52 +4822,7 @@
         ]
       },
       {
-        "id": 116,
-        "items": [
-          {
-            "name": "FirstName_",
-            "rawValue": "90347256",
-            "fieldRank": 1
-          },
-          {
-            "name": "Behaviour",
-            "rawValue": "53473256",
-            "fieldRank": 2
-          },
-          {
-            "name": "PNJ",
-            "rawValue": "1128652269",
-            "fieldRank": 3
-          },
-          {
-            "name": "Difficulty",
-            "rawValue": "1",
-            "fieldRank": 4
-          },
-          {
-            "name": "ZoneIndex",
-            "rawValue": "4",
-            "fieldRank": 5
-          },
-          {
-            "name": "BotCar",
-            "rawValue": "1291823209",
-            "fieldRank": 6
-          },
-          {
-            "name": "ColorIndex",
-            "rawValue": "0",
-            "fieldRank": 7
-          },
-          {
-            "name": "Rarety",
-            "rawValue": "0",
-            "fieldRank": 8
-          }
-        ]
-      },
-      {
-        "id": 117,
+        "id": 106,
         "items": [
           {
             "name": "FirstName_",
@@ -5362,52 +4867,7 @@
         ]
       },
       {
-        "id": 118,
-        "items": [
-          {
-            "name": "FirstName_",
-            "rawValue": "90177256",
-            "fieldRank": 1
-          },
-          {
-            "name": "Behaviour",
-            "rawValue": "62373256",
-            "fieldRank": 2
-          },
-          {
-            "name": "PNJ",
-            "rawValue": "61170956",
-            "fieldRank": 3
-          },
-          {
-            "name": "Difficulty",
-            "rawValue": "1",
-            "fieldRank": 4
-          },
-          {
-            "name": "ZoneIndex",
-            "rawValue": "6",
-            "fieldRank": 5
-          },
-          {
-            "name": "BotCar",
-            "rawValue": "1108350119",
-            "fieldRank": 6
-          },
-          {
-            "name": "ColorIndex",
-            "rawValue": "0",
-            "fieldRank": 7
-          },
-          {
-            "name": "Rarety",
-            "rawValue": "0",
-            "fieldRank": 8
-          }
-        ]
-      },
-      {
-        "id": 119,
+        "id": 107,
         "items": [
           {
             "name": "FirstName_",
@@ -5452,7 +4912,7 @@
         ]
       },
       {
-        "id": 120,
+        "id": 108,
         "items": [
           {
             "name": "FirstName_",
@@ -5497,52 +4957,7 @@
         ]
       },
       {
-        "id": 121,
-        "items": [
-          {
-            "name": "FirstName_",
-            "rawValue": "70247256",
-            "fieldRank": 1
-          },
-          {
-            "name": "Behaviour",
-            "rawValue": "53473256",
-            "fieldRank": 2
-          },
-          {
-            "name": "PNJ",
-            "rawValue": "1099905217",
-            "fieldRank": 3
-          },
-          {
-            "name": "Difficulty",
-            "rawValue": "1",
-            "fieldRank": 4
-          },
-          {
-            "name": "ZoneIndex",
-            "rawValue": "6",
-            "fieldRank": 5
-          },
-          {
-            "name": "BotCar",
-            "rawValue": "1244034708",
-            "fieldRank": 6
-          },
-          {
-            "name": "ColorIndex",
-            "rawValue": "0",
-            "fieldRank": 7
-          },
-          {
-            "name": "Rarety",
-            "rawValue": "0",
-            "fieldRank": 8
-          }
-        ]
-      },
-      {
-        "id": 122,
+        "id": 109,
         "items": [
           {
             "name": "FirstName_",
@@ -5587,7 +5002,7 @@
         ]
       },
       {
-        "id": 123,
+        "id": 110,
         "items": [
           {
             "name": "FirstName_",
@@ -5632,7 +5047,7 @@
         ]
       },
       {
-        "id": 124,
+        "id": 111,
         "items": [
           {
             "name": "FirstName_",
@@ -5677,7 +5092,7 @@
         ]
       },
       {
-        "id": 125,
+        "id": 112,
         "items": [
           {
             "name": "FirstName_",
@@ -5722,7 +5137,7 @@
         ]
       },
       {
-        "id": 126,
+        "id": 113,
         "items": [
           {
             "name": "FirstName_",
@@ -5767,7 +5182,7 @@
         ]
       },
       {
-        "id": 127,
+        "id": 114,
         "items": [
           {
             "name": "FirstName_",
@@ -5812,142 +5227,7 @@
         ]
       },
       {
-        "id": 128,
-        "items": [
-          {
-            "name": "FirstName_",
-            "rawValue": "90147256",
-            "fieldRank": 1
-          },
-          {
-            "name": "Behaviour",
-            "rawValue": "61373256",
-            "fieldRank": 2
-          },
-          {
-            "name": "PNJ",
-            "rawValue": "60070956",
-            "fieldRank": 3
-          },
-          {
-            "name": "Difficulty",
-            "rawValue": "1",
-            "fieldRank": 4
-          },
-          {
-            "name": "ZoneIndex",
-            "rawValue": "3",
-            "fieldRank": 5
-          },
-          {
-            "name": "BotCar",
-            "rawValue": "1074527109",
-            "fieldRank": 6
-          },
-          {
-            "name": "ColorIndex",
-            "rawValue": "0",
-            "fieldRank": 7
-          },
-          {
-            "name": "Rarety",
-            "rawValue": "0",
-            "fieldRank": 8
-          }
-        ]
-      },
-      {
-        "id": 129,
-        "items": [
-          {
-            "name": "FirstName_",
-            "rawValue": "80237256",
-            "fieldRank": 1
-          },
-          {
-            "name": "Behaviour",
-            "rawValue": "54373256",
-            "fieldRank": 2
-          },
-          {
-            "name": "PNJ",
-            "rawValue": "580091914",
-            "fieldRank": 3
-          },
-          {
-            "name": "Difficulty",
-            "rawValue": "1",
-            "fieldRank": 4
-          },
-          {
-            "name": "ZoneIndex",
-            "rawValue": "3",
-            "fieldRank": 5
-          },
-          {
-            "name": "BotCar",
-            "rawValue": "604354597",
-            "fieldRank": 6
-          },
-          {
-            "name": "ColorIndex",
-            "rawValue": "0",
-            "fieldRank": 7
-          },
-          {
-            "name": "Rarety",
-            "rawValue": "0",
-            "fieldRank": 8
-          }
-        ]
-      },
-      {
-        "id": 130,
-        "items": [
-          {
-            "name": "FirstName_",
-            "rawValue": "70097256",
-            "fieldRank": 1
-          },
-          {
-            "name": "Behaviour",
-            "rawValue": "55473256",
-            "fieldRank": 2
-          },
-          {
-            "name": "PNJ",
-            "rawValue": "1240374920",
-            "fieldRank": 3
-          },
-          {
-            "name": "Difficulty",
-            "rawValue": "1",
-            "fieldRank": 4
-          },
-          {
-            "name": "ZoneIndex",
-            "rawValue": "5",
-            "fieldRank": 5
-          },
-          {
-            "name": "BotCar",
-            "rawValue": "1190174404",
-            "fieldRank": 6
-          },
-          {
-            "name": "ColorIndex",
-            "rawValue": "0",
-            "fieldRank": 7
-          },
-          {
-            "name": "Rarety",
-            "rawValue": "0",
-            "fieldRank": 8
-          }
-        ]
-      },
-      {
-        "id": 131,
+        "id": 115,
         "items": [
           {
             "name": "FirstName_",
@@ -5992,7 +5272,7 @@
         ]
       },
       {
-        "id": 132,
+        "id": 116,
         "items": [
           {
             "name": "FirstName_",
@@ -6037,7 +5317,7 @@
         ]
       },
       {
-        "id": 133,
+        "id": 117,
         "items": [
           {
             "name": "FirstName_",
@@ -6082,7 +5362,7 @@
         ]
       },
       {
-        "id": 134,
+        "id": 118,
         "items": [
           {
             "name": "FirstName_",
@@ -6127,7 +5407,7 @@
         ]
       },
       {
-        "id": 135,
+        "id": 119,
         "items": [
           {
             "name": "FirstName_",
@@ -6172,7 +5452,7 @@
         ]
       },
       {
-        "id": 136,
+        "id": 120,
         "items": [
           {
             "name": "FirstName_",
@@ -6217,7 +5497,7 @@
         ]
       },
       {
-        "id": 137,
+        "id": 121,
         "items": [
           {
             "name": "FirstName_",
@@ -6262,7 +5542,7 @@
         ]
       },
       {
-        "id": 138,
+        "id": 122,
         "items": [
           {
             "name": "FirstName_",
@@ -6307,7 +5587,7 @@
         ]
       },
       {
-        "id": 139,
+        "id": 123,
         "items": [
           {
             "name": "FirstName_",
@@ -6352,7 +5632,7 @@
         ]
       },
       {
-        "id": 140,
+        "id": 124,
         "items": [
           {
             "name": "FirstName_",
@@ -6397,142 +5677,7 @@
         ]
       },
       {
-        "id": 141,
-        "items": [
-          {
-            "name": "FirstName_",
-            "rawValue": "90067256",
-            "fieldRank": 1
-          },
-          {
-            "name": "Behaviour",
-            "rawValue": "55373256",
-            "fieldRank": 2
-          },
-          {
-            "name": "PNJ",
-            "rawValue": "56070956",
-            "fieldRank": 3
-          },
-          {
-            "name": "Difficulty",
-            "rawValue": "1",
-            "fieldRank": 4
-          },
-          {
-            "name": "ZoneIndex",
-            "rawValue": "0",
-            "fieldRank": 5
-          },
-          {
-            "name": "BotCar",
-            "rawValue": "734237852",
-            "fieldRank": 6
-          },
-          {
-            "name": "ColorIndex",
-            "rawValue": "0",
-            "fieldRank": 7
-          },
-          {
-            "name": "Rarety",
-            "rawValue": "0",
-            "fieldRank": 8
-          }
-        ]
-      },
-      {
-        "id": 142,
-        "items": [
-          {
-            "name": "FirstName_",
-            "rawValue": "90167256",
-            "fieldRank": 1
-          },
-          {
-            "name": "Behaviour",
-            "rawValue": "61373256",
-            "fieldRank": 2
-          },
-          {
-            "name": "PNJ",
-            "rawValue": "61070956",
-            "fieldRank": 3
-          },
-          {
-            "name": "Difficulty",
-            "rawValue": "1",
-            "fieldRank": 4
-          },
-          {
-            "name": "ZoneIndex",
-            "rawValue": "5",
-            "fieldRank": 5
-          },
-          {
-            "name": "BotCar",
-            "rawValue": "1108350118",
-            "fieldRank": 6
-          },
-          {
-            "name": "ColorIndex",
-            "rawValue": "0",
-            "fieldRank": 7
-          },
-          {
-            "name": "Rarety",
-            "rawValue": "0",
-            "fieldRank": 8
-          }
-        ]
-      },
-      {
-        "id": 143,
-        "items": [
-          {
-            "name": "FirstName_",
-            "rawValue": "90057256",
-            "fieldRank": 1
-          },
-          {
-            "name": "Behaviour",
-            "rawValue": "55373256",
-            "fieldRank": 2
-          },
-          {
-            "name": "PNJ",
-            "rawValue": "56053286",
-            "fieldRank": 3
-          },
-          {
-            "name": "Difficulty",
-            "rawValue": "1",
-            "fieldRank": 4
-          },
-          {
-            "name": "ZoneIndex",
-            "rawValue": "6",
-            "fieldRank": 5
-          },
-          {
-            "name": "BotCar",
-            "rawValue": "705918591",
-            "fieldRank": 6
-          },
-          {
-            "name": "ColorIndex",
-            "rawValue": "0",
-            "fieldRank": 7
-          },
-          {
-            "name": "Rarety",
-            "rawValue": "0",
-            "fieldRank": 8
-          }
-        ]
-      },
-      {
-        "id": 144,
+        "id": 125,
         "items": [
           {
             "name": "FirstName_",
@@ -6577,7 +5722,7 @@
         ]
       },
       {
-        "id": 145,
+        "id": 126,
         "items": [
           {
             "name": "FirstName_",
@@ -6622,7 +5767,7 @@
         ]
       },
       {
-        "id": 146,
+        "id": 127,
         "items": [
           {
             "name": "FirstName_",
@@ -6667,7 +5812,7 @@
         ]
       },
       {
-        "id": 147,
+        "id": 128,
         "items": [
           {
             "name": "FirstName_",
@@ -6712,7 +5857,7 @@
         ]
       },
       {
-        "id": 148,
+        "id": 129,
         "items": [
           {
             "name": "FirstName_",
@@ -6757,7 +5902,7 @@
         ]
       },
       {
-        "id": 149,
+        "id": 130,
         "items": [
           {
             "name": "FirstName_",
@@ -6802,7 +5947,7 @@
         ]
       },
       {
-        "id": 150,
+        "id": 131,
         "items": [
           {
             "name": "FirstName_",
@@ -6847,7 +5992,7 @@
         ]
       },
       {
-        "id": 151,
+        "id": 132,
         "items": [
           {
             "name": "FirstName_",
@@ -6892,97 +6037,7 @@
         ]
       },
       {
-        "id": 152,
-        "items": [
-          {
-            "name": "FirstName_",
-            "rawValue": "70057256",
-            "fieldRank": 1
-          },
-          {
-            "name": "Behaviour",
-            "rawValue": "56373256",
-            "fieldRank": 2
-          },
-          {
-            "name": "PNJ",
-            "rawValue": "1216752074",
-            "fieldRank": 3
-          },
-          {
-            "name": "Difficulty",
-            "rawValue": "1",
-            "fieldRank": 4
-          },
-          {
-            "name": "ZoneIndex",
-            "rawValue": "1",
-            "fieldRank": 5
-          },
-          {
-            "name": "BotCar",
-            "rawValue": "1186047058",
-            "fieldRank": 6
-          },
-          {
-            "name": "ColorIndex",
-            "rawValue": "0",
-            "fieldRank": 7
-          },
-          {
-            "name": "Rarety",
-            "rawValue": "0",
-            "fieldRank": 8
-          }
-        ]
-      },
-      {
-        "id": 153,
-        "items": [
-          {
-            "name": "FirstName_",
-            "rawValue": "70287256",
-            "fieldRank": 1
-          },
-          {
-            "name": "Behaviour",
-            "rawValue": "53473256",
-            "fieldRank": 2
-          },
-          {
-            "name": "PNJ",
-            "rawValue": "1126244467",
-            "fieldRank": 3
-          },
-          {
-            "name": "Difficulty",
-            "rawValue": "1",
-            "fieldRank": 4
-          },
-          {
-            "name": "ZoneIndex",
-            "rawValue": "3",
-            "fieldRank": 5
-          },
-          {
-            "name": "BotCar",
-            "rawValue": "1289993715",
-            "fieldRank": 6
-          },
-          {
-            "name": "ColorIndex",
-            "rawValue": "0",
-            "fieldRank": 7
-          },
-          {
-            "name": "Rarety",
-            "rawValue": "0",
-            "fieldRank": 8
-          }
-        ]
-      },
-      {
-        "id": 154,
+        "id": 133,
         "items": [
           {
             "name": "FirstName_",
@@ -7027,7 +6082,7 @@
         ]
       },
       {
-        "id": 155,
+        "id": 134,
         "items": [
           {
             "name": "FirstName_",
@@ -7072,7 +6127,7 @@
         ]
       },
       {
-        "id": 156,
+        "id": 135,
         "items": [
           {
             "name": "FirstName_",
@@ -7117,7 +6172,7 @@
         ]
       },
       {
-        "id": 157,
+        "id": 136,
         "items": [
           {
             "name": "FirstName_",
@@ -7162,7 +6217,7 @@
         ]
       },
       {
-        "id": 158,
+        "id": 137,
         "items": [
           {
             "name": "FirstName_",
@@ -7207,7 +6262,7 @@
         ]
       },
       {
-        "id": 159,
+        "id": 138,
         "items": [
           {
             "name": "FirstName_",
@@ -7252,7 +6307,7 @@
         ]
       },
       {
-        "id": 160,
+        "id": 139,
         "items": [
           {
             "name": "FirstName_",
@@ -7297,7 +6352,7 @@
         ]
       },
       {
-        "id": 161,
+        "id": 140,
         "items": [
           {
             "name": "FirstName_",
@@ -7342,7 +6397,7 @@
         ]
       },
       {
-        "id": 162,
+        "id": 141,
         "items": [
           {
             "name": "FirstName_",
@@ -7387,7 +6442,7 @@
         ]
       },
       {
-        "id": 163,
+        "id": 142,
         "items": [
           {
             "name": "FirstName_",
@@ -7432,97 +6487,7 @@
         ]
       },
       {
-        "id": 164,
-        "items": [
-          {
-            "name": "FirstName_",
-            "rawValue": "90297256",
-            "fieldRank": 1
-          },
-          {
-            "name": "Behaviour",
-            "rawValue": "55373256",
-            "fieldRank": 2
-          },
-          {
-            "name": "PNJ",
-            "rawValue": "1254340360",
-            "fieldRank": 3
-          },
-          {
-            "name": "Difficulty",
-            "rawValue": "1",
-            "fieldRank": 4
-          },
-          {
-            "name": "ZoneIndex",
-            "rawValue": "6",
-            "fieldRank": 5
-          },
-          {
-            "name": "BotCar",
-            "rawValue": "1202238231",
-            "fieldRank": 6
-          },
-          {
-            "name": "ColorIndex",
-            "rawValue": "0",
-            "fieldRank": 7
-          },
-          {
-            "name": "Rarety",
-            "rawValue": "0",
-            "fieldRank": 8
-          }
-        ]
-      },
-      {
-        "id": 165,
-        "items": [
-          {
-            "name": "FirstName_",
-            "rawValue": "90187256",
-            "fieldRank": 1
-          },
-          {
-            "name": "Behaviour",
-            "rawValue": "56373256",
-            "fieldRank": 2
-          },
-          {
-            "name": "PNJ",
-            "rawValue": "62070956",
-            "fieldRank": 3
-          },
-          {
-            "name": "Difficulty",
-            "rawValue": "1",
-            "fieldRank": 4
-          },
-          {
-            "name": "ZoneIndex",
-            "rawValue": "0",
-            "fieldRank": 5
-          },
-          {
-            "name": "BotCar",
-            "rawValue": "1108350120",
-            "fieldRank": 6
-          },
-          {
-            "name": "ColorIndex",
-            "rawValue": "0",
-            "fieldRank": 7
-          },
-          {
-            "name": "Rarety",
-            "rawValue": "0",
-            "fieldRank": 8
-          }
-        ]
-      },
-      {
-        "id": 166,
+        "id": 143,
         "items": [
           {
             "name": "FirstName_",
@@ -7567,7 +6532,7 @@
         ]
       },
       {
-        "id": 167,
+        "id": 144,
         "items": [
           {
             "name": "FirstName_",
@@ -7612,7 +6577,7 @@
         ]
       },
       {
-        "id": 168,
+        "id": 145,
         "items": [
           {
             "name": "FirstName_",
@@ -7657,7 +6622,7 @@
         ]
       },
       {
-        "id": 169,
+        "id": 146,
         "items": [
           {
             "name": "FirstName_",
@@ -7702,7 +6667,7 @@
         ]
       },
       {
-        "id": 170,
+        "id": 147,
         "items": [
           {
             "name": "FirstName_",
@@ -7747,52 +6712,7 @@
         ]
       },
       {
-        "id": 171,
-        "items": [
-          {
-            "name": "FirstName_",
-            "rawValue": "70217256",
-            "fieldRank": 1
-          },
-          {
-            "name": "Behaviour",
-            "rawValue": "55373256",
-            "fieldRank": 2
-          },
-          {
-            "name": "PNJ",
-            "rawValue": "1083224805",
-            "fieldRank": 3
-          },
-          {
-            "name": "Difficulty",
-            "rawValue": "1",
-            "fieldRank": 4
-          },
-          {
-            "name": "ZoneIndex",
-            "rawValue": "2",
-            "fieldRank": 5
-          },
-          {
-            "name": "BotCar",
-            "rawValue": "1237390819",
-            "fieldRank": 6
-          },
-          {
-            "name": "ColorIndex",
-            "rawValue": "0",
-            "fieldRank": 7
-          },
-          {
-            "name": "Rarety",
-            "rawValue": "0",
-            "fieldRank": 8
-          }
-        ]
-      },
-      {
-        "id": 172,
+        "id": 148,
         "items": [
           {
             "name": "FirstName_",
@@ -7837,7 +6757,7 @@
         ]
       },
       {
-        "id": 173,
+        "id": 149,
         "items": [
           {
             "name": "FirstName_",
@@ -7882,97 +6802,7 @@
         ]
       },
       {
-        "id": 174,
-        "items": [
-          {
-            "name": "FirstName_",
-            "rawValue": "90117256",
-            "fieldRank": 1
-          },
-          {
-            "name": "Behaviour",
-            "rawValue": "55373256",
-            "fieldRank": 2
-          },
-          {
-            "name": "PNJ",
-            "rawValue": "58070956",
-            "fieldRank": 3
-          },
-          {
-            "name": "Difficulty",
-            "rawValue": "1",
-            "fieldRank": 4
-          },
-          {
-            "name": "ZoneIndex",
-            "rawValue": "6",
-            "fieldRank": 5
-          },
-          {
-            "name": "BotCar",
-            "rawValue": "921827346",
-            "fieldRank": 6
-          },
-          {
-            "name": "ColorIndex",
-            "rawValue": "0",
-            "fieldRank": 7
-          },
-          {
-            "name": "Rarety",
-            "rawValue": "0",
-            "fieldRank": 8
-          }
-        ]
-      },
-      {
-        "id": 175,
-        "items": [
-          {
-            "name": "FirstName_",
-            "rawValue": "90237256",
-            "fieldRank": 1
-          },
-          {
-            "name": "Behaviour",
-            "rawValue": "56373256",
-            "fieldRank": 2
-          },
-          {
-            "name": "PNJ",
-            "rawValue": "1254340355",
-            "fieldRank": 3
-          },
-          {
-            "name": "Difficulty",
-            "rawValue": "1",
-            "fieldRank": 4
-          },
-          {
-            "name": "ZoneIndex",
-            "rawValue": "1",
-            "fieldRank": 5
-          },
-          {
-            "name": "BotCar",
-            "rawValue": "1193140602",
-            "fieldRank": 6
-          },
-          {
-            "name": "ColorIndex",
-            "rawValue": "0",
-            "fieldRank": 7
-          },
-          {
-            "name": "Rarety",
-            "rawValue": "0",
-            "fieldRank": 8
-          }
-        ]
-      },
-      {
-        "id": 176,
+        "id": 150,
         "items": [
           {
             "name": "FirstName_",
@@ -8017,7 +6847,7 @@
         ]
       },
       {
-        "id": 177,
+        "id": 151,
         "items": [
           {
             "name": "FirstName_",
