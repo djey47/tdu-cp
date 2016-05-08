@@ -1,0 +1,20 @@
+{
+  "comment": "Locate Saturn Sky and Curve to Oahu dealer back.",
+  "changes": [
+    {
+      "type": "UPDATE",
+      "topic": "CAR_SHOPS",
+      "ref": "612156838",
+      "partialValues": [
+        {
+          "rank": 11,
+          "value": "1241742783"
+        },
+        {
+          "rank": 12,
+          "value": "1221647242"
+        }
+      ]
+    }
+  ]
+}
