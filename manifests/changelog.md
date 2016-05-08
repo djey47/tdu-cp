@@ -6,18 +6,20 @@
 ## Features
 
 - Include Patch HD customization (OFF, SD ... HDU)
-- Enhance install script with logging [UPDATE PACKAGE ONLY]
+- Enhance install script with logging [PATCH HD / UPDATE PACKAGE ONLY]
+- Offline challengers (bots) driving unlocked slots were removed.
     
 
 ## Bugfixes
 
 - Make Cadillac Sixteen appear under TDUPE
-- Relocate Saturn Sky and Curve to Chevvy/Saturn dealer [FULL PACKAGE ONLY]
+- Relocate Saturn Sky and Curve to Chevvy/Saturn dealer
+- Offline races sometimes frozen at starting grid, waiting for challengers.
 
 
 ## Known Bugs
 
-- Workaround: if Saturn Sky and Curve are not available @ Chevvy/Saturn dealer, use TDUMT to relocate them [UPDATE PACKAGE ONLY]
+- A few, because it's just TDU :p 
 
 
 ## Previous contents
