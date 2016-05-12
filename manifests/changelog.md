@@ -5,12 +5,11 @@
 
 ## Features
 
-- Enhance install script with logging [UPDATE PACKAGE ONLY]
     
 
 ## Bugfixes
 
-Nope this time. 
+- Removes Lexus IS-F unlocked slot from dealer [FULL PACKAGE ONLY].
 
 
 ## Known Bugs
@@ -23,6 +22,7 @@ You tell me!
 ### Features
 
 - Now comes under 7Zip format, making archives even smaller!
+- Enhance install script with logging [UPDATE PACKAGE ONLY]
 - Includes Community Patch 1.68b cameras
 - Includes Patch HD in SD mode. Instructions to disable/upgrade to higher level in a further release
 - Includes official MagicMap
