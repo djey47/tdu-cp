@@ -14,7 +14,7 @@
 
 ## Known Bugs
 
-You tell me!
+- A few, because it's just TDU :p 
 
 
 ## Previous contents
@@ -22,9 +22,10 @@ You tell me!
 ### Features
 
 - Now comes under 7Zip format, making archives even smaller!
-- Enhance install script with logging [UPDATE PACKAGE ONLY]
+- Enhance install script with logging [PATCH HD / UPDATE PACKAGE ONLY]
 - Includes Community Patch 1.68b cameras
-- Includes Patch HD in SD mode. Instructions to disable/upgrade to higher level in a further release
+- Include Patch HD customization (OFF, SD ... HDU)
+- Offline challengers (bots) driving unlocked slots were removed.
 - Includes official MagicMap
 - Maximize number of vehicles on every car dealer
 - Unlocks tuning kits for Ferrari F40
@@ -97,4 +98,5 @@ You tell me!
 - Fixes HUD file reference for Unlocked Brabus S55 Slot
 - Fixes conflict in HUD file reference for Unlocked Mazda RX8 Slot
 - Fix update would replace custom physics on TDUCP vehicle slots
+- Offline races sometimes frozen at starting grid, waiting for challengers
 - Removes unlocked slots from various dealers and V-rent to free up space [FULL PACKAGE ONLY].
