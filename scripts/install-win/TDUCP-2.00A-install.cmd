@@ -1,6 +1,7 @@
 @ECHO OFF
 
 SET START_DIR=%~dp0
+SET TDUCP_DIRECTORY=TDUCP-2.00A-installer
 
 :checkPrivileges
 NET FILE 1>NUL 2>NUL
@@ -31,17 +32,33 @@ ECHO.
 
 PAUSE
 
+CLS
+
 ECHO.
 ECHO .Now installing, please wait...
+ECHO.
 
 CALL TDUCP-util.cmd >TDUCP-install.log 2>&1
+IF ERRORLEVEL 1 ECHO .Installation failed!
 
-ECHO.
-ECHO .All done, installation details in TDUCP-install.log file (will be displayed below).
+ECHO .Installation details in TDUCP-install.log file (will be displayed below).
 ECHO.
 
 PAUSE
+
+CLS
+
+CD /D %START_DIR%
 
 MORE TDUCP-install.log
 
 PAUSE
+
+ECHO.
+ECHO .Now cleaning up, please wait...
+ECHO.
+RMDIR %TDUCP_DIRECTORY% /S /Q
+DEL TDUCP-no
+DEL TDUCP-util.cmd
+DEL TDUCP-2.00A-install.cmd
+REM Should be the last line of the file!
