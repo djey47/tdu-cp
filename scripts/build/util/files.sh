@@ -147,6 +147,7 @@ generateMapping() {
     echo "*** Bnk1.map... ***"
     cd ../mapping/
     ./generateCurrent.sh
+    ./fixCurrent.sh
     cd - > /dev/null
     echo
 }
