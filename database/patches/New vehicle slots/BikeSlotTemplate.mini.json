@@ -1,4 +1,5 @@
 {
+  "comment": "Patch template for SLOT #ID#",
   "changes": [
     {
       "type": "UPDATE",

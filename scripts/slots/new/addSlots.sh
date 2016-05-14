@@ -10,6 +10,10 @@ NEW_SLOTS_PATCHES_PATH=${TDUCP_PATH}/database/patches/New\ vehicle\ slots
 CAR_SLOT_TEMPLATE_PATH=${NEW_SLOTS_PATCHES_PATH}/CarSlotTemplate.mini.json
 BIKE_SLOT_TEMPLATE_PATH=${NEW_SLOTS_PATCHES_PATH}/BikeSlotTemplate.mini.json
 
+PATCH_PARENT_PATH=/tmp/tducp-slots-new
+rm -rf ${PATCH_PARENT_PATH}
+mkdir ${PATCH_PARENT_PATH}
+
 cat newSlotIds_phase3.txt | while read id
 do
    if [[ ${id} == 3* ]]; then
@@ -26,8 +30,8 @@ do
       exit 1
    fi
 
-   PATCH_PROPERTIES_PATH=/tmp/${PATCH_NAME}.properties
-   PATCH_PATH=/tmp/${PATCH_NAME}
+   PATCH_PATH=${PATCH_PARENT_PATH}/${PATCH_NAME}
+   PATCH_PROPERTIES_PATH=${PATCH_PATH}.properties
 
    echo "Generating ${PATCH_PROPERTIES_PATH}..."
    rm ${PATCH_PROPERTIES_PATH} 2> /dev/null
@@ -65,11 +69,11 @@ do
 
    echo >> ${PATCH_PROPERTIES_PATH}
 
-   echo "Copying ${SLOT_TEMPLATE_PATH}..."
+   echo "Copying ${SLOT_TEMPLATE_PATH} and customizing car id..."
    cp "${SLOT_TEMPLATE_PATH}" "${PATCH_PATH}"
-
-   echo "Applying patch ${PATCH_PATH} onto current database..."
-   ../../tduf/databaseTool.sh apply-patch -p ${PATCH_PATH} -j ${CURRENT_DB_PATH} -o ${CURRENT_DB_PATH}
-
+   sed -i "s/#ID#/${id}/g" ${PATCH_PATH}
    echo
 done
+
+echo "Applying patches from ${PATCH_PARENT_PATH} onto current database..."
+../../tduf/databaseTool.sh apply-patches -p ${PATCH_PARENT_PATH} -j ${CURRENT_DB_PATH} -o ${CURRENT_DB_PATH}
