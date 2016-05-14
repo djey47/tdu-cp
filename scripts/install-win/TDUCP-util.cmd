@@ -24,7 +24,7 @@ SET TDUMTCLI_EXE=%TDUF_DIR%\tools\tdumt-cli\tdumt-cli.exe
 ECHO .Initializing, please wait...
 ECHO TDUF location: %TDUF_DIR%
 CD /D "%TDUF_CLI_DIR%"
-CALL .\CheckJava.cmd < "%START_DIR%\no"
+CALL .\CheckJava.cmd < "%START_DIR%\TDUCP-no"
 CALL .\SetVersion.cmd
 ECHO.
 
