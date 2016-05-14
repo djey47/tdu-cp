@@ -5,8 +5,11 @@
 
 ## Features
 
+- Provides again 200 *brand new* slots:
+( can be used with any mod, you just have to rename your files to TDUCP_xxxx.bnk ... see **files.md** for details )
+    - 320100000 to 340000000 => TDUCP Model 3201 to 3400 (Cars).
     
-
+    
 ## Bugfixes
 
 - Removes Lexus IS-F unlocked slot from dealer [FULL PACKAGE ONLY].

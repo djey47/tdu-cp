@@ -44,7 +44,7 @@
 
     - *SRT6_RstP.bnk* [unlocked slots]
     
-    - *TDUCP_3000.bnk ... TDUCP_3200.bnk* [new slots]
+    - *TDUCP_3000.bnk ... TDUCP_3400.bnk* [new slots]
 
     - *TDUCP_4000.bnk ... TDUCP_4040.bnk* [new slots]
 
@@ -90,7 +90,7 @@
 
     - *SRT6_RstP.bnk* [unlocked slots]
 
-    - *TDUCP_3000.bnk ... TDUCP_3200.bnk* [new slots]
+    - *TDUCP_3000.bnk ... TDUCP_3400.bnk* [new slots]
 
     - *TDUCP_4000.bnk ... TDUCP_4040.bnk* [new slots]
 
@@ -148,7 +148,7 @@
     
     - *SRT6_RstP_audio.bnk* [unlocked slots]
 
-    - *TDUCP_3000_audio.bnk ... TDUCP_3200_audio.bnk* [new slots]
+    - *TDUCP_3000_audio.bnk ... TDUCP_3400_audio.bnk* [new slots]
 
     - *TDUCP_4000_audio.bnk ... TDUCP_4040_audio.bnk* [new slots]
 
@@ -256,9 +256,9 @@
 
     - *SRT6_RstP_I.bnk* [unlocked slots]
 
-    - *TDUCP_3000.bnk ... TDUCP_3200.bnk* [new slots]
+    - *TDUCP_3000.bnk ... TDUCP_3400.bnk* [new slots]
 
-    - *TDUCP_3000_I.bnk ... TDUCP_3200_I.bnk* [new slots]
+    - *TDUCP_3000_I.bnk ... TDUCP_3400_I.bnk* [new slots]
 
     - *TDUCP_4000.bnk ... TDUCP_4040.bnk* [new slots]
 
@@ -326,9 +326,9 @@
 
 - **Euro\Bnk\Vehicules\Rim\Default**
 
-    - *TDUCP_3000_F_01.bnk ... *TDUCP_3200_F_01.bnk* [new slots]
+    - *TDUCP_3000_F_01.bnk ... *TDUCP_3400_F_01.bnk* [new slots]
 
-    - *TDUCP_3000_R_01.bnk ... *TDUCP_3200_R_01.bnk* [new slots]
+    - *TDUCP_3000_R_01.bnk ... *TDUCP_3400_R_01.bnk* [new slots]
     
     - *TDUCP_4000_F_01.bnk ... *TDUCP_4040_F_01.bnk* [new slots]
 
