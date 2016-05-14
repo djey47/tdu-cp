@@ -10,7 +10,7 @@ source ../../setEnv.sh
 echo "-> Creating build folders..."
 mkdir -p ${BUILD_MODELS_PATH} ${BUILD_SOUNDS_PATH} ${BUILD_HUDS_HR_PATH} ${BUILD_HUDS_LR_PATH}
 
-cat newSlotIds_phase3.txt | while read id
+cat newSlotIds.txt | while read id
 do
    BANKNAME=TDUCP_${id}
    BANKNAME_RIMS_FRONT=TDUCP_${id}_F_01
