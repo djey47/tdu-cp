@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 #set -x
 
+# To be launched to prepare database BEFORE packaging
 # Generates property file for new slots and apply patch template onto it.
 
 source ../../setEnv.sh
@@ -9,7 +10,7 @@ NEW_SLOTS_PATCHES_PATH=${TDUCP_PATH}/database/patches/New\ vehicle\ slots
 CAR_SLOT_TEMPLATE_PATH=${NEW_SLOTS_PATCHES_PATH}/CarSlotTemplate.mini.json
 BIKE_SLOT_TEMPLATE_PATH=${NEW_SLOTS_PATCHES_PATH}/BikeSlotTemplate.mini.json
 
-cat newSlotIds_phase2.txt | while read id
+cat newSlotIds_phase3.txt | while read id
 do
    if [[ ${id} == 3* ]]; then
       echo "- ${id} (car slot)"
