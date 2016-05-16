@@ -8,7 +8,7 @@
 
 - Follow instructions
 
-- Install results will be stored in **TDUCP-PATCHHD.log** file
+- Install results will be stored in **TDUCP-PATCHHD.log** file, check **logs** subdirectory
 
 - That's all!
 
