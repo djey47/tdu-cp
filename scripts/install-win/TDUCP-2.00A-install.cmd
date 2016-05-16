@@ -34,10 +34,11 @@ PAUSE
 ECHO.
 ECHO .Now installing, please wait...
 
-CALL TDUCP-util.cmd >TDUCP-install.log 2>&1
+MKDIR logs
+CALL TDUCP-util.cmd >.\logs\TDUCP-install.log 2>&1
 
 ECHO.
-ECHO .All done, installation details in TDUCP-install.log file (will be displayed below).
+ECHO .All done, installation details in logs\TDUCP-install.log file (will be displayed below).
 ECHO.
 
 PAUSE

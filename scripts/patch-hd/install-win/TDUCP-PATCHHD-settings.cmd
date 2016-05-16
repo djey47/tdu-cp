@@ -43,10 +43,11 @@ IF %PATCHOPTION% == 7  GOTO :EOF
 ECHO.
 ECHO .Now configuring HD PATCH, please wait...
 
-CALL TDUCP-PATCHHD-util.cmd >TDUCP-patchhd.log 2>&1
+MKDIR logs
+CALL TDUCP-PATCHHD-util.cmd >.\logs\TDUCP-PATCHHD.log 2>&1
 
 ECHO.
-ECHO .All done, installation details in TDUCP-patchhd.log file.
+ECHO .All done, installation details in logs\TDUCP-patchhd.log file (will be displayed below).
 ECHO.
 
 PAUSE
