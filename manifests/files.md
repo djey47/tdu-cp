@@ -204,6 +204,8 @@
 
     - *Cobalt_SS_I.bnk* [unlocked slots]
 
+    - *Common_car.bnk* [new license plates]
+
     - *Corv_63.bnk* [unlocked slots]
 
     - *Corv_63_I.bnk* [unlocked slots]

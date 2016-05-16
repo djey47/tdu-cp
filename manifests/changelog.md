@@ -5,14 +5,12 @@
 
 ## Features
 
-- Provides again 200 *brand new* slots:
-( can be used with any mod, you just have to rename your files to TDUCP_xxxx.bnk ... see **files.md** for details )
-    - 320100000 to 340000000 => TDUCP Model 3201 to 3400 (Cars).
-    
-    
+- New default license plate [FULL PACKAGE ONLY] 
+
+      
 ## Bugfixes
 
-- Removes Lexus IS-F unlocked slot from dealer [FULL PACKAGE ONLY].
+- None atm.
 
 
 ## Known Bugs
@@ -69,9 +67,9 @@
     - Chevrolet Corvette'63
     - Triumph 955I Daytona
 
-- Brings 240 *brand new* slots:
+- Brings 440 *brand new* slots:
 ( can be used with any mod, you just have to rename your files to TDUCP_3000.bnk or TDUCP_4000.bnk ... see **files.md** for details )
-    - 300000000 to 310000000 => TDUCP Model 3000 to 3200 (Cars)
+    - 300000000 to 340000000 => TDUCP Model 3000 to 3400 (Cars)
     - 400000000 to 402000000 => TDUCP Model 4000 to 4040 (Bikes)
 ( you have to set them manually to dealers, using tools ).   
 
