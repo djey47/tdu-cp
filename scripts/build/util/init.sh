@@ -23,5 +23,6 @@ makeDirectoriesForFull() {
     mkdir -p ${BUILD_BANK_PATH}/FrontEnd/HiRes
     mkdir -p ${BUILD_BANK_PATH}/FrontEnd/LowRes
     mkdir -p ${BUILD_BANK_PATH}/Level/Hawai
+    mkdir -p ${BUILD_BANK_PATH}/Vehicules
     echo
 }

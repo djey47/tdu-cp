@@ -24,6 +24,12 @@ replacedFiles() {
     cp ${FULL_BANK_PATH}/Level/Hawai/CommonWorldDiv2.bnk ${BUILD_BANK_PATH}/Level/Hawai
     echo
 
+    # Common vehicle textures
+    echo
+    echo "*** New license plates... ***"
+    cp ${FULL_BANK_PATH}/Vehicules/Common_car.bnk ${BUILD_BANK_PATH}/Vehicules
+    echo
+
     #Slot files
     slotFiles
 }
