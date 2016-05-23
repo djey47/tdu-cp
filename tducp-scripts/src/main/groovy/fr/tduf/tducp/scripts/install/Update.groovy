@@ -61,7 +61,6 @@ def sourcePath = installerFilesPath.resolve("Euro")
 def targetPath = startPath.resolve("Euro")
 FileUtils.copyDirectory(sourcePath.toFile(), targetPath.toFile(), ExistingFileFilter.nonExistingAtTarget(sourcePath, targetPath))
 
-
 println()
 
 println(".Patching database, please wait...")
@@ -89,39 +88,38 @@ println(".All done!")
 // TODO stop on execute error (binary not found)
 
 void bankReplace(bankPath, packedPath, filePath) {
-    def cmd = "$tdumtCliExe BANK-R $bankPath $packedPath $filePath"
+    def cmd = "\"$tdumtCliExe\" BANK-R \"$bankPath\" $packedPath \"$filePath\""
 //    println(cmd)
     cmd.execute()
 }
 
 void bankBatchReplace(bankPath, batchFilePath, sourceFilePath) {
-    def cmd = "$tdumtCliExe BANK-RX $bankPath $batchFilePath"
+    def cmd = "\"$tdumtCliExe\" BANK-RX \"$bankPath \"$batchFilePath\""
 //    println(cmd)
-    cmd.execute()
-    // FIXME
-    //cmd.execute([], sourceFilePath.toFile())
+    // FIXME: can't find binary ??
+    cmd.execute([], sourceFilePath.toFile())
 }
 
 void mappingToolFixMap(banksPath) {
-    def cmd = "java -cp $tdufLibPath fr.tduf.cli.tools.MappingTool fix-missing -b $banksPath"
+    def cmd = "java -cp \"$tdufLibPath\" fr.tduf.cli.tools.MappingTool fix-missing -b \"$banksPath\""
 //    println(cmd)
     cmd.execute()
 }
 
 void databaseToolUnpackAll(databasePath, jsonDatabasePath) {
-    def cmd = "java -cp $tdufLibPath fr.tduf.cli.tools.DatabaseTool unpack-all -d $databasePath -j $jsonDatabasePath"
+    def cmd = "java -cp \"$tdufLibPath\" fr.tduf.cli.tools.DatabaseTool unpack-all -d \"$databasePath\" -j \"$jsonDatabasePath\""
 //    println(cmd)
     cmd.execute()
 }
 
 void databaseToolApplyPatches(jsonDatabasePath, patchesPath) {
-    def cmd = "java -cp $tdufLibPath fr.tduf.cli.tools.DatabaseTool apply-patches -j $jsonDatabasePath -p $patchesPath"
+    def cmd = "java -cp \"$tdufLibPath\" fr.tduf.cli.tools.DatabaseTool apply-patches -j \"$jsonDatabasePath\" -p \"$patchesPath\""
 //    println(cmd)
     cmd.execute()
 }
 
 void databaseToolRepackAll(jsonDatabasePath, databasePath) {
-    def cmd = "java -cp $tdufLibPath fr.tduf.cli.tools.DatabaseTool repack-all -j $jsonDatabasePath -o $databasePath"
+    def cmd = "java -cp \"$tdufLibPath\" fr.tduf.cli.tools.DatabaseTool repack-all -j \"$jsonDatabasePath -o \"$databasePath\""
 //    println(cmd)
     cmd.execute()
 }
