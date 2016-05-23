@@ -50,10 +50,10 @@ ECHO .Patching game files, please wait...
 SET PACKED_PATH="D:\Eden-Prog\Games\TestDrive\Resources\4Build\PC\EURO\Level\Hawai\Common\Library\.3DD\Library"
 
 ECHO *1-Patch HD Level Data HI*
-CALL %TDUMTCLI_EXE% BANK-R "%BANKS_DIR%\Level\Hawai\CommonWorld.bnk" %PACKED_PATH% "%INSTALLER_FILES_DIR%\%MODE%\Library.3DD"
+CALL "%TDUMTCLI_EXE%" BANK-R "%BANKS_DIR%\Level\Hawai\CommonWorld.bnk" %PACKED_PATH% "%INSTALLER_FILES_DIR%\%MODE%\Library.3DD"
 
 ECHO *2-Patch HD Level Data LO*
-CALL %TDUMTCLI_EXE% BANK-R "%BANKS_DIR%\Level\Hawai\CommonWorldDiv2.bnk" %PACKED_PATH% "%INSTALLER_FILES_DIR%\%MODE%\Library.3DD"
+CALL "%TDUMTCLI_EXE%" BANK-R "%BANKS_DIR%\Level\Hawai\CommonWorldDiv2.bnk" %PACKED_PATH% "%INSTALLER_FILES_DIR%\%MODE%\Library.3DD"
 
 ECHO *3-Patch HD FX.ini*
 COPY "%INSTALLER_FILES_DIR%\%MODE%\FX.ini" "%BANKS_DIR%\FX"
