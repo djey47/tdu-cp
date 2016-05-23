@@ -32,22 +32,22 @@ ECHO .Patching game files, please wait...
 SET PACKED_PATH="D:\Eden-Prog\Games\TestDrive\Resources\4Build\PC\EURO\FrontEnd\LOG_IN\.2db\fla_0013"
 
 ECHO *1-Menu HI*
-CALL %TDUMTCLI_EXE% BANK-R "%BANKS_DIR%\FrontEnd\HiRes\LOG_IN.bnk" %PACKED_PATH% "%INSTALLER_FILES_PATCHES_DIR%\textures-high\fla_0013.2db"
+CALL "%TDUMTCLI_EXE%" BANK-R "%BANKS_DIR%\FrontEnd\HiRes\LOG_IN.bnk" %PACKED_PATH% "%INSTALLER_FILES_PATCHES_DIR%\textures-high\fla_0013.2db"
 
 ECHO *2-Menu LO*
-CALL %TDUMTCLI_EXE% BANK-R "%BANKS_DIR%\FrontEnd\LowRes\LOG_IN.bnk" %PACKED_PATH% "%INSTALLER_FILES_PATCHES_DIR%\textures-low\fla_0013.2db"
+CALL "%TDUMTCLI_EXE%" BANK-R "%BANKS_DIR%\FrontEnd\LowRes\LOG_IN.bnk" %PACKED_PATH% "%INSTALLER_FILES_PATCHES_DIR%\textures-low\fla_0013.2db"
 
 ECHO *3-Brand logos*
 CD /D "%INSTALLER_FILES_PATCHES_DIR%"
-CALL %TDUMTCLI_EXE% BANK-RX "%BANKS_DIR%\FrontEnd\AllRes\LogoTexturePage.bnk" "%INSTALLER_FILES_PATCHES_DIR%\banksReplace_LOGO_TEX.json"
+CALL "%TDUMTCLI_EXE%" BANK-RX "%BANKS_DIR%\FrontEnd\AllRes\LogoTexturePage.bnk" "%INSTALLER_FILES_PATCHES_DIR%\banksReplace_LOGO_TEX.json"
 
 SET PACKED_PATH="D:\Eden-Prog\Games\TestDrive\Resources\4Build\PC\EURO\Level\Hawai\Common\Library\.3DD\Library"
 
 ECHO *4-Patch HD Level Data HI*
-CALL %TDUMTCLI_EXE% BANK-R "%BANKS_DIR%\Level\Hawai\CommonWorld.bnk" %PACKED_PATH% "%INSTALLER_FILES_PATCHES_DIR%\Library.3DD"
+CALL "%TDUMTCLI_EXE%" BANK-R "%BANKS_DIR%\Level\Hawai\CommonWorld.bnk" %PACKED_PATH% "%INSTALLER_FILES_PATCHES_DIR%\Library.3DD"
 
 ECHO *5-Patch HD Level Data LO*
-CALL %TDUMTCLI_EXE% BANK-R "%BANKS_DIR%\Level\Hawai\CommonWorldDiv2.bnk" %PACKED_PATH% "%INSTALLER_FILES_PATCHES_DIR%\Library.3DD"
+CALL "%TDUMTCLI_EXE%" BANK-R "%BANKS_DIR%\Level\Hawai\CommonWorldDiv2.bnk" %PACKED_PATH% "%INSTALLER_FILES_PATCHES_DIR%\Library.3DD"
 ECHO.
 
 REM TODO Find cleaner way to copy
