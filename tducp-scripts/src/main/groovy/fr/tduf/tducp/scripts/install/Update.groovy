@@ -94,7 +94,7 @@ void bankReplace(bankPath, packedPath, filePath) {
 }
 
 void bankBatchReplace(bankPath, batchFilePath, sourceFilePath) {
-    def cmd = "\"$tdumtCliExe\" BANK-RX \"$bankPath \"$batchFilePath\""
+    def cmd = "\"$tdumtCliExe\" BANK-RX \"$bankPath\" \"$batchFilePath\""
 //    println(cmd)
     // FIXME: can't find binary ??
     cmd.execute([], sourceFilePath.toFile())
@@ -119,7 +119,7 @@ void databaseToolApplyPatches(jsonDatabasePath, patchesPath) {
 }
 
 void databaseToolRepackAll(jsonDatabasePath, databasePath) {
-    def cmd = "java -cp \"$tdufLibPath\" fr.tduf.cli.tools.DatabaseTool repack-all -j \"$jsonDatabasePath -o \"$databasePath\""
+    def cmd = "java -cp \"$tdufLibPath\" fr.tduf.cli.tools.DatabaseTool repack-all -j \"$jsonDatabasePath\" -o \"$databasePath\""
 //    println(cmd)
     cmd.execute()
 }
