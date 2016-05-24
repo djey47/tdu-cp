@@ -86,17 +86,17 @@ println()
 println(".All done!")
 
 // TODO stop on execute error (binary not found)
+// TODO get stderr http://stackoverflow.com/questions/159148/groovy-executing-shell-commands
 
 void bankReplace(bankPath, packedPath, filePath) {
-    def cmd = "\"$tdumtCliExe\" BANK-R \"$bankPath\" $packedPath \"$filePath\""
-//    println(cmd)
+    def cmd = "${getDotNetInterpreter()} \"$tdumtCliExe\" BANK-R \"$bankPath\" $packedPath \"$filePath\""
+    println(cmd)
     cmd.execute()
 }
 
 void bankBatchReplace(bankPath, batchFilePath, sourceFilePath) {
-    def cmd = "\"$tdumtCliExe\" BANK-RX \"$bankPath\" \"$batchFilePath\""
-//    println(cmd)
-    // FIXME: can't find binary ??
+    def cmd = "${getDotNetInterpreter()} \"$tdumtCliExe\" BANK-RX \"$bankPath\" \"$batchFilePath\""
+    println(cmd)
     cmd.execute([], sourceFilePath.toFile())
 }
 
@@ -122,4 +122,13 @@ void databaseToolRepackAll(jsonDatabasePath, databasePath) {
     def cmd = "java -cp \"$tdufLibPath\" fr.tduf.cli.tools.DatabaseTool repack-all -j \"$jsonDatabasePath\" -o \"$databasePath\""
 //    println(cmd)
     cmd.execute()
+}
+
+static String getDotNetInterpreter() {
+    // TODO WIN test
+    if (System.getProperty("os.name").toUpperCase().contains("WINDOWS")) {
+        return "cmd.exe /K"
+    }
+
+    return "mono"
 }
