@@ -1,7 +1,9 @@
 # Created by .ignore support plugin (hsz.mobi)
 .idea/
 /workspace/build/private
-/workspace/releases/*.7z
+/workspace/releases/FULL-*
+/workspace/releases/TDUCP-*
+/workspace/releases/UPDATE-*
 /workspace/wip/private
 /database/current/original-*.bnk
 /tducp-scripts/src/main/groovy/fr/tduf/tducp/scripts/install/TDUCP-2.00A-installer
