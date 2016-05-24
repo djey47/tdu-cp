@@ -14,8 +14,8 @@ PATCH_PARENT_PATH=/tmp/tducp-slots-new
 rm -rf ${PATCH_PARENT_PATH}
 mkdir ${PATCH_PARENT_PATH}
 
-cat newSlotIds_phase3.txt | while read id
-do
+cat newSlotIds.txt | while read id
+   do
    if [[ ${id} == 3* ]]; then
       echo "- ${id} (car slot)"
       PATCH_NAME=TDUCP-CAR_${id}.mini.json
@@ -35,6 +35,7 @@ do
 
    echo "Generating ${PATCH_PROPERTIES_PATH}..."
    rm ${PATCH_PROPERTIES_PATH} 2> /dev/null
+
    # Physics
    BANKNAME=TDUCP_${id}
    echo "SLOTREF=${id}00000" >> ${PATCH_PROPERTIES_PATH}
@@ -45,6 +46,7 @@ do
    echo "MODELNAME=TDUCP Model ${id}" >> ${PATCH_PROPERTIES_PATH}
    echo "VERSIONNAME=Version ${id}" >> ${PATCH_PROPERTIES_PATH}
    echo "CARID=${id}" >> ${PATCH_PROPERTIES_PATH}
+
    # Rims
    BANKNAME_RIMS_FRONT=TDUCP_${id}_F_01
    BANKNAME_RIMS_REAR=TDUCP_${id}_R_01
@@ -55,17 +57,25 @@ do
    echo "BANKNAME.FR.1=${BANKNAME_RIMS_FRONT}" >> ${PATCH_PROPERTIES_PATH}
    echo "RES_BANKNAME.RR.1=${id}2512" >> ${PATCH_PROPERTIES_PATH}
    echo "BANKNAME.RR.1=${BANKNAME_RIMS_REAR}" >> ${PATCH_PROPERTIES_PATH}
+
    # Ext Colors
-   echo "COLORID.M.1=54356127" >> ${PATCH_PROPERTIES_PATH}
-   echo "COLORID.S.1=53356127" >> ${PATCH_PROPERTIES_PATH}
-   echo "CALLIPERSID.1=53356127" >> ${PATCH_PROPERTIES_PATH}
-   echo "RES_COLORNAME.1=${id}1457" >> ${PATCH_PROPERTIES_PATH}
-   echo "COLORNAME.1=TDUCP_${id} exterior color 1" >> ${PATCH_PROPERTIES_PATH}
+   for c in `seq 0 9`;
+    do
+       echo "COLORID.M.${c}=54356127" >> ${PATCH_PROPERTIES_PATH}
+       echo "COLORID.S.${c}=53356127" >> ${PATCH_PROPERTIES_PATH}
+       echo "CALLIPERSID.${c}=53356127" >> ${PATCH_PROPERTIES_PATH}
+       echo "RES_COLORNAME.${c}=${id}${c}457" >> ${PATCH_PROPERTIES_PATH}
+       echo "COLORNAME.${c}=TDUCP_${id} exterior color ${c}" >> ${PATCH_PROPERTIES_PATH}
+    done
+
    # Int Schemes
-   echo "INTREF.1=${id}9636" >> ${PATCH_PROPERTIES_PATH}
-   echo "INTCOLORID.M.1=53364643" >> ${PATCH_PROPERTIES_PATH}
-   echo "INTCOLORID.S.1=53364643" >> ${PATCH_PROPERTIES_PATH}
-   echo "INTMATERIALID.1=53364643" >> ${PATCH_PROPERTIES_PATH}
+   for i in `seq 0 9`;
+    do
+       echo "INTREF.${i}=${id}${i}9636" >> ${PATCH_PROPERTIES_PATH}
+       echo "INTCOLORID.M.${i}=53364643" >> ${PATCH_PROPERTIES_PATH}
+       echo "INTCOLORID.S.${i}=53364643" >> ${PATCH_PROPERTIES_PATH}
+       echo "INTMATERIALID.${i}=53364643" >> ${PATCH_PROPERTIES_PATH}
+    done
 
    echo >> ${PATCH_PROPERTIES_PATH}
 
