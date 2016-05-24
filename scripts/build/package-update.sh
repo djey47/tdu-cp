@@ -20,6 +20,7 @@ export INSTALLER_BANK_PATH=${INSTALLER_FILES_PATH}/Euro/Bnk
 export INSTALLER_TDUF_PATH=${INSTALLER_PATH}/tduf
 
 # Init
+setEnv
 makeDirectoriesForUpdate
 
 # Files

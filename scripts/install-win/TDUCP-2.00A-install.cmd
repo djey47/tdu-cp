@@ -42,7 +42,7 @@ ECHO.
 
 MKDIR logs
 
-java -cp ".\%TDUCP_SCRIPTS_LIB%" fr.tduf.tducp.scripts.install.Update > logs\TDUCP-install.log 2>&1
+java -cp ".\TDUCP-lib\%TDUCP_SCRIPTS_LIB%" fr.tduf.tducp.scripts.install.Update > logs\TDUCP-install.log 2>&1
 IF ERRORLEVEL 1 ECHO .Installation failed!
 
 ECHO .Installation details in logs\TDUCP-install.log file (will be displayed below).
@@ -65,4 +65,4 @@ RMDIR %TDUCP_DIRECTORY% /S /Q
 DEL TDUCP-no
 DEL TDUCP-util.cmd
 DEL TDUCP-2.00A-install.cmd
-REM Should be the last line of the file!
+REM Should be the last command line of the file!

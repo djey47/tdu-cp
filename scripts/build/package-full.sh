@@ -13,6 +13,7 @@ source ./util/win.sh
 source ./util/patchhd.sh
 
 # Init
+setEnv
 makeDirectoriesForFull
 
 # Files
