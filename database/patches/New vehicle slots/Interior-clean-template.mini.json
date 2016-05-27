@@ -1,0 +1,10 @@
+{
+  "comment": "Patch template for SLOT #ID#",
+  "changes": [
+    {
+      "type": "DELETE_RES",
+      "topic": "INTERIOR",
+      "ref": "{RES_INTNAME}"
+    }
+  ]
+}
