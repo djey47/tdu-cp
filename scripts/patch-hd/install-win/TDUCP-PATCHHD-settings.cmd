@@ -40,18 +40,22 @@ SET PATCHOPTION=%ERRORLEVEL%
 
 IF %PATCHOPTION% == 7  GOTO :EOF
 
-ECHO.
+CLS
+
 ECHO .Now configuring HD PATCH, please wait...
+ECHO.
 
 MKDIR logs
-CALL TDUCP-PATCHHD-util.cmd >.\logs\TDUCP-PATCHHD.log 2>&1
+
+java -cp ".\TDUCP-lib\%TDUCP_SCRIPTS_LIB%" fr.tduf.tducp.scripts.install.patchhd.Settings > logs\TDUCP-PATCHHD.log 2>&1
+IF ERRORLEVEL 1 ECHO .Installation failed!
 
 ECHO.
-ECHO .All done, installation details in logs\TDUCP-patchhd.log file (will be displayed below).
+ECHO .All done, installation details in logs\TDUCP-PATCHHD.log file (will be displayed below).
 ECHO.
 
 PAUSE
 
-MORE TDUCP-patchhd.log
+MORE logs\TDUCP-PATCHHD.log
 
 PAUSE
