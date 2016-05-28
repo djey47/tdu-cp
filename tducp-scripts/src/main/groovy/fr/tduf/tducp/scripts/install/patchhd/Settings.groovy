@@ -18,10 +18,10 @@ if (args.length == 0) {
 def banksPath = startPath.resolve("Euro").resolve("Bnk")
 def installerFilesPath = patchhdPath.resolve("files")
 
-def modes = ["OFF", "SD", "HD100", "HD300", "HD500", "HDU"]
+def modes = ["NA", "OFF", "SD", "HD100", "HD300", "HD500", "HDU"]
 
 def modeIndex = args[0].toInteger()
-if (modeIndex < 0 || modeIndex > 5) {
+if (modeIndex < 1 || modeIndex > 6) {
     println("Patch HD mode argument is invalid: ${modeIndex}!")
     System.exit(1)
 }
@@ -43,7 +43,7 @@ println("*2-Patch HD Level Data LO*")
 def loBankPath = banksPath.resolve("Level").resolve("Hawai").resolve("CommonWorldDiv2.bnk")
 bankReplace(loBankPath, libPackedPath, libFilePath)
 
-println("3-Patch HD FX.ini")
+println("*3-Patch HD FX.ini*")
 def sourcePath = installerFilesPath.resolve(selectedMode).resolve("FX.ini")
 def targetPath = banksPath.resolve("FX")
 FileUtils.copyFileToDirectory(sourcePath.toFile(), targetPath.toFile())
