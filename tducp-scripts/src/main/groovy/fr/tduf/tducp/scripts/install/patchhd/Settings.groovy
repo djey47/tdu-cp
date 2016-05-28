@@ -18,10 +18,10 @@ if (args.length == 0) {
 def banksPath = startPath.resolve("Euro").resolve("Bnk")
 def installerFilesPath = patchhdPath.resolve("files")
 
-def modes = ["NA", "OFF", "SD", "HD100", "HD300", "HD500", "HDU"]
+def modes = ["OFF", "SD", "HD100", "HD300", "HD500", "HDU"]
 
 def modeIndex = args[0].toInteger()
-if (modeIndex <= 0 || modeIndex > 6) {
+if (modeIndex < 0 || modeIndex > 5) {
     println("Patch HD mode argument is invalid: ${modeIndex}!")
     System.exit(1)
 }
@@ -62,7 +62,6 @@ void bankReplace(bankPath, packedPath, filePath) {
 }
 
 static String getDotNetInterpreter() {
-    // TODO WIN test
     if (System.getProperty("os.name").toUpperCase().contains("WINDOWS")) {
         return "cmd.exe /C"
     }

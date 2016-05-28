@@ -1,6 +1,9 @@
 @ECHO OFF
 
 SET START_DIR=%~dp0
+SET TDUCP_VERSION=2.00A
+SET TDUCP_SCRIPTS_LIB=tducp-scripts-all-%TDUCP_VERSION%.jar
+
 
 :checkPrivileges
 NET FILE 1>NUL 2>NUL
@@ -47,11 +50,11 @@ ECHO.
 
 MKDIR logs
 
-java -cp ".\TDUCP-lib\%TDUCP_SCRIPTS_LIB%" fr.tduf.tducp.scripts.install.patchhd.Settings > logs\TDUCP-PATCHHD.log 2>&1
+java -cp ".\TDUCP-lib\%TDUCP_SCRIPTS_LIB%" fr.tduf.tducp.scripts.install.patchhd.Settings %PATCHOPTION% > logs\TDUCP-PATCHHD.log 2>&1
 IF ERRORLEVEL 1 ECHO .Installation failed!
 
 ECHO.
-ECHO .All done, installation details in logs\TDUCP-PATCHHD.log file (will be displayed below).
+ECHO .Installation details in logs\TDUCP-PATCHHD.log file (will be displayed below).
 ECHO.
 
 PAUSE
