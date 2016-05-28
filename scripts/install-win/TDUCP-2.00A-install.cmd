@@ -61,8 +61,8 @@ PAUSE
 ECHO.
 ECHO .Now cleaning up, please wait...
 ECHO.
-RMDIR %TDUCP_DIRECTORY% /S /Q
+REM RMDIR %TDUCP_DIRECTORY% /S /Q
 DEL TDUCP-no
 DEL TDUCP-util.cmd
-DEL TDUCP-2.00A-install.cmd
+REM DEL TDUCP-2.00A-install.cmd
 REM Should be the last command line of the file!
