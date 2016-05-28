@@ -63,7 +63,7 @@ void bankReplace(bankPath, packedPath, filePath) {
 
 static String getDotNetInterpreter() {
     if (System.getProperty("os.name").toUpperCase().contains("WINDOWS")) {
-        return "cmd.exe /C"
+        return ""
     }
 
     return "mono"

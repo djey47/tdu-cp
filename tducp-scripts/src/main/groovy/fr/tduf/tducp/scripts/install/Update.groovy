@@ -124,11 +124,12 @@ void databaseToolRepackAll(jsonDatabasePath, databasePath) {
     cmd.execute()
 }
 
+// TODO extract to Helper class
 static String getDotNetInterpreter() {
-    // TODO WIN test
     if (System.getProperty("os.name").toUpperCase().contains("WINDOWS")) {
-        return "cmd.exe /C"
+        return ""
     }
 
     return "mono"
 }
+
