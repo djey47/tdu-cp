@@ -6,3 +6,4 @@
 /workspace/releases/UPDATE-*
 /workspace/wip/private
 /database/current/original-*.bnk
+/tducp-scripts/src/main/groovy/fr/tduf/tducp/scripts/install/TDUCP-2.00A-installer

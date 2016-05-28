@@ -1,0 +1,29 @@
+group 'fr.tduf.tducp'
+version '2.00A'
+
+apply plugin: 'groovy'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile 'org.codehaus.groovy:groovy-all:2.4.6'
+    compile 'commons-io:commons-io:2.5'
+}
+
+task fatJar(type: Jar) {
+    mustRunAfter 'jar'
+    description 'Generates jar with all dependencies bundled into it.'
+
+    baseName = project.name + '-all'
+    from { configurations.compile.collect { it.isDirectory() ? it : zipTree(it) } }
+    with jar
+}
+
+task execute(type: JavaExec) {
+    main 'fr.tduf.tducp.scripts.Main'
+    classpath sourceSets.main.runtimeClasspath
+}
