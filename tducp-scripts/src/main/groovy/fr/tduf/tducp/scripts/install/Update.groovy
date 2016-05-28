@@ -127,7 +127,7 @@ void databaseToolRepackAll(jsonDatabasePath, databasePath) {
 static String getDotNetInterpreter() {
     // TODO WIN test
     if (System.getProperty("os.name").toUpperCase().contains("WINDOWS")) {
-        return "cmd.exe /K"
+        return "cmd.exe /C"
     }
 
     return "mono"
