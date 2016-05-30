@@ -43,7 +43,7 @@ def logoBankPath = banksPath.resolve("FrontEnd").resolve("AllRes").resolve("Logo
 def logoBatchFilePath = installerFilesPatchesPath.resolve("banksReplace_LOGO_TEX.json")
 runner.bankBatchReplace(logoBankPath, logoBatchFilePath, installerFilesPatchesPath)
 
-def libraryPackedPath = "D:\\Eden-Prog\\Games\\TestDrive\\Resources\\4Build\\PC\\EURO\\Level\\Hawaii\\Common\\Library\\.3DD\\Library"
+def libraryPackedPath = "D:\\Eden-Prog\\Games\\TestDrive\\Resources\\4Build\\PC\\EURO\\Level\\Hawai\\Common\\Library\\.3DD\\Library"
 def libFilePath = installerFilesPatchesPath.resolve("Library.3DD")
 
 println("*4-Patch HD Level Data HI*")
