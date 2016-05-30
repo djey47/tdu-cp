@@ -13,9 +13,10 @@ def tdufVersion = tdufPath.resolve("tools").resolve("lib").resolve("version.info
 def banksPath = startPath.resolve("Euro").resolve("Bnk")
 def installerFilesPath = tducpPath.resolve("files")
 def installerFilesPatchesPath = installerFilesPath.resolve("patches")
-
-TDUFRunner.setTdufLibPath(tdufPath.resolve("lib").resolve("tduf-${tdufVersion}.jar"))
-TDUFRunner.setTdumtCliExe(tdufPath.resolve("tools").resolve("tdumt-cli").resolve("tdumt-cli.exe").toString())
+def runner = new TDUFRunner(
+        tdufPath.resolve("lib").resolve("tduf-${tdufVersion}.jar"),
+        tdufPath.resolve("tools").resolve("tdumt-cli").resolve("tdumt-cli.exe").toString()
+)
 
 println(".Initializing, please wait...")
 println("(i) TDUF location: $tdufPath")
@@ -30,28 +31,28 @@ def logoPackedPath = "D:\\Eden-Prog\\Games\\TestDrive\\Resources\\4Build\\PC\\EU
 println("*1-Menu HI*")
 def hiBankPath = banksPath.resolve("FrontEnd").resolve("HiRes").resolve("LOG_IN.bnk")
 def hiLogoFilePath = installerFilesPatchesPath.resolve("textures-high").resolve("fla_0013.2db")
-TDUFRunner.bankReplace(hiBankPath, logoPackedPath, hiLogoFilePath)
+runner.bankReplace(hiBankPath, logoPackedPath, hiLogoFilePath)
 
 println("*2-Menu LO*")
 def lowBankPath = banksPath.resolve("FrontEnd").resolve("LowRes").resolve("LOG_IN.bnk")
 def lowLogoFilePath = installerFilesPatchesPath.resolve("textures-low").resolve("fla_0013.2db")
-TDUFRunner.bankReplace(lowBankPath, logoPackedPath, lowLogoFilePath)
+runner.bankReplace(lowBankPath, logoPackedPath, lowLogoFilePath)
 
 println("*3-Brand logos*")
 def logoBankPath = banksPath.resolve("FrontEnd").resolve("AllRes").resolve("LogoTexturePage.bnk")
 def logoBatchFilePath = installerFilesPatchesPath.resolve("banksReplace_LOGO_TEX.json")
-TDUFRunner.bankBatchReplace(logoBankPath, logoBatchFilePath, installerFilesPatchesPath)
+runner.bankBatchReplace(logoBankPath, logoBatchFilePath, installerFilesPatchesPath)
 
 def libraryPackedPath = "D:\\Eden-Prog\\Games\\TestDrive\\Resources\\4Build\\PC\\EURO\\Level\\Hawaii\\Common\\Library\\.3DD\\Library"
 def libFilePath = installerFilesPatchesPath.resolve("Library.3DD")
 
 println("*4-Patch HD Level Data HI*")
 def hiCommonBankPath = banksPath.resolve("Level").resolve("Hawai").resolve("CommonWorld.bnk")
-TDUFRunner.bankReplace(hiCommonBankPath, libraryPackedPath, libFilePath)
+runner.bankReplace(hiCommonBankPath, libraryPackedPath, libFilePath)
 
 println("*5-Patch HD Level Data LO*")
 def lowCommonBankPath = banksPath.resolve("Level").resolve("Hawai").resolve("CommonWorldDiv2.bnk")
-TDUFRunner.bankReplace(lowCommonBankPath, libraryPackedPath, libFilePath)
+runner.bankReplace(lowCommonBankPath, libraryPackedPath, libFilePath)
 
 println()
 
@@ -66,7 +67,7 @@ println(".Patching database, please wait...")
 def gameDatabasePath = banksPath.resolve("Database")
 def jsonDatabasePath = tducpPath.resolve("database").resolve("current")
 def jsonPatchesPath = tducpPath.resolve("database").resolve("patches")
-TDUFRunner.databaseToolApplyPatchesOnDatabaseBanks(gameDatabasePath, jsonDatabasePath, jsonPatchesPath)
+runner.databaseToolApplyPatchesOnDatabaseBanks(gameDatabasePath, jsonDatabasePath, jsonPatchesPath)
 
 println()
 
@@ -76,7 +77,7 @@ println(".Cleaning, please wait...")
 println()
 
 println(".Updating AwesomeMap, please wait...")
-TDUFRunner.mappingToolFixMap(banksPath)
+runner.mappingToolFixMap(banksPath)
 
 println()
 

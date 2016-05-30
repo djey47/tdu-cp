@@ -14,6 +14,10 @@ def startPath = Paths.get(".").toAbsolutePath()
 def patchhdPath = startPath.resolve("TDUCP-PATCHHD-installer")
 def banksPath = startPath.resolve("Euro").resolve("Bnk")
 def installerFilesPath = patchhdPath.resolve("files")
+def runner = new TDUFRunner(
+        null,
+        patchhdPath.resolve("tduf").resolve("tools").resolve("tdumt-cli").resolve("tdumt-cli.exe").toString()
+)
 
 def modes = ["NA", "OFF", "SD", "HD100", "HD300", "HD500", "HDU"]
 
@@ -27,8 +31,6 @@ def selectedMode = modes[modeIndex]
 println(".Setting mode to ${selectedMode}...")
 println()
 
-TDUFRunner.setTdumtCliExe(patchhdPath.resolve("tduf").resolve("tools").resolve("tdumt-cli").resolve("tdumt-cli.exe").toString())
-
 println(".Patching game files, please wait...")
 
 def libPackedPath = "D:\\Eden-Prog\\Games\\TestDrive\\Resources\\4Build\\PC\\EURO\\Level\\Hawai\\Common\\Library\\.3DD\\Library"
@@ -36,11 +38,11 @@ def libFilePath = installerFilesPath.resolve(selectedMode).resolve("Library.3DD"
 
 println("*1-Patch HD Level Data HI*")
 def hiBankPath = banksPath.resolve("Level").resolve("Hawai").resolve("CommonWorld.bnk")
-TDUFRunner.bankReplace(hiBankPath, libPackedPath, libFilePath)
+runner.bankReplace(hiBankPath, libPackedPath, libFilePath)
 
 println("*2-Patch HD Level Data LO*")
 def loBankPath = banksPath.resolve("Level").resolve("Hawai").resolve("CommonWorldDiv2.bnk")
-TDUFRunner.bankReplace(loBankPath, libPackedPath, libFilePath)
+runner.bankReplace(loBankPath, libPackedPath, libFilePath)
 
 println("*3-Patch HD FX.ini*")
 def sourcePath = installerFilesPath.resolve(selectedMode).resolve("FX.ini")
