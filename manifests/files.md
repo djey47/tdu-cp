@@ -1,6 +1,6 @@
 # Files
 
-*Current Community Patch will have following impact on existing TDU installation.*
+*Community Patch will have following impact on existing TDU installation.*
 
 ## NEW files
 

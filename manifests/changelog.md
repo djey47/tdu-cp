@@ -1,5 +1,9 @@
 # Changelog
 
+- Current version number: **BETA-5**
+
+- Release date: **2016-05-16**
+
 *What's new in this version?*
 
 
@@ -7,15 +11,18 @@
 
 - New default license plate [FULL PACKAGE ONLY] 
 
+
       
 ## Bugfixes
 
 - None atm.
 
 
+
 ## Known Bugs
 
 - A few, because it's just TDU :p 
+
 
 
 ## Previous contents
@@ -72,6 +79,7 @@
     - 300000000 to 340000000 => TDUCP Model 3000 to 3400 (Cars)
     - 400000000 to 402000000 => TDUCP Model 4000 to 4040 (Bikes)
 ( you have to set them manually to dealers, using tools ).   
+
 
 
 ### Bugfixes
