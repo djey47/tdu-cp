@@ -11,9 +11,6 @@ class TDUFRunner {
     private static tdufLibPath
     private static tdumtCliExe
 
-// TODO stop on execute error (binary not found)
-// TODO get stderr http://stackoverflow.com/questions/159148/groovy-executing-shell-commands
-
     public static void bankReplace(bankPath, packedPath, filePath) {
         def cmd = "${dotNetInterpreter} \"${tdumtCliExe}\" BANK-R \"$bankPath\" $packedPath \"$filePath\""
         runCommandWithResultHandling(cmd)
@@ -51,12 +48,24 @@ class TDUFRunner {
     }
 
     private static runCommandWithResultHandling(String cmd, Path startPath=null) {
-        println(cmd)
-
+        def process
         if (startPath == null) {
-            cmd.execute()
+            process = cmd.execute()
         } else {
-            cmd.execute([], startPath.toFile())
+            process = cmd.execute([], startPath.toFile())
+        }
+
+        def ob = new StringBuffer()
+        def eb = new StringBuffer()
+        process.waitForProcessOutput(ob, eb)
+
+        println("[CMD] ${cmd}")
+        println("[CODE] ${process.exitValue()}")
+        println("[INFO] ${ob.toString()}")
+        println("[ERROR] ${eb.toString()}")
+
+        if (process.exitValue()) {
+            System.exit(process.exitValue())
         }
     }
 
