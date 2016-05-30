@@ -27,3 +27,7 @@ task execute(type: JavaExec) {
     main 'fr.tduf.tducp.scripts.Main'
     classpath sourceSets.main.runtimeClasspath
 }
+
+task wrapper(type: Wrapper) {
+    gradleVersion = '2.11'
+}
