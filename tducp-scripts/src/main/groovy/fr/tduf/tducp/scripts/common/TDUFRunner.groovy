@@ -1,5 +1,7 @@
 package fr.tduf.tducp.scripts.common
 
+import java.nio.file.Path
+
 /**
  * Class to run TDUF tools from command line scripts.
  */
@@ -13,41 +15,45 @@ class TDUFRunner {
 
     public static void bankReplace(bankPath, packedPath, filePath) {
         def cmd = "${dotNetInterpreter} \"${tdumtCliExe}\" BANK-R \"$bankPath\" $packedPath \"$filePath\""
-        println(cmd)
-        cmd.execute()
+        runCommandWithResultHandling(cmd)
     }
 
     public static void bankBatchReplace(bankPath, batchFilePath, sourceFilePath) {
         def cmd = "${dotNetInterpreter} \"$tdumtCliExe\" BANK-RX \"$bankPath\" \"$batchFilePath\""
-        println(cmd)
-        cmd.execute([], sourceFilePath.toFile())
+        runCommandWithResultHandling(cmd, sourceFilePath)
     }
 
     public static void mappingToolFixMap(banksPath) {
         def cmd = "java -cp \"$tdufLibPath\" fr.tduf.cli.tools.MappingTool fix-missing -b \"$banksPath\""
-//    println(cmd)
-        cmd.execute()
+        runCommandWithResultHandling(cmd)
     }
 
     public static void databaseToolUnpackAll(databasePath, jsonDatabasePath) {
         def cmd = "java -cp \"$tdufLibPath\" fr.tduf.cli.tools.DatabaseTool unpack-all -d \"$databasePath\" -j \"$jsonDatabasePath\""
-//    println(cmd)
-        cmd.execute()
+        runCommandWithResultHandling(cmd)
     }
 
     public static void databaseToolApplyPatches(jsonDatabasePath, patchesPath) {
         def cmd = "java -cp \"$tdufLibPath\" fr.tduf.cli.tools.DatabaseTool apply-patches -j \"$jsonDatabasePath\" -p \"$patchesPath\""
-//    println(cmd)
-        cmd.execute()
+        runCommandWithResultHandling(cmd)
     }
 
     public static void databaseToolRepackAll(jsonDatabasePath, databasePath) {
         def cmd = "java -cp \"$tdufLibPath\" fr.tduf.cli.tools.DatabaseTool repack-all -j \"$jsonDatabasePath\" -o \"$databasePath\""
-//    println(cmd)
-        cmd.execute()
+        runCommandWithResultHandling(cmd)
     }
 
-    static String getDotNetInterpreter() {
+    private static runCommandWithResultHandling(String cmd, Path startPath=null) {
+        println(cmd)
+
+        if (startPath == null) {
+            cmd.execute()
+        } else {
+            cmd.execute([], startPath.toFile())
+        }
+    }
+
+    private static String getDotNetInterpreter() {
         if (System.getProperty("os.name").toUpperCase().contains("WINDOWS")) {
             return ""
         }
