@@ -9,13 +9,16 @@
 
 ## Features
 
-- New default license plate [FULL PACKAGE ONLY] 
+- New default license plate [FULL PACKAGE ONLY]
+- Each of new TDUCP slots gets 10 paint job options and 10 exteriors
+- Update and Patch HD settings log files are now located to logs subdirectory
+- Documentation is provided as HTML files for easier reading.
 
 
       
 ## Bugfixes
 
-- None atm.
+- Update installer should be comfortable with some extra TDU locations.
 
 
 
