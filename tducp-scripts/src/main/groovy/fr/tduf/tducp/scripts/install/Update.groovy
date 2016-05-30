@@ -71,11 +71,6 @@ runner.databaseToolApplyPatchesOnDatabaseBanks(gameDatabasePath, jsonDatabasePat
 
 println()
 
-println(".Cleaning, please wait...")
-// TODO
-
-println()
-
 println(".Updating AwesomeMap, please wait...")
 runner.mappingToolFixMap(banksPath)
 
