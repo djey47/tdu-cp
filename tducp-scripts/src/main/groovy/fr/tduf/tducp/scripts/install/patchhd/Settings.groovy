@@ -1,5 +1,6 @@
 package fr.tduf.tducp.scripts.install.patchhd
 
+import fr.tduf.tducp.scripts.common.TDUFRunner
 import groovy.transform.Field
 import org.apache.commons.io.FileUtils
 
@@ -56,15 +57,7 @@ println(".All done!")
 // TODO get stderr http://stackoverflow.com/questions/159148/groovy-executing-shell-commands
 
 void bankReplace(bankPath, packedPath, filePath) {
-    def cmd = "${getDotNetInterpreter()} \"$tdumtCliExe\" BANK-R \"$bankPath\" $packedPath \"$filePath\""
+    def cmd = "${TDUFRunner.dotNetInterpreter} \"$tdumtCliExe\" BANK-R \"$bankPath\" $packedPath \"$filePath\""
     println(cmd)
     cmd.execute()
-}
-
-static String getDotNetInterpreter() {
-    if (System.getProperty("os.name").toUpperCase().contains("WINDOWS")) {
-        return ""
-    }
-
-    return "mono"
 }

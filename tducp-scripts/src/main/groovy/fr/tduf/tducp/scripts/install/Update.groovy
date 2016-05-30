@@ -1,6 +1,7 @@
 package fr.tduf.tducp.scripts.install
 
 import fr.tduf.tducp.scripts.common.ExistingFileFilter
+import fr.tduf.tducp.scripts.common.TDUFRunner
 import groovy.transform.Field
 import org.apache.commons.io.FileUtils
 
@@ -89,13 +90,13 @@ println(".All done!")
 // TODO get stderr http://stackoverflow.com/questions/159148/groovy-executing-shell-commands
 
 void bankReplace(bankPath, packedPath, filePath) {
-    def cmd = "${getDotNetInterpreter()} \"$tdumtCliExe\" BANK-R \"$bankPath\" $packedPath \"$filePath\""
+    def cmd = "${TDUFRunner.dotNetInterpreter} \"$tdumtCliExe\" BANK-R \"$bankPath\" $packedPath \"$filePath\""
     println(cmd)
     cmd.execute()
 }
 
 void bankBatchReplace(bankPath, batchFilePath, sourceFilePath) {
-    def cmd = "${getDotNetInterpreter()} \"$tdumtCliExe\" BANK-RX \"$bankPath\" \"$batchFilePath\""
+    def cmd = "${TDUFRunner.dotNetInterpreter} \"$tdumtCliExe\" BANK-RX \"$bankPath\" \"$batchFilePath\""
     println(cmd)
     cmd.execute([], sourceFilePath.toFile())
 }
@@ -123,13 +124,3 @@ void databaseToolRepackAll(jsonDatabasePath, databasePath) {
 //    println(cmd)
     cmd.execute()
 }
-
-// TODO extract to Helper class
-static String getDotNetInterpreter() {
-    if (System.getProperty("os.name").toUpperCase().contains("WINDOWS")) {
-        return ""
-    }
-
-    return "mono"
-}
-
