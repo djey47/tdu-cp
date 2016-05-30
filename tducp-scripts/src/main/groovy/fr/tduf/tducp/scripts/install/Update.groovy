@@ -14,7 +14,7 @@ def banksPath = startPath.resolve("Euro").resolve("Bnk")
 def installerFilesPath = tducpPath.resolve("files")
 def installerFilesPatchesPath = installerFilesPath.resolve("patches")
 def runner = new TDUFRunner(
-        tdufPath.resolve("lib").resolve("tduf-${tdufVersion}.jar"),
+        tdufPath.resolve("tools").resolve("lib").resolve("tduf-${tdufVersion}.jar"),
         tdufPath.resolve("tools").resolve("tdumt-cli").resolve("tdumt-cli.exe").toString()
 )
 
