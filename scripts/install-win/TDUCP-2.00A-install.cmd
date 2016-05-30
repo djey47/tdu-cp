@@ -29,8 +29,6 @@ CD /D %START_DIR%
 ECHO TDUCP 2.00A INSTALLER
 ECHO =====================
 ECHO.
-MORE version.md
-ECHO.
 
 PAUSE
 
@@ -40,7 +38,7 @@ ECHO.
 ECHO .Now installing, please wait...
 ECHO.
 
-MKDIR logs
+MKDIR logs 2>NUL
 
 java -cp ".\TDUCP-lib\%TDUCP_SCRIPTS_LIB%" fr.tduf.tducp.scripts.install.Update > logs\TDUCP-install.log 2>&1
 IF ERRORLEVEL 1 ECHO .Installation failed!

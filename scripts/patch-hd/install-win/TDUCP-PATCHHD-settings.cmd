@@ -48,7 +48,7 @@ CLS
 ECHO .Now configuring HD PATCH, please wait...
 ECHO.
 
-MKDIR logs
+MKDIR logs 2>NUL
 
 java -cp ".\TDUCP-lib\%TDUCP_SCRIPTS_LIB%" fr.tduf.tducp.scripts.install.patchhd.Settings %PATCHOPTION% > logs\TDUCP-PATCHHD.log 2>&1
 IF ERRORLEVEL 1 ECHO .Installation failed!
