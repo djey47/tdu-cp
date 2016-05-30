@@ -7,6 +7,7 @@ import java.nio.file.Path
  */
 class TDUFRunner {
 
+    // TODO replace with instance fields and methods
     private static tdufLibPath
     private static tdumtCliExe
 
@@ -36,6 +37,12 @@ class TDUFRunner {
     public static void databaseToolApplyPatches(jsonDatabasePath, patchesPath) {
         def cmd = "java -cp \"$tdufLibPath\" fr.tduf.cli.tools.DatabaseTool apply-patches -j \"$jsonDatabasePath\" -p \"$patchesPath\""
         runCommandWithResultHandling(cmd)
+    }
+
+    public static void databaseToolApplyPatchesOnDatabaseBanks(gameDatabasePath, jsonDatabasePath, jsonPatchesPath) {
+        databaseToolUnpackAll(gameDatabasePath, jsonDatabasePath)
+        databaseToolApplyPatches(jsonDatabasePath, jsonPatchesPath)
+        databaseToolRepackAll(jsonDatabasePath, gameDatabasePath)
     }
 
     public static void databaseToolRepackAll(jsonDatabasePath, databasePath) {

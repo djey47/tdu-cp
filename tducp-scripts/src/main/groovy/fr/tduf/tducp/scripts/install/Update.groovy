@@ -66,10 +66,7 @@ println(".Patching database, please wait...")
 def gameDatabasePath = banksPath.resolve("Database")
 def jsonDatabasePath = tducpPath.resolve("database").resolve("current")
 def jsonPatchesPath = tducpPath.resolve("database").resolve("patches")
-// TODO create hi-level op
-TDUFRunner.databaseToolUnpackAll(gameDatabasePath, jsonDatabasePath)
-TDUFRunner.databaseToolApplyPatches(jsonDatabasePath, jsonPatchesPath)
-TDUFRunner.databaseToolRepackAll(jsonDatabasePath, gameDatabasePath)
+TDUFRunner.databaseToolApplyPatchesOnDatabaseBanks(gameDatabasePath, jsonDatabasePath, jsonPatchesPath)
 
 println()
 
