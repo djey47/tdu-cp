@@ -39,7 +39,10 @@ installerScript
 # Patch HD - Settings App
 includePatchHD
 
-#Zip
+# HTML documentation
+htmlDoc
+
+# Zip
 makeZip UPDATE-TDUCP-2.00A
 
 echo "All done!"

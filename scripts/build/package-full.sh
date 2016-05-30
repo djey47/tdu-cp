@@ -27,7 +27,10 @@ generateAndCheckDatabase
 # Patch HD - Settings App
 includePatchHD
 
-#Zip
+# HTML documentation
+htmlDoc
+
+# Zip
 makeZip FULL-TDUCP-2.00A
 
 echo "All done!"

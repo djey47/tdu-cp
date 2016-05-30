@@ -2,8 +2,19 @@ group 'fr.tduf.tducp'
 version '2.00A'
 
 apply plugin: 'groovy'
+apply plugin: 'org.kordamp.markdown.convert'
 
 sourceCompatibility = 1.8
+
+buildscript {
+    repositories {
+        maven { url 'http://dl.bintray.com/content/aalmiray/kordamp' }
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'org.kordamp:markdown-gradle-plugin:1.0.0'
+    }
+}
 
 repositories {
     mavenCentral()

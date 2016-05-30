@@ -37,7 +37,7 @@ replacedFiles() {
 # For both full and update packages: to replace existing files in TDU install while extracting ZIP
 newFiles() {
     echo "*** Manifests... ***"
-    cp ${TDUCP_PATH}/manifests/*.md ${BUILD_PATH}
+    cp ${TDUCP_PATH}/manifests/*.md ${MARKDOWN_SRC_PATH}
     echo
 
     echo "*** References... ***"
@@ -65,7 +65,7 @@ newFilesForUpdate() {
 
     # Readme
     echo "*** Readme... ***"
-    cp ${TDUCP_PATH}/manifests/update/readme-tducp-update.md ${BUILD_PATH}
+    cp ${TDUCP_PATH}/manifests/update/*.md ${MARKDOWN_SRC_PATH}
     echo
 
     # Move slot files to installer paths
@@ -79,7 +79,7 @@ newFilesForUpdate() {
 newFilesForPatchHD() {
     # Readme
     echo "*** Readme... ***"
-    cp ${TDUCP_PATH}/manifests/patch-hd/readme-patch-hd.md ${BUILD_PATH}
+    cp ${TDUCP_PATH}/manifests/patch-hd/*.md ${MARKDOWN_SRC_PATH}
     echo
 
     # Patch HD modes directories
@@ -189,4 +189,9 @@ makeZip() {
     7z a ${TDUCP_PATH}/workspace/releases/$1-${TIMESTAMP}.7z *
     popd > /dev/null
     echo
+}
+
+htmlDoc() {
+    cd ${TDUCP_PATH}/tducp-scripts && ./gradlew markdownToHtml && cd -
+    cp ${TDUCP_PATH}/tducp-scripts/build/gen-html/*.html ${BUILD_PATH}
 }

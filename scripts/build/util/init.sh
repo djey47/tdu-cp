@@ -3,6 +3,7 @@
 setEnv() {
     echo "*** Setting packaging environment... ***"
     export INSTALLER_LIB_PATH=${BUILD_PATH}/TDUCP-lib
+    export MARKDOWN_SRC_PATH=${TDUCP_PATH}/tducp-scripts/src/markdown/
     echo
 }
 
