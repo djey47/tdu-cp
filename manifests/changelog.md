@@ -9,16 +9,17 @@
 
 ## Features
 
+- Documentation is provided as HTML files for easier reading
 - New default license plate [FULL PACKAGE ONLY]
 - Each of new TDUCP slots gets 10 paint job options and 10 exteriors
 - Update and Patch HD settings log files are now located to logs subdirectory
-- Documentation is provided as HTML files for easier reading.
+- Patch HD install files can be removed via new script option (7).
 
 
       
 ## Bugfixes
 
-- Update installer should be comfortable with some extra TDU locations.
+- Update installer should now be comfortable with some extra TDU locations.
 
 
 
