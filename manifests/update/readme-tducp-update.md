@@ -12,11 +12,12 @@
 
 - Install results will be stored in **TDUCP-install.log** file, check **logs** subdirectory
 
-- TDUMT/TDUPE: use updated references from tools folder: **VehicleSlots.xml** and **carData.mdb** - replace original files
+- TDUMT/TDUPE: use updated references from **tools** subdirectory: **VehicleSlots.xml** and **carData.mdb** - replace original files
 
-- Make sure to also read **files.md** and **changelog.md** before asking for help
+- Make sure to also read **files.html** and **changelog.html**
 
 - That's all!
+
 
 
 ## How to uninstall
@@ -24,6 +25,7 @@
 ### Entire COMMUNITY PACK
 
 - Restore backup copy of your TDU install.
+
 
 
 ## Credits
@@ -37,6 +39,7 @@
 - **Lean,Speeder** : G27 Fix
 
 - **djey** : Anything else!
+
 
 
 ## Websites
