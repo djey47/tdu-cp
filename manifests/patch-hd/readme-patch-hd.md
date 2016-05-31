@@ -13,13 +13,18 @@
 - That's all!
 
 
+
 ## How to uninstall
 
-- Run **TDUCP-PATCHHD-settings.cmd** script and hit '1' key - it will revert to SD mode.
+Run **TDUCP-PATCHHD-settings.cmd** script:
+ 
+- hit '0' key - it will disable feature
+- hit '1' key - it will revert to SD mode
+- hit '7' key - it will remove all install files.
+
 
 
 ## Credits
 
 - **2CVSUPERGT**
-
 - **djey**
