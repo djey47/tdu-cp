@@ -28,6 +28,7 @@ CD /D %START_DIR%
 
 ECHO TDUCP 2.00A INSTALLER
 ECHO =====================
+ECHO By Djey.
 ECHO.
 
 PAUSE
