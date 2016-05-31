@@ -5,27 +5,11 @@ SET TDUCP_VERSION=2.00A
 SET TDUCP_DIRECTORY=TDUCP-PATCHHD-installer
 SET TDUCP_SCRIPTS_LIB=TDUCP-lib\tducp-scripts-all-%TDUCP_VERSION%.jar
 
-
-:checkPrivileges
-NET FILE 1>NUL 2>NUL
-if '%errorlevel%' == '0' ( goto gotPrivileges ) else ( goto getPrivileges )
-
-:getPrivileges
-if '%1'=='ELEV' (shift & goto gotPrivileges)
-
-REM Invoking UAC for Privilege Escalation
-
-setlocal DisableDelayedExpansion
-set "batchPath=%~0"
-setlocal EnableDelayedExpansion
-ECHO Set UAC = CreateObject^("Shell.Application"^) > "%temp%\OEgetPrivileges.vbs"
-ECHO UAC.ShellExecute "!batchPath!", "ELEV", "", "runas", 1 >> "%temp%\OEgetPrivileges.vbs"
-"%temp%\OEgetPrivileges.vbs"
-exit /B
-
-:gotPrivileges
-
+REM *** Admin mode ***
 CD /D %START_DIR%
+CALL %TDUCP_DIRECTORY%\tduf\tools\cli\AdminRun.cmd %~0
+IF "%ERRORLEVEL%" == "1" (EXIT /B)
+REM *** Admin mode ***
 
 ECHO TDUCP PATCH HD SETTINGS
 ECHO =======================
@@ -62,9 +46,20 @@ ECHO.
 
 PAUSE
 
+CLS
+
+CD /D %START_DIR%
+
 MORE logs\TDUCP-PATCHHD.log
 
 PAUSE
+
+ECHO.
+ECHO .Now cleaning up, please wait...
+ECHO.
+REM Removal of obsolete files
+DEL readme-patch-hd.md
+DEL TDUCP-PATCHHD-util.cmd
 
 GOTO :EOF
 
