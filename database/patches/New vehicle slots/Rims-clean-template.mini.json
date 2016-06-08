@@ -1,0 +1,20 @@
+{
+  "comment": "Patch template for SLOT #ID#",
+  "changes": [
+    {
+      "type": "DELETE",
+      "topic": "CAR_RIMS",
+      "filter": [
+        {
+          "rank": 1,
+          "value": "{SLOTREF}"
+        }
+      ]
+    },
+    {
+      "type": "DELETE",
+      "topic": "RIMS",
+      "ref": "{RIMREF}"
+    }
+  ]
+}
