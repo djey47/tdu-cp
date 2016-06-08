@@ -2,6 +2,6 @@
 
 deployTDUF() {
     echo "*** TDUF... ***"
-    cp -rL ${TDUF_PATH} ${INSTALLER_PATH}
+    cp -rL ${TDUF_PATH} ${INSTALLER_LIB_PATH}
     echo
 }

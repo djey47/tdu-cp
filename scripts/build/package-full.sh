@@ -24,6 +24,9 @@ generateMapping
 # Database
 generateAndCheckDatabase
 
+# TDUF
+deployTDUF
+
 # Patch HD - Settings App
 includePatchHD
 

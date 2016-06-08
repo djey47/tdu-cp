@@ -12,9 +12,6 @@ includePatchHD() {
     newFilesForPatchHD
     updatedPackedFilesForPatchHD
 
-    # TDUF
-    deployTDUF
-
     # Windows installer script
     installerScript
 
