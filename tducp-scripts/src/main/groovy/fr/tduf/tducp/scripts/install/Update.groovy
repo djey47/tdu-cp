@@ -6,9 +6,11 @@ import org.apache.commons.io.FileUtils
 
 import java.nio.file.Paths
 
+// TODO extract common paths to class
 def startPath = Paths.get(".").toAbsolutePath()
 def tducpPath = startPath.resolve("TDUCP-2.00A-installer")
-def tdufPath = tducpPath.resolve("tduf")
+def tducpLibPath = startPath.resolve("TDUCP-lib")
+def tdufPath = tducpLibPath.resolve("tduf")
 def tdufVersion = tdufPath.resolve("tools").resolve("lib").resolve("version.info").text
 def banksPath = startPath.resolve("Euro").resolve("Bnk")
 def installerFilesPath = tducpPath.resolve("files")

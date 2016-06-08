@@ -10,13 +10,16 @@ if (args.length == 0) {
     System.exit(1)
 }
 
+// TODO extract common paths to class
 def startPath = Paths.get(".").toAbsolutePath()
 def patchhdPath = startPath.resolve("TDUCP-PATCHHD-installer")
+def tducpLibPath = startPath.resolve("TDUCP-lib")
+def tdufPath = tducpLibPath.resolve("tduf")
 def banksPath = startPath.resolve("Euro").resolve("Bnk")
 def installerFilesPath = patchhdPath.resolve("files")
 def runner = new TDUFRunner(
         null,
-        patchhdPath.resolve("tduf").resolve("tools").resolve("tdumt-cli").resolve("tdumt-cli.exe").toString()
+        tdufPath.resolve("tools").resolve("tdumt-cli").resolve("tdumt-cli.exe").toString()
 )
 
 def modes = ["NA", "OFF", "SD", "HD100", "HD300", "HD500", "HDU"]
