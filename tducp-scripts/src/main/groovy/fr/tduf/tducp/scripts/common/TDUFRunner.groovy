@@ -7,12 +7,18 @@ import java.nio.file.Path
  */
 class TDUFRunner {
 
+    private final tdufPath
+    private final tdufVersion
     private final tdufLibPath
     private final tdumtCliExe
 
-    public TDUFRunner(libPath, cliExe) {
-        tdufLibPath = libPath
-        tdumtCliExe = cliExe
+    public TDUFRunner(tdufPath) {
+        def tdufToolsPath = tdufPath.resolve("tools")
+
+        this.tdufPath = tdufPath
+        this.tdufLibPath = tdufToolsPath.resolve("lib")
+        this.tdufVersion = this.tdufLibPath.resolve("version.info").text
+        this.tdumtCliExe = tdufToolsPath.resolve("tdumt-cli").resolve("tdumt-cli.exe").toString()
     }
 
     public void bankReplace(bankPath, packedPath, filePath) {
@@ -79,5 +85,13 @@ class TDUFRunner {
         }
 
         return "mono"
+    }
+
+    def getTdufPath() {
+        return tdufPath
+    }
+
+    def getTdufVersion() {
+        return tdufVersion
     }
 }

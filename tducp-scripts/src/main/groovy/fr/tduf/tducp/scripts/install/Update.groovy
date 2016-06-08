@@ -2,27 +2,19 @@ package fr.tduf.tducp.scripts.install
 
 import fr.tduf.tducp.scripts.common.ExistingFileFilter
 import fr.tduf.tducp.scripts.common.TDUFRunner
+import fr.tduf.tducp.scripts.install.common.PathConstants
 import org.apache.commons.io.FileUtils
 
-import java.nio.file.Paths
-
-// TODO extract common paths to class
-def startPath = Paths.get(".").toAbsolutePath()
-def tducpPath = startPath.resolve("TDUCP-2.00A-installer")
-def tducpLibPath = startPath.resolve("TDUCP-lib")
-def tdufPath = tducpLibPath.resolve("tduf")
-def tdufVersion = tdufPath.resolve("tools").resolve("lib").resolve("version.info").text
-def banksPath = startPath.resolve("Euro").resolve("Bnk")
-def installerFilesPath = tducpPath.resolve("files")
+def tducpPath = PathConstants.currentPath.resolve("TDUCP-2.00A-installer")
+def tdufPath = PathConstants.TDUFPath
+def banksPath = PathConstants.banksPath
+def installerFilesPath = PathConstants.resolveInstallerFilesPath(tducpPath)
 def installerFilesPatchesPath = installerFilesPath.resolve("patches")
-def runner = new TDUFRunner(
-        tdufPath.resolve("tools").resolve("lib").resolve("tduf-${tdufVersion}.jar"),
-        tdufPath.resolve("tools").resolve("tdumt-cli").resolve("tdumt-cli.exe").toString()
-)
 
+def runner = new TDUFRunner(tdufPath)
 println(".Initializing, please wait...")
-println("(i) TDUF location: $tdufPath")
-println("(i) TDUF version: $tdufVersion")
+println("(i) TDUF location:  ${runner.tdufPath}")
+println("(i) TDUF version: ${runner.tdufVersion}")
 
 println()
 
@@ -60,15 +52,16 @@ println()
 
 println(".Copying new game files, please wait...")
 def sourcePath = installerFilesPath.resolve("Euro")
-def targetPath = startPath.resolve("Euro")
+def targetPath = PathConstants.euroFilesPath
 FileUtils.copyDirectory(sourcePath.toFile(), targetPath.toFile(), ExistingFileFilter.nonExistingAtTarget(sourcePath, targetPath))
 
 println()
 
 println(".Patching database, please wait...")
+def tducpDatabasePath = tducpPath.resolve("database")
 def gameDatabasePath = banksPath.resolve("Database")
-def jsonDatabasePath = tducpPath.resolve("database").resolve("current")
-def jsonPatchesPath = tducpPath.resolve("database").resolve("patches")
+def jsonDatabasePath = tducpDatabasePath.resolve("current")
+def jsonPatchesPath = tducpDatabasePath.resolve("patches")
 runner.databaseToolApplyPatchesOnDatabaseBanks(gameDatabasePath, jsonDatabasePath, jsonPatchesPath)
 
 println()

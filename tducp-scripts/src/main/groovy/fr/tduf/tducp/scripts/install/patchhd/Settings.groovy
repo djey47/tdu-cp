@@ -1,26 +1,18 @@
 package fr.tduf.tducp.scripts.install.patchhd
 
 import fr.tduf.tducp.scripts.common.TDUFRunner
+import fr.tduf.tducp.scripts.install.common.PathConstants
 import org.apache.commons.io.FileUtils
-
-import java.nio.file.Paths
 
 if (args.length == 0) {
     println("Patch HD mode argument not found! ")
     System.exit(1)
 }
 
-// TODO extract common paths to class
-def startPath = Paths.get(".").toAbsolutePath()
-def patchhdPath = startPath.resolve("TDUCP-PATCHHD-installer")
-def tducpLibPath = startPath.resolve("TDUCP-lib")
-def tdufPath = tducpLibPath.resolve("tduf")
-def banksPath = startPath.resolve("Euro").resolve("Bnk")
-def installerFilesPath = patchhdPath.resolve("files")
-def runner = new TDUFRunner(
-        null,
-        tdufPath.resolve("tools").resolve("tdumt-cli").resolve("tdumt-cli.exe").toString()
-)
+def patchhdPath = PathConstants.currentPath.resolve("TDUCP-PATCHHD-installer")
+def tdufPath = PathConstants.TDUFPath
+def banksPath = PathConstants.banksPath
+def installerFilesPath = PathConstants.resolveInstallerFilesPath(patchhdPath)
 
 def modes = ["NA", "OFF", "SD", "HD100", "HD300", "HD500", "HDU"]
 
@@ -30,14 +22,23 @@ if (modeIndex < 1 || modeIndex > 6) {
     System.exit(1)
 }
 
+def runner = new TDUFRunner(tdufPath)
+println(".Initializing, please wait...")
+println("(i) TDUF location:  ${runner.tdufPath}")
+println("(i) TDUF version: ${runner.tdufVersion}")
+
+println()
+
 def selectedMode = modes[modeIndex]
 println(".Setting mode to ${selectedMode}...")
 println()
 
 println(".Patching game files, please wait...")
 
+def selectedModePath = installerFilesPath.resolve(selectedMode)
+
 def libPackedPath = "D:\\Eden-Prog\\Games\\TestDrive\\Resources\\4Build\\PC\\EURO\\Level\\Hawai\\Common\\Library\\.3DD\\Library"
-def libFilePath = installerFilesPath.resolve(selectedMode).resolve("Library.3DD")
+def libFilePath = selectedModePath.resolve("Library.3DD")
 
 println("*1-Patch HD Level Data HI*")
 def hiBankPath = banksPath.resolve("Level").resolve("Hawai").resolve("CommonWorld.bnk")
@@ -48,7 +49,7 @@ def loBankPath = banksPath.resolve("Level").resolve("Hawai").resolve("CommonWorl
 runner.bankReplace(loBankPath, libPackedPath, libFilePath)
 
 println("*3-Patch HD FX.ini*")
-def sourcePath = installerFilesPath.resolve(selectedMode).resolve("FX.ini")
+def sourcePath = selectedModePath.resolve("FX.ini")
 def targetPath = banksPath.resolve("FX")
 FileUtils.copyFileToDirectory(sourcePath.toFile(), targetPath.toFile())
 
