@@ -479,6 +479,78 @@
     },
     {
       "type": "UPDATE",
+      "topic": "CAR_RIMS",
+      "values": [
+        "{SLOTREF}",
+        "{RIMREF.2}"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "CAR_RIMS",
+      "values": [
+        "{SLOTREF}",
+        "{RIMREF.3}"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "CAR_RIMS",
+      "values": [
+        "{SLOTREF}",
+        "{RIMREF.4}"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "CAR_RIMS",
+      "values": [
+        "{SLOTREF}",
+        "{RIMREF.5}"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "CAR_RIMS",
+      "values": [
+        "{SLOTREF}",
+        "{RIMREF.6}"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "CAR_RIMS",
+      "values": [
+        "{SLOTREF}",
+        "{RIMREF.7}"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "CAR_RIMS",
+      "values": [
+        "{SLOTREF}",
+        "{RIMREF.8}"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "CAR_RIMS",
+      "values": [
+        "{SLOTREF}",
+        "{RIMREF.9}"
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "CAR_RIMS",
+      "values": [
+        "{SLOTREF}",
+        "{RIMREF.0}"
+      ]
+    },
+    {
+      "type": "UPDATE",
       "topic": "INTERIOR",
       "ref": "{INTREF.1}",
       "values": [
@@ -531,6 +603,375 @@
       "topic": "RIMS",
       "ref": "{RES_BANKNAME.RR.1}",
       "value": "{BANKNAME.RR.1}"
+    },
+    {
+      "type": "UPDATE",
+      "topic": "RIMS",
+      "ref": "{RIMREF.2}",
+      "values": [
+        "{RIMREF.2}",
+        "55765512",
+        "54276512",
+        "{RES_RIMNAME.2}",
+        "225",
+        "45",
+        "18",
+        "225",
+        "45",
+        "18",
+        "0",
+        "5",
+        "55765512",
+        "{RES_BANKNAME.FR.2}",
+        "{RES_BANKNAME.RR.2}",
+        "0"
+      ]
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "RIMS",
+      "ref": "{RES_RIMNAME.2}",
+      "value": "{RIMNAME.2}"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "RIMS",
+      "ref": "{RES_BANKNAME.FR.2}",
+      "value": "{BANKNAME.FR.2}"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "RIMS",
+      "ref": "{RES_BANKNAME.RR.2}",
+      "value": "{BANKNAME.RR.2}"
+    },
+    {
+      "type": "UPDATE",
+      "topic": "RIMS",
+      "ref": "{RIMREF.3}",
+      "values": [
+        "{RIMREF.3}",
+        "55765512",
+        "54276512",
+        "{RES_RIMNAME.3}",
+        "225",
+        "45",
+        "18",
+        "225",
+        "45",
+        "18",
+        "0",
+        "5",
+        "55765512",
+        "{RES_BANKNAME.FR.3}",
+        "{RES_BANKNAME.RR.3}",
+        "0"
+      ]
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "RIMS",
+      "ref": "{RES_RIMNAME.3}",
+      "value": "{RIMNAME.3}"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "RIMS",
+      "ref": "{RES_BANKNAME.FR.3}",
+      "value": "{BANKNAME.FR.3}"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "RIMS",
+      "ref": "{RES_BANKNAME.RR.3}",
+      "value": "{BANKNAME.RR.3}"
+    },
+    {
+      "type": "UPDATE",
+      "topic": "RIMS",
+      "ref": "{RIMREF.4}",
+      "values": [
+        "{RIMREF.4}",
+        "55765512",
+        "54276512",
+        "{RES_RIMNAME.4}",
+        "225",
+        "45",
+        "18",
+        "225",
+        "45",
+        "18",
+        "0",
+        "5",
+        "55765512",
+        "{RES_BANKNAME.FR.4}",
+        "{RES_BANKNAME.RR.4}",
+        "0"
+      ]
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "RIMS",
+      "ref": "{RES_RIMNAME.4}",
+      "value": "{RIMNAME.4}"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "RIMS",
+      "ref": "{RES_BANKNAME.FR.4}",
+      "value": "{BANKNAME.FR.4}"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "RIMS",
+      "ref": "{RES_BANKNAME.RR.4}",
+      "value": "{BANKNAME.RR.4}"
+    },
+    {
+      "type": "UPDATE",
+      "topic": "RIMS",
+      "ref": "{RIMREF.5}",
+      "values": [
+        "{RIMREF.5}",
+        "55765512",
+        "54276512",
+        "{RES_RIMNAME.5}",
+        "225",
+        "45",
+        "18",
+        "225",
+        "45",
+        "18",
+        "0",
+        "5",
+        "55765512",
+        "{RES_BANKNAME.FR.5}",
+        "{RES_BANKNAME.RR.5}",
+        "0"
+      ]
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "RIMS",
+      "ref": "{RES_RIMNAME.5}",
+      "value": "{RIMNAME.5}"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "RIMS",
+      "ref": "{RES_BANKNAME.FR.5}",
+      "value": "{BANKNAME.FR.5}"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "RIMS",
+      "ref": "{RES_BANKNAME.RR.5}",
+      "value": "{BANKNAME.RR.5}"
+    },
+    {
+      "type": "UPDATE",
+      "topic": "RIMS",
+      "ref": "{RIMREF.6}",
+      "values": [
+        "{RIMREF.6}",
+        "55765512",
+        "54276512",
+        "{RES_RIMNAME.6}",
+        "225",
+        "45",
+        "18",
+        "225",
+        "45",
+        "18",
+        "0",
+        "5",
+        "55765512",
+        "{RES_BANKNAME.FR.6}",
+        "{RES_BANKNAME.RR.6}",
+        "0"
+      ]
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "RIMS",
+      "ref": "{RES_RIMNAME.6}",
+      "value": "{RIMNAME.6}"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "RIMS",
+      "ref": "{RES_BANKNAME.FR.6}",
+      "value": "{BANKNAME.FR.6}"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "RIMS",
+      "ref": "{RES_BANKNAME.RR.6}",
+      "value": "{BANKNAME.RR.6}"
+    },
+    {
+      "type": "UPDATE",
+      "topic": "RIMS",
+      "ref": "{RIMREF.7}",
+      "values": [
+        "{RIMREF.7}",
+        "55765512",
+        "54276512",
+        "{RES_RIMNAME.7}",
+        "225",
+        "45",
+        "18",
+        "225",
+        "45",
+        "18",
+        "0",
+        "5",
+        "55765512",
+        "{RES_BANKNAME.FR.7}",
+        "{RES_BANKNAME.RR.7}",
+        "0"
+      ]
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "RIMS",
+      "ref": "{RES_RIMNAME.7}",
+      "value": "{RIMNAME.7}"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "RIMS",
+      "ref": "{RES_BANKNAME.FR.7}",
+      "value": "{BANKNAME.FR.7}"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "RIMS",
+      "ref": "{RES_BANKNAME.RR.7}",
+      "value": "{BANKNAME.RR.7}"
+    },
+    {
+      "type": "UPDATE",
+      "topic": "RIMS",
+      "ref": "{RIMREF.8}",
+      "values": [
+        "{RIMREF.8}",
+        "55765512",
+        "54276512",
+        "{RES_RIMNAME.8}",
+        "225",
+        "45",
+        "18",
+        "225",
+        "45",
+        "18",
+        "0",
+        "5",
+        "55765512",
+        "{RES_BANKNAME.FR.8}",
+        "{RES_BANKNAME.RR.8}",
+        "0"
+      ]
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "RIMS",
+      "ref": "{RES_RIMNAME.8}",
+      "value": "{RIMNAME.8}"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "RIMS",
+      "ref": "{RES_BANKNAME.FR.8}",
+      "value": "{BANKNAME.FR.8}"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "RIMS",
+      "ref": "{RES_BANKNAME.RR.8}",
+      "value": "{BANKNAME.RR.8}"
+    },
+    {
+      "type": "UPDATE",
+      "topic": "RIMS",
+      "ref": "{RIMREF.9}",
+      "values": [
+        "{RIMREF.9}",
+        "55765512",
+        "54276512",
+        "{RES_RIMNAME.9}",
+        "225",
+        "45",
+        "18",
+        "225",
+        "45",
+        "18",
+        "0",
+        "5",
+        "55765512",
+        "{RES_BANKNAME.FR.9}",
+        "{RES_BANKNAME.RR.9}",
+        "0"
+      ]
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "RIMS",
+      "ref": "{RES_RIMNAME.9}",
+      "value": "{RIMNAME.9}"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "RIMS",
+      "ref": "{RES_BANKNAME.FR.9}",
+      "value": "{BANKNAME.FR.9}"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "RIMS",
+      "ref": "{RES_BANKNAME.RR.9}",
+      "value": "{BANKNAME.RR.2}"
+    },
+    {
+      "type": "UPDATE",
+      "topic": "RIMS",
+      "ref": "{RIMREF.0}",
+      "values": [
+        "{RIMREF.0}",
+        "55765512",
+        "54276512",
+        "{RES_RIMNAME.0}",
+        "225",
+        "45",
+        "18",
+        "225",
+        "45",
+        "18",
+        "0",
+        "5",
+        "55765512",
+        "{RES_BANKNAME.FR.0}",
+        "{RES_BANKNAME.RR.0}",
+        "0"
+      ]
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "RIMS",
+      "ref": "{RES_RIMNAME.0}",
+      "value": "{RIMNAME.0}"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "RIMS",
+      "ref": "{RES_BANKNAME.FR.0}",
+      "value": "{BANKNAME.FR.0}"
+    },
+    {
+      "type": "UPDATE_RES",
+      "topic": "RIMS",
+      "ref": "{RES_BANKNAME.RR.0}",
+      "value": "{BANKNAME.RR.0}"
     }
   ]
 }
