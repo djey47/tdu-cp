@@ -15,6 +15,21 @@
       "type": "DELETE",
       "topic": "RIMS",
       "ref": "{RIMREF}"
+    },
+    {
+      "type": "DELETE_RES",
+      "topic": "RIMS",
+      "ref": "{RES_RIMNAME.1}"
+    },
+    {
+      "type": "DELETE_RES",
+      "topic": "RIMS",
+      "ref": "{RES_BANKNAME.FR.1}"
+    },
+    {
+      "type": "DELETE_RES",
+      "topic": "RIMS",
+      "ref": "{RES_BANKNAME.RR.1}"
     }
   ]
 }
