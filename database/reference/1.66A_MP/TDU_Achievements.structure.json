@@ -1,0 +1,53 @@
+{
+  "ref": "2442784645",
+  "topic": "ACHIEVEMENTS",
+  "fields": [
+    {
+      "name": "Achievement_Event_",
+      "rank": 1,
+      "type": "RESOURCE_CURRENT_GLOBALIZED"
+    },
+    {
+      "name": "TextIndex_",
+      "rank": 2,
+      "type": "INTEGER"
+    },
+    {
+      "name": "Nb_Achievement_Points_",
+      "rank": 3,
+      "type": "INTEGER"
+    },
+    {
+      "name": "Ach_Title_",
+      "rank": 4,
+      "type": "RESOURCE_CURRENT_LOCALIZED"
+    },
+    {
+      "name": "Ach_Desc_",
+      "rank": 5,
+      "type": "RESOURCE_CURRENT_LOCALIZED"
+    },
+    {
+      "name": "Explanation_",
+      "rank": 6,
+      "type": "RESOURCE_CURRENT_LOCALIZED"
+    },
+    {
+      "name": "FailedExplain_",
+      "rank": 7,
+      "type": "RESOURCE_CURRENT_LOCALIZED"
+    },
+    {
+      "name": "Reward_",
+      "rank": 8,
+      "type": "RESOURCE_CURRENT_GLOBALIZED"
+    },
+    {
+      "name": "Reward_Param_",
+      "rank": 9,
+      "type": "INTEGER"
+    }
+  ],
+  "version": "1,2",
+  "categoryCount": 6
+}

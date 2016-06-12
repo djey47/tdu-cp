@@ -1,0 +1,20 @@
+{
+  "ref": "944486959",
+  "topic": "CAR_RIMS",
+  "fields": [
+    {
+      "name": "Car",
+      "targetRef": "1975083164",
+      "rank": 1,
+      "type": "REFERENCE"
+    },
+    {
+      "name": "Rims",
+      "targetRef": "1270424264",
+      "rank": 2,
+      "type": "REFERENCE"
+    }
+  ],
+  "version": "1,2",
+  "categoryCount": 2
+}

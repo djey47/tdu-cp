@@ -1,0 +1,525 @@
+{
+  "ref": "1975083164",
+  "topic": "CAR_PHYSICS_DATA",
+  "fields": [
+    {
+      "name": "REF",
+      "rank": 1,
+      "type": "UID"
+    },
+    {
+      "name": "Car_Brand",
+      "targetRef": "1209165514",
+      "rank": 2,
+      "type": "REFERENCE"
+    },
+    {
+      "name": "Car_Model",
+      "rank": 3,
+      "type": "RESOURCE_CURRENT_GLOBALIZED"
+    },
+    {
+      "name": "Car_Version",
+      "rank": 4,
+      "type": "RESOURCE_CURRENT_GLOBALIZED"
+    },
+    {
+      "name": "Group",
+      "rank": 5,
+      "type": "RESOURCE_CURRENT_LOCALIZED"
+    },
+    {
+      "name": "Rarety",
+      "rank": 6,
+      "type": "PERCENT"
+    },
+    {
+      "name": "Price_dollar",
+      "rank": 7,
+      "type": "FLOAT"
+    },
+    {
+      "name": "TestDrive_Cat",
+      "rank": 8,
+      "type": "RESOURCE_CURRENT_GLOBALIZED"
+    },
+    {
+      "name": "Car_File_Name",
+      "rank": 9,
+      "type": "RESOURCE_CURRENT_GLOBALIZED"
+    },
+    {
+      "name": "Default_Rims",
+      "targetRef": "1270424264",
+      "rank": 10,
+      "type": "REFERENCE"
+    },
+    {
+      "name": "HUD_File_Name",
+      "rank": 11,
+      "type": "RESOURCE_CURRENT_GLOBALIZED"
+    },
+    {
+      "name": "Car_RealName",
+      "rank": 12,
+      "type": "RESOURCE_CURRENT_GLOBALIZED"
+    },
+    {
+      "name": "Model_Name",
+      "rank": 13,
+      "type": "RESOURCE_CURRENT_GLOBALIZED"
+    },
+    {
+      "name": "Version_Name",
+      "rank": 14,
+      "type": "RESOURCE_CURRENT_GLOBALIZED"
+    },
+    {
+      "name": "Engine_Localisation",
+      "rank": 15,
+      "type": "RESOURCE_CURRENT_LOCALIZED"
+    },
+    {
+      "name": "Engine_Type",
+      "rank": 16,
+      "type": "RESOURCE_CURRENT_LOCALIZED"
+    },
+    {
+      "name": "Displacement",
+      "rank": 17,
+      "type": "INTEGER"
+    },
+    {
+      "name": "Power_bhp",
+      "rank": 18,
+      "type": "INTEGER"
+    },
+    {
+      "name": "Power_RPM",
+      "rank": 19,
+      "type": "INTEGER"
+    },
+    {
+      "name": "Torque_Nm",
+      "rank": 20,
+      "type": "INTEGER"
+    },
+    {
+      "name": "Torque_RPM",
+      "rank": 21,
+      "type": "INTEGER"
+    },
+    {
+      "name": "Red_Line",
+      "rank": 22,
+      "type": "INTEGER"
+    },
+    {
+      "name": "Drive",
+      "rank": 23,
+      "type": "RESOURCE_CURRENT_LOCALIZED"
+    },
+    {
+      "name": "GearBox",
+      "rank": 24,
+      "type": "RESOURCE_CURRENT_LOCALIZED"
+    },
+    {
+      "name": "Nb_Gears",
+      "rank": 25,
+      "type": "INTEGER"
+    },
+    {
+      "name": "Final_Drive_Ratio",
+      "rank": 26,
+      "type": "FLOAT"
+    },
+    {
+      "name": "Gear_ratio_1",
+      "rank": 27,
+      "type": "FLOAT"
+    },
+    {
+      "name": "Gear_ratio_2",
+      "rank": 28,
+      "type": "FLOAT"
+    },
+    {
+      "name": "Gear_ratio_3",
+      "rank": 29,
+      "type": "FLOAT"
+    },
+    {
+      "name": "Gear_ratio_4",
+      "rank": 30,
+      "type": "FLOAT"
+    },
+    {
+      "name": "Gear_ratio_5",
+      "rank": 31,
+      "type": "FLOAT"
+    },
+    {
+      "name": "Gear_ratio_6",
+      "rank": 32,
+      "type": "FLOAT"
+    },
+    {
+      "name": "Gear_ratio_7",
+      "rank": 33,
+      "type": "FLOAT"
+    },
+    {
+      "name": "Nb_Doors",
+      "rank": 34,
+      "type": "INTEGER"
+    },
+    {
+      "name": "Brakes_Characteristics_Front",
+      "rank": 35,
+      "type": "RESOURCE_CURRENT_LOCALIZED"
+    },
+    {
+      "name": "Brakes_Dim_Front",
+      "rank": 36,
+      "type": "INTEGER"
+    },
+    {
+      "name": "Brakes_Dim_Rear",
+      "rank": 37,
+      "type": "INTEGER"
+    },
+    {
+      "name": "Brakes_Characteristics_Rear",
+      "rank": 38,
+      "type": "RESOURCE_CURRENT_LOCALIZED"
+    },
+    {
+      "name": "Tires_Type",
+      "rank": 39,
+      "type": "RESOURCE_CURRENT_GLOBALIZED"
+    },
+    {
+      "name": "Nb_Turbos",
+      "rank": 40,
+      "type": "INTEGER"
+    },
+    {
+      "name": "Width",
+      "rank": 41,
+      "type": "INTEGER"
+    },
+    {
+      "name": "Lenght",
+      "rank": 42,
+      "type": "INTEGER"
+    },
+    {
+      "name": "Height",
+      "rank": 43,
+      "type": "INTEGER"
+    },
+    {
+      "name": "Track_Front",
+      "rank": 44,
+      "type": "INTEGER"
+    },
+    {
+      "name": "Track_Back",
+      "rank": 45,
+      "type": "INTEGER"
+    },
+    {
+      "name": "WheelBase",
+      "rank": 46,
+      "type": "INTEGER"
+    },
+    {
+      "name": "OverHang_Front",
+      "rank": 47,
+      "type": "INTEGER"
+    },
+    {
+      "name": "OverHang_Rear",
+      "rank": 48,
+      "type": "INTEGER"
+    },
+    {
+      "name": "Weight_Kg",
+      "rank": 49,
+      "type": "INTEGER"
+    },
+    {
+      "name": "Ride_Height_Front",
+      "rank": 50,
+      "type": "INTEGER"
+    },
+    {
+      "name": "Ride_Height_Rear",
+      "rank": 51,
+      "type": "INTEGER"
+    },
+    {
+      "name": "Ride_Height_Max_Front",
+      "rank": 52,
+      "type": "INTEGER"
+    },
+    {
+      "name": "Ride_Height_Max_Rear",
+      "rank": 53,
+      "type": "INTEGER"
+    },
+    {
+      "name": "Suspension_Lenght_Front",
+      "rank": 54,
+      "type": "INTEGER"
+    },
+    {
+      "name": "Suspension_Lenght_Rear",
+      "rank": 55,
+      "type": "INTEGER"
+    },
+    {
+      "name": "Suspension_Rate_Front",
+      "rank": 56,
+      "type": "INTEGER"
+    },
+    {
+      "name": "Suspension_Rate_Rear",
+      "rank": 57,
+      "type": "INTEGER"
+    },
+    {
+      "name": "Damper_Rate_Front",
+      "rank": 58,
+      "type": "INTEGER"
+    },
+    {
+      "name": "Damper_Rate_Rear",
+      "rank": 59,
+      "type": "INTEGER"
+    },
+    {
+      "name": "Engine_Inertia",
+      "rank": 60,
+      "type": "INTEGER"
+    },
+    {
+      "name": "Gearbox_Inertia",
+      "rank": 61,
+      "type": "INTEGER"
+    },
+    {
+      "name": "Gravity_Center_Length",
+      "rank": 62,
+      "type": "INTEGER"
+    },
+    {
+      "name": "Gravity_Center_Height",
+      "rank": 63,
+      "type": "INTEGER"
+    },
+    {
+      "name": "Cx_Length",
+      "rank": 64,
+      "type": "FLOAT"
+    },
+    {
+      "name": "Cx_Height",
+      "rank": 65,
+      "type": "FLOAT"
+    },
+    {
+      "name": "SteerLock",
+      "rank": 66,
+      "type": "INTEGER"
+    },
+    {
+      "name": "Transmission_Primacy",
+      "rank": 67,
+      "type": "INTEGER"
+    },
+    {
+      "name": "Brake_Balance",
+      "rank": 68,
+      "type": "INTEGER"
+    },
+    {
+      "name": "Ignition_Time_Ignite",
+      "rank": 69,
+      "type": "FLOAT"
+    },
+    {
+      "name": "Ignition_Time_RevUp",
+      "rank": 70,
+      "type": "FLOAT"
+    },
+    {
+      "name": "Ignition_Time_RevDown",
+      "rank": 71,
+      "type": "FLOAT"
+    },
+    {
+      "name": "Ignition_RPM",
+      "rank": 72,
+      "type": "FLOAT"
+    },
+    {
+      "name": "DoorMaxAngle",
+      "rank": 73,
+      "type": "FLOAT"
+    },
+    {
+      "name": "Windows_Type",
+      "rank": 74,
+      "type": "RESOURCE_CURRENT_GLOBALIZED"
+    },
+    {
+      "name": "Belt_Type",
+      "rank": 75,
+      "type": "RESOURCE_CURRENT_GLOBALIZED"
+    },
+    {
+      "name": "Nb_Seats",
+      "rank": 76,
+      "type": "RESOURCE_CURRENT_GLOBALIZED"
+    },
+    {
+      "name": "Car_Body",
+      "rank": 77,
+      "type": "RESOURCE_CURRENT_LOCALIZED"
+    },
+    {
+      "name": "Acceleration_0_100_kmh",
+      "rank": 78,
+      "type": "FLOAT"
+    },
+    {
+      "name": "Acceleration_0_100_mph",
+      "rank": 79,
+      "type": "FLOAT"
+    },
+    {
+      "name": "Top_Speed_kmh",
+      "rank": 80,
+      "type": "FLOAT"
+    },
+    {
+      "name": "Braking_100_0_kmh",
+      "rank": 81,
+      "type": "FLOAT"
+    },
+    {
+      "name": "t0_to_1000m_sec",
+      "rank": 82,
+      "type": "FLOAT"
+    },
+    {
+      "name": "t0_to_1000m_kmh",
+      "rank": 83,
+      "type": "FLOAT"
+    },
+    {
+      "name": "t0_to_1000m_mph",
+      "rank": 84,
+      "type": "FLOAT"
+    },
+    {
+      "name": "Quarter_Mile_sec",
+      "rank": 85,
+      "type": "FLOAT"
+    },
+    {
+      "name": "Quarter_Mile_kmh",
+      "rank": 86,
+      "type": "FLOAT"
+    },
+    {
+      "name": "Quarter_Mile_mph",
+      "rank": 87,
+      "type": "FLOAT"
+    },
+    {
+      "name": "coef_grip",
+      "rank": 88,
+      "type": "INTEGER"
+    },
+    {
+      "name": "coef_overturning",
+      "rank": 89,
+      "type": "INTEGER"
+    },
+    {
+      "name": "coef_accel",
+      "rank": 90,
+      "type": "INTEGER"
+    },
+    {
+      "name": "coef_brake",
+      "rank": 91,
+      "type": "INTEGER"
+    },
+    {
+      "name": "BrakingDist_feet",
+      "rank": 92,
+      "type": "FLOAT"
+    },
+    {
+      "name": "Handling",
+      "rank": 93,
+      "type": "INTEGER"
+    },
+    {
+      "name": "coef_suspension",
+      "rank": 94,
+      "type": "INTEGER"
+    },
+    {
+      "name": "coef_sharpness",
+      "rank": 95,
+      "type": "INTEGER"
+    },
+    {
+      "name": "GraduationChange_Speed",
+      "rank": 96,
+      "type": "FLOAT"
+    },
+    {
+      "name": "GraduationChange_Ratio",
+      "rank": 97,
+      "type": "FLOAT"
+    },
+    {
+      "name": "Camera",
+      "rank": 98,
+      "type": "INTEGER"
+    },
+    {
+      "name": "Same_IK",
+      "rank": 99,
+      "type": "INTEGER"
+    },
+    {
+      "name": "Secu1",
+      "rank": 100,
+      "type": "FLOAT"
+    },
+    {
+      "name": "Secu2",
+      "rank": 101,
+      "type": "INTEGER"
+    },
+    {
+      "name": "ID_Car",
+      "rank": 102,
+      "type": "INTEGER"
+    },
+    {
+      "name": "BitField",
+      "rank": 103,
+      "type": "BITFIELD"
+    }
+  ],
+  "version": "1,2",
+  "categoryCount": 20
+}

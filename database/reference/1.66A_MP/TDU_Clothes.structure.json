@@ -1,0 +1,74 @@
+{
+  "ref": "1282586878",
+  "topic": "CLOTHES",
+  "fields": [
+    {
+      "name": "REF_",
+      "rank": 1,
+      "type": "UID"
+    },
+    {
+      "name": "File_",
+      "rank": 2,
+      "type": "RESOURCE_CURRENT_GLOBALIZED"
+    },
+    {
+      "name": "ID_Num_",
+      "rank": 3,
+      "type": "INTEGER"
+    },
+    {
+      "name": "Price_dollar",
+      "rank": 4,
+      "type": "INTEGER"
+    },
+    {
+      "name": "Brand_",
+      "targetRef": "1209165514",
+      "rank": 5,
+      "type": "REFERENCE"
+    },
+    {
+      "name": "ClotheName_",
+      "rank": 6,
+      "type": "RESOURCE_CURRENT_LOCALIZED"
+    },
+    {
+      "name": "Sex_",
+      "rank": 7,
+      "type": "RESOURCE_CURRENT_GLOBALIZED"
+    },
+    {
+      "name": "DrivingType_",
+      "rank": 8,
+      "type": "RESOURCE_CURRENT_GLOBALIZED"
+    },
+    {
+      "name": "Lenght_",
+      "rank": 9,
+      "type": "RESOURCE_CURRENT_GLOBALIZED"
+    },
+    {
+      "name": "PartType_",
+      "rank": 10,
+      "type": "RESOURCE_CURRENT_GLOBALIZED"
+    },
+    {
+      "name": "Size_",
+      "rank": 11,
+      "type": "RESOURCE_CURRENT_GLOBALIZED"
+    },
+    {
+      "name": "Nb_Colors",
+      "rank": 12,
+      "type": "INTEGER"
+    },
+    {
+      "name": "BitField",
+      "rank": 13,
+      "type": "BITFIELD"
+    }
+  ],
+  "version": "1,2",
+  "categoryCount": 8
+}

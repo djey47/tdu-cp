@@ -1,0 +1,2839 @@
+{
+  "entries": [
+    {
+      "id": 0,
+      "items": [
+        {
+          "value": "735",
+          "rank": 1
+        },
+        {
+          "value": "55338337",
+          "rank": 2
+        },
+        {
+          "value": "55338337",
+          "rank": 3
+        },
+        {
+          "value": "55338337",
+          "rank": 4
+        },
+        {
+          "value": "0",
+          "rank": 5
+        },
+        {
+          "value": "0",
+          "rank": 6
+        },
+        {
+          "value": "1",
+          "switches": [
+            {
+              "index": 1,
+              "name": "Brand enabled",
+              "enabled": true
+            },
+            {
+              "index": 2,
+              "name": "Tuning / clothes",
+              "enabled": false
+            }
+          ],
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "items": [
+        {
+          "value": "72825",
+          "rank": 1
+        },
+        {
+          "value": "56338337",
+          "rank": 2
+        },
+        {
+          "value": "5638357",
+          "rank": 3
+        },
+        {
+          "value": "56338337",
+          "rank": 4
+        },
+        {
+          "value": "1",
+          "rank": 5
+        },
+        {
+          "value": "0",
+          "rank": 6
+        },
+        {
+          "value": "1",
+          "switches": [
+            {
+              "index": 1,
+              "name": "Brand enabled",
+              "enabled": true
+            },
+            {
+              "index": 2,
+              "name": "Tuning / clothes",
+              "enabled": false
+            }
+          ],
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "items": [
+        {
+          "value": "72595",
+          "rank": 1
+        },
+        {
+          "value": "57338337",
+          "rank": 2
+        },
+        {
+          "value": "5738357",
+          "rank": 3
+        },
+        {
+          "value": "57338337",
+          "rank": 4
+        },
+        {
+          "value": "2",
+          "rank": 5
+        },
+        {
+          "value": "0",
+          "rank": 6
+        },
+        {
+          "value": "1",
+          "switches": [
+            {
+              "index": 1,
+              "name": "Brand enabled",
+              "enabled": true
+            },
+            {
+              "index": 2,
+              "name": "Tuning / clothes",
+              "enabled": false
+            }
+          ],
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "items": [
+        {
+          "value": "868295",
+          "rank": 1
+        },
+        {
+          "value": "58338337",
+          "rank": 2
+        },
+        {
+          "value": "5838357",
+          "rank": 3
+        },
+        {
+          "value": "58338337",
+          "rank": 4
+        },
+        {
+          "value": "3",
+          "rank": 5
+        },
+        {
+          "value": "0",
+          "rank": 6
+        },
+        {
+          "value": "1",
+          "switches": [
+            {
+              "index": 1,
+              "name": "Brand enabled",
+              "enabled": true
+            },
+            {
+              "index": 2,
+              "name": "Tuning / clothes",
+              "enabled": false
+            }
+          ],
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "items": [
+        {
+          "value": "80715",
+          "rank": 1
+        },
+        {
+          "value": "59338337",
+          "rank": 2
+        },
+        {
+          "value": "5938357",
+          "rank": 3
+        },
+        {
+          "value": "59338337",
+          "rank": 4
+        },
+        {
+          "value": "4",
+          "rank": 5
+        },
+        {
+          "value": "0",
+          "rank": 6
+        },
+        {
+          "value": "1",
+          "switches": [
+            {
+              "index": 1,
+              "name": "Brand enabled",
+              "enabled": true
+            },
+            {
+              "index": 2,
+              "name": "Tuning / clothes",
+              "enabled": false
+            }
+          ],
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "items": [
+        {
+          "value": "12778906",
+          "rank": 1
+        },
+        {
+          "value": "61838337",
+          "rank": 2
+        },
+        {
+          "value": "6108357",
+          "rank": 3
+        },
+        {
+          "value": "61338337",
+          "rank": 4
+        },
+        {
+          "value": "63",
+          "rank": 5
+        },
+        {
+          "value": "0",
+          "rank": 6
+        },
+        {
+          "value": "0",
+          "switches": [
+            {
+              "index": 1,
+              "name": "Brand enabled",
+              "enabled": false
+            },
+            {
+              "index": 2,
+              "name": "Tuning / clothes",
+              "enabled": false
+            }
+          ],
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "items": [
+        {
+          "value": "74340517",
+          "rank": 1
+        },
+        {
+          "value": "60838337",
+          "rank": 2
+        },
+        {
+          "value": "6088357",
+          "rank": 3
+        },
+        {
+          "value": "60838337",
+          "rank": 4
+        },
+        {
+          "value": "5",
+          "rank": 5
+        },
+        {
+          "value": "0",
+          "rank": 6
+        },
+        {
+          "value": "1",
+          "switches": [
+            {
+              "index": 1,
+              "name": "Brand enabled",
+              "enabled": true
+            },
+            {
+              "index": 2,
+              "name": "Tuning / clothes",
+              "enabled": false
+            }
+          ],
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "items": [
+        {
+          "value": "898117",
+          "rank": 1
+        },
+        {
+          "value": "53438337",
+          "rank": 2
+        },
+        {
+          "value": "5348357",
+          "rank": 3
+        },
+        {
+          "value": "53438337",
+          "rank": 4
+        },
+        {
+          "value": "6",
+          "rank": 5
+        },
+        {
+          "value": "0",
+          "rank": 6
+        },
+        {
+          "value": "1",
+          "switches": [
+            {
+              "index": 1,
+              "name": "Brand enabled",
+              "enabled": true
+            },
+            {
+              "index": 2,
+              "name": "Tuning / clothes",
+              "enabled": false
+            }
+          ],
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "items": [
+        {
+          "value": "983687",
+          "rank": 1
+        },
+        {
+          "value": "54438337",
+          "rank": 2
+        },
+        {
+          "value": "5448357",
+          "rank": 3
+        },
+        {
+          "value": "54438337",
+          "rank": 4
+        },
+        {
+          "value": "7",
+          "rank": 5
+        },
+        {
+          "value": "0",
+          "rank": 6
+        },
+        {
+          "value": "1",
+          "switches": [
+            {
+              "index": 1,
+              "name": "Brand enabled",
+              "enabled": true
+            },
+            {
+              "index": 2,
+              "name": "Tuning / clothes",
+              "enabled": false
+            }
+          ],
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "items": [
+        {
+          "value": "927987",
+          "rank": 1
+        },
+        {
+          "value": "55438337",
+          "rank": 2
+        },
+        {
+          "value": "5548357",
+          "rank": 3
+        },
+        {
+          "value": "55438337",
+          "rank": 4
+        },
+        {
+          "value": "8",
+          "rank": 5
+        },
+        {
+          "value": "0",
+          "rank": 6
+        },
+        {
+          "value": "1",
+          "switches": [
+            {
+              "index": 1,
+              "name": "Brand enabled",
+              "enabled": true
+            },
+            {
+              "index": 2,
+              "name": "Tuning / clothes",
+              "enabled": false
+            }
+          ],
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "items": [
+        {
+          "value": "91197",
+          "rank": 1
+        },
+        {
+          "value": "56838337",
+          "rank": 2
+        },
+        {
+          "value": "5688357",
+          "rank": 3
+        },
+        {
+          "value": "56838337",
+          "rank": 4
+        },
+        {
+          "value": "63",
+          "rank": 5
+        },
+        {
+          "value": "0",
+          "rank": 6
+        },
+        {
+          "value": "0",
+          "switches": [
+            {
+              "index": 1,
+              "name": "Brand enabled",
+              "enabled": false
+            },
+            {
+              "index": 2,
+              "name": "Tuning / clothes",
+              "enabled": false
+            }
+          ],
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "items": [
+        {
+          "value": "768658",
+          "rank": 1
+        },
+        {
+          "value": "56438337",
+          "rank": 2
+        },
+        {
+          "value": "5648357",
+          "rank": 3
+        },
+        {
+          "value": "56438337",
+          "rank": 4
+        },
+        {
+          "value": "9",
+          "rank": 5
+        },
+        {
+          "value": "0",
+          "rank": 6
+        },
+        {
+          "value": "1",
+          "switches": [
+            {
+              "index": 1,
+              "name": "Brand enabled",
+              "enabled": true
+            },
+            {
+              "index": 2,
+              "name": "Tuning / clothes",
+              "enabled": false
+            }
+          ],
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "items": [
+        {
+          "value": "912618",
+          "rank": 1
+        },
+        {
+          "value": "58738337",
+          "rank": 2
+        },
+        {
+          "value": "5878357",
+          "rank": 3
+        },
+        {
+          "value": "58738337",
+          "rank": 4
+        },
+        {
+          "value": "10",
+          "rank": 5
+        },
+        {
+          "value": "0",
+          "rank": 6
+        },
+        {
+          "value": "1",
+          "switches": [
+            {
+              "index": 1,
+              "name": "Brand enabled",
+              "enabled": true
+            },
+            {
+              "index": 2,
+              "name": "Tuning / clothes",
+              "enabled": false
+            }
+          ],
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "items": [
+        {
+          "value": "8649",
+          "rank": 1
+        },
+        {
+          "value": "57438337",
+          "rank": 2
+        },
+        {
+          "value": "5748357",
+          "rank": 3
+        },
+        {
+          "value": "57438337",
+          "rank": 4
+        },
+        {
+          "value": "11",
+          "rank": 5
+        },
+        {
+          "value": "0",
+          "rank": 6
+        },
+        {
+          "value": "1",
+          "switches": [
+            {
+              "index": 1,
+              "name": "Brand enabled",
+              "enabled": true
+            },
+            {
+              "index": 2,
+              "name": "Tuning / clothes",
+              "enabled": false
+            }
+          ],
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "items": [
+        {
+          "value": "74920",
+          "rank": 1
+        },
+        {
+          "value": "58438337",
+          "rank": 2
+        },
+        {
+          "value": "5848357",
+          "rank": 3
+        },
+        {
+          "value": "58438337",
+          "rank": 4
+        },
+        {
+          "value": "44",
+          "rank": 5
+        },
+        {
+          "value": "0",
+          "rank": 6
+        },
+        {
+          "value": "1",
+          "switches": [
+            {
+              "index": 1,
+              "name": "Brand enabled",
+              "enabled": true
+            },
+            {
+              "index": 2,
+              "name": "Tuning / clothes",
+              "enabled": false
+            }
+          ],
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "items": [
+        {
+          "value": "81940960",
+          "rank": 1
+        },
+        {
+          "value": "59438337",
+          "rank": 2
+        },
+        {
+          "value": "5948357",
+          "rank": 3
+        },
+        {
+          "value": "59438337",
+          "rank": 4
+        },
+        {
+          "value": "12",
+          "rank": 5
+        },
+        {
+          "value": "0",
+          "rank": 6
+        },
+        {
+          "value": "1",
+          "switches": [
+            {
+              "index": 1,
+              "name": "Brand enabled",
+              "enabled": true
+            },
+            {
+              "index": 2,
+              "name": "Tuning / clothes",
+              "enabled": false
+            }
+          ],
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "items": [
+        {
+          "value": "77060",
+          "rank": 1
+        },
+        {
+          "value": "54338337",
+          "rank": 2
+        },
+        {
+          "value": "5438357",
+          "rank": 3
+        },
+        {
+          "value": "54338337",
+          "rank": 4
+        },
+        {
+          "value": "13",
+          "rank": 5
+        },
+        {
+          "value": "0",
+          "rank": 6
+        },
+        {
+          "value": "1",
+          "switches": [
+            {
+              "index": 1,
+              "name": "Brand enabled",
+              "enabled": true
+            },
+            {
+              "index": 2,
+              "name": "Tuning / clothes",
+              "enabled": false
+            }
+          ],
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "items": [
+        {
+          "value": "7853",
+          "rank": 1
+        },
+        {
+          "value": "61438337",
+          "rank": 2
+        },
+        {
+          "value": "6148357",
+          "rank": 3
+        },
+        {
+          "value": "61438337",
+          "rank": 4
+        },
+        {
+          "value": "14",
+          "rank": 5
+        },
+        {
+          "value": "0",
+          "rank": 6
+        },
+        {
+          "value": "0",
+          "switches": [
+            {
+              "index": 1,
+              "name": "Brand enabled",
+              "enabled": false
+            },
+            {
+              "index": 2,
+              "name": "Tuning / clothes",
+              "enabled": false
+            }
+          ],
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "items": [
+        {
+          "value": "7824",
+          "rank": 1
+        },
+        {
+          "value": "62438337",
+          "rank": 2
+        },
+        {
+          "value": "6248357",
+          "rank": 3
+        },
+        {
+          "value": "62438337",
+          "rank": 4
+        },
+        {
+          "value": "15",
+          "rank": 5
+        },
+        {
+          "value": "0",
+          "rank": 6
+        },
+        {
+          "value": "1",
+          "switches": [
+            {
+              "index": 1,
+              "name": "Brand enabled",
+              "enabled": true
+            },
+            {
+              "index": 2,
+              "name": "Tuning / clothes",
+              "enabled": false
+            }
+          ],
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "items": [
+        {
+          "value": "74425",
+          "rank": 1
+        },
+        {
+          "value": "60738337",
+          "rank": 2
+        },
+        {
+          "value": "6078357",
+          "rank": 3
+        },
+        {
+          "value": "60738337",
+          "rank": 4
+        },
+        {
+          "value": "16",
+          "rank": 5
+        },
+        {
+          "value": "0",
+          "rank": 6
+        },
+        {
+          "value": "1",
+          "switches": [
+            {
+              "index": 1,
+              "name": "Brand enabled",
+              "enabled": true
+            },
+            {
+              "index": 2,
+              "name": "Tuning / clothes",
+              "enabled": false
+            }
+          ],
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "items": [
+        {
+          "value": "85765",
+          "rank": 1
+        },
+        {
+          "value": "53538337",
+          "rank": 2
+        },
+        {
+          "value": "5358357",
+          "rank": 3
+        },
+        {
+          "value": "53538337",
+          "rank": 4
+        },
+        {
+          "value": "17",
+          "rank": 5
+        },
+        {
+          "value": "0",
+          "rank": 6
+        },
+        {
+          "value": "1",
+          "switches": [
+            {
+              "index": 1,
+              "name": "Brand enabled",
+              "enabled": true
+            },
+            {
+              "index": 2,
+              "name": "Tuning / clothes",
+              "enabled": false
+            }
+          ],
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "items": [
+        {
+          "value": "864426",
+          "rank": 1
+        },
+        {
+          "value": "54538337",
+          "rank": 2
+        },
+        {
+          "value": "5458357",
+          "rank": 3
+        },
+        {
+          "value": "54538337",
+          "rank": 4
+        },
+        {
+          "value": "18",
+          "rank": 5
+        },
+        {
+          "value": "0",
+          "rank": 6
+        },
+        {
+          "value": "1",
+          "switches": [
+            {
+              "index": 1,
+              "name": "Brand enabled",
+              "enabled": true
+            },
+            {
+              "index": 2,
+              "name": "Tuning / clothes",
+              "enabled": false
+            }
+          ],
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "items": [
+        {
+          "value": "924266",
+          "rank": 1
+        },
+        {
+          "value": "57538337",
+          "rank": 2
+        },
+        {
+          "value": "5758357",
+          "rank": 3
+        },
+        {
+          "value": "57538337",
+          "rank": 4
+        },
+        {
+          "value": "20",
+          "rank": 5
+        },
+        {
+          "value": "0",
+          "rank": 6
+        },
+        {
+          "value": "1",
+          "switches": [
+            {
+              "index": 1,
+              "name": "Brand enabled",
+              "enabled": true
+            },
+            {
+              "index": 2,
+              "name": "Tuning / clothes",
+              "enabled": false
+            }
+          ],
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "items": [
+        {
+          "value": "898027",
+          "rank": 1
+        },
+        {
+          "value": "58538337",
+          "rank": 2
+        },
+        {
+          "value": "5858357",
+          "rank": 3
+        },
+        {
+          "value": "58538337",
+          "rank": 4
+        },
+        {
+          "value": "21",
+          "rank": 5
+        },
+        {
+          "value": "0",
+          "rank": 6
+        },
+        {
+          "value": "1",
+          "switches": [
+            {
+              "index": 1,
+              "name": "Brand enabled",
+              "enabled": true
+            },
+            {
+              "index": 2,
+              "name": "Tuning / clothes",
+              "enabled": false
+            }
+          ],
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "items": [
+        {
+          "value": "727727",
+          "rank": 1
+        },
+        {
+          "value": "59538337",
+          "rank": 2
+        },
+        {
+          "value": "6108357",
+          "rank": 3
+        },
+        {
+          "value": "61338337",
+          "rank": 4
+        },
+        {
+          "value": "63",
+          "rank": 5
+        },
+        {
+          "value": "0",
+          "rank": 6
+        },
+        {
+          "value": "0",
+          "switches": [
+            {
+              "index": 1,
+              "name": "Brand enabled",
+              "enabled": false
+            },
+            {
+              "index": 2,
+              "name": "Tuning / clothes",
+              "enabled": false
+            }
+          ],
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "items": [
+        {
+          "value": "85793347",
+          "rank": 1
+        },
+        {
+          "value": "60538337",
+          "rank": 2
+        },
+        {
+          "value": "6058357",
+          "rank": 3
+        },
+        {
+          "value": "60538337",
+          "rank": 4
+        },
+        {
+          "value": "23",
+          "rank": 5
+        },
+        {
+          "value": "0",
+          "rank": 6
+        },
+        {
+          "value": "1",
+          "switches": [
+            {
+              "index": 1,
+              "name": "Brand enabled",
+              "enabled": true
+            },
+            {
+              "index": 2,
+              "name": "Tuning / clothes",
+              "enabled": false
+            }
+          ],
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "items": [
+        {
+          "value": "865967",
+          "rank": 1
+        },
+        {
+          "value": "61538337",
+          "rank": 2
+        },
+        {
+          "value": "6158357",
+          "rank": 3
+        },
+        {
+          "value": "61538337",
+          "rank": 4
+        },
+        {
+          "value": "24",
+          "rank": 5
+        },
+        {
+          "value": "0",
+          "rank": 6
+        },
+        {
+          "value": "1",
+          "switches": [
+            {
+              "index": 1,
+              "name": "Brand enabled",
+              "enabled": true
+            },
+            {
+              "index": 2,
+              "name": "Tuning / clothes",
+              "enabled": false
+            }
+          ],
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "items": [
+        {
+          "value": "937",
+          "rank": 1
+        },
+        {
+          "value": "61738337",
+          "rank": 2
+        },
+        {
+          "value": "6178357",
+          "rank": 3
+        },
+        {
+          "value": "61738337",
+          "rank": 4
+        },
+        {
+          "value": "25",
+          "rank": 5
+        },
+        {
+          "value": "0",
+          "rank": 6
+        },
+        {
+          "value": "1",
+          "switches": [
+            {
+              "index": 1,
+              "name": "Brand enabled",
+              "enabled": true
+            },
+            {
+              "index": 2,
+              "name": "Tuning / clothes",
+              "enabled": false
+            }
+          ],
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "items": [
+        {
+          "value": "8542108",
+          "rank": 1
+        },
+        {
+          "value": "53638337",
+          "rank": 2
+        },
+        {
+          "value": "53638337",
+          "rank": 3
+        },
+        {
+          "value": "53638337",
+          "rank": 4
+        },
+        {
+          "value": "26",
+          "rank": 5
+        },
+        {
+          "value": "0",
+          "rank": 6
+        },
+        {
+          "value": "1",
+          "switches": [
+            {
+              "index": 1,
+              "name": "Brand enabled",
+              "enabled": true
+            },
+            {
+              "index": 2,
+              "name": "Tuning / clothes",
+              "enabled": false
+            }
+          ],
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "items": [
+        {
+          "value": "773468",
+          "rank": 1
+        },
+        {
+          "value": "54638337",
+          "rank": 2
+        },
+        {
+          "value": "5468357",
+          "rank": 3
+        },
+        {
+          "value": "54638337",
+          "rank": 4
+        },
+        {
+          "value": "27",
+          "rank": 5
+        },
+        {
+          "value": "0",
+          "rank": 6
+        },
+        {
+          "value": "1",
+          "switches": [
+            {
+              "index": 1,
+              "name": "Brand enabled",
+              "enabled": true
+            },
+            {
+              "index": 2,
+              "name": "Tuning / clothes",
+              "enabled": false
+            }
+          ],
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "items": [
+        {
+          "value": "8152830",
+          "rank": 1
+        },
+        {
+          "value": "55638337",
+          "rank": 2
+        },
+        {
+          "value": "5568357",
+          "rank": 3
+        },
+        {
+          "value": "55638337",
+          "rank": 4
+        },
+        {
+          "value": "28",
+          "rank": 5
+        },
+        {
+          "value": "0",
+          "rank": 6
+        },
+        {
+          "value": "1",
+          "switches": [
+            {
+              "index": 1,
+              "name": "Brand enabled",
+              "enabled": true
+            },
+            {
+              "index": 2,
+              "name": "Tuning / clothes",
+              "enabled": false
+            }
+          ],
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "items": [
+        {
+          "value": "86740",
+          "rank": 1
+        },
+        {
+          "value": "56638337",
+          "rank": 2
+        },
+        {
+          "value": "5668357",
+          "rank": 3
+        },
+        {
+          "value": "56638337",
+          "rank": 4
+        },
+        {
+          "value": "29",
+          "rank": 5
+        },
+        {
+          "value": "0",
+          "rank": 6
+        },
+        {
+          "value": "1",
+          "switches": [
+            {
+              "index": 1,
+              "name": "Brand enabled",
+              "enabled": true
+            },
+            {
+              "index": 2,
+              "name": "Tuning / clothes",
+              "enabled": false
+            }
+          ],
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "items": [
+        {
+          "value": "92670",
+          "rank": 1
+        },
+        {
+          "value": "57638337",
+          "rank": 2
+        },
+        {
+          "value": "5768357",
+          "rank": 3
+        },
+        {
+          "value": "57638337",
+          "rank": 4
+        },
+        {
+          "value": "30",
+          "rank": 5
+        },
+        {
+          "value": "0",
+          "rank": 6
+        },
+        {
+          "value": "1",
+          "switches": [
+            {
+              "index": 1,
+              "name": "Brand enabled",
+              "enabled": true
+            },
+            {
+              "index": 2,
+              "name": "Tuning / clothes",
+              "enabled": false
+            }
+          ],
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "items": [
+        {
+          "value": "7932",
+          "rank": 1
+        },
+        {
+          "value": "57838337",
+          "rank": 2
+        },
+        {
+          "value": "57838337",
+          "rank": 3
+        },
+        {
+          "value": "57838337",
+          "rank": 4
+        },
+        {
+          "value": "32",
+          "rank": 5
+        },
+        {
+          "value": "0",
+          "rank": 6
+        },
+        {
+          "value": "1",
+          "switches": [
+            {
+              "index": 1,
+              "name": "Brand enabled",
+              "enabled": true
+            },
+            {
+              "index": 2,
+              "name": "Tuning / clothes",
+              "enabled": false
+            }
+          ],
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "items": [
+        {
+          "value": "8567333",
+          "rank": 1
+        },
+        {
+          "value": "59638337",
+          "rank": 2
+        },
+        {
+          "value": "5968357",
+          "rank": 3
+        },
+        {
+          "value": "59638337",
+          "rank": 4
+        },
+        {
+          "value": "33",
+          "rank": 5
+        },
+        {
+          "value": "0",
+          "rank": 6
+        },
+        {
+          "value": "1",
+          "switches": [
+            {
+              "index": 1,
+              "name": "Brand enabled",
+              "enabled": true
+            },
+            {
+              "index": 2,
+              "name": "Tuning / clothes",
+              "enabled": false
+            }
+          ],
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "items": [
+        {
+          "value": "880567803",
+          "rank": 1
+        },
+        {
+          "value": "58038337",
+          "rank": 2
+        },
+        {
+          "value": "5968357",
+          "rank": 3
+        },
+        {
+          "value": "59638337",
+          "rank": 4
+        },
+        {
+          "value": "33",
+          "rank": 5
+        },
+        {
+          "value": "0",
+          "rank": 6
+        },
+        {
+          "value": "3",
+          "switches": [
+            {
+              "index": 1,
+              "name": "Brand enabled",
+              "enabled": true
+            },
+            {
+              "index": 2,
+              "name": "Tuning / clothes",
+              "enabled": true
+            }
+          ],
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "items": [
+        {
+          "value": "8714133",
+          "rank": 1
+        },
+        {
+          "value": "59838337",
+          "rank": 2
+        },
+        {
+          "value": "5988357",
+          "rank": 3
+        },
+        {
+          "value": "59838337",
+          "rank": 4
+        },
+        {
+          "value": "34",
+          "rank": 5
+        },
+        {
+          "value": "0",
+          "rank": 6
+        },
+        {
+          "value": "1",
+          "switches": [
+            {
+              "index": 1,
+              "name": "Brand enabled",
+              "enabled": true
+            },
+            {
+              "index": 2,
+              "name": "Tuning / clothes",
+              "enabled": false
+            }
+          ],
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "items": [
+        {
+          "value": "9643703",
+          "rank": 1
+        },
+        {
+          "value": "60638337",
+          "rank": 2
+        },
+        {
+          "value": "6068357",
+          "rank": 3
+        },
+        {
+          "value": "60638337",
+          "rank": 4
+        },
+        {
+          "value": "35",
+          "rank": 5
+        },
+        {
+          "value": "0",
+          "rank": 6
+        },
+        {
+          "value": "1",
+          "switches": [
+            {
+              "index": 1,
+              "name": "Brand enabled",
+              "enabled": true
+            },
+            {
+              "index": 2,
+              "name": "Tuning / clothes",
+              "enabled": false
+            }
+          ],
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "items": [
+        {
+          "value": "84783",
+          "rank": 1
+        },
+        {
+          "value": "62638337",
+          "rank": 2
+        },
+        {
+          "value": "6268357",
+          "rank": 3
+        },
+        {
+          "value": "62638337",
+          "rank": 4
+        },
+        {
+          "value": "36",
+          "rank": 5
+        },
+        {
+          "value": "0",
+          "rank": 6
+        },
+        {
+          "value": "1",
+          "switches": [
+            {
+              "index": 1,
+              "name": "Brand enabled",
+              "enabled": true
+            },
+            {
+              "index": 2,
+              "name": "Tuning / clothes",
+              "enabled": false
+            }
+          ],
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "items": [
+        {
+          "value": "9933",
+          "rank": 1
+        },
+        {
+          "value": "62738337",
+          "rank": 2
+        },
+        {
+          "value": "6108357",
+          "rank": 3
+        },
+        {
+          "value": "61338337",
+          "rank": 4
+        },
+        {
+          "value": "63",
+          "rank": 5
+        },
+        {
+          "value": "0",
+          "rank": 6
+        },
+        {
+          "value": "0",
+          "switches": [
+            {
+              "index": 1,
+              "name": "Brand enabled",
+              "enabled": false
+            },
+            {
+              "index": 2,
+              "name": "Tuning / clothes",
+              "enabled": false
+            }
+          ],
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "items": [
+        {
+          "value": "75077404",
+          "rank": 1
+        },
+        {
+          "value": "55838337",
+          "rank": 2
+        },
+        {
+          "value": "55838337",
+          "rank": 3
+        },
+        {
+          "value": "55838337",
+          "rank": 4
+        },
+        {
+          "value": "63",
+          "rank": 5
+        },
+        {
+          "value": "0",
+          "rank": 6
+        },
+        {
+          "value": "1",
+          "switches": [
+            {
+              "index": 1,
+              "name": "Brand enabled",
+              "enabled": true
+            },
+            {
+              "index": 2,
+              "name": "Tuning / clothes",
+              "enabled": false
+            }
+          ],
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "items": [
+        {
+          "value": "80863204",
+          "rank": 1
+        },
+        {
+          "value": "53838337",
+          "rank": 2
+        },
+        {
+          "value": "5388357",
+          "rank": 3
+        },
+        {
+          "value": "53838337",
+          "rank": 4
+        },
+        {
+          "value": "39",
+          "rank": 5
+        },
+        {
+          "value": "0",
+          "rank": 6
+        },
+        {
+          "value": "1",
+          "switches": [
+            {
+              "index": 1,
+              "name": "Brand enabled",
+              "enabled": true
+            },
+            {
+              "index": 2,
+              "name": "Tuning / clothes",
+              "enabled": false
+            }
+          ],
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "items": [
+        {
+          "value": "9144",
+          "rank": 1
+        },
+        {
+          "value": "55738337",
+          "rank": 2
+        },
+        {
+          "value": "55738337",
+          "rank": 3
+        },
+        {
+          "value": "55738337",
+          "rank": 4
+        },
+        {
+          "value": "40",
+          "rank": 5
+        },
+        {
+          "value": "0",
+          "rank": 6
+        },
+        {
+          "value": "1",
+          "switches": [
+            {
+              "index": 1,
+              "name": "Brand enabled",
+              "enabled": true
+            },
+            {
+              "index": 2,
+              "name": "Tuning / clothes",
+              "enabled": false
+            }
+          ],
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "items": [
+        {
+          "value": "7836",
+          "rank": 1
+        },
+        {
+          "value": "58838337",
+          "rank": 2
+        },
+        {
+          "value": "5888357",
+          "rank": 3
+        },
+        {
+          "value": "58838337",
+          "rank": 4
+        },
+        {
+          "value": "41",
+          "rank": 5
+        },
+        {
+          "value": "0",
+          "rank": 6
+        },
+        {
+          "value": "1",
+          "switches": [
+            {
+              "index": 1,
+              "name": "Brand enabled",
+              "enabled": true
+            },
+            {
+              "index": 2,
+              "name": "Tuning / clothes",
+              "enabled": false
+            }
+          ],
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "items": [
+        {
+          "value": "85649",
+          "rank": 1
+        },
+        {
+          "value": "62838337",
+          "rank": 2
+        },
+        {
+          "value": "6288357",
+          "rank": 3
+        },
+        {
+          "value": "61338337",
+          "rank": 4
+        },
+        {
+          "value": "63",
+          "rank": 5
+        },
+        {
+          "value": "0",
+          "rank": 6
+        },
+        {
+          "value": "2",
+          "switches": [
+            {
+              "index": 1,
+              "name": "Brand enabled",
+              "enabled": false
+            },
+            {
+              "index": 2,
+              "name": "Tuning / clothes",
+              "enabled": true
+            }
+          ],
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "items": [
+        {
+          "value": "1220916237",
+          "rank": 1
+        },
+        {
+          "value": "53938337",
+          "rank": 2
+        },
+        {
+          "value": "53938337",
+          "rank": 3
+        },
+        {
+          "value": "6196580",
+          "rank": 4
+        },
+        {
+          "value": "42",
+          "rank": 5
+        },
+        {
+          "value": "0",
+          "rank": 6
+        },
+        {
+          "value": "1",
+          "switches": [
+            {
+              "index": 1,
+              "name": "Brand enabled",
+              "enabled": true
+            },
+            {
+              "index": 2,
+              "name": "Tuning / clothes",
+              "enabled": false
+            }
+          ],
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "items": [
+        {
+          "value": "87239",
+          "rank": 1
+        },
+        {
+          "value": "54938337",
+          "rank": 2
+        },
+        {
+          "value": "5498357",
+          "rank": 3
+        },
+        {
+          "value": "54938337",
+          "rank": 4
+        },
+        {
+          "value": "63",
+          "rank": 5
+        },
+        {
+          "value": "0",
+          "rank": 6
+        },
+        {
+          "value": "3",
+          "switches": [
+            {
+              "index": 1,
+              "name": "Brand enabled",
+              "enabled": true
+            },
+            {
+              "index": 2,
+              "name": "Tuning / clothes",
+              "enabled": true
+            }
+          ],
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "items": [
+        {
+          "value": "8681429",
+          "rank": 1
+        },
+        {
+          "value": "55938337",
+          "rank": 2
+        },
+        {
+          "value": "55938337",
+          "rank": 3
+        },
+        {
+          "value": "55938337",
+          "rank": 4
+        },
+        {
+          "value": "63",
+          "rank": 5
+        },
+        {
+          "value": "0",
+          "rank": 6
+        },
+        {
+          "value": "3",
+          "switches": [
+            {
+              "index": 1,
+              "name": "Brand enabled",
+              "enabled": true
+            },
+            {
+              "index": 2,
+              "name": "Tuning / clothes",
+              "enabled": true
+            }
+          ],
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "items": [
+        {
+          "value": "73339795",
+          "rank": 1
+        },
+        {
+          "value": "56938337",
+          "rank": 2
+        },
+        {
+          "value": "5698357",
+          "rank": 3
+        },
+        {
+          "value": "56938337",
+          "rank": 4
+        },
+        {
+          "value": "63",
+          "rank": 5
+        },
+        {
+          "value": "0",
+          "rank": 6
+        },
+        {
+          "value": "3",
+          "switches": [
+            {
+              "index": 1,
+              "name": "Brand enabled",
+              "enabled": true
+            },
+            {
+              "index": 2,
+              "name": "Tuning / clothes",
+              "enabled": true
+            }
+          ],
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "items": [
+        {
+          "value": "97660",
+          "rank": 1
+        },
+        {
+          "value": "57938337",
+          "rank": 2
+        },
+        {
+          "value": "57938337",
+          "rank": 3
+        },
+        {
+          "value": "57938337",
+          "rank": 4
+        },
+        {
+          "value": "63",
+          "rank": 5
+        },
+        {
+          "value": "0",
+          "rank": 6
+        },
+        {
+          "value": "3",
+          "switches": [
+            {
+              "index": 1,
+              "name": "Brand enabled",
+              "enabled": true
+            },
+            {
+              "index": 2,
+              "name": "Tuning / clothes",
+              "enabled": true
+            }
+          ],
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "items": [
+        {
+          "value": "825042",
+          "rank": 1
+        },
+        {
+          "value": "58938337",
+          "rank": 2
+        },
+        {
+          "value": "58938337",
+          "rank": 3
+        },
+        {
+          "value": "58938337",
+          "rank": 4
+        },
+        {
+          "value": "63",
+          "rank": 5
+        },
+        {
+          "value": "0",
+          "rank": 6
+        },
+        {
+          "value": "3",
+          "switches": [
+            {
+              "index": 1,
+              "name": "Brand enabled",
+              "enabled": true
+            },
+            {
+              "index": 2,
+              "name": "Tuning / clothes",
+              "enabled": true
+            }
+          ],
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "items": [
+        {
+          "value": "85359703",
+          "rank": 1
+        },
+        {
+          "value": "59938337",
+          "rank": 2
+        },
+        {
+          "value": "5998357",
+          "rank": 3
+        },
+        {
+          "value": "59938337",
+          "rank": 4
+        },
+        {
+          "value": "63",
+          "rank": 5
+        },
+        {
+          "value": "0",
+          "rank": 6
+        },
+        {
+          "value": "3",
+          "switches": [
+            {
+              "index": 1,
+              "name": "Brand enabled",
+              "enabled": true
+            },
+            {
+              "index": 2,
+              "name": "Tuning / clothes",
+              "enabled": true
+            }
+          ],
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "items": [
+        {
+          "value": "872078473",
+          "rank": 1
+        },
+        {
+          "value": "60938337",
+          "rank": 2
+        },
+        {
+          "value": "60938337",
+          "rank": 3
+        },
+        {
+          "value": "60938337",
+          "rank": 4
+        },
+        {
+          "value": "63",
+          "rank": 5
+        },
+        {
+          "value": "0",
+          "rank": 6
+        },
+        {
+          "value": "3",
+          "switches": [
+            {
+              "index": 1,
+              "name": "Brand enabled",
+              "enabled": true
+            },
+            {
+              "index": 2,
+              "name": "Tuning / clothes",
+              "enabled": true
+            }
+          ],
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "items": [
+        {
+          "value": "997586",
+          "rank": 1
+        },
+        {
+          "value": "61938337",
+          "rank": 2
+        },
+        {
+          "value": "6198357",
+          "rank": 3
+        },
+        {
+          "value": "61938337",
+          "rank": 4
+        },
+        {
+          "value": "63",
+          "rank": 5
+        },
+        {
+          "value": "0",
+          "rank": 6
+        },
+        {
+          "value": "3",
+          "switches": [
+            {
+              "index": 1,
+              "name": "Brand enabled",
+              "enabled": true
+            },
+            {
+              "index": 2,
+              "name": "Tuning / clothes",
+              "enabled": true
+            }
+          ],
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "items": [
+        {
+          "value": "92522758",
+          "rank": 1
+        },
+        {
+          "value": "62938337",
+          "rank": 2
+        },
+        {
+          "value": "62938337",
+          "rank": 3
+        },
+        {
+          "value": "62938337",
+          "rank": 4
+        },
+        {
+          "value": "63",
+          "rank": 5
+        },
+        {
+          "value": "0",
+          "rank": 6
+        },
+        {
+          "value": "3",
+          "switches": [
+            {
+              "index": 1,
+              "name": "Brand enabled",
+              "enabled": true
+            },
+            {
+              "index": 2,
+              "name": "Tuning / clothes",
+              "enabled": true
+            }
+          ],
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "items": [
+        {
+          "value": "1137632324",
+          "rank": 1
+        },
+        {
+          "value": "54038337",
+          "rank": 2
+        },
+        {
+          "value": "6108357",
+          "rank": 3
+        },
+        {
+          "value": "61338337",
+          "rank": 4
+        },
+        {
+          "value": "63",
+          "rank": 5
+        },
+        {
+          "value": "0",
+          "rank": 6
+        },
+        {
+          "value": "0",
+          "switches": [
+            {
+              "index": 1,
+              "name": "Brand enabled",
+              "enabled": false
+            },
+            {
+              "index": 2,
+              "name": "Tuning / clothes",
+              "enabled": false
+            }
+          ],
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "items": [
+        {
+          "value": "1231628",
+          "rank": 1
+        },
+        {
+          "value": "55038337",
+          "rank": 2
+        },
+        {
+          "value": "55038337",
+          "rank": 3
+        },
+        {
+          "value": "61338337",
+          "rank": 4
+        },
+        {
+          "value": "63",
+          "rank": 5
+        },
+        {
+          "value": "0",
+          "rank": 6
+        },
+        {
+          "value": "0",
+          "switches": [
+            {
+              "index": 1,
+              "name": "Brand enabled",
+              "enabled": false
+            },
+            {
+              "index": 2,
+              "name": "Tuning / clothes",
+              "enabled": false
+            }
+          ],
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "items": [
+        {
+          "value": "7935",
+          "rank": 1
+        },
+        {
+          "value": "56038337",
+          "rank": 2
+        },
+        {
+          "value": "56038337",
+          "rank": 3
+        },
+        {
+          "value": "61338337",
+          "rank": 4
+        },
+        {
+          "value": "63",
+          "rank": 5
+        },
+        {
+          "value": "0",
+          "rank": 6
+        },
+        {
+          "value": "3",
+          "switches": [
+            {
+              "index": 1,
+              "name": "Brand enabled",
+              "enabled": true
+            },
+            {
+              "index": 2,
+              "name": "Tuning / clothes",
+              "enabled": true
+            }
+          ],
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "items": [
+        {
+          "value": "9079",
+          "rank": 1
+        },
+        {
+          "value": "57038337",
+          "rank": 2
+        },
+        {
+          "value": "6108357",
+          "rank": 3
+        },
+        {
+          "value": "61338337",
+          "rank": 4
+        },
+        {
+          "value": "63",
+          "rank": 5
+        },
+        {
+          "value": "0",
+          "rank": 6
+        },
+        {
+          "value": "0",
+          "switches": [
+            {
+              "index": 1,
+              "name": "Brand enabled",
+              "enabled": false
+            },
+            {
+              "index": 2,
+              "name": "Tuning / clothes",
+              "enabled": false
+            }
+          ],
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "items": [
+        {
+          "value": "1172730087",
+          "rank": 1
+        },
+        {
+          "value": "59038337",
+          "rank": 2
+        },
+        {
+          "value": "5908357",
+          "rank": 3
+        },
+        {
+          "value": "61338337",
+          "rank": 4
+        },
+        {
+          "value": "63",
+          "rank": 5
+        },
+        {
+          "value": "0",
+          "rank": 6
+        },
+        {
+          "value": "3",
+          "switches": [
+            {
+              "index": 1,
+              "name": "Brand enabled",
+              "enabled": true
+            },
+            {
+              "index": 2,
+              "name": "Tuning / clothes",
+              "enabled": true
+            }
+          ],
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "items": [
+        {
+          "value": "1172730220",
+          "rank": 1
+        },
+        {
+          "value": "60038337",
+          "rank": 2
+        },
+        {
+          "value": "6008357",
+          "rank": 3
+        },
+        {
+          "value": "61338337",
+          "rank": 4
+        },
+        {
+          "value": "63",
+          "rank": 5
+        },
+        {
+          "value": "0",
+          "rank": 6
+        },
+        {
+          "value": "3",
+          "switches": [
+            {
+              "index": 1,
+              "name": "Brand enabled",
+              "enabled": true
+            },
+            {
+              "index": 2,
+              "name": "Tuning / clothes",
+              "enabled": true
+            }
+          ],
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "items": [
+        {
+          "value": "924566",
+          "rank": 1
+        },
+        {
+          "value": "56538337",
+          "rank": 2
+        },
+        {
+          "value": "5658357",
+          "rank": 3
+        },
+        {
+          "value": "61338337",
+          "rank": 4
+        },
+        {
+          "value": "45",
+          "rank": 5
+        },
+        {
+          "value": "0",
+          "rank": 6
+        },
+        {
+          "value": "1",
+          "switches": [
+            {
+              "index": 1,
+              "name": "Brand enabled",
+              "enabled": true
+            },
+            {
+              "index": 2,
+              "name": "Tuning / clothes",
+              "enabled": false
+            }
+          ],
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "items": [
+        {
+          "value": "12121982",
+          "rank": 1
+        },
+        {
+          "value": "61038337",
+          "rank": 2
+        },
+        {
+          "value": "61038337",
+          "rank": 3
+        },
+        {
+          "value": "61338337",
+          "rank": 4
+        },
+        {
+          "value": "46",
+          "rank": 5
+        },
+        {
+          "value": "0",
+          "rank": 6
+        },
+        {
+          "value": "1",
+          "switches": [
+            {
+              "index": 1,
+              "name": "Brand enabled",
+              "enabled": true
+            },
+            {
+              "index": 2,
+              "name": "Tuning / clothes",
+              "enabled": false
+            }
+          ],
+          "rank": 7
+        }
+      ]
+    }
+  ]
+}

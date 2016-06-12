@@ -1,0 +1,44 @@
+{
+  "ref": "1255524264",
+  "topic": "HAIR",
+  "fields": [
+    {
+      "name": "REF",
+      "rank": 1,
+      "type": "UID"
+    },
+    {
+      "name": "ID_HAIR",
+      "rank": 2,
+      "type": "RESOURCE_CURRENT_GLOBALIZED"
+    },
+    {
+      "name": "HairName",
+      "rank": 3,
+      "type": "RESOURCE_CURRENT_LOCALIZED"
+    },
+    {
+      "name": "Sex",
+      "targetRef": "1282586878",
+      "rank": 4,
+      "type": "RESOURCE_REMOTE"
+    },
+    {
+      "name": "File",
+      "rank": 5,
+      "type": "RESOURCE_CURRENT_GLOBALIZED"
+    },
+    {
+      "name": "Mesh",
+      "rank": 6,
+      "type": "RESOURCE_CURRENT_GLOBALIZED"
+    },
+    {
+      "name": "Material",
+      "rank": 7,
+      "type": "RESOURCE_CURRENT_GLOBALIZED"
+    }
+  ],
+  "version": "1,2",
+  "categoryCount": 5
+}

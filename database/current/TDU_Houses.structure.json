@@ -1,0 +1,53 @@
+{
+  "ref": "1278925515",
+  "topic": "HOUSES",
+  "fields": [
+    {
+      "name": "REF_",
+      "rank": 1,
+      "type": "UID"
+    },
+    {
+      "name": "Spot_Name_",
+      "rank": 2,
+      "type": "RESOURCE_CURRENT_GLOBALIZED"
+    },
+    {
+      "name": "Realtor_",
+      "rank": 3,
+      "type": "RESOURCE_CURRENT_GLOBALIZED"
+    },
+    {
+      "name": "House_Name_",
+      "rank": 4,
+      "type": "RESOURCE_CURRENT_GLOBALIZED"
+    },
+    {
+      "name": "Level_",
+      "rank": 5,
+      "type": "INTEGER"
+    },
+    {
+      "name": "Model_",
+      "rank": 6,
+      "type": "INTEGER"
+    },
+    {
+      "name": "Nb_CarSlots_",
+      "rank": 7,
+      "type": "INTEGER"
+    },
+    {
+      "name": "Buy_Price_",
+      "rank": 8,
+      "type": "INTEGER"
+    },
+    {
+      "name": "Sell_Price_",
+      "rank": 9,
+      "type": "INTEGER"
+    }
+  ],
+  "version": "1,2",
+  "categoryCount": 4
+}

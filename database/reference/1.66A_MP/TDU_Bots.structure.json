@@ -1,0 +1,50 @@
+{
+  "ref": "1277864264",
+  "topic": "BOTS",
+  "fields": [
+    {
+      "name": "FirstName_",
+      "rank": 1,
+      "type": "RESOURCE_CURRENT_GLOBALIZED"
+    },
+    {
+      "name": "Behaviour",
+      "rank": 2,
+      "type": "RESOURCE_CURRENT_GLOBALIZED"
+    },
+    {
+      "name": "PNJ",
+      "targetRef": "82704264",
+      "rank": 3,
+      "type": "REFERENCE"
+    },
+    {
+      "name": "Difficulty",
+      "rank": 4,
+      "type": "FLOAT"
+    },
+    {
+      "name": "ZoneIndex",
+      "rank": 5,
+      "type": "INTEGER"
+    },
+    {
+      "name": "BotCar",
+      "targetRef": "1975083164",
+      "rank": 6,
+      "type": "REFERENCE"
+    },
+    {
+      "name": "ColorIndex",
+      "rank": 7,
+      "type": "INTEGER"
+    },
+    {
+      "name": "Rarety",
+      "rank": 8,
+      "type": "PERCENT"
+    }
+  ],
+  "version": "1,2",
+  "categoryCount": 3
+}

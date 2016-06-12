@@ -1,0 +1,117 @@
+{
+  "version": "1,2",
+  "categoryCount": 2,
+  "entries": [
+    {
+      "items": [
+        {
+          "value": "ERREUR!!",
+          "locale": "fr"
+        },
+        {
+          "value": "ERROR",
+          "locale": "ge"
+        },
+        {
+          "value": "ERROR",
+          "locale": "us"
+        },
+        {
+          "value": "ERROR",
+          "locale": "ko"
+        },
+        {
+          "value": "ERROR",
+          "locale": "ch"
+        },
+        {
+          "value": "ERROR",
+          "locale": "ja"
+        },
+        {
+          "value": "ERROR",
+          "locale": "it"
+        },
+        {
+          "value": "ERROR",
+          "locale": "sp"
+        }
+      ],
+      "ref": "88926089"
+    },
+    {
+      "items": [
+        {
+          "value": "??",
+          "locale": "fr"
+        },
+        {
+          "value": "??",
+          "locale": "ge"
+        },
+        {
+          "value": "??",
+          "locale": "us"
+        },
+        {
+          "value": "??",
+          "locale": "ko"
+        },
+        {
+          "value": "??",
+          "locale": "ch"
+        },
+        {
+          "value": "??",
+          "locale": "ja"
+        },
+        {
+          "value": "??",
+          "locale": "it"
+        },
+        {
+          "value": "??",
+          "locale": "sp"
+        }
+      ],
+      "ref": "53357653"
+    },
+    {
+      "items": [
+        {
+          "value": "nismo_350",
+          "locale": "fr"
+        },
+        {
+          "value": "nismo_350",
+          "locale": "ge"
+        },
+        {
+          "value": "nismo_350",
+          "locale": "us"
+        },
+        {
+          "value": "nismo_350",
+          "locale": "ko"
+        },
+        {
+          "value": "nismo_350",
+          "locale": "ch"
+        },
+        {
+          "value": "nismo_350",
+          "locale": "ja"
+        },
+        {
+          "value": "nismo_350",
+          "locale": "it"
+        },
+        {
+          "value": "nismo_350",
+          "locale": "sp"
+        }
+      ],
+      "ref": "54357653"
+    }
+  ]
+}

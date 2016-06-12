@@ -1,0 +1,99 @@
+{
+  "ref": "82704264",
+  "topic": "PNJ",
+  "fields": [
+    {
+      "name": "REF",
+      "rank": 1,
+      "type": "UID"
+    },
+    {
+      "name": "ConfigID",
+      "rank": 2,
+      "type": "RESOURCE_CURRENT_GLOBALIZED"
+    },
+    {
+      "name": "Sex",
+      "rank": 3,
+      "type": "RESOURCE_CURRENT_LOCALIZED"
+    },
+    {
+      "name": "FileConfigID",
+      "rank": 4,
+      "type": "RESOURCE_CURRENT_GLOBALIZED"
+    },
+    {
+      "name": "Clothe",
+      "targetRef": "1282586878",
+      "rank": 5,
+      "type": "REFERENCE"
+    },
+    {
+      "name": "Clothe",
+      "targetRef": "1282586878",
+      "rank": 6,
+      "type": "REFERENCE"
+    },
+    {
+      "name": "Clothe",
+      "targetRef": "1282586878",
+      "rank": 7,
+      "type": "REFERENCE"
+    },
+    {
+      "name": "Clothe",
+      "targetRef": "1282586878",
+      "rank": 8,
+      "type": "REFERENCE"
+    },
+    {
+      "name": "Clothe",
+      "targetRef": "1282586878",
+      "rank": 9,
+      "type": "REFERENCE"
+    },
+    {
+      "name": "Clothe",
+      "targetRef": "1282586878",
+      "rank": 10,
+      "type": "REFERENCE"
+    },
+    {
+      "name": "Top",
+      "rank": 11,
+      "type": "INTEGER"
+    },
+    {
+      "name": "Bottom",
+      "rank": 12,
+      "type": "INTEGER"
+    },
+    {
+      "name": "Shoes",
+      "rank": 13,
+      "type": "INTEGER"
+    },
+    {
+      "name": "Gloves",
+      "rank": 14,
+      "type": "INTEGER"
+    },
+    {
+      "name": "Glasses",
+      "rank": 15,
+      "type": "INTEGER"
+    },
+    {
+      "name": "Helmet",
+      "rank": 16,
+      "type": "INTEGER"
+    },
+    {
+      "name": "BitField",
+      "rank": 17,
+      "type": "BITFIELD"
+    }
+  ],
+  "version": "1,2",
+  "categoryCount": 3
+}

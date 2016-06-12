@@ -1,0 +1,28 @@
+{
+  "ref": "951897329",
+  "topic": "SUB_TITLES",
+  "fields": [
+    {
+      "name": "SoundFileID_",
+      "rank": 1,
+      "type": "RESOURCE_CURRENT_GLOBALIZED"
+    },
+    {
+      "name": "SoundFileType",
+      "rank": 2,
+      "type": "RESOURCE_CURRENT_GLOBALIZED"
+    },
+    {
+      "name": "Libelle",
+      "rank": 3,
+      "type": "RESOURCE_CURRENT_LOCALIZED"
+    },
+    {
+      "name": "BitField",
+      "rank": 4,
+      "type": "BITFIELD"
+    }
+  ],
+  "version": "1,2",
+  "categoryCount": 3
+}

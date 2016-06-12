@@ -1,0 +1,118 @@
+{
+  "ref": "954601678",
+  "topic": "CAR_SHOPS",
+  "fields": [
+    {
+      "name": "REF",
+      "rank": 1,
+      "type": "UID"
+    },
+    {
+      "name": "Spot_Name",
+      "rank": 2,
+      "type": "RESOURCE_CURRENT_GLOBALIZED"
+    },
+    {
+      "name": "Libelle",
+      "rank": 3,
+      "type": "RESOURCE_CURRENT_LOCALIZED"
+    },
+    {
+      "name": "SLOT_1",
+      "targetRef": "1975083164",
+      "rank": 4,
+      "type": "REFERENCE"
+    },
+    {
+      "name": "SLOT_2",
+      "targetRef": "1975083164",
+      "rank": 5,
+      "type": "REFERENCE"
+    },
+    {
+      "name": "SLOT_3",
+      "targetRef": "1975083164",
+      "rank": 6,
+      "type": "REFERENCE"
+    },
+    {
+      "name": "SLOT_4",
+      "targetRef": "1975083164",
+      "rank": 7,
+      "type": "REFERENCE"
+    },
+    {
+      "name": "SLOT_5",
+      "targetRef": "1975083164",
+      "rank": 8,
+      "type": "REFERENCE"
+    },
+    {
+      "name": "SLOT_6",
+      "targetRef": "1975083164",
+      "rank": 9,
+      "type": "REFERENCE"
+    },
+    {
+      "name": "SLOT_7",
+      "targetRef": "1975083164",
+      "rank": 10,
+      "type": "REFERENCE"
+    },
+    {
+      "name": "SLOT_8",
+      "targetRef": "1975083164",
+      "rank": 11,
+      "type": "REFERENCE"
+    },
+    {
+      "name": "SLOT_9",
+      "targetRef": "1975083164",
+      "rank": 12,
+      "type": "REFERENCE"
+    },
+    {
+      "name": "SLOT_10",
+      "targetRef": "1975083164",
+      "rank": 13,
+      "type": "REFERENCE"
+    },
+    {
+      "name": "SLOT_11",
+      "targetRef": "1975083164",
+      "rank": 14,
+      "type": "REFERENCE"
+    },
+    {
+      "name": "SLOT_12",
+      "targetRef": "1975083164",
+      "rank": 15,
+      "type": "REFERENCE"
+    },
+    {
+      "name": "SLOT_13",
+      "targetRef": "1975083164",
+      "rank": 16,
+      "type": "REFERENCE"
+    },
+    {
+      "name": "SLOT_14",
+      "targetRef": "1975083164",
+      "rank": 17,
+      "type": "REFERENCE"
+    },
+    {
+      "name": "SLOT_15",
+      "targetRef": "1975083164",
+      "rank": 18,
+      "type": "REFERENCE"
+    },
+    {
+      "name": "BitField",
+      "rank": 19,
+      "type": "BITFIELD"
+    }
+  ],
+  "version": "1,2",
+  "categoryCount": 2
+}

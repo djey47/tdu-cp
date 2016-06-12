@@ -1,0 +1,450 @@
+{
+  "version": "1,2",
+  "categoryCount": 5,
+  "entries": [
+    {
+      "items": [
+        {
+          "value": "ERREUR!!",
+          "locale": "fr"
+        },
+        {
+          "value": "ERROR",
+          "locale": "ge"
+        },
+        {
+          "value": "ERROR",
+          "locale": "us"
+        },
+        {
+          "value": "ERROR",
+          "locale": "ko"
+        },
+        {
+          "value": "ERROR",
+          "locale": "ch"
+        },
+        {
+          "value": "ERROR",
+          "locale": "ja"
+        },
+        {
+          "value": "ERROR",
+          "locale": "it"
+        },
+        {
+          "value": "ERROR",
+          "locale": "sp"
+        }
+      ],
+      "ref": "9097022"
+    },
+    {
+      "items": [
+        {
+          "value": "Rasta",
+          "locale": "fr"
+        },
+        {
+          "value": "Rasta",
+          "locale": "ge"
+        },
+        {
+          "value": "Rasta",
+          "locale": "us"
+        },
+        {
+          "value": "Rasta",
+          "locale": "ko"
+        },
+        {
+          "value": "Rasta",
+          "locale": "ch"
+        },
+        {
+          "value": "Rasta",
+          "locale": "ja"
+        },
+        {
+          "value": "Rasta",
+          "locale": "it"
+        },
+        {
+          "value": "Rasta",
+          "locale": "sp"
+        }
+      ],
+      "ref": "5436022"
+    },
+    {
+      "items": [
+        {
+          "value": "HA01",
+          "locale": "fr"
+        },
+        {
+          "value": "HA01",
+          "locale": "ge"
+        },
+        {
+          "value": "HA01",
+          "locale": "us"
+        },
+        {
+          "value": "HA01",
+          "locale": "ko"
+        },
+        {
+          "value": "HA01",
+          "locale": "ch"
+        },
+        {
+          "value": "HA01",
+          "locale": "ja"
+        },
+        {
+          "value": "HA01",
+          "locale": "it"
+        },
+        {
+          "value": "HA01",
+          "locale": "sp"
+        }
+      ],
+      "ref": "54370022"
+    },
+    {
+      "items": [
+        {
+          "value": "HA02",
+          "locale": "fr"
+        },
+        {
+          "value": "HA02",
+          "locale": "ge"
+        },
+        {
+          "value": "HA02",
+          "locale": "us"
+        },
+        {
+          "value": "HA02",
+          "locale": "ko"
+        },
+        {
+          "value": "HA02",
+          "locale": "ch"
+        },
+        {
+          "value": "HA02",
+          "locale": "ja"
+        },
+        {
+          "value": "HA02",
+          "locale": "it"
+        },
+        {
+          "value": "HA02",
+          "locale": "sp"
+        }
+      ],
+      "ref": "55370022"
+    },
+    {
+      "items": [
+        {
+          "value": "HA03",
+          "locale": "fr"
+        },
+        {
+          "value": "HA03",
+          "locale": "ge"
+        },
+        {
+          "value": "HA03",
+          "locale": "us"
+        },
+        {
+          "value": "HA03",
+          "locale": "ko"
+        },
+        {
+          "value": "HA03",
+          "locale": "ch"
+        },
+        {
+          "value": "HA03",
+          "locale": "ja"
+        },
+        {
+          "value": "HA03",
+          "locale": "it"
+        },
+        {
+          "value": "HA03",
+          "locale": "sp"
+        }
+      ],
+      "ref": "56370022"
+    },
+    {
+      "items": [
+        {
+          "value": "HA04",
+          "locale": "fr"
+        },
+        {
+          "value": "HA04",
+          "locale": "ge"
+        },
+        {
+          "value": "HA04",
+          "locale": "us"
+        },
+        {
+          "value": "HA04",
+          "locale": "ko"
+        },
+        {
+          "value": "HA04",
+          "locale": "ch"
+        },
+        {
+          "value": "HA04",
+          "locale": "ja"
+        },
+        {
+          "value": "HA04",
+          "locale": "it"
+        },
+        {
+          "value": "HA04",
+          "locale": "sp"
+        }
+      ],
+      "ref": "57370022"
+    },
+    {
+      "items": [
+        {
+          "value": "HA05",
+          "locale": "fr"
+        },
+        {
+          "value": "HA05",
+          "locale": "ge"
+        },
+        {
+          "value": "HA05",
+          "locale": "us"
+        },
+        {
+          "value": "HA05",
+          "locale": "ko"
+        },
+        {
+          "value": "HA05",
+          "locale": "ch"
+        },
+        {
+          "value": "HA05",
+          "locale": "ja"
+        },
+        {
+          "value": "HA05",
+          "locale": "it"
+        },
+        {
+          "value": "HA05",
+          "locale": "sp"
+        }
+      ],
+      "ref": "58370022"
+    },
+    {
+      "items": [
+        {
+          "value": "HA06",
+          "locale": "fr"
+        },
+        {
+          "value": "HA06",
+          "locale": "ge"
+        },
+        {
+          "value": "HA06",
+          "locale": "us"
+        },
+        {
+          "value": "HA06",
+          "locale": "ko"
+        },
+        {
+          "value": "HA06",
+          "locale": "ch"
+        },
+        {
+          "value": "HA06",
+          "locale": "ja"
+        },
+        {
+          "value": "HA06",
+          "locale": "it"
+        },
+        {
+          "value": "HA06",
+          "locale": "sp"
+        }
+      ],
+      "ref": "59370022"
+    },
+    {
+      "items": [
+        {
+          "value": "HA07",
+          "locale": "fr"
+        },
+        {
+          "value": "HA07",
+          "locale": "ge"
+        },
+        {
+          "value": "HA07",
+          "locale": "us"
+        },
+        {
+          "value": "HA07",
+          "locale": "ko"
+        },
+        {
+          "value": "HA07",
+          "locale": "ch"
+        },
+        {
+          "value": "HA07",
+          "locale": "ja"
+        },
+        {
+          "value": "HA07",
+          "locale": "it"
+        },
+        {
+          "value": "HA07",
+          "locale": "sp"
+        }
+      ],
+      "ref": "60370022"
+    },
+    {
+      "items": [
+        {
+          "value": "DEFAULT_BOTTOMS",
+          "locale": "fr"
+        },
+        {
+          "value": "DEFAULT_BOTTOMS",
+          "locale": "ge"
+        },
+        {
+          "value": "DEFAULT_BOTTOMS",
+          "locale": "us"
+        },
+        {
+          "value": "DEFAULT_BOTTOMS",
+          "locale": "ko"
+        },
+        {
+          "value": "DEFAULT_BOTTOMS",
+          "locale": "ch"
+        },
+        {
+          "value": "DEFAULT_BOTTOMS",
+          "locale": "ja"
+        },
+        {
+          "value": "DEFAULT_BOTTOMS",
+          "locale": "it"
+        },
+        {
+          "value": "DEFAULT_BOTTOMS",
+          "locale": "sp"
+        }
+      ],
+      "ref": "54640827"
+    },
+    {
+      "items": [
+        {
+          "value": "DEFAULT_TOPS_SHIRT",
+          "locale": "fr"
+        },
+        {
+          "value": "DEFAULT_TOPS_SHIRT",
+          "locale": "ge"
+        },
+        {
+          "value": "DEFAULT_TOPS_SHIRT",
+          "locale": "us"
+        },
+        {
+          "value": "DEFAULT_TOPS_SHIRT",
+          "locale": "ko"
+        },
+        {
+          "value": "DEFAULT_TOPS_SHIRT",
+          "locale": "ch"
+        },
+        {
+          "value": "DEFAULT_TOPS_SHIRT",
+          "locale": "ja"
+        },
+        {
+          "value": "DEFAULT_TOPS_SHIRT",
+          "locale": "it"
+        },
+        {
+          "value": "DEFAULT_TOPS_SHIRT",
+          "locale": "sp"
+        }
+      ],
+      "ref": "54707527"
+    },
+    {
+      "items": [
+        {
+          "value": "ChemiseAFleurs01",
+          "locale": "fr"
+        },
+        {
+          "value": "ChemiseAFleurs01",
+          "locale": "ge"
+        },
+        {
+          "value": "ChemiseAFleurs01",
+          "locale": "us"
+        },
+        {
+          "value": "ChemiseAFleurs01",
+          "locale": "ko"
+        },
+        {
+          "value": "ChemiseAFleurs01",
+          "locale": "ch"
+        },
+        {
+          "value": "ChemiseAFleurs01",
+          "locale": "ja"
+        },
+        {
+          "value": "ChemiseAFleurs01",
+          "locale": "it"
+        },
+        {
+          "value": "ChemiseAFleurs01",
+          "locale": "sp"
+        }
+      ],
+      "ref": "54713527"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "ref": "2064375635",
+  "topic": "AFTER_MARKET_PACKS",
+  "fields": [
+    {
+      "name": "REF",
+      "rank": 1,
+      "type": "UID"
+    },
+    {
+      "name": "Pack_ID",
+      "rank": 2,
+      "type": "RESOURCE_CURRENT_GLOBALIZED"
+    },
+    {
+      "name": "Pack_Name",
+      "rank": 3,
+      "type": "RESOURCE_CURRENT_LOCALIZED"
+    },
+    {
+      "name": "Speed_ratio",
+      "rank": 4,
+      "type": "FLOAT"
+    },
+    {
+      "name": "Power_ratio",
+      "rank": 5,
+      "type": "FLOAT"
+    },
+    {
+      "name": "Acceleration_ratio",
+      "rank": 6,
+      "type": "FLOAT"
+    },
+    {
+      "name": "Free_ratio",
+      "rank": 7,
+      "type": "FLOAT"
+    },
+    {
+      "name": "CX_ratio",
+      "rank": 8,
+      "type": "FLOAT"
+    },
+    {
+      "name": "Weight_ratio",
+      "rank": 9,
+      "type": "FLOAT"
+    },
+    {
+      "name": "Suspension_ratio",
+      "rank": 10,
+      "type": "FLOAT"
+    },
+    {
+      "name": "Braking_ratio",
+      "rank": 11,
+      "type": "FLOAT"
+    }
+  ],
+  "version": "1,2",
+  "categoryCount": 2
+}
