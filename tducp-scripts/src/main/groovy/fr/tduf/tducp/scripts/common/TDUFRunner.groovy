@@ -14,10 +14,11 @@ class TDUFRunner {
 
     public TDUFRunner(tdufPath) {
         def tdufToolsPath = tdufPath.resolve("tools")
+        def tdufLibParentPath = tdufToolsPath.resolve("lib")
 
         this.tdufPath = tdufPath
-        this.tdufLibPath = tdufToolsPath.resolve("lib")
-        this.tdufVersion = this.tdufLibPath.resolve("version.info").text
+        this.tdufVersion = tdufLibParentPath.resolve("version.info").text
+        this.tdufLibPath = tdufLibParentPath.resolve("tduf-${tdufVersion}.jar")
         this.tdumtCliExe = tdufToolsPath.resolve("tdumt-cli").resolve("tdumt-cli.exe").toString()
     }
 
@@ -91,7 +92,15 @@ class TDUFRunner {
         return tdufPath
     }
 
+    def getTdufLibPath() {
+        return tdufLibPath
+    }
+
     def getTdufVersion() {
         return tdufVersion
+    }
+
+    def getTdumtCliExe() {
+        return tdumtCliExe
     }
 }
