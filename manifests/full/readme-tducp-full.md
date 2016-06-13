@@ -10,7 +10,7 @@
 
 - TDUMT/TDUPE: use updated references from tools folder: **VehicleSlots.xml** and **carData.mdb** - replace original files
 
-- Make sure to also read **files.md** and **changelog.md** before asking for help
+- Make sure to also read **files.html** and **changelog.html**
 
 - That's all!
 

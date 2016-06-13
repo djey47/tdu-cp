@@ -1,8 +1,8 @@
 # Changelog
 
-- Current version number: **BETA-5**
+- Current version number: **BETA-6**
 
-- Release date: **2016-05-16**
+- Release date: **2016-06-13**
 
 *What's new in this version?*
 
@@ -12,8 +12,10 @@
 - Documentation is provided as HTML files for easier reading
 - New default license plate [FULL PACKAGE ONLY]
 - Each of new TDUCP slots gets 10 paint job options and 10 exteriors
+- Each of new TDUCP slots gets 10 rims
 - Update and Patch HD settings log files are now located to logs subdirectory
-- Patch HD install files can be removed via new script option (7).
+- Patch HD install files can be removed via new script option (7)
+- Misc. stability enhancements.
 
 
       

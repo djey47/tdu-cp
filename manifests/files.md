@@ -328,13 +328,13 @@
 
 - **Euro\Bnk\Vehicules\Rim\Default**
 
-    - *TDUCP_3000_F_01.bnk ... *TDUCP_3400_F_01.bnk* [new slots]
+    - *TDUCP_3000_F_0x.bnk ... *TDUCP_3400_F_0x.bnk* (x ranging from 0 to 9) [new slots]
 
-    - *TDUCP_3000_R_01.bnk ... *TDUCP_3400_R_01.bnk* [new slots]
+    - *TDUCP_3000_R_0x.bnk ... *TDUCP_3400_R_0x.bnk* (x ranging from 0 to 9) [new slots]
     
-    - *TDUCP_4000_F_01.bnk ... *TDUCP_4040_F_01.bnk* [new slots]
+    - *TDUCP_4000_F_0x.bnk ... *TDUCP_4040_F_0x.bnk* (x ranging from 0 to 9) [new slots]
 
-    - *TDUCP_4000_R_01.bnk ... *TDUCP_4040_R_01.bnk* [new slots]
+    - *TDUCP_4000_R_0x.bnk ... *TDUCP_4040_R_0x.bnk* (x ranging from 0 to 9) [new slots]
 
 - **Euro\Bnk\Vehicules\Rim\Ferrari**
 
