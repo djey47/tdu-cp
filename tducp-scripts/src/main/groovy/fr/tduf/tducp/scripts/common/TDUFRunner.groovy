@@ -44,7 +44,7 @@ class TDUFRunner {
     }
 
     public void databaseToolApplyPatches(jsonDatabasePath, patchesPath) {
-        def cmd = "java -cp \"$tdufLibPath\" fr.tduf.cli.tools.DatabaseTool apply-patches -j \"$jsonDatabasePath\" -p \"$patchesPath\""
+        def cmd = "java -cp \"$tdufLibPath\" fr.tduf.cli.tools.DatabaseTool apply-patches -j \"$jsonDatabasePath\" -o \"$jsonDatabasePath\" -p \"$patchesPath\""
         runCommandWithResultHandling(cmd)
     }
 
