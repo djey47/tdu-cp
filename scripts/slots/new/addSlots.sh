@@ -48,15 +48,16 @@ cat newSlotIds.txt | while read id
    echo "CARID=${id}" >> ${PATCH_PROPERTIES_PATH}
 
    # Rims
-   BANKNAME_RIMS_FRONT=TDUCP_${id}_F_01
-   BANKNAME_RIMS_REAR=TDUCP_${id}_R_01
-   echo "RIMREF.1=0000${id}1" >> ${PATCH_PROPERTIES_PATH}
-   echo "RES_RIMNAME.1=${id}562" >> ${PATCH_PROPERTIES_PATH}
-   echo "RIMNAME.1=TDUCP ${id} - rim set 1" >> ${PATCH_PROPERTIES_PATH}
-   echo "RES_BANKNAME.FR.1=${id}1512" >> ${PATCH_PROPERTIES_PATH}
-   echo "BANKNAME.FR.1=${BANKNAME_RIMS_FRONT}" >> ${PATCH_PROPERTIES_PATH}
-   echo "RES_BANKNAME.RR.1=${id}2512" >> ${PATCH_PROPERTIES_PATH}
-   echo "BANKNAME.RR.1=${BANKNAME_RIMS_REAR}" >> ${PATCH_PROPERTIES_PATH}
+   for r in `seq 0 9`;
+    do
+       echo "RIMREF.${r}=0000${id}${r}" >> ${PATCH_PROPERTIES_PATH}
+       echo "RES_RIMNAME.${r}=${id}${r}562" >> ${PATCH_PROPERTIES_PATH}
+       echo "RIMNAME.${r}=TDUCP ${id} - rim set ${r}" >> ${PATCH_PROPERTIES_PATH}
+       echo "RES_BANKNAME.FR.${r}=${id}${r}1512" >> ${PATCH_PROPERTIES_PATH}
+       echo "BANKNAME.FR.${r}=TDUCP_${id}_F_0${r}" >> ${PATCH_PROPERTIES_PATH}
+       echo "RES_BANKNAME.RR.${r}=${id}${r}2512" >> ${PATCH_PROPERTIES_PATH}
+       echo "BANKNAME.RR.${r}=TDUCP_${id}_R_0${r}" >> ${PATCH_PROPERTIES_PATH}
+    done
 
    # Ext Colors
    for c in `seq 0 9`;
