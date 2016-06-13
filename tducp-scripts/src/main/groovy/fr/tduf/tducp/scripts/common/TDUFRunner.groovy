@@ -39,7 +39,8 @@ class TDUFRunner {
 
     public void databaseToolUnpackAll(databasePath, jsonDatabasePath) {
         def cmd = "java -cp \"$tdufLibPath\" fr.tduf.cli.tools.DatabaseTool unpack-all -d \"$databasePath\" -j \"$jsonDatabasePath\""
-        runCommandWithResultHandling(cmd)
+        // TDUF need to be run in own directory to access tdumt cli binary
+        runCommandWithResultHandling(cmd, tdufPath)
     }
 
     public void databaseToolApplyPatches(jsonDatabasePath, patchesPath) {
