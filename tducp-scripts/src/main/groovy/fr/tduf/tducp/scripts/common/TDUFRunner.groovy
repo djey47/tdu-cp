@@ -56,7 +56,7 @@ class TDUFRunner {
 
     public void databaseToolRepackAll(jsonDatabasePath, databasePath) {
         def cmd = "java -cp \"$tdufLibPath\" fr.tduf.cli.tools.DatabaseTool repack-all -j \"$jsonDatabasePath\" -o \"$databasePath\""
-        runCommandWithResultHandling(cmd)
+        runCommandWithResultHandling(cmd, tdufPath)
     }
 
     private static runCommandWithResultHandling(String cmd, Path startPath=null) {
