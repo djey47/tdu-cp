@@ -192,6 +192,16 @@ makeZip() {
 }
 
 htmlDoc() {
-    cd ${TDUCP_PATH}/tducp-scripts && ./gradlew markdownToHtml && cd -
+    echo "*** Converting Markdown files to HTML... ***"
+    pushd ${TDUCP_PATH}/tducp-scripts > /dev/null
+    ./gradlew markdownToHtml
+    popd > /dev/null
     cp ${TDUCP_PATH}/tducp-scripts/build/gen-html/*.html ${BUILD_PATH}
+    echo
+}
+
+cleanBuild() {
+    pushd ${TDUCP_PATH}/tducp-scripts > /dev/null
+    ./gradlew clean
+    popd > /dev/null
 }

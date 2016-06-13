@@ -17,6 +17,7 @@ setEnv
 makeDirectoriesForFull
 
 # Files
+cleanBuild
 newFilesForFull
 replacedFiles
 generateMapping

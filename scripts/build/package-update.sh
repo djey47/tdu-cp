@@ -24,6 +24,7 @@ setEnv
 makeDirectoriesForUpdate
 
 # Files
+cleanBuild
 newFilesForUpdate
 updatedPackedFiles
 
