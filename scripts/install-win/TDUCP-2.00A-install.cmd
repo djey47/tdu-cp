@@ -8,7 +8,7 @@ SET TDUCP_SCRIPTS_LIB=%TDUCP_LIB_DIRECTORY%\tducp-scripts-all-%TDUCP_VERSION%.ja
 
 REM *** Admin mode ***
 CD /D %START_DIR%
-CALL %TDUCP_LIB_DIRECTORY%\tduf\tools\cli\AdminRun.cmd %~0
+CALL %TDUCP_LIB_DIRECTORY%\tduf\tools\cli\AdminRun.cmd %0
 IF "%ERRORLEVEL%" == "1" (EXIT /B)
 REM *** Admin mode ***
 
