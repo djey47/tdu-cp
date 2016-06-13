@@ -12,7 +12,9 @@ Discussion and support are provided via the [TurboDuck Community](http://forum.t
 
 ## Community Patches history
 
-- **2015+**: Work In Progress, 2.00A
+- **March, 2016**: Work In Progress - first BETA for 2.00A
+
+- **November, 2015**: First ALPHA for 2.00A
 
 - **April, 2010**: Released, 1.68
 
@@ -42,15 +44,13 @@ Discussion and support are provided via the [TurboDuck Community](http://forum.t
 
     - **full**: TDUCP full package related info
     
-    - **update**: TDUCP update package related info
-
     - **patch-hd**: HD Patch settings app related info
+    
+    - **update**: TDUCP update package related info
     
     - **changelog.md**: patch contents
 
-    - **files.md**: list of added/updated/removed files
-    
-    - **version.md**: current version number and release date.
+    - **files.md**: list of added/updated/removed files.
   
 - **resources**: all external files required by update
 
@@ -62,7 +62,7 @@ Discussion and support are provided via the [TurboDuck Community](http://forum.t
 
     - **textures**: raw (png) and final (dds, 2db) texture files.
 
-- **scripts**: linux shell scripts to perform recurrent tasks
+- **scripts**: linux shell scripts to perform recurrent jobs
 
     - **setEnv.sh**: utility script to initialize environment (called by others)
     
@@ -80,6 +80,8 @@ Discussion and support are provided via the [TurboDuck Community](http://forum.t
 
     - **tduf**: shortcuts to some TDUF/TDUMTCLI features.
     
+- **tducp-scripts**: platform independent scripts to perform install tasks on target environment (Windows)
+
 - **workspace**: default location to forge patch contents
 
     - **build**: final contents of patch, will be prepared by packaging scripts then 7-zipped
