@@ -6,7 +6,19 @@
 
 - **\\**
 
+    - *changelog.html* [DOC]
+
     - *dinput8.dll* [G27 Fix]
+    
+    - *files.html* [DOC]
+
+    - *readme-patch-hd.html*
+    
+    - *readme-tducp-full.html* or *readme-tducp-full.html* [DOC]
+    
+    - *TDUCP-2.00A-install.cmd* [UPDATE only]
+
+    - *TDUCP-PATCHHD-settings.cmd*    
 
 - **Euro\Bnk\Frontend\HiRes\Gauges**
 
@@ -389,7 +401,19 @@
     - *DAYTONA_955I_F.bnk* [unlocked slots]
 
     - *DAYTONA_955I_R.bnk* [unlocked slots]
+    
+- **TDUCP-2.00A-installer** [UPDATE only]
 
+- **TDUCP-lib**
+
+- **TDUCP-PATCHHD-installer**
+
+- **tools**
+
+    - *carData.mdb* [new slots]
+
+    - *VehicleSlots.xml* [new slots]
+        
 ## UPDATED files
 
 - **Euro\Bnk**
@@ -457,16 +481,6 @@
     
             Library.3dd [hd patch]
 
-- **tools**
-
-    - *carData.mdb* [new slots]
-
-    - *VehicleSlots.xml* [new slots]
-
 ## REMOVED files
 
- - **Euro\Bnk\Database**
-
-   - *carData.mdb* [new slots]
-
-   - *VehicleSlots.xml* [new slots]
+- None.

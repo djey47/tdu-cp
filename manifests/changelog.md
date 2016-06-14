@@ -1,27 +1,21 @@
 # Changelog
 
-- Current version number: **BETA-6**
+- Current version number: **BETA-7**
 
-- Release date: **2016-06-13**
+- Release date: **2016-??-??**
 
 *What's new in this version?*
 
 
 ## Features
 
-- Documentation is provided as HTML files for easier reading
-- New default license plate [FULL PACKAGE ONLY]
-- Each of new TDUCP slots gets 10 paint job options and 10 exteriors
-- Each of new TDUCP slots gets 10 rims
-- Update and Patch HD settings log files are now located to logs subdirectory
-- Patch HD install files can be removed via new script option (7)
-- Misc. stability enhancements.
+- 
 
 
       
 ## Bugfixes
 
-- Update installer should now be comfortable with some extra TDU locations.
+- 
 
 
 
@@ -35,10 +29,12 @@
 
 ### Features
 
+- Documentation is provided as HTML files for easier reading
 - Now comes under 7Zip format, making archives even smaller!
 - Enhance install script with logging [PATCH HD / UPDATE PACKAGE ONLY]
 - Includes Community Patch 1.68b cameras
 - Include Patch HD customization (OFF, SD ... HDU)
+- Patch HD install files can be removed via new script option (7)
 - Offline challengers (bots) driving unlocked slots were removed.
 - Includes official MagicMap
 - Maximize number of vehicles on every car dealer
@@ -79,12 +75,14 @@
     - Chevrolet Cobalt SS
     - Chevrolet Corvette'63
     - Triumph 955I Daytona
-
 - Brings 440 *brand new* slots:
 ( can be used with any mod, you just have to rename your files to TDUCP_3000.bnk or TDUCP_4000.bnk ... see **files.md** for details )
     - 300000000 to 340000000 => TDUCP Model 3000 to 3400 (Cars)
     - 400000000 to 402000000 => TDUCP Model 4000 to 4040 (Bikes)
 ( you have to set them manually to dealers, using tools ).   
+- Each of new TDUCP slots gets 10 paint job options and 10 interiors
+- Each of new TDUCP slots gets 10 rims
+- New default license plate [FULL PACKAGE ONLY]
 
 
 
@@ -114,4 +112,5 @@
 - Fixes conflict in HUD file reference for Unlocked Mazda RX8 Slot
 - Fix update would replace custom physics on TDUCP vehicle slots
 - Offline races sometimes frozen at starting grid, waiting for challengers
-- Removes unlocked slots from various dealers and V-rent to free up space [FULL PACKAGE ONLY].
+- Removes unlocked slots from various dealers and V-rent to free up space [FULL PACKAGE ONLY]
+- Update installer should now be comfortable with some extra TDU locations.
