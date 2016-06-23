@@ -10,6 +10,8 @@
 
 - From Windows explorer, go TDU install location and run **TDUCP-2.00A-install.cmd** script
 
+- Do you experience troubles? try and run **TDUCP-2.00A-install-noadmin.cmd** script, then
+
 - Install results will be stored in **TDUCP-install.log** file, check **logs** subdirectory
 
 - TDUMT/TDUPE: use updated references from **tools** subdirectory: **VehicleSlots.xml** and **carData.mdb** - replace original files

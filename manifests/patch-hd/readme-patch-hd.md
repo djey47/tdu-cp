@@ -8,6 +8,8 @@
 
 - Follow instructions
 
+- Do you experience troubles? try and run **TDUCP-PATCHHD-settings-noadmin.cmd** script, then
+
 - Install results will be stored in **TDUCP-PATCHHD.log** file, check **logs** subdirectory
 
 - That's all!

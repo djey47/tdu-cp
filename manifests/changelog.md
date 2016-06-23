@@ -9,7 +9,7 @@
 
 ## Features
 
-- 
+- Now provides alternate update/patch HD settings scripts not requiring admin rights.
 
 
       
