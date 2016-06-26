@@ -2,20 +2,21 @@
 
 - Current version number: **BETA-7**
 
-- Release date: **2016-??-??**
+- Release date: **2016-06-??**
 
 *What's new in this version?*
 
 
 ## Features
 
-- Now provides alternate update/patch HD settings scripts not requiring admin rights.
+- Now provides alternate update/patch HD settings scripts not requiring admin rights (TDU must not be installed in a protected location in this case)
+- Limit selectable rims to 3 per vehicle slot (bikes do not allow rim selection anyway). 
 
 
       
 ## Bugfixes
 
-- 
+- Game crash while buying TDUCP slot vehicle (rim selection): please note that Rim dummy files from rank 1 to 3 MUST all be replaced with real files!
 
 
 
