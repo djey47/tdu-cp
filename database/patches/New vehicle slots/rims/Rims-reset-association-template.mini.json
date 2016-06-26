@@ -1,0 +1,39 @@
+{
+  "comment": "Patch template for SLOT #ID#",
+  "changes": [
+    {
+      "type": "DELETE",
+      "topic": "CAR_RIMS",
+      "filter": [
+        {
+          "rank": 1,
+          "value": "{SLOTREF}"
+        }
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "CAR_RIMS",
+      "values": [
+        "{SLOTREF}",
+        "{RIMREF.1}"
+        ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "CAR_RIMS",
+      "values": [
+        "{SLOTREF}",
+        "{RIMREF.2}"
+        ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "CAR_RIMS",
+      "values": [
+        "{SLOTREF}",
+        "{RIMREF.3}"
+        ]
+    }
+  ]
+}
