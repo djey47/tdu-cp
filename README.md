@@ -88,4 +88,4 @@ Discussion and support are provided via the [TurboDuck Community](http://forum.t
 
     - **releases**: location of created 7-zip packages
     
-    - **wip**: intermediate files.
+    - **wip**: genuine, untouched TDU files shall be located around here. See [WIKI](https://github.com/djey47/tdu-cp/wiki/Setting-up-project-workspace) for setting up there.
