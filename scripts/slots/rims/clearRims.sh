@@ -13,7 +13,7 @@ PATCH_PARENT_PATH=/tmp/tducp-slots-rims
 rm -rf ${PATCH_PARENT_PATH}
 mkdir ${PATCH_PARENT_PATH}
 
-cat newSlotIds.txt | while read id
+cat ../new/newSlotIds.txt | while read id
 do
    PATCH_NAME=TDUCP-SLOT_${id}.mini.json
 
