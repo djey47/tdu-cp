@@ -21,9 +21,9 @@ export RELEASE_PATH=${TDUCP_PATH}/workspace/releases
 
 export CURRENT_DB_PATH=${TDUCP_PATH}/database/current
 export DIFF_PATCHES_PATH=${TDUCP_PATH}/database/patches/0-ALL-FullUpdate
-export GENERATED_DB_PATH=${TDUCP_PATH}/workspace/wip/private/database-generated
+export GENERATED_DB_PATH=${TDUCP_PATH}/workspace/wip/database-generated
 
-export FULL_BANK_PATH=${TDUCP_PATH}/workspace/wip/private/files/Euro/Bnk
+export FULL_BANK_PATH=${TDUCP_PATH}/workspace/wip/files/Euro/Bnk
 
 export BUILD_PATH=${TDUCP_PATH}/workspace/build/private/${BUILD_PATCH_VERSION}
 export BUILD_BANK_PATH=${BUILD_PATH}/Euro/Bnk
