@@ -6,7 +6,7 @@
 
 source ../../setEnv.sh
 
-NEW_SLOTS_PATCHES_PATH=${TDUCP_PATH}/database/patches/New\ vehicle\ slots
+NEW_SLOTS_PATCHES_PATH=${TDUCP_PATH}/database/patches/New\ vehicle\ slots/colors
 CAR_COLORS_TEMPLATE_PATH=${NEW_SLOTS_PATCHES_PATH}/CarColors-clean-template.mini.json
 
 PATCH_PARENT_PATH=/tmp/tducp-slots-colors
