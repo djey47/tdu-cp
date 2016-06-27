@@ -79,7 +79,7 @@
 - Brings 440 *brand new* slots:
 ( can be used with any mod, you just have to rename your files to TDUCP_3000.bnk or TDUCP_4000.bnk ... see **files.md** for details )
     - 300000000 to 340000000 => TDUCP Model 3000 to 3400 (Cars)
-    - 400000000 to 402000000 => TDUCP Model 4000 to 4040 (Bikes)
+    - 400000000 to 404000000 => TDUCP Model 4000 to 4040 (Bikes)
 ( you have to set them manually to dealers, using tools ).   
 - Each of new TDUCP slots gets 10 paint job options and 10 interiors
 - Each of new TDUCP slots gets 10 rims
