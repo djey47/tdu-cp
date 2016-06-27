@@ -35,6 +35,8 @@ println()
 
 println(".Patching game files, please wait...")
 
+println()
+
 def selectedModePath = installerFilesPath.resolve(selectedMode)
 
 def libPackedPath = "D:\\Eden-Prog\\Games\\TestDrive\\Resources\\4Build\\PC\\EURO\\Level\\Hawai\\Common\\Library\\.3DD\\Library"
@@ -44,9 +46,13 @@ println("*1-Patch HD Level Data HI*")
 def hiBankPath = banksPath.resolve("Level").resolve("Hawai").resolve("CommonWorld.bnk")
 runner.bankReplace(hiBankPath, libPackedPath, libFilePath)
 
+println()
+
 println("*2-Patch HD Level Data LO*")
 def loBankPath = banksPath.resolve("Level").resolve("Hawai").resolve("CommonWorldDiv2.bnk")
 runner.bankReplace(loBankPath, libPackedPath, libFilePath)
+
+println()
 
 println("*3-Patch HD FX.ini*")
 def sourcePath = selectedModePath.resolve("FX.ini")

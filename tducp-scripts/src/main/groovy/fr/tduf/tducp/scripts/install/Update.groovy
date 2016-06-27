@@ -20,6 +20,8 @@ println()
 
 println(".Patching game files, please wait...")
 
+println()
+
 def logoPackedPath = "D:\\Eden-Prog\\Games\\TestDrive\\Resources\\4Build\\PC\\EURO\\FrontEnd\\LOG_IN\\.2db\\fla_0013"
 
 println("*1-Menu HI*")
@@ -27,15 +29,21 @@ def hiBankPath = banksPath.resolve("FrontEnd").resolve("HiRes").resolve("LOG_IN.
 def hiLogoFilePath = installerFilesPatchesPath.resolve("textures-high").resolve("fla_0013.2db")
 runner.bankReplace(hiBankPath, logoPackedPath, hiLogoFilePath)
 
+println()
+
 println("*2-Menu LO*")
 def lowBankPath = banksPath.resolve("FrontEnd").resolve("LowRes").resolve("LOG_IN.bnk")
 def lowLogoFilePath = installerFilesPatchesPath.resolve("textures-low").resolve("fla_0013.2db")
 runner.bankReplace(lowBankPath, logoPackedPath, lowLogoFilePath)
 
+println()
+
 println("*3-Brand logos*")
 def logoBankPath = banksPath.resolve("FrontEnd").resolve("AllRes").resolve("LogoTexturePage.bnk")
 def logoBatchFilePath = installerFilesPatchesPath.resolve("banksReplace_LOGO_TEX.json")
 runner.bankBatchReplace(logoBankPath, logoBatchFilePath, installerFilesPatchesPath)
+
+println()
 
 def libraryPackedPath = "D:\\Eden-Prog\\Games\\TestDrive\\Resources\\4Build\\PC\\EURO\\Level\\Hawai\\Common\\Library\\.3DD\\Library"
 def libFilePath = installerFilesPatchesPath.resolve("Library.3DD")
@@ -43,6 +51,8 @@ def libFilePath = installerFilesPatchesPath.resolve("Library.3DD")
 println("*4-Patch HD Level Data HI*")
 def hiCommonBankPath = banksPath.resolve("Level").resolve("Hawai").resolve("CommonWorld.bnk")
 runner.bankReplace(hiCommonBankPath, libraryPackedPath, libFilePath)
+
+println()
 
 println("*5-Patch HD Level Data LO*")
 def lowCommonBankPath = banksPath.resolve("Level").resolve("Hawai").resolve("CommonWorldDiv2.bnk")
