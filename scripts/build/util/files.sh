@@ -107,7 +107,7 @@ newFilesForFull() {
 
     # Readme
     echo "*** Readme... ***"
-    cp ${TDUCP_PATH}/manifests/full/readme-tducp-full.md ${MARKDOWN_SRC_PATH}
+    cp ${TDUCP_PATH}/manifests/full/*.md ${MARKDOWN_SRC_PATH}
     echo
 }
 
@@ -193,7 +193,6 @@ makeZip() {
 
 htmlDoc() {
     echo "*** Converting Markdown files to HTML... ***"
-    rm -rf ${TDUCP_PATH}/tducp-scripts/build/gen-html
     pushd ${TDUCP_PATH}/tducp-scripts > /dev/null
     ./gradlew markdownToHtml
     popd > /dev/null
@@ -202,6 +201,10 @@ htmlDoc() {
 }
 
 cleanBuild() {
+    echo "*** Cleaning build... ***"
+    rm ${MARKDOWN_SRC_PATH}/*.md
+    rm -rf ${TDUCP_PATH}/tducp-scripts/build/gen-html
+
     pushd ${TDUCP_PATH}/tducp-scripts > /dev/null
     ./gradlew clean
     popd > /dev/null
