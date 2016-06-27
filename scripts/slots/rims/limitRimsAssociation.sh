@@ -2,7 +2,7 @@
 #set -x
 
 # To be launched once to fix database BEFORE generating new slots
-# Keep only 3 existing rims associations, do not delete rims themselves
+# Keep only 1 existing rims association, do not delete rims themselves
 
 source ../../setEnv.sh
 
@@ -25,7 +25,7 @@ do
 
    echo "SLOTREF=${id}00000" >> ${PATCH_PROPERTIES_PATH}
 
-   for r in `seq 1 3`;
+   for r in `seq 1 1`;
     do
        echo "RIMREF.${r}=0000${id}${r}" >> ${PATCH_PROPERTIES_PATH}
     done
