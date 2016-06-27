@@ -14,11 +14,15 @@
 
     - *readme-patch-hd.html*
     
-    - *readme-tducp-full.html* or *readme-tducp-full.html* [DOC]
+    - *readme-tducp-full.html* or *readme-tducp-update.html* [DOC]
     
     - *TDUCP-2.00A-install.cmd* [UPDATE only]
 
+    - *TDUCP-2.00A-install-noadmin.cmd* [UPDATE only]
+
     - *TDUCP-PATCHHD-settings.cmd*    
+
+    - *TDUCP-PATCHHD-settings-noadmin.cmd*    
 
 - **Euro\Bnk\Frontend\HiRes\Gauges**
 
