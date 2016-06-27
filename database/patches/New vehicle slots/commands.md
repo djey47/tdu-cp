@@ -5,7 +5,8 @@
 Supported for now:
 
 - Default BRAND: Generic Car (CITR)
-- 10 rim sets, different rims front and rear
+- 10 rim sets, different rims front and rear.
+- 1 rim set enabled per vehicle
 - 10 exterior color sets
 - 10 interior schemes (no color)
 - No localization (same values for all languages)

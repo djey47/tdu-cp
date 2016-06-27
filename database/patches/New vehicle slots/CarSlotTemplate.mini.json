@@ -476,23 +476,7 @@
         "{SLOTREF}",
         "{RIMREF.1}"
       ]
-    },
-    {
-      "type": "UPDATE",
-      "topic": "CAR_RIMS",
-      "values": [
-        "{SLOTREF}",
-        "{RIMREF.2}"
-      ]
-    },
-    {
-      "type": "UPDATE",
-      "topic": "CAR_RIMS",
-      "values": [
-        "{SLOTREF}",
-        "{RIMREF.3}"
-      ]
-    },
+    }
     {
       "type": "UPDATE",
       "topic": "INTERIOR",
