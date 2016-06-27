@@ -46,7 +46,7 @@
 - Adds new bots driving megapack vehicles
 - Adds 3 new brands: Hennessey Performance, Radical, Rossion
 - Gives bike-clothes for cars, car-clothes for bikes
-- Unlocks 29 car slots:
+- Unlocks 29 vehicle slots (28 cars, 1 bike):
     - Aston Martin DB AR1 Zagato
     - Aston Martin DB7 Volante
     - Audi A3 V6 'N'
