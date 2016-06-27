@@ -13,8 +13,3 @@ Diff for PNJ topic is not included:
 
     cd scripts/database
     ./updateDiff.sh
-
-## Perform full database update to current
-
-    cd scripts/database
-    ./patchDiff.sh
