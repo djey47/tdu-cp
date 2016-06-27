@@ -46,4 +46,8 @@
 
 ## Websites
 
+- **[TDUCP Project](https://github.com/djey47/tdu-cp)**
+
+- **[TDUCP Discussion Thread @Turboduck](http://forum.turboduck.net/threads/33006-beta-6-djey-tdu-community-patch-200a)**
+
 - **[License Plate Maker](http://acme.com/licensemaker/licensemaker.cgi?state=Hawaii&text=2.00A&plate=1991&r=1461579615)**
