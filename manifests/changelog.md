@@ -1,23 +1,19 @@
 # Changelog
 
-- Current version number: **BETA-7**
+- Current version number: **RELEASE**
 
-- Release date: **2016-06-27**
+- Release date: **2016-07-??**
 
 *What's new in this version?*
 
 
 ## Features
 
-- Now provides alternate update/patch HD settings scripts, not requiring admin rights (TDU must not be installed in a protected location in this case)
-- Limit selectable rims to 1 per vehicle slot (bikes do not allow rim selection anyway). Check [TDUCP's WIKI]() to learn how to extends rim options.
 
 
       
 ## Bugfixes
 
-- Game crash while buying TDUCP slot vehicle (rim selection)
-- Installer crash when directories contain whitespaces in their name.
 
 
 
@@ -37,6 +33,7 @@
 - Includes Community Patch 1.68b cameras
 - Include Patch HD customization (OFF, SD ... HDU)
 - Patch HD install files can be removed via new script option (7)
+- Provides alternate update/patch HD settings scripts, not requiring admin rights (TDU must not be installed in a protected location in this case)
 - Offline challengers (bots) driving unlocked slots were removed.
 - Includes official MagicMap
 - Maximize number of vehicles on every car dealer
@@ -84,6 +81,7 @@
 ( you have to set them manually to dealers, using tools ).   
 - Each of new TDUCP slots gets 10 paint job options and 10 interiors
 - Each of new TDUCP slots gets 10 rims
+- Limit selectable rims to 1 per vehicle slot (bikes do not allow rim selection anyway). Check [TDUCP's WIKI](https://github.com/djey47/tdu-cp/wiki/TDUF-Rims-Handling) to learn how to extend rim options.
 - New default license plate [FULL PACKAGE ONLY]
 
 
