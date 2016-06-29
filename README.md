@@ -64,6 +64,12 @@ Discussion and support are provided via the [TurboDuck Community](http://forum.t
     
 - **tducp-scripts** 
 
+    - **src/main/cmd**: CMD scripts for Windows
+    
+        - **patchhd-settings**: allow to customize level of detail for Patch HD feature
+        
+        - **tducp-update**: update TDU install with TDUCP contents
+                            
     - **src/main/groovy**: platform independent scripts to perform install tasks on target environment (Windows) 
 
     - **src/main/shell**: linux scripts to automatize most of TDUCP developement tasks 
@@ -73,8 +79,6 @@ Discussion and support are provided via the [TurboDuck Community](http://forum.t
         - **build**: support scripts for packaging or performing SCM release
     
         - **database**: location of db-specific scripts
-    
-        - **install-win**: CMD scripts for Windows
     
         - **mapping**: scripts to operate on mapping system
     
