@@ -6,12 +6,12 @@ set -e
 # Prepares packaging of Community Patch: UPDATE VERSION
 
 source ../setEnv.sh
-source ./util/init.sh
-source ./util/files.sh
-source ./util/database.sh
-source ./util/tduf.sh
-source ./util/win.sh
-source ./util/patchhd.sh
+source util/init.sh
+source util/files.sh
+source util/database.sh
+source util/tduf.sh
+source util/win.sh
+source util/patchhd.sh
 
 export INSTALLER_PATH=${BUILD_PATH}/TDUCP-2.00A-installer
 export INSTALLER_DB_PATH=${INSTALLER_PATH}/database

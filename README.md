@@ -61,26 +61,28 @@ Discussion and support are provided via the [TurboDuck Community](http://forum.t
     - **system**: to perform game-wide changes (graphics...)
 
     - **textures**: raw (png) and final (dds, 2db) texture files.
-
-- **scripts**: linux shell scripts to perform recurrent jobs
-
-    - **setEnv.sh**: utility script to initialize environment (called by others)
     
-    - **build**: support scripts for packaging or SCM release
+- **tducp-scripts** 
 
-    - **database**: location of db-specific scripts
+    - **src/main/groovy**: platform independent scripts to perform install tasks on target environment (Windows) 
 
-    - **install-win**: CMD scripts for Windows
+    - **src/main/shell**: linux scripts to automatize most of TDUCP developement tasks 
 
-    - **mapping**: scripts to operate on mapping system
-
-    - **patch-hd**: HD patch related, CMD scripts for Windows
+        - **setEnv.sh**: utility script to initialize environment (called by others)
+        
+        - **build**: support scripts for packaging or performing SCM release
     
-    - **slots**: scripts to create new slots or enhance existing ones
-
-    - **tduf**: shortcuts to some TDUF/TDUMTCLI features.
+        - **database**: location of db-specific scripts
     
-- **tducp-scripts**: platform independent scripts to perform install tasks on target environment (Windows)
+        - **install-win**: CMD scripts for Windows
+    
+        - **mapping**: scripts to operate on mapping system
+    
+        - **patch-hd**: HD patch related, CMD scripts for Windows
+        
+        - **slots**: scripts to create new slots or enhance existing ones
+    
+        - **tduf**: shortcuts to some TDUF/TDUMTCLI features.
 
 - **workspace**: default location to forge patch contents
 

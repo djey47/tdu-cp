@@ -5,12 +5,12 @@ set -e
 # Prepares packaging of Community Patch: FULL VERSION
 
 source ../setEnv.sh
-source ./util/init.sh
-source ./util/files.sh
-source ./util/database.sh
-source ./util/tduf.sh
-source ./util/win.sh
-source ./util/patchhd.sh
+source util/init.sh
+source util/files.sh
+source util/database.sh
+source util/tduf.sh
+source util/win.sh
+source util/patchhd.sh
 
 # Init
 setEnv
