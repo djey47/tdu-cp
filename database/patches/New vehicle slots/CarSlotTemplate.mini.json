@@ -476,7 +476,7 @@
         "{SLOTREF}",
         "{RIMREF.1}"
       ]
-    }
+    },
     {
       "type": "UPDATE",
       "topic": "INTERIOR",
