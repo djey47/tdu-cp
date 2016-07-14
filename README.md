@@ -1,4 +1,4 @@
-![License Splash](https://github.com/djey47/tdu-cp/raw/master/license_splash.png)
+![TDU Splash](https://github.com/djey47/tdu-cp/raw/master/tdu_splash.png)![License Splash](https://github.com/djey47/tdu-cp/raw/master/license_splash.png)
 
 # tdu-cp
 Test Drive Unlimited Community Patches : hosts documentation, configuration and database changes of unofficial updates of the game.
