@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #set -x
 
-# Extracts database bank files from build into /tmp/tdu-cp/dbcheck directory.
+# Extracts database bank files from build into /tmp/tdu-cp/dbcheck directory and prcoesses eXtensive check.
 
 source ../setEnv.sh
 
