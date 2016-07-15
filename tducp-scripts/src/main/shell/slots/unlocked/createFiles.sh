@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #set -x
 
-# Create required files for slots.
+# Create required files for unlocked slots.
 
 source ../../setEnv.sh
 
