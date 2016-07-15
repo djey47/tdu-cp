@@ -60,9 +60,11 @@ Discussion and support are provided via the [TurboDuck Community](http://forum.t
 
     - **system**: to perform game-wide changes (graphics...)
 
-    - **textures**: raw (png) and final (dds, 2db) texture files.
+    - **textures**: raw (png) and final (dds, 2db) texture files
+
+    - **wiki**: attachments for Github Wiki articles.
     
-- **tducp-scripts** 
+- **tducp-scripts**: automatic processing for various systems 
 
     - **src/main/cmd**: CMD scripts for Windows
     
@@ -70,11 +72,11 @@ Discussion and support are provided via the [TurboDuck Community](http://forum.t
         
         - **tducp-update**: update TDU install with TDUCP contents
                             
-    - **src/main/groovy**: platform independent scripts to perform install tasks on target environment (Windows) 
+    - **src/main/groovy**: platform independent scripts to perform install tasks on target environment 
 
-    - **src/main/shell**: linux scripts to automatize most of TDUCP developement tasks 
+    - **src/main/shell**: bash scripts to automatize most of TDUCP developement tasks (Linux) 
 
-        - **setEnv.sh**: utility script to initialize environment (called by others)
+        - **setEnv.sh**: to initialize environment (called by others)
         
         - **build**: support scripts for packaging or performing SCM release
     
@@ -82,15 +84,13 @@ Discussion and support are provided via the [TurboDuck Community](http://forum.t
     
         - **mapping**: scripts to operate on mapping system
     
-        - **patch-hd**: HD patch related, CMD scripts for Windows
-        
         - **slots**: scripts to create new slots or enhance existing ones
     
         - **tduf**: shortcuts to some TDUF/TDUMTCLI features.
 
 - **workspace**: default location to forge patch contents
 
-    - **build**: final contents of patch, will be prepared by packaging scripts then 7-zipped
+    - **build**: final contents of patch, will be prepared by packaging scripts then 7-zipped in below directory
 
     - **releases**: location of created 7-zip packages
     
