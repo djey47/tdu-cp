@@ -70,5 +70,5 @@ ECHO .Now cleaning up, please wait...
 ECHO.
 RMDIR %TDUCP_DIRECTORY% /S /Q
 DEL readme-patch-hd.html
-DEL TDUCP-PATCHHD-settings.cmd
+DEL TDUCP-PATCHHD-settings*.cmd
 REM Should be the last command line of the file!
