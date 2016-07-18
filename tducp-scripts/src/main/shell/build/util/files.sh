@@ -175,8 +175,8 @@ slotFiles() {
 
     # Own rims files
     echo "*** Own rims files... ***"
-    cd ../slots/rims
-    ./createFiles.sh
+    cd ../slots/genuine
+    ./createRimFiles.sh
     cd - > /dev/null
     echo
 }
