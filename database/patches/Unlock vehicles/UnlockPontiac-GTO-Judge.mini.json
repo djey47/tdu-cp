@@ -14,6 +14,21 @@
           "value": "105"
         }
       ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "RIMS",
+      "ref": "1175257354",
+      "partialValues": [
+        {
+          "rank": 14,
+          "value": "566858512"
+        },
+        {
+          "rank": 15,
+          "value": "566858512"
+        }
+      ]
     }
   ]
 }
