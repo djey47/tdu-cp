@@ -1,6 +1,20 @@
 {
   "changes": [
     {
+      "type": "DELETE",
+      "topic": "CAR_RIMS",
+      "filter": [
+        {
+          "rank": 1,
+          "value": "1237390819"
+        },
+        {
+          "rank": 2,
+          "value": "1209559930"
+        }
+      ]
+    },
+    {
       "type": "UPDATE",
       "topic": "CAR_PHYSICS_DATA",
       "ref": "1237390819",
