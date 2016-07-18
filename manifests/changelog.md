@@ -14,7 +14,8 @@
       
 ## Bugfixes
 
-
+- Nissan 350Z Roadster (unlocked slot) does not get 350Z Coupe rims anymore
+- Pontiac GTO JUDGE rims (unlocked slot) now use proper file name instead of GTO Coupe one.
 
 
 ## Known Bugs
