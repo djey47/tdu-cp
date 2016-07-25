@@ -12,7 +12,9 @@ Discussion and support are provided via the [TurboDuck Community](http://forum.t
 
 ## Community Patches history
 
-- **March, 2016**: Work In Progress - first BETA for 2.00A
+- **August, 2016**: 2.00A Release
+
+- **March, 2016**: First BETA for 2.00A
 
 - **November, 2015**: First ALPHA for 2.00A
 
