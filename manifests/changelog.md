@@ -1,117 +1,95 @@
 # Changelog
 
-- Current version number: **RELEASE**
+- Current version number: **2.00A FINAL**
 
-- Release date: **2016-07-??**
+- Release date: **2016-08-??**
 
 *What's new in this version?*
 
-
-## Features
-
-
-
-      
 ## Bugfixes
-
 - Nissan 350Z Roadster (unlocked slot) does not get 350Z Coupe rims anymore [FULL PACKAGE ONLY]
 - Pontiac GTO JUDGE rims (unlocked slot) now use proper file name instead of GTO Coupe one.
 
 
 ## Known Bugs
-
 - A few, because it's just TDU :p 
 
 
+## TDUCP CONTENTS
 
-## Previous contents
+### FEATURES
 
-### Features
+#### GAME ENGINE 
+- Adds new bots driving megapack vehicles
+- Gives avatar bike-clothes for cars, car-clothes for bikes
 
-- Documentation is provided as HTML files for easier reading
-- Now comes under 7Zip format, making archives even smaller!
-- Enhance install script with logging [PATCH HD / UPDATE PACKAGE ONLY]
-- Includes Community Patch 1.68b cameras
-- Include Patch HD customization (OFF, SD ... HDU)
+
+#### PATCH HD
+- Enables PATCH HD feature in SD mode
+- Includes customization by CMD script (OFF, SD ... HDU)
 - Patch HD install files can be removed via new script option (7)
-- Provides alternate update/patch HD settings scripts, not requiring admin rights (TDU must not be installed in a protected location in this case)
-- Offline challengers (bots) driving unlocked slots were removed.
-- Includes official MagicMap
-- Maximize number of vehicles on every car dealer
+
+
+#### VEHICLE TUNING
 - Unlocks tuning kits for Ferrari F40
 - Special tuned cars available in dealers (Alfa GT SP, ...) [FULL PACKAGE ONLY]
-- Provides new rim names for many mods (Bugatti Atlantic, Facel Vega...)
-- Unlocks Car Paint Deluxe for all cars
-- Adds new bots driving megapack vehicles
-- Adds 3 new brands: Hennessey Performance, Radical, Rossion
-- Gives bike-clothes for cars, car-clothes for bikes
-- Unlocks 29 vehicle slots (28 cars, 1 bike):
-    - Aston Martin DB AR1 Zagato
-    - Aston Martin DB7 Volante
-    - Audi A3 V6 'N'
-    - Audi A4 DTM
-    - Brabus S55
-    - Brabus S61
-    - Cadillac Sixteen
-    - Mazda MX5
-    - Chevrolet Corvette C6 'Show N Go'
-    - Chrysler Crossfire Roadster'
-    - Dino 246 GTS
-    - Ferrari 308 GTB
-    - Ferrari F40'
-    - Hennessey Viper SRT10 Venom 650R
-    - Hennessey Viper SRT10 Venom 800 TwinTurbo
-    - Hennessey Viper SRT10 Venom 1000 TwinTurbo 
-    - AC 427
-    - Jaguar XKR Convertible
-    - Lamborghini Diablo GT 1999
-    - Lexus IS-F
-    - Maserati GranTurismo coupe
-    - Mazda RX8 Coupe
-    - Nissan 350Z Roadster
-    - Pontiac GTO 'The Judge'
-    - Pontiac Solstice
-    - Wiesmann GT
-    - Chevrolet Cobalt SS
-    - Chevrolet Corvette'63
-    - Triumph 955I Daytona
-- Brings 440 *brand new* slots:
-( can be used with any mod, you just have to rename your files to TDUCP_3000.bnk or TDUCP_4000.bnk ... see **files.md** for details )
-    - 300000000 to 340000000 => TDUCP Model 3000 to 3400 (Cars)
-    - 400000000 to 404000000 => TDUCP Model 4000 to 4040 (Bikes)
-( you have to set them manually to dealers, using tools ).   
-- Each of new TDUCP slots gets 10 paint job options and 10 interiors
-- Each of new TDUCP slots gets 10 rims
-- Limit selectable rims to 1 per vehicle slot (bikes do not allow rim selection anyway). Check [TDUCP's WIKI](https://github.com/djey47/tdu-cp/wiki/TDUF-Rims-Handling) to learn how to extend rim options.
+
+
+#### VEHICLE CUSTOMIZATION
 - New default license plate [FULL PACKAGE ONLY]
-
-
-
-### Bugfixes
-
+- Unlocks Car Paint Deluxe for all cars
 - Propose Nismo rim set for Nissan 350Z RTune and RTune power (required for car dealers)
-- Rim file for Triumph 955i follows same naming rules as other vehicles
-- Give ACE rank at 98% game completion: ignore broken inter-club achievement
-- Clothes For All: fixes some invalid entries due to ALPHA 0
-- Associate dedicated hud file to all 350Z Nismo
-- Brand names: e.g Edonis => B.Engineering ...
-- Name of Infiniti brand now fixed
-- Behaviour and logo of Honda brand now fixed
-- Behaviour of Generic brand now fixed
-- Behaviour of Suzuki brand now fixed
-- Fixes Hennessey brand (Dodge tuning) with Dodge logo and name display properly
+
+
+#### EXTENDED MODDING SUPPORT
+- Adds 3 new brands: Hennessey Performance, Radical, Rossion
+- Maximize number of vehicles on every car dealer
+- Removes unlocked slots from various dealers and V-rent to free up space [FULL PACKAGE ONLY]
+- Provides new rim names for many mods (Bugatti Atlantic, Facel Vega...)
+- Unlocks 29 vehicle slots (28 cars, 1 bike):
+    - Check [TDUCP's WIKI](https://github.com/djey47/tdu-cp/wiki/Vehicle-Slots) to learn how to use unlocked slots    
+- Brings 440 *brand new* slots (400 cars, 40 bikes):
+    - Check [TDUCP's WIKI](https://github.com/djey47/tdu-cp/wiki/Vehicle-Slots) to learn how to use new slots
+- Each of new TDUCP slots gets 10 paint job options and 10 interiors
+- Each of new TDUCP slots gets 10 rims ...
+- ... BUT selectable rims are limited to 1 per slot 
+    - Game does not allow rim selection for bikes, by the way!
+    - Check [TDUCP's WIKI](https://github.com/djey47/tdu-cp/wiki/TDUF-Rims-Handling) to learn how to extend car rim options.
+
+
+#### CAMERAS
+- Includes Community Patch 1.68b cameras
+
+
+#### MAGIC MAP
+- Includes official MagicMap
+- UltimateMap: can be updated to support any new file
+
+
+### BUGFIXES
+
+#### GAME FLAWS
 - G27 support (Force Feedback, RPM LEDs)
+- Give ACE rank at 98% game completion: ignore broken inter-club achievement
+- Proper brand names: e.g Edonis => B.Engineering, Infiniti ...
+
+
+#### GAME RELIABILITY
+- Fixes conflict in HUD file reference for Unlocked Mazda RX8 and Brabus S55 slots
+- Removes some database duplicates
+- Offline races sometimes frozen at starting grid, waiting for challengers
 - Traffic sync issues (introduced by 1.68 Community Patch) 
-- F40 gets 2 identical tuning options in Forza Tuner
+
+
+#### MODDING SUPPORT
+- Behaviour and logo (when possible) of Generic, Hennessey, Honda, Suzuki brands
+- Rim file for Triumph 955i follows same naming rules as other vehicles
+- Associate dedicated hud file to all 350Z Nismo
 - All Saleen Mustang cars get own rim set with proper file name ( **S281_F_01.bnk** to **S281_F_06.bnk** )
 - All Alfa GTs get own rim set with proper file name ( **ARGT02_F_F02.bnk** to **ARGT02_F_F04.bnk** )
 - All Nissan 350Zs get own rim set with proper file name ( **350ZNISMO_F_02.bnk** to **350ZNISMO_F_04.bnk** )
-- Removes some database duplicates
+
+
+#### TOOLS
 - Adds missing rims and huds in TDUPE reference
 - Fixes new slots can't be saved in TDUPE
-- Fixes HUD file reference for Unlocked Brabus S55 Slot
-- Fixes conflict in HUD file reference for Unlocked Mazda RX8 Slot
-- Fix update would replace custom physics on TDUCP vehicle slots
-- Offline races sometimes frozen at starting grid, waiting for challengers
-- Removes unlocked slots from various dealers and V-rent to free up space [FULL PACKAGE ONLY]
-- Update installer should now be comfortable with some extra TDU locations.
