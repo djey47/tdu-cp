@@ -24,8 +24,6 @@
 
 ## How to uninstall
 
-### Entire COMMUNITY PACK
-
 - Restore backup copy of your TDU install.
 
 
