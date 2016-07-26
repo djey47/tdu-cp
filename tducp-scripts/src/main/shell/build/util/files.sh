@@ -201,7 +201,7 @@ htmlDoc() {
 
 cleanBuild() {
     echo "*** Cleaning build... ***"
-    rm ${MARKDOWN_SRC_PATH}/*.md
+    rm ${MARKDOWN_SRC_PATH}/*.md || true
     rm -rf ${TDUCP_PATH}/tducp-scripts/build/gen-html
 
     pushd ${TDUCP_PATH}/tducp-scripts > /dev/null
