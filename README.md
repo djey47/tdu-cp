@@ -56,6 +56,8 @@ Discussion and support are provided via the [TurboDuck Community](http://forum.t
   
 - **resources**: all external files required by update
 
+    - **features**: promo screens to demonstrate game changes
+
     - **ia**: artficial intelligence fixes and overrides
 
     - **physics**: vehicle behaviour and management, tools support
