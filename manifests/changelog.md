@@ -7,8 +7,8 @@
 *What's new in this version?*
 
 ## Bugfixes
-- Brings unmodified 1.68b cameras to fix wrong bike cam settings [FULL PACKAGE ONLY].
-
+- Brings unmodified 1.68b cameras to fix wrong bike cam settings [FULL PACKAGE ONLY]
+- Removes extra SLK55 in MB dealer (Oahu) [FULL PACKAGE ONLY].
 
 ## Known Bugs
 - A few, because it's just TDU :p 
