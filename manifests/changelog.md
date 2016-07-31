@@ -1,14 +1,13 @@
 # Changelog
 
-- Current version number: **2.00A FINAL**
+- Current version number: **2.00A FINAL - release 2**
 
-- Release date: **2016-08-01**
+- Release date: **2016-08-02**
 
 *What's new in this version?*
 
 ## Bugfixes
-- Nissan 350Z Roadster (unlocked slot) does not get 350Z Coupe rims anymore [FULL PACKAGE ONLY]
-- Pontiac GTO JUDGE rims (unlocked slot) now use proper file name instead of GTO Coupe one.
+- Brings unmodified 1.68b cameras to fix wrong bike cam settings [FULL PACKAGE ONLY].
 
 
 ## Known Bugs
