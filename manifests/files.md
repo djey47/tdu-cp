@@ -422,13 +422,13 @@
 
 - **Euro\Bnk**
                         
-    - *Bnk1.map [Magic Map, Extended Map, Unlocked slots, new slots]*
+    - *Bnk1.map* [Magic Map, Extended Map, Unlocked slots, new slots]
 
 - **Euro\Bnk\Database**
                         
-    - *AiConfig.xml [Traffic sync issues Fix]*
+    - *AiConfig.xml* [Traffic sync issues Fix]
 
-    - *Cameras.bin [1.68b cameras]*
+    - *Cameras.bin* [1.68b cameras]
     
     - *DB.bnk*
     
@@ -473,7 +473,7 @@
 
 - **Euro\Bnk\FX**
                         
-    - *FX.ini [hd patch]*
+    - *FX.ini* [hd patch]
 
 - **Euro\Bnk\Level\Hawai**
 
