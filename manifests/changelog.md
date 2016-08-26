@@ -2,13 +2,14 @@
 
 - Current version number: **2.00A FINAL - release 2**
 
-- Release date: **2016-08-02**
+- Release date: **2016-09-??**
 
 *What's new in this version?*
 
 ## Bugfixes
 - Brings unmodified 1.68b cameras to fix wrong bike cam settings [FULL PACKAGE ONLY]
-- Removes extra SLK55 in MB dealer (Oahu) [FULL PACKAGE ONLY].
+- Removes extra SLK55 in MB dealer (Oahu) [FULL PACKAGE ONLY]
+- Fixes strange behaviour on some unlocked slots (AM DBAR1 and DB7 Volante, Maserati GranTurismo)
 
 ## Known Bugs
 - A few, because it's just TDU :p 
