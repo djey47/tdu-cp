@@ -10,6 +10,7 @@
 - Brings unmodified 1.68b cameras to fix wrong bike cam settings [FULL PACKAGE ONLY]
 - Each unlocked slot now gets its own camera (updated TDUPE/TDUMT files included)
 - Removes extra SLK55 in MB dealer (Oahu) [FULL PACKAGE ONLY]
+- Removes extras Golf R32 in VW dealer [FULL PACKAGE ONLY]
 - Fixes strange behaviour on some unlocked slots (AM DBAR1 and DB7 Volante, Maserati GranTurismo)
 
 ## Known Bugs
