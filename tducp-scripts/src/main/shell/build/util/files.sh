@@ -2,8 +2,8 @@
 
 # For full package: to replace existing files in TDU install while extracting ZIP
 replacedFiles() {
-    echo "*** 1.68b's Cameras ***"
-    cp ${TDUCP_PATH}/resources/physics/1.68B-cameras/cameras.bin ${BUILD_DB_PATH}
+    echo "*** Ultimate Cameras ***"
+    cp ${TDUCP_PATH}/resources/physics/cameras/cameras.bin ${BUILD_DB_PATH}
     echo
 
     # Brand logos
