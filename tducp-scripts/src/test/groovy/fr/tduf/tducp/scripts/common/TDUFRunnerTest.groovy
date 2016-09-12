@@ -18,9 +18,9 @@ class TDUFRunnerTest extends GroovyTestCase {
         TDUFRunner actualRunner = new TDUFRunner(tdufPath)
 
         // THEN
-        assert actualRunner.tdufPath.equals(tdufPath)
-        assert actualRunner.tdufVersion.startsWith("1.6.0")
-        assert actualRunner.tdufLibPath.toString().startsWith("${libParentPath}/tduf-1.6.0")
+        assert actualRunner.tdufPath == tdufPath
+        assert actualRunner.tdufVersion == "1.6.0"
+        assert actualRunner.tdufLibPath.toString().startsWith("${libParentPath}/tduf-1.6.0.jar")
         assert actualRunner.tdumtCliExe.compareTo("${tdufPath}/tools/tdumt-cli/tdumt-cli.exe") == 0
     }
 }

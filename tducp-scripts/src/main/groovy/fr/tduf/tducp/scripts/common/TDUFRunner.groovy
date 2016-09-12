@@ -17,7 +17,7 @@ class TDUFRunner {
         def tdufLibParentPath = tdufToolsPath.resolve("lib")
 
         this.tdufPath = tdufPath
-        this.tdufVersion = tdufLibParentPath.resolve("version.info").text
+        this.tdufVersion = tdufLibParentPath.resolve("version.info").text.trim()
         this.tdufLibPath = tdufLibParentPath.resolve("tduf-${tdufVersion}.jar")
         this.tdumtCliExe = tdufToolsPath.resolve("tdumt-cli").resolve("tdumt-cli.exe").toString()
     }
@@ -57,6 +57,11 @@ class TDUFRunner {
     public void databaseToolRepackAll(jsonDatabasePath, databasePath) {
         def cmd = "java -cp \"$tdufLibPath\" fr.tduf.cli.tools.DatabaseTool repack-all -j \"$jsonDatabasePath\" -o \"$databasePath\""
         runCommandWithResultHandling(cmd, tdufPath)
+    }
+
+    public void cameraToolCopySet(camerasPath, sourceId, targetId) {
+        def cmd = "java -cp \"$tdufLibPath\" fr.tduf.cli.tools.CameraTool copy-set -i \"$camerasPath\" -o \"$camerasPath\" -s $sourceId -t $targetId"
+        runCommandWithResultHandling(cmd)
     }
 
     private static runCommandWithResultHandling(String cmd, Path startPath=null) {
