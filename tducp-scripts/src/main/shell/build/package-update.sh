@@ -31,6 +31,9 @@ updatedPackedFiles
 # Database
 diffPatches
 
+# Cameras
+cameraInstructions
+
 # TDUF
 deployTDUF
 

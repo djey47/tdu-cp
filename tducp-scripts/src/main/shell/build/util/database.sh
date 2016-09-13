@@ -15,3 +15,11 @@ generateAndCheckDatabase() {
     cd - > /dev/null
     echo
 }
+
+cameraInstructions() {
+    echo "*** Camera extension instructions... ***"
+    SOURCE_PATH=${DEV_SCRIPTS_PATH}/database/cameras.txt
+    TARGET_PATH=${INSTALLER_DB_PATH}/cameras.txt
+    cp ${SOURCE_PATH} ${TARGET_PATH}
+    echo
+}
