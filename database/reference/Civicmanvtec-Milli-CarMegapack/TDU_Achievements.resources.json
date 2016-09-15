@@ -1,0 +1,6143 @@
+{
+  "version" : "1,2",
+  "categoryCount" : 6,
+  "entries" : [ {
+    "items" : [ {
+      "value" : "??",
+      "locale" : "us"
+    }, {
+      "value" : "??",
+      "locale" : "ja"
+    }, {
+      "value" : "??",
+      "locale" : "sp"
+    }, {
+      "value" : "??",
+      "locale" : "ko"
+    }, {
+      "value" : "??",
+      "locale" : "ge"
+    }, {
+      "value" : "??",
+      "locale" : "ch"
+    }, {
+      "value" : "??",
+      "locale" : "it"
+    }, {
+      "value" : "??",
+      "locale" : "fr"
+    } ],
+    "ref" : "53410835"
+  }, {
+    "items" : [ {
+      "value" : "Good driving! You get §NB_PTS§ points.",
+      "locale" : "us"
+    } ],
+    "ref" : "70410835"
+  }, {
+    "items" : [ {
+      "value" : "Bravo! You've won §NB_REQ§ GOLD cups out of §NB_TOTAL§.",
+      "locale" : "us"
+    }, {
+      "value" : "Bravo! You've won §NB_REQ§ GOLD cups out of §NB_TOTAL§.",
+      "locale" : "ja"
+    }, {
+      "value" : "Bravo! You've won §NB_REQ§ GOLD cups out of §NB_TOTAL§.",
+      "locale" : "sp"
+    }, {
+      "value" : "Bravo! You've won §NB_REQ§ GOLD cups out of §NB_TOTAL§.",
+      "locale" : "ko"
+    }, {
+      "value" : "Bravo! You've won §NB_REQ§ GOLD cups out of §NB_TOTAL§.",
+      "locale" : "ge"
+    }, {
+      "value" : "Bravo! You've won §NB_REQ§ GOLD cups out of §NB_TOTAL§.",
+      "locale" : "ch"
+    }, {
+      "value" : "Bravo! You've won §NB_REQ§ GOLD cups out of §NB_TOTAL§.",
+      "locale" : "it"
+    }, {
+      "value" : "Bravo! You've won §NB_REQ§ GOLD cups out of §NB_TOTAL§.",
+      "locale" : "fr"
+    } ],
+    "ref" : "54410835"
+  }, {
+    "items" : [ {
+      "value" : "Congratulations! You've won §NB_REQ§ GOLD cups out of §NB_TOTAL§.",
+      "locale" : "us"
+    }, {
+      "value" : "Congratulations! You've won §NB_REQ§ GOLD cups out of §NB_TOTAL§.",
+      "locale" : "ja"
+    }, {
+      "value" : "Congratulations! You've won §NB_REQ§ GOLD cups out of §NB_TOTAL§.",
+      "locale" : "sp"
+    }, {
+      "value" : "Congratulations! You've won §NB_REQ§ GOLD cups out of §NB_TOTAL§.",
+      "locale" : "ko"
+    }, {
+      "value" : "Congratulations! You've won §NB_REQ§ GOLD cups out of §NB_TOTAL§.",
+      "locale" : "ge"
+    }, {
+      "value" : "Congratulations! You've won §NB_REQ§ GOLD cups out of §NB_TOTAL§.",
+      "locale" : "ch"
+    }, {
+      "value" : "Congratulations! You've won §NB_REQ§ GOLD cups out of §NB_TOTAL§.",
+      "locale" : "it"
+    }, {
+      "value" : "Congratulations! You've won §NB_REQ§ GOLD cups out of §NB_TOTAL§.",
+      "locale" : "fr"
+    } ],
+    "ref" : "55410835"
+  }, {
+    "items" : [ {
+      "value" : "Amazing! You've won §NB_REQ§ GOLD cups out of §NB_TOTAL§.",
+      "locale" : "us"
+    }, {
+      "value" : "Amazing! You've won §NB_REQ§ GOLD cups out of §NB_TOTAL§.",
+      "locale" : "ja"
+    }, {
+      "value" : "Amazing! You've won §NB_REQ§ GOLD cups out of §NB_TOTAL§.",
+      "locale" : "sp"
+    }, {
+      "value" : "Amazing! You've won §NB_REQ§ GOLD cups out of §NB_TOTAL§.",
+      "locale" : "ko"
+    }, {
+      "value" : "Amazing! You've won §NB_REQ§ GOLD cups out of §NB_TOTAL§.",
+      "locale" : "ge"
+    }, {
+      "value" : "Amazing! You've won §NB_REQ§ GOLD cups out of §NB_TOTAL§.",
+      "locale" : "ch"
+    }, {
+      "value" : "Amazing! You've won §NB_REQ§ GOLD cups out of §NB_TOTAL§.",
+      "locale" : "it"
+    }, {
+      "value" : "Amazing! You've won §NB_REQ§ GOLD cups out of §NB_TOTAL§.",
+      "locale" : "fr"
+    } ],
+    "ref" : "56410835"
+  }, {
+    "items" : [ {
+      "value" : "Incredible! You have achieved an extraordinary performance by winning ALL the GOLD cups.",
+      "locale" : "us"
+    }, {
+      "value" : "Incredible! You have achieved an extraordinary performance by winning ALL the GOLD cups.",
+      "locale" : "ja"
+    }, {
+      "value" : "Incredible! You have achieved an extraordinary performance by winning ALL the GOLD cups.",
+      "locale" : "sp"
+    }, {
+      "value" : "Incredible! You have achieved an extraordinary performance by winning ALL the GOLD cups.",
+      "locale" : "ko"
+    }, {
+      "value" : "Incredible! You have achieved an extraordinary performance by winning ALL the GOLD cups.",
+      "locale" : "ge"
+    }, {
+      "value" : "Incredible! You have achieved an extraordinary performance by winning ALL the GOLD cups.",
+      "locale" : "ch"
+    }, {
+      "value" : "Incredible! You have achieved an extraordinary performance by winning ALL the GOLD cups.",
+      "locale" : "it"
+    }, {
+      "value" : "Incredible! You have achieved an extraordinary performance by winning ALL the GOLD cups.",
+      "locale" : "fr"
+    } ],
+    "ref" : "57410835"
+  }, {
+    "items" : [ {
+      "value" : "Your perseverance has paid off! Your efforts have allowed you to finish all the Single Player TIME challenges. ",
+      "locale" : "us"
+    }, {
+      "value" : "Your perseverance has paid off! Your efforts have allowed you to finish all the Single Player TIME challenges. ",
+      "locale" : "ja"
+    }, {
+      "value" : "Your perseverance has paid off! Your efforts have allowed you to finish all the Single Player TIME challenges. ",
+      "locale" : "sp"
+    }, {
+      "value" : "Your perseverance has paid off! Your efforts have allowed you to finish all the Single Player TIME challenges. ",
+      "locale" : "ko"
+    }, {
+      "value" : "Your perseverance has paid off! Your efforts have allowed you to finish all the Single Player TIME challenges. ",
+      "locale" : "ge"
+    }, {
+      "value" : "Your perseverance has paid off! Your efforts have allowed you to finish all the Single Player TIME challenges. ",
+      "locale" : "ch"
+    }, {
+      "value" : "Your perseverance has paid off! Your efforts have allowed you to finish all the Single Player TIME challenges. ",
+      "locale" : "it"
+    }, {
+      "value" : "Your perseverance has paid off! Your efforts have allowed you to finish all the Single Player TIME challenges. ",
+      "locale" : "fr"
+    } ],
+    "ref" : "58410835"
+  }, {
+    "items" : [ {
+      "value" : "You really went for the Single Player SPEED challenges. Good work! You won all the GOLD cups.",
+      "locale" : "us"
+    }, {
+      "value" : "You really went for the Single Player SPEED challenges. Good work! You won all the GOLD cups.",
+      "locale" : "ja"
+    }, {
+      "value" : "You really went for the Single Player SPEED challenges. Good work! You won all the GOLD cups.",
+      "locale" : "sp"
+    }, {
+      "value" : "You really went for the Single Player SPEED challenges. Good work! You won all the GOLD cups.",
+      "locale" : "ko"
+    }, {
+      "value" : "You really went for the Single Player SPEED challenges. Good work! You won all the GOLD cups.",
+      "locale" : "ge"
+    }, {
+      "value" : "You really went for the Single Player SPEED challenges. Good work! You won all the GOLD cups.",
+      "locale" : "ch"
+    }, {
+      "value" : "You really went for the Single Player SPEED challenges. Good work! You won all the GOLD cups.",
+      "locale" : "it"
+    }, {
+      "value" : "You really went for the Single Player SPEED challenges. Good work! You won all the GOLD cups.",
+      "locale" : "fr"
+    } ],
+    "ref" : "59410835"
+  }, {
+    "items" : [ {
+      "value" : "Your perseverance has paid off. You've  won all the GOLD cups in the Single Player RACES.",
+      "locale" : "us"
+    }, {
+      "value" : "Your perseverance has paid off. You've  won all the GOLD cups in the Single Player RACES.",
+      "locale" : "ja"
+    }, {
+      "value" : "Your perseverance has paid off. You've  won all the GOLD cups in the Single Player RACES.",
+      "locale" : "sp"
+    }, {
+      "value" : "Your perseverance has paid off. You've  won all the GOLD cups in the Single Player RACES.",
+      "locale" : "ko"
+    }, {
+      "value" : "Your perseverance has paid off. You've  won all the GOLD cups in the Single Player RACES.",
+      "locale" : "ge"
+    }, {
+      "value" : "Your perseverance has paid off. You've  won all the GOLD cups in the Single Player RACES.",
+      "locale" : "ch"
+    }, {
+      "value" : "Your perseverance has paid off. You've  won all the GOLD cups in the Single Player RACES.",
+      "locale" : "it"
+    }, {
+      "value" : "Your perseverance has paid off. You've  won all the GOLD cups in the Single Player RACES.",
+      "locale" : "fr"
+    } ],
+    "ref" : "60410835"
+  }, {
+    "items" : [ {
+      "value" : "\nYou've successfully completed the \"Island Tour\", the legendary TEST DRIVE challenge! ",
+      "locale" : "us"
+    }, {
+      "value" : "\nYou've successfully completed the \"Island Tour\", the legendary TEST DRIVE challenge! ",
+      "locale" : "ja"
+    }, {
+      "value" : "\nYou've successfully completed the \"Island Tour\", the legendary TEST DRIVE challenge! ",
+      "locale" : "sp"
+    }, {
+      "value" : "\nYou've successfully completed the \"Island Tour\", the legendary TEST DRIVE challenge! ",
+      "locale" : "ko"
+    }, {
+      "value" : "\nYou've successfully completed the \"Island Tour\", the legendary TEST DRIVE challenge! ",
+      "locale" : "ge"
+    }, {
+      "value" : "\nYou've successfully completed the \"Island Tour\", the legendary TEST DRIVE challenge! ",
+      "locale" : "ch"
+    }, {
+      "value" : "\nYou've successfully completed the \"Island Tour\", the legendary TEST DRIVE challenge! ",
+      "locale" : "it"
+    }, {
+      "value" : "\nYou've successfully completed the \"Island Tour\", the legendary TEST DRIVE challenge! ",
+      "locale" : "fr"
+    } ],
+    "ref" : "61410835"
+  }, {
+    "items" : [ {
+      "value" : "You've won §NB_REQ§ multiplayer races.",
+      "locale" : "us"
+    }, {
+      "value" : "You've won §NB_REQ§ multiplayer races.",
+      "locale" : "ja"
+    }, {
+      "value" : "You've won §NB_REQ§ multiplayer races.",
+      "locale" : "sp"
+    }, {
+      "value" : "You've won §NB_REQ§ multiplayer races.",
+      "locale" : "ko"
+    }, {
+      "value" : "You've won §NB_REQ§ multiplayer races.",
+      "locale" : "ge"
+    }, {
+      "value" : "You've won §NB_REQ§ multiplayer races.",
+      "locale" : "ch"
+    }, {
+      "value" : "You've won §NB_REQ§ multiplayer races.",
+      "locale" : "it"
+    }, {
+      "value" : "You've won §NB_REQ§ multiplayer races.",
+      "locale" : "fr"
+    } ],
+    "ref" : "62410835"
+  }, {
+    "items" : [ {
+      "value" : "You're becoming a force to be reckoned with. You've already won §NB_REQ§ multiplayer races.",
+      "locale" : "us"
+    }, {
+      "value" : "You're becoming a force to be reckoned with. You've already won §NB_REQ§ multiplayer races.",
+      "locale" : "ja"
+    }, {
+      "value" : "You're becoming a force to be reckoned with. You've already won §NB_REQ§ multiplayer races.",
+      "locale" : "sp"
+    }, {
+      "value" : "You're becoming a force to be reckoned with. You've already won §NB_REQ§ multiplayer races.",
+      "locale" : "ko"
+    }, {
+      "value" : "You're becoming a force to be reckoned with. You've already won §NB_REQ§ multiplayer races.",
+      "locale" : "ge"
+    }, {
+      "value" : "You're becoming a force to be reckoned with. You've already won §NB_REQ§ multiplayer races.",
+      "locale" : "ch"
+    }, {
+      "value" : "You're becoming a force to be reckoned with. You've already won §NB_REQ§ multiplayer races.",
+      "locale" : "it"
+    }, {
+      "value" : "You're becoming a force to be reckoned with. You've already won §NB_REQ§ multiplayer races.",
+      "locale" : "fr"
+    } ],
+    "ref" : "53510835"
+  }, {
+    "items" : [ {
+      "value" : "You're getting a fierce reputation! You've now racked up §NB_REQ§ victories in multiplayer races.",
+      "locale" : "us"
+    }, {
+      "value" : "You're getting a fierce reputation! You've now racked up §NB_REQ§ victories in multiplayer races.",
+      "locale" : "ja"
+    }, {
+      "value" : "You're getting a fierce reputation! You've now racked up §NB_REQ§ victories in multiplayer races.",
+      "locale" : "sp"
+    }, {
+      "value" : "You're getting a fierce reputation! You've now racked up §NB_REQ§ victories in multiplayer races.",
+      "locale" : "ko"
+    }, {
+      "value" : "You're getting a fierce reputation! You've now racked up §NB_REQ§ victories in multiplayer races.",
+      "locale" : "ge"
+    }, {
+      "value" : "You're getting a fierce reputation! You've now racked up §NB_REQ§ victories in multiplayer races.",
+      "locale" : "ch"
+    }, {
+      "value" : "You're getting a fierce reputation! You've now racked up §NB_REQ§ victories in multiplayer races.",
+      "locale" : "it"
+    }, {
+      "value" : "You're getting a fierce reputation! You've now racked up §NB_REQ§ victories in multiplayer races.",
+      "locale" : "fr"
+    } ],
+    "ref" : "54510835"
+  }, {
+    "items" : [ {
+      "value" : "Great! Already §NB_REQ§ successful missions out of §NB_TOTAL§! ",
+      "locale" : "us"
+    }, {
+      "value" : "Great! Already §NB_REQ§ successful missions out of §NB_TOTAL§! ",
+      "locale" : "ja"
+    }, {
+      "value" : "Great! Already §NB_REQ§ successful missions out of §NB_TOTAL§! ",
+      "locale" : "sp"
+    }, {
+      "value" : "Great! Already §NB_REQ§ successful missions out of §NB_TOTAL§! ",
+      "locale" : "ko"
+    }, {
+      "value" : "Great! Already §NB_REQ§ successful missions out of §NB_TOTAL§! ",
+      "locale" : "ge"
+    }, {
+      "value" : "Great! Already §NB_REQ§ successful missions out of §NB_TOTAL§! ",
+      "locale" : "ch"
+    }, {
+      "value" : "Great! Already §NB_REQ§ successful missions out of §NB_TOTAL§! ",
+      "locale" : "it"
+    }, {
+      "value" : "Great! Already §NB_REQ§ successful missions out of §NB_TOTAL§! ",
+      "locale" : "fr"
+    } ],
+    "ref" : "55510835"
+  }, {
+    "items" : [ {
+      "value" : "Another landmark in your career. You've successfully completed §NB_REQ§ missions out of §NB_TOTAL§.",
+      "locale" : "us"
+    }, {
+      "value" : "Another landmark in your career. You've successfully completed §NB_REQ§ missions out of §NB_TOTAL§.",
+      "locale" : "ja"
+    }, {
+      "value" : "Another landmark in your career. You've successfully completed §NB_REQ§ missions out of §NB_TOTAL§.",
+      "locale" : "sp"
+    }, {
+      "value" : "Another landmark in your career. You've successfully completed §NB_REQ§ missions out of §NB_TOTAL§.",
+      "locale" : "ko"
+    }, {
+      "value" : "Another landmark in your career. You've successfully completed §NB_REQ§ missions out of §NB_TOTAL§.",
+      "locale" : "ge"
+    }, {
+      "value" : "Another landmark in your career. You've successfully completed §NB_REQ§ missions out of §NB_TOTAL§.",
+      "locale" : "ch"
+    }, {
+      "value" : "Another landmark in your career. You've successfully completed §NB_REQ§ missions out of §NB_TOTAL§.",
+      "locale" : "it"
+    }, {
+      "value" : "Another landmark in your career. You've successfully completed §NB_REQ§ missions out of §NB_TOTAL§.",
+      "locale" : "fr"
+    } ],
+    "ref" : "56510835"
+  }, {
+    "items" : [ {
+      "value" : "You're frighteningly efficient. You've marked up §NB_REQ§ successful missions out of §NB_TOTAL§.",
+      "locale" : "us"
+    }, {
+      "value" : "You're frighteningly efficient. You've marked up §NB_REQ§ successful missions out of §NB_TOTAL§.",
+      "locale" : "ja"
+    }, {
+      "value" : "You're frighteningly efficient. You've marked up §NB_REQ§ successful missions out of §NB_TOTAL§.",
+      "locale" : "sp"
+    }, {
+      "value" : "You're frighteningly efficient. You've marked up §NB_REQ§ successful missions out of §NB_TOTAL§.",
+      "locale" : "ko"
+    }, {
+      "value" : "You're frighteningly efficient. You've marked up §NB_REQ§ successful missions out of §NB_TOTAL§.",
+      "locale" : "ge"
+    }, {
+      "value" : "You're frighteningly efficient. You've marked up §NB_REQ§ successful missions out of §NB_TOTAL§.",
+      "locale" : "ch"
+    }, {
+      "value" : "You're frighteningly efficient. You've marked up §NB_REQ§ successful missions out of §NB_TOTAL§.",
+      "locale" : "it"
+    }, {
+      "value" : "You're frighteningly efficient. You've marked up §NB_REQ§ successful missions out of §NB_TOTAL§.",
+      "locale" : "fr"
+    } ],
+    "ref" : "57510835"
+  }, {
+    "items" : [ {
+      "value" : "One more win added to your Track Record. You've successfully completed ALL the missions.",
+      "locale" : "us"
+    }, {
+      "value" : "One more win added to your Track Record. You've successfully completed ALL the missions.",
+      "locale" : "ja"
+    }, {
+      "value" : "One more win added to your Track Record. You've successfully completed ALL the missions.",
+      "locale" : "sp"
+    }, {
+      "value" : "One more win added to your Track Record. You've successfully completed ALL the missions.",
+      "locale" : "ko"
+    }, {
+      "value" : "One more win added to your Track Record. You've successfully completed ALL the missions.",
+      "locale" : "ge"
+    }, {
+      "value" : "One more win added to your Track Record. You've successfully completed ALL the missions.",
+      "locale" : "ch"
+    }, {
+      "value" : "One more win added to your Track Record. You've successfully completed ALL the missions.",
+      "locale" : "it"
+    }, {
+      "value" : "One more win added to your Track Record. You've successfully completed ALL the missions.",
+      "locale" : "fr"
+    } ],
+    "ref" : "58510835"
+  }, {
+    "items" : [ {
+      "value" : " §NB_REQ§ victories in INSTANT CHALLENGES. ",
+      "locale" : "us"
+    }, {
+      "value" : " §NB_REQ§ victories in INSTANT CHALLENGES. ",
+      "locale" : "ja"
+    }, {
+      "value" : " §NB_REQ§ victories in INSTANT CHALLENGES. ",
+      "locale" : "sp"
+    }, {
+      "value" : " §NB_REQ§ victories in INSTANT CHALLENGES. ",
+      "locale" : "ko"
+    }, {
+      "value" : " §NB_REQ§ victories in INSTANT CHALLENGES. ",
+      "locale" : "ge"
+    }, {
+      "value" : " §NB_REQ§ victories in INSTANT CHALLENGES. ",
+      "locale" : "ch"
+    }, {
+      "value" : " §NB_REQ§ victories in INSTANT CHALLENGES. ",
+      "locale" : "it"
+    }, {
+      "value" : " §NB_REQ§ victories in INSTANT CHALLENGES. ",
+      "locale" : "fr"
+    } ],
+    "ref" : "59510835"
+  }, {
+    "items" : [ {
+      "value" : "You've now mastered the art of INSTANT CHALLENGES, with §NB_REQ§ victories under your belt.",
+      "locale" : "us"
+    } ],
+    "ref" : "60510835"
+  }, {
+    "items" : [ {
+      "value" : "The INSTANT CHALLENGES are now your specialty! §NB_REQ§ victories already!",
+      "locale" : "us"
+    } ],
+    "ref" : "61510835"
+  }, {
+    "items" : [ {
+      "value" : "You've shared §NB_REQ§ Custom Challenge(s) with the rest of the community.",
+      "locale" : "us"
+    }, {
+      "value" : "You've shared §NB_REQ§ Custom Challenge(s) with the rest of the community.",
+      "locale" : "ja"
+    }, {
+      "value" : "You've shared §NB_REQ§ Custom Challenge(s) with the rest of the community.",
+      "locale" : "sp"
+    }, {
+      "value" : "You've shared §NB_REQ§ Custom Challenge(s) with the rest of the community.",
+      "locale" : "ko"
+    }, {
+      "value" : "You've shared §NB_REQ§ Custom Challenge(s) with the rest of the community.",
+      "locale" : "ge"
+    }, {
+      "value" : "You've shared §NB_REQ§ Custom Challenge(s) with the rest of the community.",
+      "locale" : "ch"
+    }, {
+      "value" : "You've shared §NB_REQ§ Custom Challenge(s) with the rest of the community.",
+      "locale" : "it"
+    }, {
+      "value" : "You've shared §NB_REQ§ Custom Challenge(s) with the rest of the community.",
+      "locale" : "fr"
+    } ],
+    "ref" : "62510835"
+  }, {
+    "items" : [ {
+      "value" : "You have §NB_REQ§ victories in Custom Challenges! ",
+      "locale" : "us"
+    }, {
+      "value" : "You have §NB_REQ§ victories in Custom Challenges! ",
+      "locale" : "ja"
+    }, {
+      "value" : "You have §NB_REQ§ victories in Custom Challenges! ",
+      "locale" : "sp"
+    }, {
+      "value" : "You have §NB_REQ§ victories in Custom Challenges! ",
+      "locale" : "ko"
+    }, {
+      "value" : "You have §NB_REQ§ victories in Custom Challenges! ",
+      "locale" : "ge"
+    }, {
+      "value" : "You have §NB_REQ§ victories in Custom Challenges! ",
+      "locale" : "ch"
+    }, {
+      "value" : "You have §NB_REQ§ victories in Custom Challenges! ",
+      "locale" : "it"
+    }, {
+      "value" : "You have §NB_REQ§ victories in Custom Challenges! ",
+      "locale" : "fr"
+    } ],
+    "ref" : "53610835"
+  }, {
+    "items" : [ {
+      "value" : "You're a member of a Club. \n",
+      "locale" : "us"
+    }, {
+      "value" : "You're a member of a Club. \n",
+      "locale" : "ja"
+    }, {
+      "value" : "You're a member of a Club. \n",
+      "locale" : "sp"
+    }, {
+      "value" : "You're a member of a Club. \n",
+      "locale" : "ko"
+    }, {
+      "value" : "You're a member of a Club. \n",
+      "locale" : "ge"
+    }, {
+      "value" : "You're a member of a Club. \n",
+      "locale" : "ch"
+    }, {
+      "value" : "You're a member of a Club. \n",
+      "locale" : "it"
+    }, {
+      "value" : "You're a member of a Club. \n",
+      "locale" : "fr"
+    } ],
+    "ref" : "54610835"
+  }, {
+    "items" : [ {
+      "value" : "Your Club has won §NB_REQ§ inter-club victories.",
+      "locale" : "us"
+    }, {
+      "value" : "Your Club has won §NB_REQ§ inter-club victories.",
+      "locale" : "ja"
+    }, {
+      "value" : "Your Club has won §NB_REQ§ inter-club victories.",
+      "locale" : "sp"
+    }, {
+      "value" : "Your Club has won §NB_REQ§ inter-club victories.",
+      "locale" : "ko"
+    }, {
+      "value" : "Your Club has won §NB_REQ§ inter-club victories.",
+      "locale" : "ge"
+    }, {
+      "value" : "Your Club has won §NB_REQ§ inter-club victories.",
+      "locale" : "ch"
+    }, {
+      "value" : "Your Club has won §NB_REQ§ inter-club victories.",
+      "locale" : "it"
+    }, {
+      "value" : "Your Club has won §NB_REQ§ inter-club victories.",
+      "locale" : "fr"
+    } ],
+    "ref" : "55610835"
+  }, {
+    "items" : [ {
+      "value" : "You've bought or sold §NB_REQ§ vehicle(s) from/to other members of the community.",
+      "locale" : "us"
+    }, {
+      "value" : "You've bought or sold §NB_REQ§ vehicle(s) from/to other members of the community.",
+      "locale" : "ja"
+    }, {
+      "value" : "You've bought or sold §NB_REQ§ vehicle(s) from/to other members of the community.",
+      "locale" : "sp"
+    }, {
+      "value" : "You've bought or sold §NB_REQ§ vehicle(s) from/to other members of the community.",
+      "locale" : "ko"
+    }, {
+      "value" : "You've bought or sold §NB_REQ§ vehicle(s) from/to other members of the community.",
+      "locale" : "ge"
+    }, {
+      "value" : "You've bought or sold §NB_REQ§ vehicle(s) from/to other members of the community.",
+      "locale" : "ch"
+    }, {
+      "value" : "You've bought or sold §NB_REQ§ vehicle(s) from/to other members of the community.",
+      "locale" : "it"
+    }, {
+      "value" : "You've bought or sold §NB_REQ§ vehicle(s) from/to other members of the community.",
+      "locale" : "fr"
+    } ],
+    "ref" : "56610835"
+  }, {
+    "items" : [ {
+      "value" : "You sure are a FERRARI fan! There are §NB_REQ§ of them in your garage.",
+      "locale" : "us"
+    }, {
+      "value" : "You sure are a FERRARI fan! There are §NB_REQ§ of them in your garage.",
+      "locale" : "ja"
+    }, {
+      "value" : "You sure are a FERRARI fan! There are §NB_REQ§ of them in your garage.",
+      "locale" : "sp"
+    }, {
+      "value" : "You sure are a FERRARI fan! There are §NB_REQ§ of them in your garage.",
+      "locale" : "ko"
+    }, {
+      "value" : "You sure are a FERRARI fan! There are §NB_REQ§ of them in your garage.",
+      "locale" : "ge"
+    }, {
+      "value" : "You sure are a FERRARI fan! There are §NB_REQ§ of them in your garage.",
+      "locale" : "ch"
+    }, {
+      "value" : "You sure are a FERRARI fan! There are §NB_REQ§ of them in your garage.",
+      "locale" : "it"
+    }, {
+      "value" : "You sure are a FERRARI fan! There are §NB_REQ§ of them in your garage.",
+      "locale" : "fr"
+    } ],
+    "ref" : "57610835"
+  }, {
+    "items" : [ {
+      "value" : "You really are a LAMBORGHINI lover! You already have §NB_REQ§ of them!",
+      "locale" : "us"
+    }, {
+      "value" : "You really are a LAMBORGHINI lover! You already have §NB_REQ§ of them!",
+      "locale" : "ja"
+    }, {
+      "value" : "You really are a LAMBORGHINI lover! You already have §NB_REQ§ of them!",
+      "locale" : "sp"
+    }, {
+      "value" : "You really are a LAMBORGHINI lover! You already have §NB_REQ§ of them!",
+      "locale" : "ko"
+    }, {
+      "value" : "You really are a LAMBORGHINI lover! You already have §NB_REQ§ of them!",
+      "locale" : "ge"
+    }, {
+      "value" : "You really are a LAMBORGHINI lover! You already have §NB_REQ§ of them!",
+      "locale" : "ch"
+    }, {
+      "value" : "You really are a LAMBORGHINI lover! You already have §NB_REQ§ of them!",
+      "locale" : "it"
+    }, {
+      "value" : "You really are a LAMBORGHINI lover! You already have §NB_REQ§ of them!",
+      "locale" : "fr"
+    } ],
+    "ref" : "58610835"
+  }, {
+    "items" : [ {
+      "value" : "You've got a penchant for MERCEDES-BENZ because you already own §NB_REQ§ of this make!",
+      "locale" : "us"
+    }, {
+      "value" : "You've got a penchant for MERCEDES-BENZ because you already own §NB_REQ§ of this make!",
+      "locale" : "ja"
+    }, {
+      "value" : "You've got a penchant for MERCEDES-BENZ because you already own §NB_REQ§ of this make!",
+      "locale" : "sp"
+    }, {
+      "value" : "You've got a penchant for MERCEDES-BENZ because you already own §NB_REQ§ of this make!",
+      "locale" : "ko"
+    }, {
+      "value" : "You've got a penchant for MERCEDES-BENZ because you already own §NB_REQ§ of this make!",
+      "locale" : "ge"
+    }, {
+      "value" : "You've got a penchant for MERCEDES-BENZ because you already own §NB_REQ§ of this make!",
+      "locale" : "ch"
+    }, {
+      "value" : "You've got a penchant for MERCEDES-BENZ because you already own §NB_REQ§ of this make!",
+      "locale" : "it"
+    }, {
+      "value" : "You've got a penchant for MERCEDES-BENZ because you already own §NB_REQ§ of this make!",
+      "locale" : "fr"
+    } ],
+    "ref" : "59610835"
+  }, {
+    "items" : [ {
+      "value" : "You are a CHEVROLET fan for sure. There are §NB_REQ§ of them in your garage!",
+      "locale" : "us"
+    }, {
+      "value" : "You are a CHEVROLET fan for sure. There are §NB_REQ§ of them in your garage!",
+      "locale" : "ja"
+    }, {
+      "value" : "You are a CHEVROLET fan for sure. There are §NB_REQ§ of them in your garage!",
+      "locale" : "sp"
+    }, {
+      "value" : "You are a CHEVROLET fan for sure. There are §NB_REQ§ of them in your garage!",
+      "locale" : "ko"
+    }, {
+      "value" : "You are a CHEVROLET fan for sure. There are §NB_REQ§ of them in your garage!",
+      "locale" : "ge"
+    }, {
+      "value" : "You are a CHEVROLET fan for sure. There are §NB_REQ§ of them in your garage!",
+      "locale" : "ch"
+    }, {
+      "value" : "You are a CHEVROLET fan for sure. There are §NB_REQ§ of them in your garage!",
+      "locale" : "it"
+    }, {
+      "value" : "You are a CHEVROLET fan for sure. There are §NB_REQ§ of them in your garage!",
+      "locale" : "fr"
+    } ],
+    "ref" : "60610835"
+  }, {
+    "items" : [ {
+      "value" : "You are a real ASTON MARTIN fan. \\nYou own §NB_REQ§ of them!",
+      "locale" : "us"
+    }, {
+      "value" : "You are a real ASTON MARTIN fan. \\nYou own §NB_REQ§ of them!",
+      "locale" : "ja"
+    }, {
+      "value" : "You are a real ASTON MARTIN fan. \\nYou own §NB_REQ§ of them!",
+      "locale" : "sp"
+    }, {
+      "value" : "You are a real ASTON MARTIN fan. \\nYou own §NB_REQ§ of them!",
+      "locale" : "ko"
+    }, {
+      "value" : "You are a real ASTON MARTIN fan. \\nYou own §NB_REQ§ of them!",
+      "locale" : "ge"
+    }, {
+      "value" : "You are a real ASTON MARTIN fan. \\nYou own §NB_REQ§ of them!",
+      "locale" : "ch"
+    }, {
+      "value" : "You are a real ASTON MARTIN fan. \\nYou own §NB_REQ§ of them!",
+      "locale" : "it"
+    }, {
+      "value" : "You are a real ASTON MARTIN fan. \\nYou own §NB_REQ§ of them!",
+      "locale" : "fr"
+    } ],
+    "ref" : "61610835"
+  }, {
+    "items" : [ {
+      "value" : "You really are a fan of FORD. You own §NB_REQ§ of them! Not many people can say the same.",
+      "locale" : "us"
+    }, {
+      "value" : "You really are a fan of FORD. You own §NB_REQ§ of them! Not many people can say the same.",
+      "locale" : "ja"
+    }, {
+      "value" : "You really are a fan of FORD. You own §NB_REQ§ of them! Not many people can say the same.",
+      "locale" : "sp"
+    }, {
+      "value" : "You really are a fan of FORD. You own §NB_REQ§ of them! Not many people can say the same.",
+      "locale" : "ko"
+    }, {
+      "value" : "You really are a fan of FORD. You own §NB_REQ§ of them! Not many people can say the same.",
+      "locale" : "ge"
+    }, {
+      "value" : "You really are a fan of FORD. You own §NB_REQ§ of them! Not many people can say the same.",
+      "locale" : "ch"
+    }, {
+      "value" : "You really are a fan of FORD. You own §NB_REQ§ of them! Not many people can say the same.",
+      "locale" : "it"
+    }, {
+      "value" : "You really are a fan of FORD. You own §NB_REQ§ of them! Not many people can say the same.",
+      "locale" : "fr"
+    } ],
+    "ref" : "62610835"
+  }, {
+    "items" : [ {
+      "value" : "Not quite a collection yet, but §NB_REQ§ cars is a good start.",
+      "locale" : "us"
+    }, {
+      "value" : "Not quite a collection yet, but §NB_REQ§ cars is a good start.",
+      "locale" : "ja"
+    }, {
+      "value" : "Not quite a collection yet, but §NB_REQ§ cars is a good start.",
+      "locale" : "sp"
+    }, {
+      "value" : "Not quite a collection yet, but §NB_REQ§ cars is a good start.",
+      "locale" : "ko"
+    }, {
+      "value" : "Not quite a collection yet, but §NB_REQ§ cars is a good start.",
+      "locale" : "ge"
+    }, {
+      "value" : "Not quite a collection yet, but §NB_REQ§ cars is a good start.",
+      "locale" : "ch"
+    }, {
+      "value" : "Not quite a collection yet, but §NB_REQ§ cars is a good start.",
+      "locale" : "it"
+    }, {
+      "value" : "Not quite a collection yet, but §NB_REQ§ cars is a good start.",
+      "locale" : "fr"
+    } ],
+    "ref" : "53710835"
+  }, {
+    "items" : [ {
+      "value" : "Not many players could do what you've done!\nYou own §NB_REQ§ different cars!",
+      "locale" : "us"
+    }, {
+      "value" : "Not many players could do what you've done!\nYou own §NB_REQ§ different cars!",
+      "locale" : "ja"
+    }, {
+      "value" : "Not many players could do what you've done!\nYou own §NB_REQ§ different cars!",
+      "locale" : "sp"
+    }, {
+      "value" : "Not many players could do what you've done!\nYou own §NB_REQ§ different cars!",
+      "locale" : "ko"
+    }, {
+      "value" : "Not many players could do what you've done!\nYou own §NB_REQ§ different cars!",
+      "locale" : "ge"
+    }, {
+      "value" : "Not many players could do what you've done!\nYou own §NB_REQ§ different cars!",
+      "locale" : "ch"
+    }, {
+      "value" : "Not many players could do what you've done!\nYou own §NB_REQ§ different cars!",
+      "locale" : "it"
+    }, {
+      "value" : "Not many players could do what you've done!\nYou own §NB_REQ§ different cars!",
+      "locale" : "fr"
+    } ],
+    "ref" : "54710835"
+  }, {
+    "items" : [ {
+      "value" : "Now we know you're a real easy rider! No less than §NB_REQ§ bikes in your garage.",
+      "locale" : "us"
+    }, {
+      "value" : "Now we know you're a real easy rider! No less than §NB_REQ§ bikes in your garage.",
+      "locale" : "ja"
+    }, {
+      "value" : "Now we know you're a real easy rider! No less than §NB_REQ§ bikes in your garage.",
+      "locale" : "sp"
+    }, {
+      "value" : "Now we know you're a real easy rider! No less than §NB_REQ§ bikes in your garage.",
+      "locale" : "ko"
+    }, {
+      "value" : "Now we know you're a real easy rider! No less than §NB_REQ§ bikes in your garage.",
+      "locale" : "ge"
+    }, {
+      "value" : "Now we know you're a real easy rider! No less than §NB_REQ§ bikes in your garage.",
+      "locale" : "ch"
+    }, {
+      "value" : "Now we know you're a real easy rider! No less than §NB_REQ§ bikes in your garage.",
+      "locale" : "it"
+    }, {
+      "value" : "Now we know you're a real easy rider! No less than §NB_REQ§ bikes in your garage.",
+      "locale" : "fr"
+    } ],
+    "ref" : "55710835"
+  }, {
+    "items" : [ {
+      "value" : "You sure have good taste in clothes. There are §NB_REQ§ items of Ben Sherman clothing in your walk-in closet.",
+      "locale" : "us"
+    }, {
+      "value" : "You sure have good taste in clothes. There are §NB_REQ§ items of Ben Sherman clothing in your walk-in closet.",
+      "locale" : "ja"
+    }, {
+      "value" : "You sure have good taste in clothes. There are §NB_REQ§ items of Ben Sherman clothing in your walk-in closet.",
+      "locale" : "sp"
+    }, {
+      "value" : "You sure have good taste in clothes. There are §NB_REQ§ items of Ben Sherman clothing in your walk-in closet.",
+      "locale" : "ko"
+    }, {
+      "value" : "You sure have good taste in clothes. There are §NB_REQ§ items of Ben Sherman clothing in your walk-in closet.",
+      "locale" : "ge"
+    }, {
+      "value" : "You sure have good taste in clothes. There are §NB_REQ§ items of Ben Sherman clothing in your walk-in closet.",
+      "locale" : "ch"
+    }, {
+      "value" : "You sure have good taste in clothes. There are §NB_REQ§ items of Ben Sherman clothing in your walk-in closet.",
+      "locale" : "it"
+    }, {
+      "value" : "You sure have good taste in clothes. There are §NB_REQ§ items of Ben Sherman clothing in your walk-in closet.",
+      "locale" : "fr"
+    } ],
+    "ref" : "56710835"
+  }, {
+    "items" : [ {
+      "value" : "You obviously love *ecko unltd. clothes. You bought §NB_REQ§ items of this brand.",
+      "locale" : "us"
+    }, {
+      "value" : "You obviously love *ecko unltd. clothes. You bought §NB_REQ§ items of this brand.",
+      "locale" : "ja"
+    }, {
+      "value" : "You obviously love *ecko unltd. clothes. You bought §NB_REQ§ items of this brand.",
+      "locale" : "sp"
+    }, {
+      "value" : "You obviously love *ecko unltd. clothes. You bought §NB_REQ§ items of this brand.",
+      "locale" : "ko"
+    }, {
+      "value" : "You obviously love *ecko unltd. clothes. You bought §NB_REQ§ items of this brand.",
+      "locale" : "ge"
+    }, {
+      "value" : "You obviously love *ecko unltd. clothes. You bought §NB_REQ§ items of this brand.",
+      "locale" : "ch"
+    }, {
+      "value" : "You obviously love *ecko unltd. clothes. You bought §NB_REQ§ items of this brand.",
+      "locale" : "it"
+    }, {
+      "value" : "You obviously love *ecko unltd. clothes. You bought §NB_REQ§ items of this brand.",
+      "locale" : "fr"
+    } ],
+    "ref" : "57710835"
+  }, {
+    "items" : [ {
+      "value" : "You've tuned §NB_REQ§ of your vehicles. ",
+      "locale" : "us"
+    }, {
+      "value" : "You've tuned §NB_REQ§ of your vehicles. ",
+      "locale" : "ja"
+    }, {
+      "value" : "You've tuned §NB_REQ§ of your vehicles. ",
+      "locale" : "sp"
+    }, {
+      "value" : "You've tuned §NB_REQ§ of your vehicles. ",
+      "locale" : "ko"
+    }, {
+      "value" : "You've tuned §NB_REQ§ of your vehicles. ",
+      "locale" : "ge"
+    }, {
+      "value" : "You've tuned §NB_REQ§ of your vehicles. ",
+      "locale" : "ch"
+    }, {
+      "value" : "You've tuned §NB_REQ§ of your vehicles. ",
+      "locale" : "it"
+    }, {
+      "value" : "You've tuned §NB_REQ§ of your vehicles. ",
+      "locale" : "fr"
+    } ],
+    "ref" : "58710835"
+  }, {
+    "items" : [ {
+      "value" : "FANTASTIC! You know every inch of the island. You've driven every single road. ",
+      "locale" : "us"
+    }, {
+      "value" : "FANTASTIC! You know every inch of the island. You've driven every single road. ",
+      "locale" : "ja"
+    }, {
+      "value" : "FANTASTIC! You know every inch of the island. You've driven every single road. ",
+      "locale" : "sp"
+    }, {
+      "value" : "FANTASTIC! You know every inch of the island. You've driven every single road. ",
+      "locale" : "ko"
+    }, {
+      "value" : "FANTASTIC! You know every inch of the island. You've driven every single road. ",
+      "locale" : "ge"
+    }, {
+      "value" : "FANTASTIC! You know every inch of the island. You've driven every single road. ",
+      "locale" : "ch"
+    }, {
+      "value" : "FANTASTIC! You know every inch of the island. You've driven every single road. ",
+      "locale" : "it"
+    }, {
+      "value" : "FANTASTIC! You know every inch of the island. You've driven every single road. ",
+      "locale" : "fr"
+    } ],
+    "ref" : "59710835"
+  }, {
+    "items" : [ {
+      "value" : "That's a good start. You've already driven §NB_REQ§ miles.",
+      "locale" : "us"
+    }, {
+      "value" : "That's a good start. You've already driven §NB_REQ§ miles.",
+      "locale" : "ja"
+    }, {
+      "value" : "That's a good start. You've already driven §NB_REQ§ miles.",
+      "locale" : "sp"
+    }, {
+      "value" : "That's a good start. You've already driven §NB_REQ§ miles.",
+      "locale" : "ko"
+    }, {
+      "value" : "That's a good start. You've already driven §NB_REQ§ miles.",
+      "locale" : "ge"
+    }, {
+      "value" : "That's a good start. You've already driven §NB_REQ§ miles.",
+      "locale" : "ch"
+    }, {
+      "value" : "That's a good start. You've already driven §NB_REQ§ miles.",
+      "locale" : "it"
+    }, {
+      "value" : "That's a good start. You've already driven §NB_REQ§ miles.",
+      "locale" : "fr"
+    } ],
+    "ref" : "60710835"
+  }, {
+    "items" : [ {
+      "value" : "You're starting to clock up a fair number of miles. You've driven §NB_REQ§ miles to date.",
+      "locale" : "us"
+    }, {
+      "value" : "You're starting to clock up a fair number of miles. You've driven §NB_REQ§ miles to date.",
+      "locale" : "ja"
+    }, {
+      "value" : "You're starting to clock up a fair number of miles. You've driven §NB_REQ§ miles to date.",
+      "locale" : "sp"
+    }, {
+      "value" : "You're starting to clock up a fair number of miles. You've driven §NB_REQ§ miles to date.",
+      "locale" : "ko"
+    }, {
+      "value" : "You're starting to clock up a fair number of miles. You've driven §NB_REQ§ miles to date.",
+      "locale" : "ge"
+    }, {
+      "value" : "You're starting to clock up a fair number of miles. You've driven §NB_REQ§ miles to date.",
+      "locale" : "ch"
+    }, {
+      "value" : "You're starting to clock up a fair number of miles. You've driven §NB_REQ§ miles to date.",
+      "locale" : "it"
+    }, {
+      "value" : "You're starting to clock up a fair number of miles. You've driven §NB_REQ§ miles to date.",
+      "locale" : "fr"
+    } ],
+    "ref" : "61710835"
+  }, {
+    "items" : [ {
+      "value" : "§NB_REQ§ miles traveled! You will soon get your guide's badge!",
+      "locale" : "us"
+    }, {
+      "value" : "§NB_REQ§ miles traveled! You will soon get your guide's badge!",
+      "locale" : "ja"
+    }, {
+      "value" : "§NB_REQ§ miles traveled! You will soon get your guide's badge!",
+      "locale" : "sp"
+    }, {
+      "value" : "§NB_REQ§ miles traveled! You will soon get your guide's badge!",
+      "locale" : "ko"
+    }, {
+      "value" : "§NB_REQ§ miles traveled! You will soon get your guide's badge!",
+      "locale" : "ge"
+    }, {
+      "value" : "§NB_REQ§ miles traveled! You will soon get your guide's badge!",
+      "locale" : "ch"
+    }, {
+      "value" : "§NB_REQ§ miles traveled! You will soon get your guide's badge!",
+      "locale" : "it"
+    }, {
+      "value" : "§NB_REQ§ miles traveled! You will soon get your guide's badge!",
+      "locale" : "fr"
+    } ],
+    "ref" : "62710835"
+  }, {
+    "items" : [ {
+      "value" : "Are you sitting down? You've driven the equivalent of the distance between New York and Sydney! ",
+      "locale" : "us"
+    } ],
+    "ref" : "53810835"
+  }, {
+    "items" : [ {
+      "value" : "You are now the proud owner of §NB_REQ§ luxury homes.",
+      "locale" : "us"
+    }, {
+      "value" : "You are now the proud owner of §NB_REQ§ luxury homes.",
+      "locale" : "ja"
+    }, {
+      "value" : "You are now the proud owner of §NB_REQ§ luxury homes.",
+      "locale" : "sp"
+    }, {
+      "value" : "You are now the proud owner of §NB_REQ§ luxury homes.",
+      "locale" : "ko"
+    }, {
+      "value" : "You are now the proud owner of §NB_REQ§ luxury homes.",
+      "locale" : "ge"
+    }, {
+      "value" : "You are now the proud owner of §NB_REQ§ luxury homes.",
+      "locale" : "ch"
+    }, {
+      "value" : "You are now the proud owner of §NB_REQ§ luxury homes.",
+      "locale" : "it"
+    }, {
+      "value" : "You are now the proud owner of §NB_REQ§ luxury homes.",
+      "locale" : "fr"
+    } ],
+    "ref" : "54810835"
+  }, {
+    "items" : [ {
+      "value" : "You own every luxury home on the island! The whole TEST DRIVE team bows before you! ",
+      "locale" : "us"
+    } ],
+    "ref" : "55810835"
+  }, {
+    "items" : [ {
+      "value" : "You've discovered the most beautiful vistas on the island. They're all featured in your Photo Album.",
+      "locale" : "us"
+    } ],
+    "ref" : "56810835"
+  }, {
+    "items" : [ {
+      "value" : "Already §NB_REQ§ vehicles. This is starting to look like a collection. ",
+      "locale" : "us"
+    }, {
+      "value" : "Already §NB_REQ§ vehicles. This is starting to look like a collection. ",
+      "locale" : "ja"
+    }, {
+      "value" : "Already §NB_REQ§ vehicles. This is starting to look like a collection. ",
+      "locale" : "sp"
+    }, {
+      "value" : "Already §NB_REQ§ vehicles. This is starting to look like a collection. ",
+      "locale" : "ko"
+    }, {
+      "value" : "Already §NB_REQ§ vehicles. This is starting to look like a collection. ",
+      "locale" : "ge"
+    }, {
+      "value" : "Already §NB_REQ§ vehicles. This is starting to look like a collection. ",
+      "locale" : "ch"
+    }, {
+      "value" : "Already §NB_REQ§ vehicles. This is starting to look like a collection. ",
+      "locale" : "it"
+    }, {
+      "value" : "Already §NB_REQ§ vehicles. This is starting to look like a collection. ",
+      "locale" : "fr"
+    } ],
+    "ref" : "57810835"
+  }, {
+    "items" : [ {
+      "value" : "You own §NB_REQ§ vehicles. A nice collection that is going to make people jealous!",
+      "locale" : "us"
+    }, {
+      "value" : "You own §NB_REQ§ vehicles. A nice collection that is going to make people jealous!",
+      "locale" : "ja"
+    }, {
+      "value" : "You own §NB_REQ§ vehicles. A nice collection that is going to make people jealous!",
+      "locale" : "sp"
+    }, {
+      "value" : "You own §NB_REQ§ vehicles. A nice collection that is going to make people jealous!",
+      "locale" : "ko"
+    }, {
+      "value" : "You own §NB_REQ§ vehicles. A nice collection that is going to make people jealous!",
+      "locale" : "ge"
+    }, {
+      "value" : "You own §NB_REQ§ vehicles. A nice collection that is going to make people jealous!",
+      "locale" : "ch"
+    }, {
+      "value" : "You own §NB_REQ§ vehicles. A nice collection that is going to make people jealous!",
+      "locale" : "it"
+    }, {
+      "value" : "You own §NB_REQ§ vehicles. A nice collection that is going to make people jealous!",
+      "locale" : "fr"
+    } ],
+    "ref" : "58810835"
+  }, {
+    "items" : [ {
+      "value" : "You now have quite a selection in your garage. You already have §NB_REQ§ vehicles in your collection.",
+      "locale" : "us"
+    }, {
+      "value" : "You now have quite a selection in your garage. You already have §NB_REQ§ vehicles in your collection.",
+      "locale" : "ja"
+    }, {
+      "value" : "You now have quite a selection in your garage. You already have §NB_REQ§ vehicles in your collection.",
+      "locale" : "sp"
+    }, {
+      "value" : "You now have quite a selection in your garage. You already have §NB_REQ§ vehicles in your collection.",
+      "locale" : "ko"
+    }, {
+      "value" : "You now have quite a selection in your garage. You already have §NB_REQ§ vehicles in your collection.",
+      "locale" : "ge"
+    }, {
+      "value" : "You now have quite a selection in your garage. You already have §NB_REQ§ vehicles in your collection.",
+      "locale" : "ch"
+    }, {
+      "value" : "You now have quite a selection in your garage. You already have §NB_REQ§ vehicles in your collection.",
+      "locale" : "it"
+    }, {
+      "value" : "You now have quite a selection in your garage. You already have §NB_REQ§ vehicles in your collection.",
+      "locale" : "fr"
+    } ],
+    "ref" : "59810835"
+  }, {
+    "items" : [ {
+      "value" : "Incredible performance! You have traveled §NB_REQ§ miles! ",
+      "locale" : "us"
+    }, {
+      "value" : "Incredible performance! You have traveled §NB_REQ§ miles! ",
+      "locale" : "ja"
+    }, {
+      "value" : "Incredible performance! You have traveled §NB_REQ§ miles! ",
+      "locale" : "sp"
+    }, {
+      "value" : "Incredible performance! You have traveled §NB_REQ§ miles! ",
+      "locale" : "ko"
+    }, {
+      "value" : "Incredible performance! You have traveled §NB_REQ§ miles! ",
+      "locale" : "ge"
+    }, {
+      "value" : "Incredible performance! You have traveled §NB_REQ§ miles! ",
+      "locale" : "ch"
+    }, {
+      "value" : "Incredible performance! You have traveled §NB_REQ§ miles! ",
+      "locale" : "it"
+    }, {
+      "value" : "Incredible performance! You have traveled §NB_REQ§ miles! ",
+      "locale" : "fr"
+    } ],
+    "ref" : "60810835"
+  }, {
+    "items" : [ {
+      "value" : "Good work! You have successfully completed all the TOP MODEL challenges.\nYou have unlocked the §CARNAME§. You may pick it up at §SHOPNAME§\n",
+      "locale" : "us"
+    }, {
+      "value" : "Good work! You have successfully completed all the TOP MODEL challenges.\nYou have unlocked the §CARNAME§. You may pick it up at §SHOPNAME§\n",
+      "locale" : "ja"
+    }, {
+      "value" : "Good work! You have successfully completed all the TOP MODEL challenges.\nYou have unlocked the §CARNAME§. You may pick it up at §SHOPNAME§\n",
+      "locale" : "sp"
+    }, {
+      "value" : "Good work! You have successfully completed all the TOP MODEL challenges.\nYou have unlocked the §CARNAME§. You may pick it up at §SHOPNAME§\n",
+      "locale" : "ko"
+    }, {
+      "value" : "Good work! You have successfully completed all the TOP MODEL challenges.\nYou have unlocked the §CARNAME§. You may pick it up at §SHOPNAME§\n",
+      "locale" : "ge"
+    }, {
+      "value" : "Good work! You have successfully completed all the TOP MODEL challenges.\nYou have unlocked the §CARNAME§. You may pick it up at §SHOPNAME§\n",
+      "locale" : "ch"
+    }, {
+      "value" : "Good work! You have successfully completed all the TOP MODEL challenges.\nYou have unlocked the §CARNAME§. You may pick it up at §SHOPNAME§\n",
+      "locale" : "it"
+    }, {
+      "value" : "Good work! You have successfully completed all the TOP MODEL challenges.\nYou have unlocked the §CARNAME§. You may pick it up at §SHOPNAME§\n",
+      "locale" : "fr"
+    } ],
+    "ref" : "547472"
+  }, {
+    "items" : [ {
+      "value" : "Good work! You have successfully completed all the HITCHHIKER challenges.\nYou have unlocked the §CARNAME§. You may pick it up at §SHOPNAME§\n",
+      "locale" : "us"
+    }, {
+      "value" : "Good work! You have successfully completed all the HITCHHIKER challenges.\nYou have unlocked the §CARNAME§. You may pick it up at §SHOPNAME§\n",
+      "locale" : "ja"
+    }, {
+      "value" : "Good work! You have successfully completed all the HITCHHIKER challenges.\nYou have unlocked the §CARNAME§. You may pick it up at §SHOPNAME§\n",
+      "locale" : "sp"
+    }, {
+      "value" : "Good work! You have successfully completed all the HITCHHIKER challenges.\nYou have unlocked the §CARNAME§. You may pick it up at §SHOPNAME§\n",
+      "locale" : "ko"
+    }, {
+      "value" : "Good work! You have successfully completed all the HITCHHIKER challenges.\nYou have unlocked the §CARNAME§. You may pick it up at §SHOPNAME§\n",
+      "locale" : "ge"
+    }, {
+      "value" : "Good work! You have successfully completed all the HITCHHIKER challenges.\nYou have unlocked the §CARNAME§. You may pick it up at §SHOPNAME§\n",
+      "locale" : "ch"
+    }, {
+      "value" : "Good work! You have successfully completed all the HITCHHIKER challenges.\nYou have unlocked the §CARNAME§. You may pick it up at §SHOPNAME§\n",
+      "locale" : "it"
+    }, {
+      "value" : "Good work! You have successfully completed all the HITCHHIKER challenges.\nYou have unlocked the §CARNAME§. You may pick it up at §SHOPNAME§\n",
+      "locale" : "fr"
+    } ],
+    "ref" : "557472"
+  }, {
+    "items" : [ {
+      "value" : "Good work! You have successfully completed all the VEHICLE TRANSPORT challenges.\nYou have unlocked the §CARNAME§. You may pick it up at §SHOPNAME§\n",
+      "locale" : "us"
+    }, {
+      "value" : "Good work! You have successfully completed all the VEHICLE TRANSPORT challenges.\nYou have unlocked the §CARNAME§. You may pick it up at §SHOPNAME§\n",
+      "locale" : "ja"
+    }, {
+      "value" : "Good work! You have successfully completed all the VEHICLE TRANSPORT challenges.\nYou have unlocked the §CARNAME§. You may pick it up at §SHOPNAME§\n",
+      "locale" : "sp"
+    }, {
+      "value" : "Good work! You have successfully completed all the VEHICLE TRANSPORT challenges.\nYou have unlocked the §CARNAME§. You may pick it up at §SHOPNAME§\n",
+      "locale" : "ko"
+    }, {
+      "value" : "Good work! You have successfully completed all the VEHICLE TRANSPORT challenges.\nYou have unlocked the §CARNAME§. You may pick it up at §SHOPNAME§\n",
+      "locale" : "ge"
+    }, {
+      "value" : "Good work! You have successfully completed all the VEHICLE TRANSPORT challenges.\nYou have unlocked the §CARNAME§. You may pick it up at §SHOPNAME§\n",
+      "locale" : "ch"
+    }, {
+      "value" : "Good work! You have successfully completed all the VEHICLE TRANSPORT challenges.\nYou have unlocked the §CARNAME§. You may pick it up at §SHOPNAME§\n",
+      "locale" : "it"
+    }, {
+      "value" : "Good work! You have successfully completed all the VEHICLE TRANSPORT challenges.\nYou have unlocked the §CARNAME§. You may pick it up at §SHOPNAME§\n",
+      "locale" : "fr"
+    } ],
+    "ref" : "567472"
+  }, {
+    "items" : [ {
+      "value" : "Good driving! You have successfully completed all the COURIER challenges.\nYou have unlocked the §CARNAME§. You may pick it up at §SHOPNAME§\n",
+      "locale" : "us"
+    }, {
+      "value" : "Good driving! You have successfully completed all the COURIER challenges.\nYou have unlocked the §CARNAME§. You may pick it up at §SHOPNAME§\n",
+      "locale" : "ja"
+    }, {
+      "value" : "Good driving! You have successfully completed all the COURIER challenges.\nYou have unlocked the §CARNAME§. You may pick it up at §SHOPNAME§\n",
+      "locale" : "sp"
+    }, {
+      "value" : "Good driving! You have successfully completed all the COURIER challenges.\nYou have unlocked the §CARNAME§. You may pick it up at §SHOPNAME§\n",
+      "locale" : "ko"
+    }, {
+      "value" : "Good driving! You have successfully completed all the COURIER challenges.\nYou have unlocked the §CARNAME§. You may pick it up at §SHOPNAME§\n",
+      "locale" : "ge"
+    }, {
+      "value" : "Good driving! You have successfully completed all the COURIER challenges.\nYou have unlocked the §CARNAME§. You may pick it up at §SHOPNAME§\n",
+      "locale" : "ch"
+    }, {
+      "value" : "Good driving! You have successfully completed all the COURIER challenges.\nYou have unlocked the §CARNAME§. You may pick it up at §SHOPNAME§\n",
+      "locale" : "it"
+    }, {
+      "value" : "Good driving! You have successfully completed all the COURIER challenges.\nYou have unlocked the §CARNAME§. You may pick it up at §SHOPNAME§\n",
+      "locale" : "fr"
+    } ],
+    "ref" : "577472"
+  }, {
+    "items" : [ {
+      "value" : "Congratulations! You won all the Single Player TIME challenges.\nYou have unlocked the §CARNAME§. You may pick it up at §SHOPNAME§",
+      "locale" : "us"
+    }, {
+      "value" : "Congratulations! You won all the Single Player TIME challenges.\nYou have unlocked the §CARNAME§. You may pick it up at §SHOPNAME§",
+      "locale" : "ja"
+    }, {
+      "value" : "Congratulations! You won all the Single Player TIME challenges.\nYou have unlocked the §CARNAME§. You may pick it up at §SHOPNAME§",
+      "locale" : "sp"
+    }, {
+      "value" : "Congratulations! You won all the Single Player TIME challenges.\nYou have unlocked the §CARNAME§. You may pick it up at §SHOPNAME§",
+      "locale" : "ko"
+    }, {
+      "value" : "Congratulations! You won all the Single Player TIME challenges.\nYou have unlocked the §CARNAME§. You may pick it up at §SHOPNAME§",
+      "locale" : "ge"
+    }, {
+      "value" : "Congratulations! You won all the Single Player TIME challenges.\nYou have unlocked the §CARNAME§. You may pick it up at §SHOPNAME§",
+      "locale" : "ch"
+    }, {
+      "value" : "Congratulations! You won all the Single Player TIME challenges.\nYou have unlocked the §CARNAME§. You may pick it up at §SHOPNAME§",
+      "locale" : "it"
+    }, {
+      "value" : "Congratulations! You won all the Single Player TIME challenges.\nYou have unlocked the §CARNAME§. You may pick it up at §SHOPNAME§",
+      "locale" : "fr"
+    } ],
+    "ref" : "587472"
+  }, {
+    "items" : [ {
+      "value" : "Congratulations! You won all the Single Player RACE challenges.\nYou have unlocked the §CARNAME§. You may pick it up at §SHOPNAME§\n",
+      "locale" : "us"
+    }, {
+      "value" : "Congratulations! You won all the Single Player RACE challenges.\nYou have unlocked the §CARNAME§. You may pick it up at §SHOPNAME§\n",
+      "locale" : "ja"
+    }, {
+      "value" : "Congratulations! You won all the Single Player RACE challenges.\nYou have unlocked the §CARNAME§. You may pick it up at §SHOPNAME§\n",
+      "locale" : "sp"
+    }, {
+      "value" : "Congratulations! You won all the Single Player RACE challenges.\nYou have unlocked the §CARNAME§. You may pick it up at §SHOPNAME§\n",
+      "locale" : "ko"
+    }, {
+      "value" : "Congratulations! You won all the Single Player RACE challenges.\nYou have unlocked the §CARNAME§. You may pick it up at §SHOPNAME§\n",
+      "locale" : "ge"
+    }, {
+      "value" : "Congratulations! You won all the Single Player RACE challenges.\nYou have unlocked the §CARNAME§. You may pick it up at §SHOPNAME§\n",
+      "locale" : "ch"
+    }, {
+      "value" : "Congratulations! You won all the Single Player RACE challenges.\nYou have unlocked the §CARNAME§. You may pick it up at §SHOPNAME§\n",
+      "locale" : "it"
+    }, {
+      "value" : "Congratulations! You won all the Single Player RACE challenges.\nYou have unlocked the §CARNAME§. You may pick it up at §SHOPNAME§\n",
+      "locale" : "fr"
+    } ],
+    "ref" : "597472"
+  }, {
+    "items" : [ {
+      "value" : "Congratulations! You won all the Single Player SPEED challenges.\nYou have unlocked the §CARNAME§. You may pick it up at §SHOPNAME§",
+      "locale" : "us"
+    }, {
+      "value" : "Congratulations! You won all the Single Player SPEED challenges.\nYou have unlocked the §CARNAME§. You may pick it up at §SHOPNAME§",
+      "locale" : "ja"
+    }, {
+      "value" : "Congratulations! You won all the Single Player SPEED challenges.\nYou have unlocked the §CARNAME§. You may pick it up at §SHOPNAME§",
+      "locale" : "sp"
+    }, {
+      "value" : "Congratulations! You won all the Single Player SPEED challenges.\nYou have unlocked the §CARNAME§. You may pick it up at §SHOPNAME§",
+      "locale" : "ko"
+    }, {
+      "value" : "Congratulations! You won all the Single Player SPEED challenges.\nYou have unlocked the §CARNAME§. You may pick it up at §SHOPNAME§",
+      "locale" : "ge"
+    }, {
+      "value" : "Congratulations! You won all the Single Player SPEED challenges.\nYou have unlocked the §CARNAME§. You may pick it up at §SHOPNAME§",
+      "locale" : "ch"
+    }, {
+      "value" : "Congratulations! You won all the Single Player SPEED challenges.\nYou have unlocked the §CARNAME§. You may pick it up at §SHOPNAME§",
+      "locale" : "it"
+    }, {
+      "value" : "Congratulations! You won all the Single Player SPEED challenges.\nYou have unlocked the §CARNAME§. You may pick it up at §SHOPNAME§",
+      "locale" : "fr"
+    } ],
+    "ref" : "607472"
+  }, {
+    "items" : [ {
+      "value" : "You own two cars. Using CHRONOPACK, you can compare their respective performances. This gadget is currently available via the auxiliary menus by pressing the left directional pad",
+      "locale" : "us"
+    }, {
+      "value" : "You own two cars. Using CHRONOPACK, you can compare their respective performances. This gadget is currently available via the auxiliary menus by pressing the left directional pad",
+      "locale" : "ja"
+    }, {
+      "value" : "You own two cars. Using CHRONOPACK, you can compare their respective performances. This gadget is currently available via the auxiliary menus by pressing the left directional pad",
+      "locale" : "sp"
+    }, {
+      "value" : "You own two cars. Using CHRONOPACK, you can compare their respective performances. This gadget is currently available via the auxiliary menus by pressing the left directional pad",
+      "locale" : "ko"
+    }, {
+      "value" : "You own two cars. Using CHRONOPACK, you can compare their respective performances. This gadget is currently available via the auxiliary menus by pressing the left directional pad",
+      "locale" : "ge"
+    }, {
+      "value" : "You own two cars. Using CHRONOPACK, you can compare their respective performances. This gadget is currently available via the auxiliary menus by pressing the left directional pad",
+      "locale" : "ch"
+    }, {
+      "value" : "You own two cars. Using CHRONOPACK, you can compare their respective performances. This gadget is currently available via the auxiliary menus by pressing the left directional pad",
+      "locale" : "it"
+    }, {
+      "value" : "You own two cars. Using CHRONOPACK, you can compare their respective performances. This gadget is currently available via the auxiliary menus by pressing the left directional pad",
+      "locale" : "fr"
+    } ],
+    "ref" : "617472"
+  }, {
+    "items" : [ {
+      "value" : "Congratulations! You have just reached the Amateur level. You now have access to the PHOTOS mode.",
+      "locale" : "us"
+    }, {
+      "value" : "Congratulations! You have just reached the Amateur level. You now have access to the PHOTOS mode.",
+      "locale" : "ja"
+    }, {
+      "value" : "Congratulations! You have just reached the Amateur level. You now have access to the PHOTOS mode.",
+      "locale" : "sp"
+    }, {
+      "value" : "Congratulations! You have just reached the Amateur level. You now have access to the PHOTOS mode.",
+      "locale" : "ko"
+    }, {
+      "value" : "Congratulations! You have just reached the Amateur level. You now have access to the PHOTOS mode.",
+      "locale" : "ge"
+    }, {
+      "value" : "Congratulations! You have just reached the Amateur level. You now have access to the PHOTOS mode.",
+      "locale" : "ch"
+    }, {
+      "value" : "Congratulations! You have just reached the Amateur level. You now have access to the PHOTOS mode.",
+      "locale" : "it"
+    }, {
+      "value" : "Congratulations! You have just reached the Amateur level. You now have access to the PHOTOS mode.",
+      "locale" : "fr"
+    } ],
+    "ref" : "627472"
+  }, {
+    "items" : [ {
+      "value" : "You are now a Pro! In the Pause menu, you now have access to the EDITOR mode, which lets you create your own customized challenges. ",
+      "locale" : "us"
+    }, {
+      "value" : "You are now a Pro! In the Pause menu, you now have access to the EDITOR mode, which lets you create your own customized challenges. ",
+      "locale" : "ja"
+    }, {
+      "value" : "You are now a Pro! In the Pause menu, you now have access to the EDITOR mode, which lets you create your own customized challenges. ",
+      "locale" : "sp"
+    }, {
+      "value" : "You are now a Pro! In the Pause menu, you now have access to the EDITOR mode, which lets you create your own customized challenges. ",
+      "locale" : "ko"
+    }, {
+      "value" : "You are now a Pro! In the Pause menu, you now have access to the EDITOR mode, which lets you create your own customized challenges. ",
+      "locale" : "ge"
+    }, {
+      "value" : "You are now a Pro! In the Pause menu, you now have access to the EDITOR mode, which lets you create your own customized challenges. ",
+      "locale" : "ch"
+    }, {
+      "value" : "You are now a Pro! In the Pause menu, you now have access to the EDITOR mode, which lets you create your own customized challenges. ",
+      "locale" : "it"
+    }, {
+      "value" : "You are now a Pro! In the Pause menu, you now have access to the EDITOR mode, which lets you create your own customized challenges. ",
+      "locale" : "fr"
+    } ],
+    "ref" : "538472"
+  }, {
+    "items" : [ {
+      "value" : "You have reached the Expert level. This performance means you now have access to the Ford Island circuit.",
+      "locale" : "us"
+    }, {
+      "value" : "You have reached the Expert level. This performance means you now have access to the Ford Island circuit.",
+      "locale" : "ja"
+    }, {
+      "value" : "You have reached the Expert level. This performance means you now have access to the Ford Island circuit.",
+      "locale" : "sp"
+    }, {
+      "value" : "You have reached the Expert level. This performance means you now have access to the Ford Island circuit.",
+      "locale" : "ko"
+    }, {
+      "value" : "You have reached the Expert level. This performance means you now have access to the Ford Island circuit.",
+      "locale" : "ge"
+    }, {
+      "value" : "You have reached the Expert level. This performance means you now have access to the Ford Island circuit.",
+      "locale" : "ch"
+    }, {
+      "value" : "You have reached the Expert level. This performance means you now have access to the Ford Island circuit.",
+      "locale" : "it"
+    }, {
+      "value" : "You have reached the Expert level. This performance means you now have access to the Ford Island circuit.",
+      "locale" : "fr"
+    } ],
+    "ref" : "548472"
+  }, {
+    "items" : [ {
+      "value" : "To celebrate your Champion level, you now have unlimited access to the speed circuit. ",
+      "locale" : "us"
+    }, {
+      "value" : "To celebrate your Champion level, you now have unlimited access to the speed circuit. ",
+      "locale" : "ja"
+    }, {
+      "value" : "To celebrate your Champion level, you now have unlimited access to the speed circuit. ",
+      "locale" : "sp"
+    }, {
+      "value" : "To celebrate your Champion level, you now have unlimited access to the speed circuit. ",
+      "locale" : "ko"
+    }, {
+      "value" : "To celebrate your Champion level, you now have unlimited access to the speed circuit. ",
+      "locale" : "ge"
+    }, {
+      "value" : "To celebrate your Champion level, you now have unlimited access to the speed circuit. ",
+      "locale" : "ch"
+    }, {
+      "value" : "To celebrate your Champion level, you now have unlimited access to the speed circuit. ",
+      "locale" : "it"
+    }, {
+      "value" : "To celebrate your Champion level, you now have unlimited access to the speed circuit. ",
+      "locale" : "fr"
+    } ],
+    "ref" : "558472"
+  }, {
+    "items" : [ {
+      "value" : "You have discovered every single road on the island. You deserve a very special gift: the highest house of them all!",
+      "locale" : "us"
+    }, {
+      "value" : "You have discovered every single road on the island. You deserve a very special gift: the highest house of them all!",
+      "locale" : "ja"
+    }, {
+      "value" : "You have discovered every single road on the island. You deserve a very special gift: the highest house of them all!",
+      "locale" : "sp"
+    }, {
+      "value" : "You have discovered every single road on the island. You deserve a very special gift: the highest house of them all!",
+      "locale" : "ko"
+    }, {
+      "value" : "You have discovered every single road on the island. You deserve a very special gift: the highest house of them all!",
+      "locale" : "ge"
+    }, {
+      "value" : "You have discovered every single road on the island. You deserve a very special gift: the highest house of them all!",
+      "locale" : "ch"
+    }, {
+      "value" : "You have discovered every single road on the island. You deserve a very special gift: the highest house of them all!",
+      "locale" : "it"
+    }, {
+      "value" : "You have discovered every single road on the island. You deserve a very special gift: the highest house of them all!",
+      "locale" : "fr"
+    } ],
+    "ref" : "568472"
+  }, {
+    "items" : [ {
+      "value" : "You have discovered all the car showrooms on the island. Congratulations! You may now visit the bike showrooms.",
+      "locale" : "us"
+    }, {
+      "value" : "You have discovered all the car showrooms on the island. Congratulations! You may now visit the bike showrooms.",
+      "locale" : "ja"
+    }, {
+      "value" : "You have discovered all the car showrooms on the island. Congratulations! You may now visit the bike showrooms.",
+      "locale" : "sp"
+    }, {
+      "value" : "You have discovered all the car showrooms on the island. Congratulations! You may now visit the bike showrooms.",
+      "locale" : "ko"
+    }, {
+      "value" : "You have discovered all the car showrooms on the island. Congratulations! You may now visit the bike showrooms.",
+      "locale" : "ge"
+    }, {
+      "value" : "You have discovered all the car showrooms on the island. Congratulations! You may now visit the bike showrooms.",
+      "locale" : "ch"
+    }, {
+      "value" : "You have discovered all the car showrooms on the island. Congratulations! You may now visit the bike showrooms.",
+      "locale" : "it"
+    }, {
+      "value" : "You have discovered all the car showrooms on the island. Congratulations! You may now visit the bike showrooms.",
+      "locale" : "fr"
+    } ],
+    "ref" : "578472"
+  }, {
+    "items" : [ {
+      "value" : "You have just successfully completed the most difficult challenge. You have unlocked the §CARNAME§. You may pick it up at §SHOPNAME§.",
+      "locale" : "us"
+    }, {
+      "value" : "You have just successfully completed the most difficult challenge. You have unlocked the §CARNAME§. You may pick it up at §SHOPNAME§.",
+      "locale" : "ja"
+    }, {
+      "value" : "You have just successfully completed the most difficult challenge. You have unlocked the §CARNAME§. You may pick it up at §SHOPNAME§.",
+      "locale" : "sp"
+    }, {
+      "value" : "You have just successfully completed the most difficult challenge. You have unlocked the §CARNAME§. You may pick it up at §SHOPNAME§.",
+      "locale" : "ko"
+    }, {
+      "value" : "You have just successfully completed the most difficult challenge. You have unlocked the §CARNAME§. You may pick it up at §SHOPNAME§.",
+      "locale" : "ge"
+    }, {
+      "value" : "You have just successfully completed the most difficult challenge. You have unlocked the §CARNAME§. You may pick it up at §SHOPNAME§.",
+      "locale" : "ch"
+    }, {
+      "value" : "You have just successfully completed the most difficult challenge. You have unlocked the §CARNAME§. You may pick it up at §SHOPNAME§.",
+      "locale" : "it"
+    }, {
+      "value" : "You have just successfully completed the most difficult challenge. You have unlocked the §CARNAME§. You may pick it up at §SHOPNAME§.",
+      "locale" : "fr"
+    } ],
+    "ref" : "588472"
+  }, {
+    "items" : [ {
+      "value" : "You have successfully completed one of the most awesome races on the island. You now have access to the luxury paint shop.",
+      "locale" : "us"
+    }, {
+      "value" : "You have successfully completed one of the most awesome races on the island. You now have access to the luxury paint shop.",
+      "locale" : "ja"
+    }, {
+      "value" : "You have successfully completed one of the most awesome races on the island. You now have access to the luxury paint shop.",
+      "locale" : "sp"
+    }, {
+      "value" : "You have successfully completed one of the most awesome races on the island. You now have access to the luxury paint shop.",
+      "locale" : "ko"
+    }, {
+      "value" : "You have successfully completed one of the most awesome races on the island. You now have access to the luxury paint shop.",
+      "locale" : "ge"
+    }, {
+      "value" : "You have successfully completed one of the most awesome races on the island. You now have access to the luxury paint shop.",
+      "locale" : "ch"
+    }, {
+      "value" : "You have successfully completed one of the most awesome races on the island. You now have access to the luxury paint shop.",
+      "locale" : "it"
+    }, {
+      "value" : "You have successfully completed one of the most awesome races on the island. You now have access to the luxury paint shop.",
+      "locale" : "fr"
+    } ],
+    "ref" : "598472"
+  }, {
+    "items" : [ {
+      "value" : "You own two cars. Using CHRONOPACK, you can compare their respective performances. This gadget is now available by pressing the K key.",
+      "locale" : "us"
+    }, {
+      "value" : "You own two cars. Using CHRONOPACK, you can compare their respective performances. This gadget is now available by pressing the K key.",
+      "locale" : "ja"
+    }, {
+      "value" : "You own two cars. Using CHRONOPACK, you can compare their respective performances. This gadget is now available by pressing the K key.",
+      "locale" : "sp"
+    }, {
+      "value" : "You own two cars. Using CHRONOPACK, you can compare their respective performances. This gadget is now available by pressing the K key.",
+      "locale" : "ko"
+    }, {
+      "value" : "You own two cars. Using CHRONOPACK, you can compare their respective performances. This gadget is now available by pressing the K key.",
+      "locale" : "ge"
+    }, {
+      "value" : "You own two cars. Using CHRONOPACK, you can compare their respective performances. This gadget is now available by pressing the K key.",
+      "locale" : "ch"
+    }, {
+      "value" : "You own two cars. Using CHRONOPACK, you can compare their respective performances. This gadget is now available by pressing the K key.",
+      "locale" : "it"
+    }, {
+      "value" : "You own two cars. Using CHRONOPACK, you can compare their respective performances. This gadget is now available by pressing the K key.",
+      "locale" : "fr"
+    } ],
+    "ref" : "608472"
+  }, {
+    "items" : [ {
+      "value" : "To celebrate the fact that you have reached Champion level, you can now freely access the speed track. The HARDCORE mode will also be available in the menu every time you launch the game.",
+      "locale" : "us"
+    }, {
+      "value" : "To celebrate the fact that you have reached Champion level, you can now freely access the speed track. The HARDCORE mode will also be available in the menu every time you launch the game.",
+      "locale" : "ja"
+    }, {
+      "value" : "To celebrate the fact that you have reached Champion level, you can now freely access the speed track. The HARDCORE mode will also be available in the menu every time you launch the game.",
+      "locale" : "sp"
+    }, {
+      "value" : "To celebrate the fact that you have reached Champion level, you can now freely access the speed track. The HARDCORE mode will also be available in the menu every time you launch the game.",
+      "locale" : "ko"
+    }, {
+      "value" : "To celebrate the fact that you have reached Champion level, you can now freely access the speed track. The HARDCORE mode will also be available in the menu every time you launch the game.",
+      "locale" : "ge"
+    }, {
+      "value" : "To celebrate the fact that you have reached Champion level, you can now freely access the speed track. The HARDCORE mode will also be available in the menu every time you launch the game.",
+      "locale" : "ch"
+    }, {
+      "value" : "To celebrate the fact that you have reached Champion level, you can now freely access the speed track. The HARDCORE mode will also be available in the menu every time you launch the game.",
+      "locale" : "it"
+    }, {
+      "value" : "To celebrate the fact that you have reached Champion level, you can now freely access the speed track. The HARDCORE mode will also be available in the menu every time you launch the game.",
+      "locale" : "fr"
+    } ],
+    "ref" : "618472"
+  }, {
+    "items" : [ {
+      "value" : "??",
+      "locale" : "us"
+    } ],
+    "ref" : "551129540"
+  }, {
+    "items" : [ {
+      "value" : "You can't do that yet",
+      "locale" : "us"
+    }, {
+      "value" : "You can't do that yet",
+      "locale" : "ja"
+    }, {
+      "value" : "You can't do that yet",
+      "locale" : "sp"
+    }, {
+      "value" : "You can't do that yet",
+      "locale" : "ko"
+    }, {
+      "value" : "You can't do that yet",
+      "locale" : "ge"
+    }, {
+      "value" : "You can't do that yet",
+      "locale" : "ch"
+    }, {
+      "value" : "You can't do that yet",
+      "locale" : "it"
+    }, {
+      "value" : "You can't do that yet",
+      "locale" : "fr"
+    } ],
+    "ref" : "561129540"
+  }, {
+    "items" : [ {
+      "value" : "You must complete all the single TIME challenges to unlock this car.",
+      "locale" : "us"
+    }, {
+      "value" : "You must complete all the single TIME challenges to unlock this car.",
+      "locale" : "ja"
+    }, {
+      "value" : "You must complete all the single TIME challenges to unlock this car.",
+      "locale" : "sp"
+    }, {
+      "value" : "You must complete all the single TIME challenges to unlock this car.",
+      "locale" : "ko"
+    }, {
+      "value" : "You must complete all the single TIME challenges to unlock this car.",
+      "locale" : "ge"
+    }, {
+      "value" : "You must complete all the single TIME challenges to unlock this car.",
+      "locale" : "ch"
+    }, {
+      "value" : "You must complete all the single TIME challenges to unlock this car.",
+      "locale" : "it"
+    }, {
+      "value" : "You must complete all the single TIME challenges to unlock this car.",
+      "locale" : "fr"
+    } ],
+    "ref" : "571129540"
+  }, {
+    "items" : [ {
+      "value" : "You must complete all the single RACE challenges to unlock this car.",
+      "locale" : "us"
+    }, {
+      "value" : "You must complete all the single RACE challenges to unlock this car.",
+      "locale" : "ja"
+    }, {
+      "value" : "You must complete all the single RACE challenges to unlock this car.",
+      "locale" : "sp"
+    }, {
+      "value" : "You must complete all the single RACE challenges to unlock this car.",
+      "locale" : "ko"
+    }, {
+      "value" : "You must complete all the single RACE challenges to unlock this car.",
+      "locale" : "ge"
+    }, {
+      "value" : "You must complete all the single RACE challenges to unlock this car.",
+      "locale" : "ch"
+    }, {
+      "value" : "You must complete all the single RACE challenges to unlock this car.",
+      "locale" : "it"
+    }, {
+      "value" : "You must complete all the single RACE challenges to unlock this car.",
+      "locale" : "fr"
+    } ],
+    "ref" : "581129540"
+  }, {
+    "items" : [ {
+      "value" : "You must complete all the single SPEED challenges to unlock this car.",
+      "locale" : "us"
+    }, {
+      "value" : "You must complete all the single SPEED challenges to unlock this car.",
+      "locale" : "ja"
+    }, {
+      "value" : "You must complete all the single SPEED challenges to unlock this car.",
+      "locale" : "sp"
+    }, {
+      "value" : "You must complete all the single SPEED challenges to unlock this car.",
+      "locale" : "ko"
+    }, {
+      "value" : "You must complete all the single SPEED challenges to unlock this car.",
+      "locale" : "ge"
+    }, {
+      "value" : "You must complete all the single SPEED challenges to unlock this car.",
+      "locale" : "ch"
+    }, {
+      "value" : "You must complete all the single SPEED challenges to unlock this car.",
+      "locale" : "it"
+    }, {
+      "value" : "You must complete all the single SPEED challenges to unlock this car.",
+      "locale" : "fr"
+    } ],
+    "ref" : "591129540"
+  }, {
+    "items" : [ {
+      "value" : "You must complete all TOP MODEL challenges to unlock this car.",
+      "locale" : "us"
+    }, {
+      "value" : "You must complete all TOP MODEL challenges to unlock this car.",
+      "locale" : "ja"
+    }, {
+      "value" : "You must complete all TOP MODEL challenges to unlock this car.",
+      "locale" : "sp"
+    }, {
+      "value" : "You must complete all TOP MODEL challenges to unlock this car.",
+      "locale" : "ko"
+    }, {
+      "value" : "You must complete all TOP MODEL challenges to unlock this car.",
+      "locale" : "ge"
+    }, {
+      "value" : "You must complete all TOP MODEL challenges to unlock this car.",
+      "locale" : "ch"
+    }, {
+      "value" : "You must complete all TOP MODEL challenges to unlock this car.",
+      "locale" : "it"
+    }, {
+      "value" : "You must complete all TOP MODEL challenges to unlock this car.",
+      "locale" : "fr"
+    } ],
+    "ref" : "601129540"
+  }, {
+    "items" : [ {
+      "value" : "You must complete all HITCHHIKER challenges to unlock this car.",
+      "locale" : "us"
+    }, {
+      "value" : "You must complete all HITCHHIKER challenges to unlock this car.",
+      "locale" : "ja"
+    }, {
+      "value" : "You must complete all HITCHHIKER challenges to unlock this car.",
+      "locale" : "sp"
+    }, {
+      "value" : "You must complete all HITCHHIKER challenges to unlock this car.",
+      "locale" : "ko"
+    }, {
+      "value" : "You must complete all HITCHHIKER challenges to unlock this car.",
+      "locale" : "ge"
+    }, {
+      "value" : "You must complete all HITCHHIKER challenges to unlock this car.",
+      "locale" : "ch"
+    }, {
+      "value" : "You must complete all HITCHHIKER challenges to unlock this car.",
+      "locale" : "it"
+    }, {
+      "value" : "You must complete all HITCHHIKER challenges to unlock this car.",
+      "locale" : "fr"
+    } ],
+    "ref" : "611129540"
+  }, {
+    "items" : [ {
+      "value" : "You must complete all VEHICLE TRANSPORT challenges to unlock this car.",
+      "locale" : "us"
+    }, {
+      "value" : "You must complete all VEHICLE TRANSPORT challenges to unlock this car.",
+      "locale" : "ja"
+    }, {
+      "value" : "You must complete all VEHICLE TRANSPORT challenges to unlock this car.",
+      "locale" : "sp"
+    }, {
+      "value" : "You must complete all VEHICLE TRANSPORT challenges to unlock this car.",
+      "locale" : "ko"
+    }, {
+      "value" : "You must complete all VEHICLE TRANSPORT challenges to unlock this car.",
+      "locale" : "ge"
+    }, {
+      "value" : "You must complete all VEHICLE TRANSPORT challenges to unlock this car.",
+      "locale" : "ch"
+    }, {
+      "value" : "You must complete all VEHICLE TRANSPORT challenges to unlock this car.",
+      "locale" : "it"
+    }, {
+      "value" : "You must complete all VEHICLE TRANSPORT challenges to unlock this car.",
+      "locale" : "fr"
+    } ],
+    "ref" : "621129540"
+  }, {
+    "items" : [ {
+      "value" : "You must complete all COURIER challenges to unlock this car.",
+      "locale" : "us"
+    }, {
+      "value" : "You must complete all COURIER challenges to unlock this car.",
+      "locale" : "ja"
+    }, {
+      "value" : "You must complete all COURIER challenges to unlock this car.",
+      "locale" : "sp"
+    }, {
+      "value" : "You must complete all COURIER challenges to unlock this car.",
+      "locale" : "ko"
+    }, {
+      "value" : "You must complete all COURIER challenges to unlock this car.",
+      "locale" : "ge"
+    }, {
+      "value" : "You must complete all COURIER challenges to unlock this car.",
+      "locale" : "ch"
+    }, {
+      "value" : "You must complete all COURIER challenges to unlock this car.",
+      "locale" : "it"
+    }, {
+      "value" : "You must complete all COURIER challenges to unlock this car.",
+      "locale" : "fr"
+    } ],
+    "ref" : "631129540"
+  }, {
+    "items" : [ {
+      "value" : "When you reach the Amateur level, you will be able to take pictures.",
+      "locale" : "us"
+    }, {
+      "value" : "When you reach the Amateur level, you will be able to take pictures.",
+      "locale" : "ja"
+    }, {
+      "value" : "When you reach the Amateur level, you will be able to take pictures.",
+      "locale" : "sp"
+    }, {
+      "value" : "When you reach the Amateur level, you will be able to take pictures.",
+      "locale" : "ko"
+    }, {
+      "value" : "When you reach the Amateur level, you will be able to take pictures.",
+      "locale" : "ge"
+    }, {
+      "value" : "When you reach the Amateur level, you will be able to take pictures.",
+      "locale" : "ch"
+    }, {
+      "value" : "When you reach the Amateur level, you will be able to take pictures.",
+      "locale" : "it"
+    }, {
+      "value" : "When you reach the Amateur level, you will be able to take pictures.",
+      "locale" : "fr"
+    } ],
+    "ref" : "542129540"
+  }, {
+    "items" : [ {
+      "value" : "When you become a Pro, you will be able to access the custom challenge editor.",
+      "locale" : "us"
+    }, {
+      "value" : "When you become a Pro, you will be able to access the custom challenge editor.",
+      "locale" : "ja"
+    }, {
+      "value" : "When you become a Pro, you will be able to access the custom challenge editor.",
+      "locale" : "sp"
+    }, {
+      "value" : "When you become a Pro, you will be able to access the custom challenge editor.",
+      "locale" : "ko"
+    }, {
+      "value" : "When you become a Pro, you will be able to access the custom challenge editor.",
+      "locale" : "ge"
+    }, {
+      "value" : "When you become a Pro, you will be able to access the custom challenge editor.",
+      "locale" : "ch"
+    }, {
+      "value" : "When you become a Pro, you will be able to access the custom challenge editor.",
+      "locale" : "it"
+    }, {
+      "value" : "When you become a Pro, you will be able to access the custom challenge editor.",
+      "locale" : "fr"
+    } ],
+    "ref" : "552129540"
+  }, {
+    "items" : [ {
+      "value" : "To gain access to this island, you must achieve the EXPERT level.",
+      "locale" : "us"
+    }, {
+      "value" : "To gain access to this island, you must achieve the EXPERT level.",
+      "locale" : "ja"
+    }, {
+      "value" : "To gain access to this island, you must achieve the EXPERT level.",
+      "locale" : "sp"
+    }, {
+      "value" : "To gain access to this island, you must achieve the EXPERT level.",
+      "locale" : "ko"
+    }, {
+      "value" : "To gain access to this island, you must achieve the EXPERT level.",
+      "locale" : "ge"
+    }, {
+      "value" : "To gain access to this island, you must achieve the EXPERT level.",
+      "locale" : "ch"
+    }, {
+      "value" : "To gain access to this island, you must achieve the EXPERT level.",
+      "locale" : "it"
+    }, {
+      "value" : "To gain access to this island, you must achieve the EXPERT level.",
+      "locale" : "fr"
+    } ],
+    "ref" : "562129540"
+  }, {
+    "items" : [ {
+      "value" : "To gain access to this circuit, you must reach the CHAMPION level.",
+      "locale" : "us"
+    }, {
+      "value" : "To gain access to this circuit, you must reach the CHAMPION level.",
+      "locale" : "ja"
+    }, {
+      "value" : "To gain access to this circuit, you must reach the CHAMPION level.",
+      "locale" : "sp"
+    }, {
+      "value" : "To gain access to this circuit, you must reach the CHAMPION level.",
+      "locale" : "ko"
+    }, {
+      "value" : "To gain access to this circuit, you must reach the CHAMPION level.",
+      "locale" : "ge"
+    }, {
+      "value" : "To gain access to this circuit, you must reach the CHAMPION level.",
+      "locale" : "ch"
+    }, {
+      "value" : "To gain access to this circuit, you must reach the CHAMPION level.",
+      "locale" : "it"
+    }, {
+      "value" : "To gain access to this circuit, you must reach the CHAMPION level.",
+      "locale" : "fr"
+    } ],
+    "ref" : "572129540"
+  }, {
+    "items" : [ {
+      "value" : "You will win this house when you have discovered ALL the roads on the island.",
+      "locale" : "us"
+    }, {
+      "value" : "You will win this house when you have discovered ALL the roads on the island.",
+      "locale" : "ja"
+    }, {
+      "value" : "You will win this house when you have discovered ALL the roads on the island.",
+      "locale" : "sp"
+    }, {
+      "value" : "You will win this house when you have discovered ALL the roads on the island.",
+      "locale" : "ko"
+    }, {
+      "value" : "You will win this house when you have discovered ALL the roads on the island.",
+      "locale" : "ge"
+    }, {
+      "value" : "You will win this house when you have discovered ALL the roads on the island.",
+      "locale" : "ch"
+    }, {
+      "value" : "You will win this house when you have discovered ALL the roads on the island.",
+      "locale" : "it"
+    }, {
+      "value" : "You will win this house when you have discovered ALL the roads on the island.",
+      "locale" : "fr"
+    } ],
+    "ref" : "582129540"
+  }, {
+    "items" : [ {
+      "value" : "To gain access to this store, you must first discover all the car showrooms.",
+      "locale" : "us"
+    }, {
+      "value" : "To gain access to this store, you must first discover all the car showrooms.",
+      "locale" : "ja"
+    }, {
+      "value" : "To gain access to this store, you must first discover all the car showrooms.",
+      "locale" : "sp"
+    }, {
+      "value" : "To gain access to this store, you must first discover all the car showrooms.",
+      "locale" : "ko"
+    }, {
+      "value" : "To gain access to this store, you must first discover all the car showrooms.",
+      "locale" : "ge"
+    }, {
+      "value" : "To gain access to this store, you must first discover all the car showrooms.",
+      "locale" : "ch"
+    }, {
+      "value" : "To gain access to this store, you must first discover all the car showrooms.",
+      "locale" : "it"
+    }, {
+      "value" : "To gain access to this store, you must first discover all the car showrooms.",
+      "locale" : "fr"
+    } ],
+    "ref" : "592129540"
+  }, {
+    "items" : [ {
+      "value" : "You must successfully complete the \"Tour of the Island\" challenge to unlock this car.",
+      "locale" : "us"
+    }, {
+      "value" : "You must successfully complete the \"Tour of the Island\" challenge to unlock this car.",
+      "locale" : "ja"
+    }, {
+      "value" : "You must successfully complete the \"Tour of the Island\" challenge to unlock this car.",
+      "locale" : "sp"
+    }, {
+      "value" : "You must successfully complete the \"Tour of the Island\" challenge to unlock this car.",
+      "locale" : "ko"
+    }, {
+      "value" : "You must successfully complete the \"Tour of the Island\" challenge to unlock this car.",
+      "locale" : "ge"
+    }, {
+      "value" : "You must successfully complete the \"Tour of the Island\" challenge to unlock this car.",
+      "locale" : "ch"
+    }, {
+      "value" : "You must successfully complete the \"Tour of the Island\" challenge to unlock this car.",
+      "locale" : "it"
+    }, {
+      "value" : "You must successfully complete the \"Tour of the Island\" challenge to unlock this car.",
+      "locale" : "fr"
+    } ],
+    "ref" : "602129540"
+  }, {
+    "items" : [ {
+      "value" : "To gain access to this location, you must successfully complete the §RACE_LUX§ race.",
+      "locale" : "us"
+    }, {
+      "value" : "To gain access to this location, you must successfully complete the §RACE_LUX§ race.",
+      "locale" : "ja"
+    }, {
+      "value" : "To gain access to this location, you must successfully complete the §RACE_LUX§ race.",
+      "locale" : "sp"
+    }, {
+      "value" : "To gain access to this location, you must successfully complete the §RACE_LUX§ race.",
+      "locale" : "ko"
+    }, {
+      "value" : "To gain access to this location, you must successfully complete the §RACE_LUX§ race.",
+      "locale" : "ge"
+    }, {
+      "value" : "To gain access to this location, you must successfully complete the §RACE_LUX§ race.",
+      "locale" : "ch"
+    }, {
+      "value" : "To gain access to this location, you must successfully complete the §RACE_LUX§ race.",
+      "locale" : "it"
+    }, {
+      "value" : "To gain access to this location, you must successfully complete the §RACE_LUX§ race.",
+      "locale" : "fr"
+    } ],
+    "ref" : "612129540"
+  }, {
+    "items" : [ {
+      "value" : "??",
+      "locale" : "us"
+    } ],
+    "ref" : "53400734"
+  }, {
+    "items" : [ {
+      "value" : "SINGLE PLAYER VIC. - LEVEL 1",
+      "locale" : "us"
+    }, {
+      "value" : "SINGLE PLAYER VIC. - LEVEL 1",
+      "locale" : "ja"
+    }, {
+      "value" : "SINGLE PLAYER VIC. - LEVEL 1",
+      "locale" : "sp"
+    }, {
+      "value" : "SINGLE PLAYER VIC. - LEVEL 1",
+      "locale" : "ko"
+    }, {
+      "value" : "SINGLE PLAYER VIC. - LEVEL 1",
+      "locale" : "ge"
+    }, {
+      "value" : "SINGLE PLAYER VIC. - LEVEL 1",
+      "locale" : "ch"
+    }, {
+      "value" : "SINGLE PLAYER VIC. - LEVEL 1",
+      "locale" : "it"
+    }, {
+      "value" : "SINGLE PLAYER VIC. - LEVEL 1",
+      "locale" : "fr"
+    } ],
+    "ref" : "54400734"
+  }, {
+    "items" : [ {
+      "value" : "SINGLE PLAYER VIC. - LEVEL 2",
+      "locale" : "us"
+    }, {
+      "value" : "SINGLE PLAYER VIC. - LEVEL 2",
+      "locale" : "ja"
+    }, {
+      "value" : "SINGLE PLAYER VIC. - LEVEL 2",
+      "locale" : "sp"
+    }, {
+      "value" : "SINGLE PLAYER VIC. - LEVEL 2",
+      "locale" : "ko"
+    }, {
+      "value" : "SINGLE PLAYER VIC. - LEVEL 2",
+      "locale" : "ge"
+    }, {
+      "value" : "SINGLE PLAYER VIC. - LEVEL 2",
+      "locale" : "ch"
+    }, {
+      "value" : "SINGLE PLAYER VIC. - LEVEL 2",
+      "locale" : "it"
+    }, {
+      "value" : "SINGLE PLAYER VIC. - LEVEL 2",
+      "locale" : "fr"
+    } ],
+    "ref" : "55400734"
+  }, {
+    "items" : [ {
+      "value" : "SINGLE PLAYER VIC. - LEVEL 3",
+      "locale" : "us"
+    }, {
+      "value" : "SINGLE PLAYER VIC. - LEVEL 3",
+      "locale" : "ja"
+    }, {
+      "value" : "SINGLE PLAYER VIC. - LEVEL 3",
+      "locale" : "sp"
+    }, {
+      "value" : "SINGLE PLAYER VIC. - LEVEL 3",
+      "locale" : "ko"
+    }, {
+      "value" : "SINGLE PLAYER VIC. - LEVEL 3",
+      "locale" : "ge"
+    }, {
+      "value" : "SINGLE PLAYER VIC. - LEVEL 3",
+      "locale" : "ch"
+    }, {
+      "value" : "SINGLE PLAYER VIC. - LEVEL 3",
+      "locale" : "it"
+    }, {
+      "value" : "SINGLE PLAYER VIC. - LEVEL 3",
+      "locale" : "fr"
+    } ],
+    "ref" : "56400734"
+  }, {
+    "items" : [ {
+      "value" : "SINGLE PLAYER VIC. - LEVEL 4",
+      "locale" : "us"
+    }, {
+      "value" : "SINGLE PLAYER VIC. - LEVEL 4",
+      "locale" : "ja"
+    }, {
+      "value" : "SINGLE PLAYER VIC. - LEVEL 4",
+      "locale" : "sp"
+    }, {
+      "value" : "SINGLE PLAYER VIC. - LEVEL 4",
+      "locale" : "ko"
+    }, {
+      "value" : "SINGLE PLAYER VIC. - LEVEL 4",
+      "locale" : "ge"
+    }, {
+      "value" : "SINGLE PLAYER VIC. - LEVEL 4",
+      "locale" : "ch"
+    }, {
+      "value" : "SINGLE PLAYER VIC. - LEVEL 4",
+      "locale" : "it"
+    }, {
+      "value" : "SINGLE PLAYER VIC. - LEVEL 4",
+      "locale" : "fr"
+    } ],
+    "ref" : "57400734"
+  }, {
+    "items" : [ {
+      "value" : "SINGLE PLAYER VIC. - LEVEL 5",
+      "locale" : "us"
+    }, {
+      "value" : "SINGLE PLAYER VIC. - LEVEL 5",
+      "locale" : "ja"
+    }, {
+      "value" : "SINGLE PLAYER VIC. - LEVEL 5",
+      "locale" : "sp"
+    }, {
+      "value" : "SINGLE PLAYER VIC. - LEVEL 5",
+      "locale" : "ko"
+    }, {
+      "value" : "SINGLE PLAYER VIC. - LEVEL 5",
+      "locale" : "ge"
+    }, {
+      "value" : "SINGLE PLAYER VIC. - LEVEL 5",
+      "locale" : "ch"
+    }, {
+      "value" : "SINGLE PLAYER VIC. - LEVEL 5",
+      "locale" : "it"
+    }, {
+      "value" : "SINGLE PLAYER VIC. - LEVEL 5",
+      "locale" : "fr"
+    } ],
+    "ref" : "58400734"
+  }, {
+    "items" : [ {
+      "value" : "SINGLE PLAYER TIME CHALLENGES",
+      "locale" : "us"
+    }, {
+      "value" : "SINGLE PLAYER TIME CHALLENGES",
+      "locale" : "ja"
+    }, {
+      "value" : "SINGLE PLAYER TIME CHALLENGES",
+      "locale" : "sp"
+    }, {
+      "value" : "SINGLE PLAYER TIME CHALLENGES",
+      "locale" : "ko"
+    }, {
+      "value" : "SINGLE PLAYER TIME CHALLENGES",
+      "locale" : "ge"
+    }, {
+      "value" : "SINGLE PLAYER TIME CHALLENGES",
+      "locale" : "ch"
+    }, {
+      "value" : "SINGLE PLAYER TIME CHALLENGES",
+      "locale" : "it"
+    }, {
+      "value" : "SINGLE PLAYER TIME CHALLENGES",
+      "locale" : "fr"
+    } ],
+    "ref" : "59400734"
+  }, {
+    "items" : [ {
+      "value" : "SINGLE PLAYER RACE CHALLENGES",
+      "locale" : "us"
+    }, {
+      "value" : "SINGLE PLAYER RACE CHALLENGES",
+      "locale" : "ja"
+    }, {
+      "value" : "SINGLE PLAYER RACE CHALLENGES",
+      "locale" : "sp"
+    }, {
+      "value" : "SINGLE PLAYER RACE CHALLENGES",
+      "locale" : "ko"
+    }, {
+      "value" : "SINGLE PLAYER RACE CHALLENGES",
+      "locale" : "ge"
+    }, {
+      "value" : "SINGLE PLAYER RACE CHALLENGES",
+      "locale" : "ch"
+    }, {
+      "value" : "SINGLE PLAYER RACE CHALLENGES",
+      "locale" : "it"
+    }, {
+      "value" : "SINGLE PLAYER RACE CHALLENGES",
+      "locale" : "fr"
+    } ],
+    "ref" : "60400734"
+  }, {
+    "items" : [ {
+      "value" : "SINGLE PLAYER SPEED CHALLENGES",
+      "locale" : "us"
+    }, {
+      "value" : "SINGLE PLAYER SPEED CHALLENGES",
+      "locale" : "ja"
+    }, {
+      "value" : "SINGLE PLAYER SPEED CHALLENGES",
+      "locale" : "sp"
+    }, {
+      "value" : "SINGLE PLAYER SPEED CHALLENGES",
+      "locale" : "ko"
+    }, {
+      "value" : "SINGLE PLAYER SPEED CHALLENGES",
+      "locale" : "ge"
+    }, {
+      "value" : "SINGLE PLAYER SPEED CHALLENGES",
+      "locale" : "ch"
+    }, {
+      "value" : "SINGLE PLAYER SPEED CHALLENGES",
+      "locale" : "it"
+    }, {
+      "value" : "SINGLE PLAYER SPEED CHALLENGES",
+      "locale" : "fr"
+    } ],
+    "ref" : "61400734"
+  }, {
+    "items" : [ {
+      "value" : "ISLAND TOUR",
+      "locale" : "us"
+    }, {
+      "value" : "ISLAND TOUR",
+      "locale" : "ja"
+    }, {
+      "value" : "ISLAND TOUR",
+      "locale" : "sp"
+    }, {
+      "value" : "ISLAND TOUR",
+      "locale" : "ko"
+    }, {
+      "value" : "ISLAND TOUR",
+      "locale" : "ge"
+    }, {
+      "value" : "ISLAND TOUR",
+      "locale" : "ch"
+    }, {
+      "value" : "ISLAND TOUR",
+      "locale" : "it"
+    }, {
+      "value" : "ISLAND TOUR",
+      "locale" : "fr"
+    } ],
+    "ref" : "62400734"
+  }, {
+    "items" : [ {
+      "value" : "MULTIPLAYER VIC. - LEVEL 1",
+      "locale" : "us"
+    }, {
+      "value" : "MULTIPLAYER VIC. - LEVEL 1",
+      "locale" : "ja"
+    }, {
+      "value" : "MULTIPLAYER VIC. - LEVEL 1",
+      "locale" : "sp"
+    }, {
+      "value" : "MULTIPLAYER VIC. - LEVEL 1",
+      "locale" : "ko"
+    }, {
+      "value" : "MULTIPLAYER VIC. - LEVEL 1",
+      "locale" : "ge"
+    }, {
+      "value" : "MULTIPLAYER VIC. - LEVEL 1",
+      "locale" : "ch"
+    }, {
+      "value" : "MULTIPLAYER VIC. - LEVEL 1",
+      "locale" : "it"
+    }, {
+      "value" : "MULTIPLAYER VIC. - LEVEL 1",
+      "locale" : "fr"
+    } ],
+    "ref" : "53500734"
+  }, {
+    "items" : [ {
+      "value" : "MULTIPLAYER VIC. - LEVEL 2",
+      "locale" : "us"
+    }, {
+      "value" : "MULTIPLAYER VIC. - LEVEL 2",
+      "locale" : "ja"
+    }, {
+      "value" : "MULTIPLAYER VIC. - LEVEL 2",
+      "locale" : "sp"
+    }, {
+      "value" : "MULTIPLAYER VIC. - LEVEL 2",
+      "locale" : "ko"
+    }, {
+      "value" : "MULTIPLAYER VIC. - LEVEL 2",
+      "locale" : "ge"
+    }, {
+      "value" : "MULTIPLAYER VIC. - LEVEL 2",
+      "locale" : "ch"
+    }, {
+      "value" : "MULTIPLAYER VIC. - LEVEL 2",
+      "locale" : "it"
+    }, {
+      "value" : "MULTIPLAYER VIC. - LEVEL 2",
+      "locale" : "fr"
+    } ],
+    "ref" : "54500734"
+  }, {
+    "items" : [ {
+      "value" : "MULTIPLAYER VIC. - LEVEL 3",
+      "locale" : "us"
+    }, {
+      "value" : "MULTIPLAYER VIC. - LEVEL 3",
+      "locale" : "ja"
+    }, {
+      "value" : "MULTIPLAYER VIC. - LEVEL 3",
+      "locale" : "sp"
+    }, {
+      "value" : "MULTIPLAYER VIC. - LEVEL 3",
+      "locale" : "ko"
+    }, {
+      "value" : "MULTIPLAYER VIC. - LEVEL 3",
+      "locale" : "ge"
+    }, {
+      "value" : "MULTIPLAYER VIC. - LEVEL 3",
+      "locale" : "ch"
+    }, {
+      "value" : "MULTIPLAYER VIC. - LEVEL 3",
+      "locale" : "it"
+    }, {
+      "value" : "MULTIPLAYER VIC. - LEVEL 3",
+      "locale" : "fr"
+    } ],
+    "ref" : "55500734"
+  }, {
+    "items" : [ {
+      "value" : "SUCCESSFUL MISSIONS - LEVEL 1",
+      "locale" : "us"
+    }, {
+      "value" : "SUCCESSFUL MISSIONS - LEVEL 1",
+      "locale" : "ja"
+    }, {
+      "value" : "SUCCESSFUL MISSIONS - LEVEL 1",
+      "locale" : "sp"
+    }, {
+      "value" : "SUCCESSFUL MISSIONS - LEVEL 1",
+      "locale" : "ko"
+    }, {
+      "value" : "SUCCESSFUL MISSIONS - LEVEL 1",
+      "locale" : "ge"
+    }, {
+      "value" : "SUCCESSFUL MISSIONS - LEVEL 1",
+      "locale" : "ch"
+    }, {
+      "value" : "SUCCESSFUL MISSIONS - LEVEL 1",
+      "locale" : "it"
+    }, {
+      "value" : "SUCCESSFUL MISSIONS - LEVEL 1",
+      "locale" : "fr"
+    } ],
+    "ref" : "56500734"
+  }, {
+    "items" : [ {
+      "value" : "SUCCESSFUL MISSIONS - LEVEL 2",
+      "locale" : "us"
+    }, {
+      "value" : "SUCCESSFUL MISSIONS - LEVEL 2",
+      "locale" : "ja"
+    }, {
+      "value" : "SUCCESSFUL MISSIONS - LEVEL 2",
+      "locale" : "sp"
+    }, {
+      "value" : "SUCCESSFUL MISSIONS - LEVEL 2",
+      "locale" : "ko"
+    }, {
+      "value" : "SUCCESSFUL MISSIONS - LEVEL 2",
+      "locale" : "ge"
+    }, {
+      "value" : "SUCCESSFUL MISSIONS - LEVEL 2",
+      "locale" : "ch"
+    }, {
+      "value" : "SUCCESSFUL MISSIONS - LEVEL 2",
+      "locale" : "it"
+    }, {
+      "value" : "SUCCESSFUL MISSIONS - LEVEL 2",
+      "locale" : "fr"
+    } ],
+    "ref" : "57500734"
+  }, {
+    "items" : [ {
+      "value" : "SUCCESSFUL MISSIONS - LEVEL 3",
+      "locale" : "us"
+    }, {
+      "value" : "SUCCESSFUL MISSIONS - LEVEL 3",
+      "locale" : "ja"
+    }, {
+      "value" : "SUCCESSFUL MISSIONS - LEVEL 3",
+      "locale" : "sp"
+    }, {
+      "value" : "SUCCESSFUL MISSIONS - LEVEL 3",
+      "locale" : "ko"
+    }, {
+      "value" : "SUCCESSFUL MISSIONS - LEVEL 3",
+      "locale" : "ge"
+    }, {
+      "value" : "SUCCESSFUL MISSIONS - LEVEL 3",
+      "locale" : "ch"
+    }, {
+      "value" : "SUCCESSFUL MISSIONS - LEVEL 3",
+      "locale" : "it"
+    }, {
+      "value" : "SUCCESSFUL MISSIONS - LEVEL 3",
+      "locale" : "fr"
+    } ],
+    "ref" : "58500734"
+  }, {
+    "items" : [ {
+      "value" : "SUCCESSFUL MISSIONS - LEVEL 4",
+      "locale" : "us"
+    }, {
+      "value" : "SUCCESSFUL MISSIONS - LEVEL 4",
+      "locale" : "ja"
+    }, {
+      "value" : "SUCCESSFUL MISSIONS - LEVEL 4",
+      "locale" : "sp"
+    }, {
+      "value" : "SUCCESSFUL MISSIONS - LEVEL 4",
+      "locale" : "ko"
+    }, {
+      "value" : "SUCCESSFUL MISSIONS - LEVEL 4",
+      "locale" : "ge"
+    }, {
+      "value" : "SUCCESSFUL MISSIONS - LEVEL 4",
+      "locale" : "ch"
+    }, {
+      "value" : "SUCCESSFUL MISSIONS - LEVEL 4",
+      "locale" : "it"
+    }, {
+      "value" : "SUCCESSFUL MISSIONS - LEVEL 4",
+      "locale" : "fr"
+    } ],
+    "ref" : "59500734"
+  }, {
+    "items" : [ {
+      "value" : "INSTANT CHALLENGE VICTORIES",
+      "locale" : "us"
+    }, {
+      "value" : "INSTANT CHALLENGE VICTORIES",
+      "locale" : "ja"
+    }, {
+      "value" : "INSTANT CHALLENGE VICTORIES",
+      "locale" : "sp"
+    }, {
+      "value" : "INSTANT CHALLENGE VICTORIES",
+      "locale" : "ko"
+    }, {
+      "value" : "INSTANT CHALLENGE VICTORIES",
+      "locale" : "ge"
+    }, {
+      "value" : "INSTANT CHALLENGE VICTORIES",
+      "locale" : "ch"
+    }, {
+      "value" : "INSTANT CHALLENGE VICTORIES",
+      "locale" : "it"
+    }, {
+      "value" : "INSTANT CHALLENGE VICTORIES",
+      "locale" : "fr"
+    } ],
+    "ref" : "60500734"
+  }, {
+    "items" : [ {
+      "value" : "SHARING CUSTOM CHALLENGES ",
+      "locale" : "us"
+    }, {
+      "value" : "SHARING CUSTOM CHALLENGES ",
+      "locale" : "ja"
+    }, {
+      "value" : "SHARING CUSTOM CHALLENGES ",
+      "locale" : "sp"
+    }, {
+      "value" : "SHARING CUSTOM CHALLENGES ",
+      "locale" : "ko"
+    }, {
+      "value" : "SHARING CUSTOM CHALLENGES ",
+      "locale" : "ge"
+    }, {
+      "value" : "SHARING CUSTOM CHALLENGES ",
+      "locale" : "ch"
+    }, {
+      "value" : "SHARING CUSTOM CHALLENGES ",
+      "locale" : "it"
+    }, {
+      "value" : "SHARING CUSTOM CHALLENGES ",
+      "locale" : "fr"
+    } ],
+    "ref" : "61500734"
+  }, {
+    "items" : [ {
+      "value" : "CUSTOM CHALLENGE VICTORIES",
+      "locale" : "us"
+    }, {
+      "value" : "CUSTOM CHALLENGE VICTORIES",
+      "locale" : "ja"
+    }, {
+      "value" : "CUSTOM CHALLENGE VICTORIES",
+      "locale" : "sp"
+    }, {
+      "value" : "CUSTOM CHALLENGE VICTORIES",
+      "locale" : "ko"
+    }, {
+      "value" : "CUSTOM CHALLENGE VICTORIES",
+      "locale" : "ge"
+    }, {
+      "value" : "CUSTOM CHALLENGE VICTORIES",
+      "locale" : "ch"
+    }, {
+      "value" : "CUSTOM CHALLENGE VICTORIES",
+      "locale" : "it"
+    }, {
+      "value" : "CUSTOM CHALLENGE VICTORIES",
+      "locale" : "fr"
+    } ],
+    "ref" : "62500734"
+  }, {
+    "items" : [ {
+      "value" : "CLUB MEMBER ",
+      "locale" : "us"
+    }, {
+      "value" : "CLUB MEMBER ",
+      "locale" : "ja"
+    }, {
+      "value" : "CLUB MEMBER ",
+      "locale" : "sp"
+    }, {
+      "value" : "CLUB MEMBER ",
+      "locale" : "ko"
+    }, {
+      "value" : "CLUB MEMBER ",
+      "locale" : "ge"
+    }, {
+      "value" : "CLUB MEMBER ",
+      "locale" : "ch"
+    }, {
+      "value" : "CLUB MEMBER ",
+      "locale" : "it"
+    }, {
+      "value" : "CLUB MEMBER ",
+      "locale" : "fr"
+    } ],
+    "ref" : "53600734"
+  }, {
+    "items" : [ {
+      "value" : "CLUB RACE VICTORIES",
+      "locale" : "us"
+    }, {
+      "value" : "CLUB RACE VICTORIES",
+      "locale" : "ja"
+    }, {
+      "value" : "CLUB RACE VICTORIES",
+      "locale" : "sp"
+    }, {
+      "value" : "CLUB RACE VICTORIES",
+      "locale" : "ko"
+    }, {
+      "value" : "CLUB RACE VICTORIES",
+      "locale" : "ge"
+    }, {
+      "value" : "CLUB RACE VICTORIES",
+      "locale" : "ch"
+    }, {
+      "value" : "CLUB RACE VICTORIES",
+      "locale" : "it"
+    }, {
+      "value" : "CLUB RACE VICTORIES",
+      "locale" : "fr"
+    } ],
+    "ref" : "54600734"
+  }, {
+    "items" : [ {
+      "value" : "TRADE",
+      "locale" : "us"
+    }, {
+      "value" : "TRADE",
+      "locale" : "ja"
+    }, {
+      "value" : "TRADE",
+      "locale" : "sp"
+    }, {
+      "value" : "TRADE",
+      "locale" : "ko"
+    }, {
+      "value" : "TRADE",
+      "locale" : "ge"
+    }, {
+      "value" : "TRADE",
+      "locale" : "ch"
+    }, {
+      "value" : "TRADE",
+      "locale" : "it"
+    }, {
+      "value" : "TRADE",
+      "locale" : "fr"
+    } ],
+    "ref" : "55600734"
+  }, {
+    "items" : [ {
+      "value" : "FERRARI COLLECTOR",
+      "locale" : "us"
+    }, {
+      "value" : "FERRARI COLLECTOR",
+      "locale" : "ja"
+    }, {
+      "value" : "FERRARI COLLECTOR",
+      "locale" : "sp"
+    }, {
+      "value" : "FERRARI COLLECTOR",
+      "locale" : "ko"
+    }, {
+      "value" : "FERRARI COLLECTOR",
+      "locale" : "ge"
+    }, {
+      "value" : "FERRARI COLLECTOR",
+      "locale" : "ch"
+    }, {
+      "value" : "FERRARI COLLECTOR",
+      "locale" : "it"
+    }, {
+      "value" : "FERRARI COLLECTOR",
+      "locale" : "fr"
+    } ],
+    "ref" : "56600734"
+  }, {
+    "items" : [ {
+      "value" : "LAMBORGHINI COLLECTOR",
+      "locale" : "us"
+    }, {
+      "value" : "LAMBORGHINI COLLECTOR",
+      "locale" : "ja"
+    }, {
+      "value" : "LAMBORGHINI COLLECTOR",
+      "locale" : "sp"
+    }, {
+      "value" : "LAMBORGHINI COLLECTOR",
+      "locale" : "ko"
+    }, {
+      "value" : "LAMBORGHINI COLLECTOR",
+      "locale" : "ge"
+    }, {
+      "value" : "LAMBORGHINI COLLECTOR",
+      "locale" : "ch"
+    }, {
+      "value" : "LAMBORGHINI COLLECTOR",
+      "locale" : "it"
+    }, {
+      "value" : "LAMBORGHINI COLLECTOR",
+      "locale" : "fr"
+    } ],
+    "ref" : "57600734"
+  }, {
+    "items" : [ {
+      "value" : "MERCEDES-BENZ COLLECTOR",
+      "locale" : "us"
+    }, {
+      "value" : "MERCEDES-BENZ COLLECTOR",
+      "locale" : "ja"
+    }, {
+      "value" : "MERCEDES-BENZ COLLECTOR",
+      "locale" : "sp"
+    }, {
+      "value" : "MERCEDES-BENZ COLLECTOR",
+      "locale" : "ko"
+    }, {
+      "value" : "MERCEDES-BENZ COLLECTOR",
+      "locale" : "ge"
+    }, {
+      "value" : "MERCEDES-BENZ COLLECTOR",
+      "locale" : "ch"
+    }, {
+      "value" : "MERCEDES-BENZ COLLECTOR",
+      "locale" : "it"
+    }, {
+      "value" : "MERCEDES-BENZ COLLECTOR",
+      "locale" : "fr"
+    } ],
+    "ref" : "58600734"
+  }, {
+    "items" : [ {
+      "value" : "CHEVROLET COLLECTOR",
+      "locale" : "us"
+    }, {
+      "value" : "CHEVROLET COLLECTOR",
+      "locale" : "ja"
+    }, {
+      "value" : "CHEVROLET COLLECTOR",
+      "locale" : "sp"
+    }, {
+      "value" : "CHEVROLET COLLECTOR",
+      "locale" : "ko"
+    }, {
+      "value" : "CHEVROLET COLLECTOR",
+      "locale" : "ge"
+    }, {
+      "value" : "CHEVROLET COLLECTOR",
+      "locale" : "ch"
+    }, {
+      "value" : "CHEVROLET COLLECTOR",
+      "locale" : "it"
+    }, {
+      "value" : "CHEVROLET COLLECTOR",
+      "locale" : "fr"
+    } ],
+    "ref" : "59600734"
+  }, {
+    "items" : [ {
+      "value" : "ASTON MARTIN COLLECTOR",
+      "locale" : "us"
+    }, {
+      "value" : "ASTON MARTIN COLLECTOR",
+      "locale" : "ja"
+    }, {
+      "value" : "ASTON MARTIN COLLECTOR",
+      "locale" : "sp"
+    }, {
+      "value" : "ASTON MARTIN COLLECTOR",
+      "locale" : "ko"
+    }, {
+      "value" : "ASTON MARTIN COLLECTOR",
+      "locale" : "ge"
+    }, {
+      "value" : "ASTON MARTIN COLLECTOR",
+      "locale" : "ch"
+    }, {
+      "value" : "ASTON MARTIN COLLECTOR",
+      "locale" : "it"
+    }, {
+      "value" : "ASTON MARTIN COLLECTOR",
+      "locale" : "fr"
+    } ],
+    "ref" : "60600734"
+  }, {
+    "items" : [ {
+      "value" : "FORD COLLECTOR",
+      "locale" : "us"
+    }, {
+      "value" : "FORD COLLECTOR",
+      "locale" : "ja"
+    }, {
+      "value" : "FORD COLLECTOR",
+      "locale" : "sp"
+    }, {
+      "value" : "FORD COLLECTOR",
+      "locale" : "ko"
+    }, {
+      "value" : "FORD COLLECTOR",
+      "locale" : "ge"
+    }, {
+      "value" : "FORD COLLECTOR",
+      "locale" : "ch"
+    }, {
+      "value" : "FORD COLLECTOR",
+      "locale" : "it"
+    }, {
+      "value" : "FORD COLLECTOR",
+      "locale" : "fr"
+    } ],
+    "ref" : "61600734"
+  }, {
+    "items" : [ {
+      "value" : "MOST VARIED COLLECTOR ",
+      "locale" : "us"
+    }, {
+      "value" : "MOST VARIED COLLECTOR ",
+      "locale" : "ja"
+    }, {
+      "value" : "MOST VARIED COLLECTOR ",
+      "locale" : "sp"
+    }, {
+      "value" : "MOST VARIED COLLECTOR ",
+      "locale" : "ko"
+    }, {
+      "value" : "MOST VARIED COLLECTOR ",
+      "locale" : "ge"
+    }, {
+      "value" : "MOST VARIED COLLECTOR ",
+      "locale" : "ch"
+    }, {
+      "value" : "MOST VARIED COLLECTOR ",
+      "locale" : "it"
+    }, {
+      "value" : "MOST VARIED COLLECTOR ",
+      "locale" : "fr"
+    } ],
+    "ref" : "62600734"
+  }, {
+    "items" : [ {
+      "value" : "BIKE COLLECTOR",
+      "locale" : "us"
+    }, {
+      "value" : "BIKE COLLECTOR",
+      "locale" : "ja"
+    }, {
+      "value" : "BIKE COLLECTOR",
+      "locale" : "sp"
+    }, {
+      "value" : "BIKE COLLECTOR",
+      "locale" : "ko"
+    }, {
+      "value" : "BIKE COLLECTOR",
+      "locale" : "ge"
+    }, {
+      "value" : "BIKE COLLECTOR",
+      "locale" : "ch"
+    }, {
+      "value" : "BIKE COLLECTOR",
+      "locale" : "it"
+    }, {
+      "value" : "BIKE COLLECTOR",
+      "locale" : "fr"
+    } ],
+    "ref" : "53700734"
+  }, {
+    "items" : [ {
+      "value" : "BEN SHERMAN COLLECTOR",
+      "locale" : "us"
+    }, {
+      "value" : "BEN SHERMAN COLLECTOR",
+      "locale" : "ja"
+    }, {
+      "value" : "BEN SHERMAN COLLECTOR",
+      "locale" : "sp"
+    }, {
+      "value" : "BEN SHERMAN COLLECTOR",
+      "locale" : "ko"
+    }, {
+      "value" : "BEN SHERMAN COLLECTOR",
+      "locale" : "ge"
+    }, {
+      "value" : "BEN SHERMAN COLLECTOR",
+      "locale" : "ch"
+    }, {
+      "value" : "BEN SHERMAN COLLECTOR",
+      "locale" : "it"
+    }, {
+      "value" : "BEN SHERMAN COLLECTOR",
+      "locale" : "fr"
+    } ],
+    "ref" : "54700734"
+  }, {
+    "items" : [ {
+      "value" : "*ecko unltd. COLLECTOR",
+      "locale" : "us"
+    }, {
+      "value" : "*ecko unltd. COLLECTOR",
+      "locale" : "ja"
+    }, {
+      "value" : "*ecko unltd. COLLECTOR",
+      "locale" : "sp"
+    }, {
+      "value" : "*ecko unltd. COLLECTOR",
+      "locale" : "ko"
+    }, {
+      "value" : "*ecko unltd. COLLECTOR",
+      "locale" : "ge"
+    }, {
+      "value" : "*ecko unltd. COLLECTOR",
+      "locale" : "ch"
+    }, {
+      "value" : "*ecko unltd. COLLECTOR",
+      "locale" : "it"
+    }, {
+      "value" : "*ecko unltd. COLLECTOR",
+      "locale" : "fr"
+    } ],
+    "ref" : "55700734"
+  }, {
+    "items" : [ {
+      "value" : "TUNER ",
+      "locale" : "us"
+    }, {
+      "value" : "TUNER ",
+      "locale" : "ja"
+    }, {
+      "value" : "TUNER ",
+      "locale" : "sp"
+    }, {
+      "value" : "TUNER ",
+      "locale" : "ko"
+    }, {
+      "value" : "TUNER ",
+      "locale" : "ge"
+    }, {
+      "value" : "TUNER ",
+      "locale" : "ch"
+    }, {
+      "value" : "TUNER ",
+      "locale" : "it"
+    }, {
+      "value" : "TUNER ",
+      "locale" : "fr"
+    } ],
+    "ref" : "56700734"
+  }, {
+    "items" : [ {
+      "value" : "EXPLORER",
+      "locale" : "us"
+    }, {
+      "value" : "EXPLORER",
+      "locale" : "ja"
+    }, {
+      "value" : "EXPLORER",
+      "locale" : "sp"
+    }, {
+      "value" : "EXPLORER",
+      "locale" : "ko"
+    }, {
+      "value" : "EXPLORER",
+      "locale" : "ge"
+    }, {
+      "value" : "EXPLORER",
+      "locale" : "ch"
+    }, {
+      "value" : "EXPLORER",
+      "locale" : "it"
+    }, {
+      "value" : "EXPLORER",
+      "locale" : "fr"
+    } ],
+    "ref" : "57700734"
+  }, {
+    "items" : [ {
+      "value" : "PHOTOGRAPHER",
+      "locale" : "us"
+    } ],
+    "ref" : "58700734"
+  }, {
+    "items" : [ {
+      "value" : "EASYGOING TOURIST",
+      "locale" : "us"
+    }, {
+      "value" : "EASYGOING TOURIST",
+      "locale" : "ja"
+    }, {
+      "value" : "EASYGOING TOURIST",
+      "locale" : "sp"
+    }, {
+      "value" : "EASYGOING TOURIST",
+      "locale" : "ko"
+    }, {
+      "value" : "EASYGOING TOURIST",
+      "locale" : "ge"
+    }, {
+      "value" : "EASYGOING TOURIST",
+      "locale" : "ch"
+    }, {
+      "value" : "EASYGOING TOURIST",
+      "locale" : "it"
+    }, {
+      "value" : "EASYGOING TOURIST",
+      "locale" : "fr"
+    } ],
+    "ref" : "59700734"
+  }, {
+    "items" : [ {
+      "value" : "STEADFAST TOURIST",
+      "locale" : "us"
+    }, {
+      "value" : "STEADFAST TOURIST",
+      "locale" : "ja"
+    }, {
+      "value" : "STEADFAST TOURIST",
+      "locale" : "sp"
+    }, {
+      "value" : "STEADFAST TOURIST",
+      "locale" : "ko"
+    }, {
+      "value" : "STEADFAST TOURIST",
+      "locale" : "ge"
+    }, {
+      "value" : "STEADFAST TOURIST",
+      "locale" : "ch"
+    }, {
+      "value" : "STEADFAST TOURIST",
+      "locale" : "it"
+    }, {
+      "value" : "STEADFAST TOURIST",
+      "locale" : "fr"
+    } ],
+    "ref" : "60700734"
+  }, {
+    "items" : [ {
+      "value" : "TRAVELLER",
+      "locale" : "us"
+    }, {
+      "value" : "TRAVELLER",
+      "locale" : "ja"
+    }, {
+      "value" : "TRAVELLER",
+      "locale" : "sp"
+    }, {
+      "value" : "TRAVELLER",
+      "locale" : "ko"
+    }, {
+      "value" : "TRAVELLER",
+      "locale" : "ge"
+    }, {
+      "value" : "TRAVELLER",
+      "locale" : "ch"
+    }, {
+      "value" : "TRAVELLER",
+      "locale" : "it"
+    }, {
+      "value" : "TRAVELLER",
+      "locale" : "fr"
+    } ],
+    "ref" : "61700734"
+  }, {
+    "items" : [ {
+      "value" : "SEASONED TRAVELLER",
+      "locale" : "us"
+    }, {
+      "value" : "SEASONED TRAVELLER",
+      "locale" : "ja"
+    }, {
+      "value" : "SEASONED TRAVELLER",
+      "locale" : "sp"
+    }, {
+      "value" : "SEASONED TRAVELLER",
+      "locale" : "ko"
+    }, {
+      "value" : "SEASONED TRAVELLER",
+      "locale" : "ge"
+    }, {
+      "value" : "SEASONED TRAVELLER",
+      "locale" : "ch"
+    }, {
+      "value" : "SEASONED TRAVELLER",
+      "locale" : "it"
+    }, {
+      "value" : "SEASONED TRAVELLER",
+      "locale" : "fr"
+    } ],
+    "ref" : "62700734"
+  }, {
+    "items" : [ {
+      "value" : "EAGLE-EYED DRIVER",
+      "locale" : "us"
+    }, {
+      "value" : "EAGLE-EYED DRIVER",
+      "locale" : "ja"
+    }, {
+      "value" : "EAGLE-EYED DRIVER",
+      "locale" : "sp"
+    }, {
+      "value" : "EAGLE-EYED DRIVER",
+      "locale" : "ko"
+    }, {
+      "value" : "EAGLE-EYED DRIVER",
+      "locale" : "ge"
+    }, {
+      "value" : "EAGLE-EYED DRIVER",
+      "locale" : "ch"
+    }, {
+      "value" : "EAGLE-EYED DRIVER",
+      "locale" : "it"
+    }, {
+      "value" : "EAGLE-EYED DRIVER",
+      "locale" : "fr"
+    } ],
+    "ref" : "53800734"
+  }, {
+    "items" : [ {
+      "value" : "OWNER",
+      "locale" : "us"
+    }, {
+      "value" : "OWNER",
+      "locale" : "ja"
+    }, {
+      "value" : "OWNER",
+      "locale" : "sp"
+    }, {
+      "value" : "OWNER",
+      "locale" : "ko"
+    }, {
+      "value" : "OWNER",
+      "locale" : "ge"
+    }, {
+      "value" : "OWNER",
+      "locale" : "ch"
+    }, {
+      "value" : "OWNER",
+      "locale" : "it"
+    }, {
+      "value" : "OWNER",
+      "locale" : "fr"
+    } ],
+    "ref" : "54800734"
+  }, {
+    "items" : [ {
+      "value" : "REAL-ESTATE TYCOON",
+      "locale" : "us"
+    }, {
+      "value" : "REAL-ESTATE TYCOON",
+      "locale" : "ja"
+    }, {
+      "value" : "REAL-ESTATE TYCOON",
+      "locale" : "sp"
+    }, {
+      "value" : "REAL-ESTATE TYCOON",
+      "locale" : "ko"
+    }, {
+      "value" : "REAL-ESTATE TYCOON",
+      "locale" : "ge"
+    }, {
+      "value" : "REAL-ESTATE TYCOON",
+      "locale" : "ch"
+    }, {
+      "value" : "REAL-ESTATE TYCOON",
+      "locale" : "it"
+    }, {
+      "value" : "REAL-ESTATE TYCOON",
+      "locale" : "fr"
+    } ],
+    "ref" : "55800734"
+  }, {
+    "items" : [ {
+      "value" : "SMALL COLLECTOR",
+      "locale" : "us"
+    }, {
+      "value" : "SMALL COLLECTOR",
+      "locale" : "ja"
+    }, {
+      "value" : "SMALL COLLECTOR",
+      "locale" : "sp"
+    }, {
+      "value" : "SMALL COLLECTOR",
+      "locale" : "ko"
+    }, {
+      "value" : "SMALL COLLECTOR",
+      "locale" : "ge"
+    }, {
+      "value" : "SMALL COLLECTOR",
+      "locale" : "ch"
+    }, {
+      "value" : "SMALL COLLECTOR",
+      "locale" : "it"
+    }, {
+      "value" : "SMALL COLLECTOR",
+      "locale" : "fr"
+    } ],
+    "ref" : "56800734"
+  }, {
+    "items" : [ {
+      "value" : "SINGLE PLAYER VIC. - LEVEL 6",
+      "locale" : "us"
+    }, {
+      "value" : "SINGLE PLAYER VIC. - LEVEL 6",
+      "locale" : "ja"
+    }, {
+      "value" : "SINGLE PLAYER VIC. - LEVEL 6",
+      "locale" : "sp"
+    }, {
+      "value" : "SINGLE PLAYER VIC. - LEVEL 6",
+      "locale" : "ko"
+    }, {
+      "value" : "SINGLE PLAYER VIC. - LEVEL 6",
+      "locale" : "ge"
+    }, {
+      "value" : "SINGLE PLAYER VIC. - LEVEL 6",
+      "locale" : "ch"
+    }, {
+      "value" : "SINGLE PLAYER VIC. - LEVEL 6",
+      "locale" : "it"
+    }, {
+      "value" : "SINGLE PLAYER VIC. - LEVEL 6",
+      "locale" : "fr"
+    } ],
+    "ref" : "57800734"
+  }, {
+    "items" : [ {
+      "value" : "AMATEUR COLLECTOR",
+      "locale" : "us"
+    }, {
+      "value" : "AMATEUR COLLECTOR",
+      "locale" : "ja"
+    }, {
+      "value" : "AMATEUR COLLECTOR",
+      "locale" : "sp"
+    }, {
+      "value" : "AMATEUR COLLECTOR",
+      "locale" : "ko"
+    }, {
+      "value" : "AMATEUR COLLECTOR",
+      "locale" : "ge"
+    }, {
+      "value" : "AMATEUR COLLECTOR",
+      "locale" : "ch"
+    }, {
+      "value" : "AMATEUR COLLECTOR",
+      "locale" : "it"
+    }, {
+      "value" : "AMATEUR COLLECTOR",
+      "locale" : "fr"
+    } ],
+    "ref" : "58800734"
+  }, {
+    "items" : [ {
+      "value" : "CONFIRMED COLLECTOR",
+      "locale" : "us"
+    }, {
+      "value" : "CONFIRMED COLLECTOR",
+      "locale" : "ja"
+    }, {
+      "value" : "CONFIRMED COLLECTOR",
+      "locale" : "sp"
+    }, {
+      "value" : "CONFIRMED COLLECTOR",
+      "locale" : "ko"
+    }, {
+      "value" : "CONFIRMED COLLECTOR",
+      "locale" : "ge"
+    }, {
+      "value" : "CONFIRMED COLLECTOR",
+      "locale" : "ch"
+    }, {
+      "value" : "CONFIRMED COLLECTOR",
+      "locale" : "it"
+    }, {
+      "value" : "CONFIRMED COLLECTOR",
+      "locale" : "fr"
+    } ],
+    "ref" : "59800734"
+  }, {
+    "items" : [ {
+      "value" : "EXTREME COLLECTOR ",
+      "locale" : "us"
+    }, {
+      "value" : "EXTREME COLLECTOR ",
+      "locale" : "ja"
+    }, {
+      "value" : "EXTREME COLLECTOR ",
+      "locale" : "sp"
+    }, {
+      "value" : "EXTREME COLLECTOR ",
+      "locale" : "ko"
+    }, {
+      "value" : "EXTREME COLLECTOR ",
+      "locale" : "ge"
+    }, {
+      "value" : "EXTREME COLLECTOR ",
+      "locale" : "ch"
+    }, {
+      "value" : "EXTREME COLLECTOR ",
+      "locale" : "it"
+    }, {
+      "value" : "EXTREME COLLECTOR ",
+      "locale" : "fr"
+    } ],
+    "ref" : "60800734"
+  }, {
+    "items" : [ {
+      "value" : "??",
+      "locale" : "us"
+    } ],
+    "ref" : "53359455"
+  }, {
+    "items" : [ {
+      "value" : "Win the Gold cup in 5 Single Player challenges.",
+      "locale" : "us"
+    }, {
+      "value" : "Win the Gold cup in 5 Single Player challenges.",
+      "locale" : "ja"
+    }, {
+      "value" : "Win the Gold cup in 5 Single Player challenges.",
+      "locale" : "sp"
+    }, {
+      "value" : "Win the Gold cup in 5 Single Player challenges.",
+      "locale" : "ko"
+    }, {
+      "value" : "Win the Gold cup in 5 Single Player challenges.",
+      "locale" : "ge"
+    }, {
+      "value" : "Win the Gold cup in 5 Single Player challenges.",
+      "locale" : "ch"
+    }, {
+      "value" : "Win the Gold cup in 5 Single Player challenges.",
+      "locale" : "it"
+    }, {
+      "value" : "Win the Gold cup in 5 Single Player challenges.",
+      "locale" : "fr"
+    } ],
+    "ref" : "54359455"
+  }, {
+    "items" : [ {
+      "value" : "Win the Gold cup in 10 Single Player challenges.",
+      "locale" : "us"
+    }, {
+      "value" : "Win the Gold cup in 10 Single Player challenges.",
+      "locale" : "ja"
+    }, {
+      "value" : "Win the Gold cup in 10 Single Player challenges.",
+      "locale" : "sp"
+    }, {
+      "value" : "Win the Gold cup in 10 Single Player challenges.",
+      "locale" : "ko"
+    }, {
+      "value" : "Win the Gold cup in 10 Single Player challenges.",
+      "locale" : "ge"
+    }, {
+      "value" : "Win the Gold cup in 10 Single Player challenges.",
+      "locale" : "ch"
+    }, {
+      "value" : "Win the Gold cup in 10 Single Player challenges.",
+      "locale" : "it"
+    }, {
+      "value" : "Win the Gold cup in 10 Single Player challenges.",
+      "locale" : "fr"
+    } ],
+    "ref" : "55359455"
+  }, {
+    "items" : [ {
+      "value" : "Win the Gold cup in 20 Single Player challenges. ",
+      "locale" : "us"
+    }, {
+      "value" : "Win the Gold cup in 20 Single Player challenges. ",
+      "locale" : "ja"
+    }, {
+      "value" : "Win the Gold cup in 20 Single Player challenges. ",
+      "locale" : "sp"
+    }, {
+      "value" : "Win the Gold cup in 20 Single Player challenges. ",
+      "locale" : "ko"
+    }, {
+      "value" : "Win the Gold cup in 20 Single Player challenges. ",
+      "locale" : "ge"
+    }, {
+      "value" : "Win the Gold cup in 20 Single Player challenges. ",
+      "locale" : "ch"
+    }, {
+      "value" : "Win the Gold cup in 20 Single Player challenges. ",
+      "locale" : "it"
+    }, {
+      "value" : "Win the Gold cup in 20 Single Player challenges. ",
+      "locale" : "fr"
+    } ],
+    "ref" : "56359455"
+  }, {
+    "items" : [ {
+      "value" : "Win the Gold cup in 40 Single Player challenges. ",
+      "locale" : "us"
+    }, {
+      "value" : "Win the Gold cup in 40 Single Player challenges. ",
+      "locale" : "ja"
+    }, {
+      "value" : "Win the Gold cup in 40 Single Player challenges. ",
+      "locale" : "sp"
+    }, {
+      "value" : "Win the Gold cup in 40 Single Player challenges. ",
+      "locale" : "ko"
+    }, {
+      "value" : "Win the Gold cup in 40 Single Player challenges. ",
+      "locale" : "ge"
+    }, {
+      "value" : "Win the Gold cup in 40 Single Player challenges. ",
+      "locale" : "ch"
+    }, {
+      "value" : "Win the Gold cup in 40 Single Player challenges. ",
+      "locale" : "it"
+    }, {
+      "value" : "Win the Gold cup in 40 Single Player challenges. ",
+      "locale" : "fr"
+    } ],
+    "ref" : "57359455"
+  }, {
+    "items" : [ {
+      "value" : "Win the Gold cup in ALL the Single Player challenges. ",
+      "locale" : "us"
+    }, {
+      "value" : "Win the Gold cup in ALL the Single Player challenges. ",
+      "locale" : "ja"
+    }, {
+      "value" : "Win the Gold cup in ALL the Single Player challenges. ",
+      "locale" : "sp"
+    }, {
+      "value" : "Win the Gold cup in ALL the Single Player challenges. ",
+      "locale" : "ko"
+    }, {
+      "value" : "Win the Gold cup in ALL the Single Player challenges. ",
+      "locale" : "ge"
+    }, {
+      "value" : "Win the Gold cup in ALL the Single Player challenges. ",
+      "locale" : "ch"
+    }, {
+      "value" : "Win the Gold cup in ALL the Single Player challenges. ",
+      "locale" : "it"
+    }, {
+      "value" : "Win the Gold cup in ALL the Single Player challenges. ",
+      "locale" : "fr"
+    } ],
+    "ref" : "58359455"
+  }, {
+    "items" : [ {
+      "value" : "Win the Gold cup in ALL the Single Player TIME challenges. ",
+      "locale" : "us"
+    }, {
+      "value" : "Win the Gold cup in ALL the Single Player TIME challenges. ",
+      "locale" : "ja"
+    }, {
+      "value" : "Win the Gold cup in ALL the Single Player TIME challenges. ",
+      "locale" : "sp"
+    }, {
+      "value" : "Win the Gold cup in ALL the Single Player TIME challenges. ",
+      "locale" : "ko"
+    }, {
+      "value" : "Win the Gold cup in ALL the Single Player TIME challenges. ",
+      "locale" : "ge"
+    }, {
+      "value" : "Win the Gold cup in ALL the Single Player TIME challenges. ",
+      "locale" : "ch"
+    }, {
+      "value" : "Win the Gold cup in ALL the Single Player TIME challenges. ",
+      "locale" : "it"
+    }, {
+      "value" : "Win the Gold cup in ALL the Single Player TIME challenges. ",
+      "locale" : "fr"
+    } ],
+    "ref" : "59359455"
+  }, {
+    "items" : [ {
+      "value" : "Win the Gold cup in ALL the Single Player RACES challenges. ",
+      "locale" : "us"
+    }, {
+      "value" : "Win the Gold cup in ALL the Single Player RACES challenges. ",
+      "locale" : "ja"
+    }, {
+      "value" : "Win the Gold cup in ALL the Single Player RACES challenges. ",
+      "locale" : "sp"
+    }, {
+      "value" : "Win the Gold cup in ALL the Single Player RACES challenges. ",
+      "locale" : "ko"
+    }, {
+      "value" : "Win the Gold cup in ALL the Single Player RACES challenges. ",
+      "locale" : "ge"
+    }, {
+      "value" : "Win the Gold cup in ALL the Single Player RACES challenges. ",
+      "locale" : "ch"
+    }, {
+      "value" : "Win the Gold cup in ALL the Single Player RACES challenges. ",
+      "locale" : "it"
+    }, {
+      "value" : "Win the Gold cup in ALL the Single Player RACES challenges. ",
+      "locale" : "fr"
+    } ],
+    "ref" : "60359455"
+  }, {
+    "items" : [ {
+      "value" : "Win the Gold cup in ALL the Single Player SPEED challenges. ",
+      "locale" : "us"
+    }, {
+      "value" : "Win the Gold cup in ALL the Single Player SPEED challenges. ",
+      "locale" : "ja"
+    }, {
+      "value" : "Win the Gold cup in ALL the Single Player SPEED challenges. ",
+      "locale" : "sp"
+    }, {
+      "value" : "Win the Gold cup in ALL the Single Player SPEED challenges. ",
+      "locale" : "ko"
+    }, {
+      "value" : "Win the Gold cup in ALL the Single Player SPEED challenges. ",
+      "locale" : "ge"
+    }, {
+      "value" : "Win the Gold cup in ALL the Single Player SPEED challenges. ",
+      "locale" : "ch"
+    }, {
+      "value" : "Win the Gold cup in ALL the Single Player SPEED challenges. ",
+      "locale" : "it"
+    }, {
+      "value" : "Win the Gold cup in ALL the Single Player SPEED challenges. ",
+      "locale" : "fr"
+    } ],
+    "ref" : "61359455"
+  }, {
+    "items" : [ {
+      "value" : "Win the Gold cup in the \"Island Tour\" challenge. ",
+      "locale" : "us"
+    }, {
+      "value" : "Win the Gold cup in the \"Island Tour\" challenge. ",
+      "locale" : "ja"
+    }, {
+      "value" : "Win the Gold cup in the \"Island Tour\" challenge. ",
+      "locale" : "sp"
+    }, {
+      "value" : "Win the Gold cup in the \"Island Tour\" challenge. ",
+      "locale" : "ko"
+    }, {
+      "value" : "Win the Gold cup in the \"Island Tour\" challenge. ",
+      "locale" : "ge"
+    }, {
+      "value" : "Win the Gold cup in the \"Island Tour\" challenge. ",
+      "locale" : "ch"
+    }, {
+      "value" : "Win the Gold cup in the \"Island Tour\" challenge. ",
+      "locale" : "it"
+    }, {
+      "value" : "Win the Gold cup in the \"Island Tour\" challenge. ",
+      "locale" : "fr"
+    } ],
+    "ref" : "62359455"
+  }, {
+    "items" : [ {
+      "value" : "Win 3 MULTIPLAYER races.",
+      "locale" : "us"
+    } ],
+    "ref" : "53459455"
+  }, {
+    "items" : [ {
+      "value" : "Take 15 victories in multiplayer races. ",
+      "locale" : "us"
+    } ],
+    "ref" : "54459455"
+  }, {
+    "items" : [ {
+      "value" : "Take 30 victories in multiplayer races. ",
+      "locale" : "us"
+    } ],
+    "ref" : "55459455"
+  }, {
+    "items" : [ {
+      "value" : "Successfully complete 3 missions (Top-Model, Hitchhiker, Vehicle Transport and Courier).",
+      "locale" : "us"
+    }, {
+      "value" : "Successfully complete 3 missions (Top-Model, Hitchhiker, Vehicle Transport and Courier).",
+      "locale" : "ja"
+    }, {
+      "value" : "Successfully complete 3 missions (Top-Model, Hitchhiker, Vehicle Transport and Courier).",
+      "locale" : "sp"
+    }, {
+      "value" : "Successfully complete 3 missions (Top-Model, Hitchhiker, Vehicle Transport and Courier).",
+      "locale" : "ko"
+    }, {
+      "value" : "Successfully complete 3 missions (Top-Model, Hitchhiker, Vehicle Transport and Courier).",
+      "locale" : "ge"
+    }, {
+      "value" : "Successfully complete 3 missions (Top-Model, Hitchhiker, Vehicle Transport and Courier).",
+      "locale" : "ch"
+    }, {
+      "value" : "Successfully complete 3 missions (Top-Model, Hitchhiker, Vehicle Transport and Courier).",
+      "locale" : "it"
+    }, {
+      "value" : "Successfully complete 3 missions (Top-Model, Hitchhiker, Vehicle Transport and Courier).",
+      "locale" : "fr"
+    } ],
+    "ref" : "56459455"
+  }, {
+    "items" : [ {
+      "value" : "Successfully complete 15 missions (Top-Model, Hitchhiker, Vehicle Transport and Courier).",
+      "locale" : "us"
+    }, {
+      "value" : "Successfully complete 15 missions (Top-Model, Hitchhiker, Vehicle Transport and Courier).",
+      "locale" : "ja"
+    }, {
+      "value" : "Successfully complete 15 missions (Top-Model, Hitchhiker, Vehicle Transport and Courier).",
+      "locale" : "sp"
+    }, {
+      "value" : "Successfully complete 15 missions (Top-Model, Hitchhiker, Vehicle Transport and Courier).",
+      "locale" : "ko"
+    }, {
+      "value" : "Successfully complete 15 missions (Top-Model, Hitchhiker, Vehicle Transport and Courier).",
+      "locale" : "ge"
+    }, {
+      "value" : "Successfully complete 15 missions (Top-Model, Hitchhiker, Vehicle Transport and Courier).",
+      "locale" : "ch"
+    }, {
+      "value" : "Successfully complete 15 missions (Top-Model, Hitchhiker, Vehicle Transport and Courier).",
+      "locale" : "it"
+    }, {
+      "value" : "Successfully complete 15 missions (Top-Model, Hitchhiker, Vehicle Transport and Courier).",
+      "locale" : "fr"
+    } ],
+    "ref" : "57459455"
+  }, {
+    "items" : [ {
+      "value" : "Successfully complete 40 missions (Top-Model, Hitchhiker, Vehicle Transport and Courier).",
+      "locale" : "us"
+    }, {
+      "value" : "Successfully complete 40 missions (Top-Model, Hitchhiker, Vehicle Transport and Courier).",
+      "locale" : "ja"
+    }, {
+      "value" : "Successfully complete 40 missions (Top-Model, Hitchhiker, Vehicle Transport and Courier).",
+      "locale" : "sp"
+    }, {
+      "value" : "Successfully complete 40 missions (Top-Model, Hitchhiker, Vehicle Transport and Courier).",
+      "locale" : "ko"
+    }, {
+      "value" : "Successfully complete 40 missions (Top-Model, Hitchhiker, Vehicle Transport and Courier).",
+      "locale" : "ge"
+    }, {
+      "value" : "Successfully complete 40 missions (Top-Model, Hitchhiker, Vehicle Transport and Courier).",
+      "locale" : "ch"
+    }, {
+      "value" : "Successfully complete 40 missions (Top-Model, Hitchhiker, Vehicle Transport and Courier).",
+      "locale" : "it"
+    }, {
+      "value" : "Successfully complete 40 missions (Top-Model, Hitchhiker, Vehicle Transport and Courier).",
+      "locale" : "fr"
+    } ],
+    "ref" : "58459455"
+  }, {
+    "items" : [ {
+      "value" : "Successfully complete ALL the missions (Top-Model, Hitchhiker, Vehicle Transport and Courier).",
+      "locale" : "us"
+    }, {
+      "value" : "Successfully complete ALL the missions (Top-Model, Hitchhiker, Vehicle Transport and Courier).",
+      "locale" : "ja"
+    }, {
+      "value" : "Successfully complete ALL the missions (Top-Model, Hitchhiker, Vehicle Transport and Courier).",
+      "locale" : "sp"
+    }, {
+      "value" : "Successfully complete ALL the missions (Top-Model, Hitchhiker, Vehicle Transport and Courier).",
+      "locale" : "ko"
+    }, {
+      "value" : "Successfully complete ALL the missions (Top-Model, Hitchhiker, Vehicle Transport and Courier).",
+      "locale" : "ge"
+    }, {
+      "value" : "Successfully complete ALL the missions (Top-Model, Hitchhiker, Vehicle Transport and Courier).",
+      "locale" : "ch"
+    }, {
+      "value" : "Successfully complete ALL the missions (Top-Model, Hitchhiker, Vehicle Transport and Courier).",
+      "locale" : "it"
+    }, {
+      "value" : "Successfully complete ALL the missions (Top-Model, Hitchhiker, Vehicle Transport and Courier).",
+      "locale" : "fr"
+    } ],
+    "ref" : "59459455"
+  }, {
+    "items" : [ {
+      "value" : "Take 5 victories in Instant Challenges. ",
+      "locale" : "us"
+    }, {
+      "value" : "Take 5 victories in Instant Challenges. ",
+      "locale" : "ja"
+    }, {
+      "value" : "Take 5 victories in Instant Challenges. ",
+      "locale" : "sp"
+    }, {
+      "value" : "Take 5 victories in Instant Challenges. ",
+      "locale" : "ko"
+    }, {
+      "value" : "Take 5 victories in Instant Challenges. ",
+      "locale" : "ge"
+    }, {
+      "value" : "Take 5 victories in Instant Challenges. ",
+      "locale" : "ch"
+    }, {
+      "value" : "Take 5 victories in Instant Challenges. ",
+      "locale" : "it"
+    }, {
+      "value" : "Take 5 victories in Instant Challenges. ",
+      "locale" : "fr"
+    } ],
+    "ref" : "60459455"
+  }, {
+    "items" : [ {
+      "value" : "Share 3 custom challenges in the Drive-Ins. ",
+      "locale" : "us"
+    }, {
+      "value" : "Share 3 custom challenges in the Drive-Ins. ",
+      "locale" : "ja"
+    }, {
+      "value" : "Share 3 custom challenges in the Drive-Ins. ",
+      "locale" : "sp"
+    }, {
+      "value" : "Share 3 custom challenges in the Drive-Ins. ",
+      "locale" : "ko"
+    }, {
+      "value" : "Share 3 custom challenges in the Drive-Ins. ",
+      "locale" : "ge"
+    }, {
+      "value" : "Share 3 custom challenges in the Drive-Ins. ",
+      "locale" : "ch"
+    }, {
+      "value" : "Share 3 custom challenges in the Drive-Ins. ",
+      "locale" : "it"
+    }, {
+      "value" : "Share 3 custom challenges in the Drive-Ins. ",
+      "locale" : "fr"
+    } ],
+    "ref" : "61459455"
+  }, {
+    "items" : [ {
+      "value" : "Take 2 victories in the custom challenges at the Drive-Ins.",
+      "locale" : "us"
+    }, {
+      "value" : "Take 2 victories in the custom challenges at the Drive-Ins.",
+      "locale" : "ja"
+    }, {
+      "value" : "Take 2 victories in the custom challenges at the Drive-Ins.",
+      "locale" : "sp"
+    }, {
+      "value" : "Take 2 victories in the custom challenges at the Drive-Ins.",
+      "locale" : "ko"
+    }, {
+      "value" : "Take 2 victories in the custom challenges at the Drive-Ins.",
+      "locale" : "ge"
+    }, {
+      "value" : "Take 2 victories in the custom challenges at the Drive-Ins.",
+      "locale" : "ch"
+    }, {
+      "value" : "Take 2 victories in the custom challenges at the Drive-Ins.",
+      "locale" : "it"
+    }, {
+      "value" : "Take 2 victories in the custom challenges at the Drive-Ins.",
+      "locale" : "fr"
+    } ],
+    "ref" : "62459455"
+  }, {
+    "items" : [ {
+      "value" : "Create a Club or become a member of an existing Club. ",
+      "locale" : "us"
+    }, {
+      "value" : "Create a Club or become a member of an existing Club. ",
+      "locale" : "ja"
+    }, {
+      "value" : "Create a Club or become a member of an existing Club. ",
+      "locale" : "sp"
+    }, {
+      "value" : "Create a Club or become a member of an existing Club. ",
+      "locale" : "ko"
+    }, {
+      "value" : "Create a Club or become a member of an existing Club. ",
+      "locale" : "ge"
+    }, {
+      "value" : "Create a Club or become a member of an existing Club. ",
+      "locale" : "ch"
+    }, {
+      "value" : "Create a Club or become a member of an existing Club. ",
+      "locale" : "it"
+    }, {
+      "value" : "Create a Club or become a member of an existing Club. ",
+      "locale" : "fr"
+    } ],
+    "ref" : "53559455"
+  }, {
+    "items" : [ {
+      "value" : "Take 3 victories in Inter-Club races. ",
+      "locale" : "us"
+    }, {
+      "value" : "Take 3 victories in Inter-Club races. ",
+      "locale" : "ja"
+    }, {
+      "value" : "Take 3 victories in Inter-Club races. ",
+      "locale" : "sp"
+    }, {
+      "value" : "Take 3 victories in Inter-Club races. ",
+      "locale" : "ko"
+    }, {
+      "value" : "Take 3 victories in Inter-Club races. ",
+      "locale" : "ge"
+    }, {
+      "value" : "Take 3 victories in Inter-Club races. ",
+      "locale" : "ch"
+    }, {
+      "value" : "Take 3 victories in Inter-Club races. ",
+      "locale" : "it"
+    }, {
+      "value" : "Take 3 victories in Inter-Club races. ",
+      "locale" : "fr"
+    } ],
+    "ref" : "54559455"
+  }, {
+    "items" : [ {
+      "value" : "Buy or sell a vehicle from/to another member on TRADE.",
+      "locale" : "us"
+    }, {
+      "value" : "Buy or sell a vehicle from/to another member on TRADE.",
+      "locale" : "ja"
+    }, {
+      "value" : "Buy or sell a vehicle from/to another member on TRADE.",
+      "locale" : "sp"
+    }, {
+      "value" : "Buy or sell a vehicle from/to another member on TRADE.",
+      "locale" : "ko"
+    }, {
+      "value" : "Buy or sell a vehicle from/to another member on TRADE.",
+      "locale" : "ge"
+    }, {
+      "value" : "Buy or sell a vehicle from/to another member on TRADE.",
+      "locale" : "ch"
+    }, {
+      "value" : "Buy or sell a vehicle from/to another member on TRADE.",
+      "locale" : "it"
+    }, {
+      "value" : "Buy or sell a vehicle from/to another member on TRADE.",
+      "locale" : "fr"
+    } ],
+    "ref" : "55559455"
+  }, {
+    "items" : [ {
+      "value" : "Own at least 3 different FERRARI.",
+      "locale" : "us"
+    }, {
+      "value" : "Own at least 3 different FERRARI.",
+      "locale" : "ja"
+    }, {
+      "value" : "Own at least 3 different FERRARI.",
+      "locale" : "sp"
+    }, {
+      "value" : "Own at least 3 different FERRARI.",
+      "locale" : "ko"
+    }, {
+      "value" : "Own at least 3 different FERRARI.",
+      "locale" : "ge"
+    }, {
+      "value" : "Own at least 3 different FERRARI.",
+      "locale" : "ch"
+    }, {
+      "value" : "Own at least 3 different FERRARI.",
+      "locale" : "it"
+    }, {
+      "value" : "Own at least 3 different FERRARI.",
+      "locale" : "fr"
+    } ],
+    "ref" : "56559455"
+  }, {
+    "items" : [ {
+      "value" : "Own at least 3 different LAMBORGHINI. ",
+      "locale" : "us"
+    }, {
+      "value" : "Own at least 3 different LAMBORGHINI. ",
+      "locale" : "ja"
+    }, {
+      "value" : "Own at least 3 different LAMBORGHINI. ",
+      "locale" : "sp"
+    }, {
+      "value" : "Own at least 3 different LAMBORGHINI. ",
+      "locale" : "ko"
+    }, {
+      "value" : "Own at least 3 different LAMBORGHINI. ",
+      "locale" : "ge"
+    }, {
+      "value" : "Own at least 3 different LAMBORGHINI. ",
+      "locale" : "ch"
+    }, {
+      "value" : "Own at least 3 different LAMBORGHINI. ",
+      "locale" : "it"
+    }, {
+      "value" : "Own at least 3 different LAMBORGHINI. ",
+      "locale" : "fr"
+    } ],
+    "ref" : "57559455"
+  }, {
+    "items" : [ {
+      "value" : "Own at least 3 different MERCEDES-BENZes.",
+      "locale" : "us"
+    }, {
+      "value" : "Own at least 3 different MERCEDES-BENZes.",
+      "locale" : "ja"
+    }, {
+      "value" : "Own at least 3 different MERCEDES-BENZes.",
+      "locale" : "sp"
+    }, {
+      "value" : "Own at least 3 different MERCEDES-BENZes.",
+      "locale" : "ko"
+    }, {
+      "value" : "Own at least 3 different MERCEDES-BENZes.",
+      "locale" : "ge"
+    }, {
+      "value" : "Own at least 3 different MERCEDES-BENZes.",
+      "locale" : "ch"
+    }, {
+      "value" : "Own at least 3 different MERCEDES-BENZes.",
+      "locale" : "it"
+    }, {
+      "value" : "Own at least 3 different MERCEDES-BENZes.",
+      "locale" : "fr"
+    } ],
+    "ref" : "58559455"
+  }, {
+    "items" : [ {
+      "value" : "Own at least 3 different CHEVROLET.",
+      "locale" : "us"
+    }, {
+      "value" : "Own at least 3 different CHEVROLET.",
+      "locale" : "ja"
+    }, {
+      "value" : "Own at least 3 different CHEVROLET.",
+      "locale" : "sp"
+    }, {
+      "value" : "Own at least 3 different CHEVROLET.",
+      "locale" : "ko"
+    }, {
+      "value" : "Own at least 3 different CHEVROLET.",
+      "locale" : "ge"
+    }, {
+      "value" : "Own at least 3 different CHEVROLET.",
+      "locale" : "ch"
+    }, {
+      "value" : "Own at least 3 different CHEVROLET.",
+      "locale" : "it"
+    }, {
+      "value" : "Own at least 3 different CHEVROLET.",
+      "locale" : "fr"
+    } ],
+    "ref" : "59559455"
+  }, {
+    "items" : [ {
+      "value" : "Own at least 3 different ASTON MARTIN.",
+      "locale" : "us"
+    }, {
+      "value" : "Own at least 3 different ASTON MARTIN.",
+      "locale" : "ja"
+    }, {
+      "value" : "Own at least 3 different ASTON MARTIN.",
+      "locale" : "sp"
+    }, {
+      "value" : "Own at least 3 different ASTON MARTIN.",
+      "locale" : "ko"
+    }, {
+      "value" : "Own at least 3 different ASTON MARTIN.",
+      "locale" : "ge"
+    }, {
+      "value" : "Own at least 3 different ASTON MARTIN.",
+      "locale" : "ch"
+    }, {
+      "value" : "Own at least 3 different ASTON MARTIN.",
+      "locale" : "it"
+    }, {
+      "value" : "Own at least 3 different ASTON MARTIN.",
+      "locale" : "fr"
+    } ],
+    "ref" : "60559455"
+  }, {
+    "items" : [ {
+      "value" : "Own at least 3 different FORD.",
+      "locale" : "us"
+    }, {
+      "value" : "Own at least 3 different FORD.",
+      "locale" : "ja"
+    }, {
+      "value" : "Own at least 3 different FORD.",
+      "locale" : "sp"
+    }, {
+      "value" : "Own at least 3 different FORD.",
+      "locale" : "ko"
+    }, {
+      "value" : "Own at least 3 different FORD.",
+      "locale" : "ge"
+    }, {
+      "value" : "Own at least 3 different FORD.",
+      "locale" : "ch"
+    }, {
+      "value" : "Own at least 3 different FORD.",
+      "locale" : "it"
+    }, {
+      "value" : "Own at least 3 different FORD.",
+      "locale" : "fr"
+    } ],
+    "ref" : "61559455"
+  }, {
+    "items" : [ {
+      "value" : "Own at least 50 different models of cars. ",
+      "locale" : "us"
+    }, {
+      "value" : "Own at least 50 different models of cars. ",
+      "locale" : "ja"
+    }, {
+      "value" : "Own at least 50 different models of cars. ",
+      "locale" : "sp"
+    }, {
+      "value" : "Own at least 50 different models of cars. ",
+      "locale" : "ko"
+    }, {
+      "value" : "Own at least 50 different models of cars. ",
+      "locale" : "ge"
+    }, {
+      "value" : "Own at least 50 different models of cars. ",
+      "locale" : "ch"
+    }, {
+      "value" : "Own at least 50 different models of cars. ",
+      "locale" : "it"
+    }, {
+      "value" : "Own at least 50 different models of cars. ",
+      "locale" : "fr"
+    } ],
+    "ref" : "62559455"
+  }, {
+    "items" : [ {
+      "value" : "Own at least 3 different bikes. ",
+      "locale" : "us"
+    }, {
+      "value" : "Own at least 3 different bikes. ",
+      "locale" : "ja"
+    }, {
+      "value" : "Own at least 3 different bikes. ",
+      "locale" : "sp"
+    }, {
+      "value" : "Own at least 3 different bikes. ",
+      "locale" : "ko"
+    }, {
+      "value" : "Own at least 3 different bikes. ",
+      "locale" : "ge"
+    }, {
+      "value" : "Own at least 3 different bikes. ",
+      "locale" : "ch"
+    }, {
+      "value" : "Own at least 3 different bikes. ",
+      "locale" : "it"
+    }, {
+      "value" : "Own at least 3 different bikes. ",
+      "locale" : "fr"
+    } ],
+    "ref" : "53659455"
+  }, {
+    "items" : [ {
+      "value" : "Own at least 10 BEN SHERMAN items.",
+      "locale" : "us"
+    }, {
+      "value" : "Own at least 10 BEN SHERMAN items.",
+      "locale" : "ja"
+    }, {
+      "value" : "Own at least 10 BEN SHERMAN items.",
+      "locale" : "sp"
+    }, {
+      "value" : "Own at least 10 BEN SHERMAN items.",
+      "locale" : "ko"
+    }, {
+      "value" : "Own at least 10 BEN SHERMAN items.",
+      "locale" : "ge"
+    }, {
+      "value" : "Own at least 10 BEN SHERMAN items.",
+      "locale" : "ch"
+    }, {
+      "value" : "Own at least 10 BEN SHERMAN items.",
+      "locale" : "it"
+    }, {
+      "value" : "Own at least 10 BEN SHERMAN items.",
+      "locale" : "fr"
+    } ],
+    "ref" : "54659455"
+  }, {
+    "items" : [ {
+      "value" : "Own at least 10 *ecko unltd. items.",
+      "locale" : "us"
+    }, {
+      "value" : "Own at least 10 *ecko unltd. items.",
+      "locale" : "ja"
+    }, {
+      "value" : "Own at least 10 *ecko unltd. items.",
+      "locale" : "sp"
+    }, {
+      "value" : "Own at least 10 *ecko unltd. items.",
+      "locale" : "ko"
+    }, {
+      "value" : "Own at least 10 *ecko unltd. items.",
+      "locale" : "ge"
+    }, {
+      "value" : "Own at least 10 *ecko unltd. items.",
+      "locale" : "ch"
+    }, {
+      "value" : "Own at least 10 *ecko unltd. items.",
+      "locale" : "it"
+    }, {
+      "value" : "Own at least 10 *ecko unltd. items.",
+      "locale" : "fr"
+    } ],
+    "ref" : "55659455"
+  }, {
+    "items" : [ {
+      "value" : "Buy a performance pack for one of your vehicles in a Tuning Shop. ",
+      "locale" : "us"
+    }, {
+      "value" : "Buy a performance pack for one of your vehicles in a Tuning Shop. ",
+      "locale" : "ja"
+    }, {
+      "value" : "Buy a performance pack for one of your vehicles in a Tuning Shop. ",
+      "locale" : "sp"
+    }, {
+      "value" : "Buy a performance pack for one of your vehicles in a Tuning Shop. ",
+      "locale" : "ko"
+    }, {
+      "value" : "Buy a performance pack for one of your vehicles in a Tuning Shop. ",
+      "locale" : "ge"
+    }, {
+      "value" : "Buy a performance pack for one of your vehicles in a Tuning Shop. ",
+      "locale" : "ch"
+    }, {
+      "value" : "Buy a performance pack for one of your vehicles in a Tuning Shop. ",
+      "locale" : "it"
+    }, {
+      "value" : "Buy a performance pack for one of your vehicles in a Tuning Shop. ",
+      "locale" : "fr"
+    } ],
+    "ref" : "56659455"
+  }, {
+    "items" : [ {
+      "value" : "Discover all the roads on the island.",
+      "locale" : "us"
+    }, {
+      "value" : "Discover all the roads on the island.",
+      "locale" : "ja"
+    }, {
+      "value" : "Discover all the roads on the island.",
+      "locale" : "sp"
+    }, {
+      "value" : "Discover all the roads on the island.",
+      "locale" : "ko"
+    }, {
+      "value" : "Discover all the roads on the island.",
+      "locale" : "ge"
+    }, {
+      "value" : "Discover all the roads on the island.",
+      "locale" : "ch"
+    }, {
+      "value" : "Discover all the roads on the island.",
+      "locale" : "it"
+    }, {
+      "value" : "Discover all the roads on the island.",
+      "locale" : "fr"
+    } ],
+    "ref" : "57659455"
+  }, {
+    "items" : [ {
+      "value" : "Take pictures of the most beautiful vistas on the island. ",
+      "locale" : "us"
+    } ],
+    "ref" : "58659455"
+  }, {
+    "items" : [ {
+      "value" : "Cover 30 miles (48 km).",
+      "locale" : "us"
+    }, {
+      "value" : "Cover 30 miles (48 km).",
+      "locale" : "ja"
+    }, {
+      "value" : "Cover 30 miles (48 km).",
+      "locale" : "sp"
+    }, {
+      "value" : "Cover 30 miles (48 km).",
+      "locale" : "ko"
+    }, {
+      "value" : "Cover 30 miles (48 km).",
+      "locale" : "ge"
+    }, {
+      "value" : "Cover 30 miles (48 km).",
+      "locale" : "ch"
+    }, {
+      "value" : "Cover 30 miles (48 km).",
+      "locale" : "it"
+    }, {
+      "value" : "Cover 30 miles (48 km).",
+      "locale" : "fr"
+    } ],
+    "ref" : "59659455"
+  }, {
+    "items" : [ {
+      "value" : "Cover 200 miles (320 km).",
+      "locale" : "us"
+    }, {
+      "value" : "Cover 200 miles (320 km).",
+      "locale" : "ja"
+    }, {
+      "value" : "Cover 200 miles (320 km).",
+      "locale" : "sp"
+    }, {
+      "value" : "Cover 200 miles (320 km).",
+      "locale" : "ko"
+    }, {
+      "value" : "Cover 200 miles (320 km).",
+      "locale" : "ge"
+    }, {
+      "value" : "Cover 200 miles (320 km).",
+      "locale" : "ch"
+    }, {
+      "value" : "Cover 200 miles (320 km).",
+      "locale" : "it"
+    }, {
+      "value" : "Cover 200 miles (320 km).",
+      "locale" : "fr"
+    } ],
+    "ref" : "60659455"
+  }, {
+    "items" : [ {
+      "value" : "Cover 400 miles (640 km).",
+      "locale" : "us"
+    }, {
+      "value" : "Cover 400 miles (640 km).",
+      "locale" : "ja"
+    }, {
+      "value" : "Cover 400 miles (640 km).",
+      "locale" : "sp"
+    }, {
+      "value" : "Cover 400 miles (640 km).",
+      "locale" : "ko"
+    }, {
+      "value" : "Cover 400 miles (640 km).",
+      "locale" : "ge"
+    }, {
+      "value" : "Cover 400 miles (640 km).",
+      "locale" : "ch"
+    }, {
+      "value" : "Cover 400 miles (640 km).",
+      "locale" : "it"
+    }, {
+      "value" : "Cover 400 miles (640 km).",
+      "locale" : "fr"
+    } ],
+    "ref" : "61659455"
+  }, {
+    "items" : [ {
+      "value" : "Cover 1,000 miles (1,600 km).",
+      "locale" : "us"
+    }, {
+      "value" : "Cover 1,000 miles (1,600 km).",
+      "locale" : "ja"
+    }, {
+      "value" : "Cover 1,000 miles (1,600 km).",
+      "locale" : "sp"
+    }, {
+      "value" : "Cover 1,000 miles (1,600 km).",
+      "locale" : "ko"
+    }, {
+      "value" : "Cover 1,000 miles (1,600 km).",
+      "locale" : "ge"
+    }, {
+      "value" : "Cover 1,000 miles (1,600 km).",
+      "locale" : "ch"
+    }, {
+      "value" : "Cover 1,000 miles (1,600 km).",
+      "locale" : "it"
+    }, {
+      "value" : "Cover 1,000 miles (1,600 km).",
+      "locale" : "fr"
+    } ],
+    "ref" : "62659455"
+  }, {
+    "items" : [ {
+      "value" : "Cover 5,000 miles (8,000 km).",
+      "locale" : "us"
+    }, {
+      "value" : "Cover 5,000 miles (8,000 km).",
+      "locale" : "ja"
+    }, {
+      "value" : "Cover 5,000 miles (8,000 km).",
+      "locale" : "sp"
+    }, {
+      "value" : "Cover 5,000 miles (8,000 km).",
+      "locale" : "ko"
+    }, {
+      "value" : "Cover 5,000 miles (8,000 km).",
+      "locale" : "ge"
+    }, {
+      "value" : "Cover 5,000 miles (8,000 km).",
+      "locale" : "ch"
+    }, {
+      "value" : "Cover 5,000 miles (8,000 km).",
+      "locale" : "it"
+    }, {
+      "value" : "Cover 5,000 miles (8,000 km).",
+      "locale" : "fr"
+    } ],
+    "ref" : "53759455"
+  }, {
+    "items" : [ {
+      "value" : "Own at least 2 houses. ",
+      "locale" : "us"
+    }, {
+      "value" : "Own at least 2 houses. ",
+      "locale" : "ja"
+    }, {
+      "value" : "Own at least 2 houses. ",
+      "locale" : "sp"
+    }, {
+      "value" : "Own at least 2 houses. ",
+      "locale" : "ko"
+    }, {
+      "value" : "Own at least 2 houses. ",
+      "locale" : "ge"
+    }, {
+      "value" : "Own at least 2 houses. ",
+      "locale" : "ch"
+    }, {
+      "value" : "Own at least 2 houses. ",
+      "locale" : "it"
+    }, {
+      "value" : "Own at least 2 houses. ",
+      "locale" : "fr"
+    } ],
+    "ref" : "54759455"
+  }, {
+    "items" : [ {
+      "value" : "Own all 64 houses on the island. ",
+      "locale" : "us"
+    } ],
+    "ref" : "55759455"
+  }, {
+    "items" : [ {
+      "value" : "Own at least 2 different cars. ",
+      "locale" : "us"
+    }, {
+      "value" : "Own at least 2 different cars. ",
+      "locale" : "ja"
+    }, {
+      "value" : "Own at least 2 different cars. ",
+      "locale" : "sp"
+    }, {
+      "value" : "Own at least 2 different cars. ",
+      "locale" : "ko"
+    }, {
+      "value" : "Own at least 2 different cars. ",
+      "locale" : "ge"
+    }, {
+      "value" : "Own at least 2 different cars. ",
+      "locale" : "ch"
+    }, {
+      "value" : "Own at least 2 different cars. ",
+      "locale" : "it"
+    }, {
+      "value" : "Own at least 2 different cars. ",
+      "locale" : "fr"
+    } ],
+    "ref" : "56759455"
+  }, {
+    "items" : [ {
+      "value" : "Win the Gold cup in 60 Single Player challenges. ",
+      "locale" : "us"
+    }, {
+      "value" : "Win the Gold cup in 60 Single Player challenges. ",
+      "locale" : "ja"
+    }, {
+      "value" : "Win the Gold cup in 60 Single Player challenges. ",
+      "locale" : "sp"
+    }, {
+      "value" : "Win the Gold cup in 60 Single Player challenges. ",
+      "locale" : "ko"
+    }, {
+      "value" : "Win the Gold cup in 60 Single Player challenges. ",
+      "locale" : "ge"
+    }, {
+      "value" : "Win the Gold cup in 60 Single Player challenges. ",
+      "locale" : "ch"
+    }, {
+      "value" : "Win the Gold cup in 60 Single Player challenges. ",
+      "locale" : "it"
+    }, {
+      "value" : "Win the Gold cup in 60 Single Player challenges. ",
+      "locale" : "fr"
+    } ],
+    "ref" : "57759455"
+  }, {
+    "items" : [ {
+      "value" : "Own at least 4 different cars. ",
+      "locale" : "us"
+    }, {
+      "value" : "Own at least 4 different cars. ",
+      "locale" : "ja"
+    }, {
+      "value" : "Own at least 4 different cars. ",
+      "locale" : "sp"
+    }, {
+      "value" : "Own at least 4 different cars. ",
+      "locale" : "ko"
+    }, {
+      "value" : "Own at least 4 different cars. ",
+      "locale" : "ge"
+    }, {
+      "value" : "Own at least 4 different cars. ",
+      "locale" : "ch"
+    }, {
+      "value" : "Own at least 4 different cars. ",
+      "locale" : "it"
+    }, {
+      "value" : "Own at least 4 different cars. ",
+      "locale" : "fr"
+    } ],
+    "ref" : "58759455"
+  }, {
+    "items" : [ {
+      "value" : "Own at least 10 different cars. ",
+      "locale" : "us"
+    }, {
+      "value" : "Own at least 10 different cars. ",
+      "locale" : "ja"
+    }, {
+      "value" : "Own at least 10 different cars. ",
+      "locale" : "sp"
+    }, {
+      "value" : "Own at least 10 different cars. ",
+      "locale" : "ko"
+    }, {
+      "value" : "Own at least 10 different cars. ",
+      "locale" : "ge"
+    }, {
+      "value" : "Own at least 10 different cars. ",
+      "locale" : "ch"
+    }, {
+      "value" : "Own at least 10 different cars. ",
+      "locale" : "it"
+    }, {
+      "value" : "Own at least 10 different cars. ",
+      "locale" : "fr"
+    } ],
+    "ref" : "59759455"
+  }, {
+    "items" : [ {
+      "value" : "Own at least 20 different cars. ",
+      "locale" : "us"
+    }, {
+      "value" : "Own at least 20 different cars. ",
+      "locale" : "ja"
+    }, {
+      "value" : "Own at least 20 different cars. ",
+      "locale" : "sp"
+    }, {
+      "value" : "Own at least 20 different cars. ",
+      "locale" : "ko"
+    }, {
+      "value" : "Own at least 20 different cars. ",
+      "locale" : "ge"
+    }, {
+      "value" : "Own at least 20 different cars. ",
+      "locale" : "ch"
+    }, {
+      "value" : "Own at least 20 different cars. ",
+      "locale" : "it"
+    }, {
+      "value" : "Own at least 20 different cars. ",
+      "locale" : "fr"
+    } ],
+    "ref" : "60759455"
+  }, {
+    "items" : [ {
+      "value" : "Take 3 victories in multiplayer races. Only RANKED MATCHES are counted.",
+      "locale" : "us"
+    }, {
+      "value" : "Take 3 victories in multiplayer races. Only RANKED MATCHES are counted.",
+      "locale" : "ja"
+    }, {
+      "value" : "Take 3 victories in multiplayer races. Only RANKED MATCHES are counted.",
+      "locale" : "sp"
+    }, {
+      "value" : "Take 3 victories in multiplayer races. Only RANKED MATCHES are counted.",
+      "locale" : "ko"
+    }, {
+      "value" : "Take 3 victories in multiplayer races. Only RANKED MATCHES are counted.",
+      "locale" : "ge"
+    }, {
+      "value" : "Take 3 victories in multiplayer races. Only RANKED MATCHES are counted.",
+      "locale" : "ch"
+    }, {
+      "value" : "Take 3 victories in multiplayer races. Only RANKED MATCHES are counted.",
+      "locale" : "it"
+    }, {
+      "value" : "Take 3 victories in multiplayer races. Only RANKED MATCHES are counted.",
+      "locale" : "fr"
+    } ],
+    "ref" : "61759455"
+  }, {
+    "items" : [ {
+      "value" : "Take 15 victories in multiplayer races. Only RANKED MATCHES are counted.",
+      "locale" : "us"
+    }, {
+      "value" : "Take 15 victories in multiplayer races. Only RANKED MATCHES are counted.",
+      "locale" : "ja"
+    }, {
+      "value" : "Take 15 victories in multiplayer races. Only RANKED MATCHES are counted.",
+      "locale" : "sp"
+    }, {
+      "value" : "Take 15 victories in multiplayer races. Only RANKED MATCHES are counted.",
+      "locale" : "ko"
+    }, {
+      "value" : "Take 15 victories in multiplayer races. Only RANKED MATCHES are counted.",
+      "locale" : "ge"
+    }, {
+      "value" : "Take 15 victories in multiplayer races. Only RANKED MATCHES are counted.",
+      "locale" : "ch"
+    }, {
+      "value" : "Take 15 victories in multiplayer races. Only RANKED MATCHES are counted.",
+      "locale" : "it"
+    }, {
+      "value" : "Take 15 victories in multiplayer races. Only RANKED MATCHES are counted.",
+      "locale" : "fr"
+    } ],
+    "ref" : "62759455"
+  }, {
+    "items" : [ {
+      "value" : "Take 30 victories in multiplayer races. Only RANKED MATCHES are counted.",
+      "locale" : "us"
+    }, {
+      "value" : "Take 30 victories in multiplayer races. Only RANKED MATCHES are counted.",
+      "locale" : "ja"
+    }, {
+      "value" : "Take 30 victories in multiplayer races. Only RANKED MATCHES are counted.",
+      "locale" : "sp"
+    }, {
+      "value" : "Take 30 victories in multiplayer races. Only RANKED MATCHES are counted.",
+      "locale" : "ko"
+    }, {
+      "value" : "Take 30 victories in multiplayer races. Only RANKED MATCHES are counted.",
+      "locale" : "ge"
+    }, {
+      "value" : "Take 30 victories in multiplayer races. Only RANKED MATCHES are counted.",
+      "locale" : "ch"
+    }, {
+      "value" : "Take 30 victories in multiplayer races. Only RANKED MATCHES are counted.",
+      "locale" : "it"
+    }, {
+      "value" : "Take 30 victories in multiplayer races. Only RANKED MATCHES are counted.",
+      "locale" : "fr"
+    } ],
+    "ref" : "53859455"
+  }, {
+    "items" : [ {
+      "value" : "Own at least 15 houses. ",
+      "locale" : "us"
+    }, {
+      "value" : "Own at least 15 houses. ",
+      "locale" : "ja"
+    }, {
+      "value" : "Own at least 15 houses. ",
+      "locale" : "sp"
+    }, {
+      "value" : "Own at least 15 houses. ",
+      "locale" : "ko"
+    }, {
+      "value" : "Own at least 15 houses. ",
+      "locale" : "ge"
+    }, {
+      "value" : "Own at least 15 houses. ",
+      "locale" : "ch"
+    }, {
+      "value" : "Own at least 15 houses. ",
+      "locale" : "it"
+    }, {
+      "value" : "Own at least 15 houses. ",
+      "locale" : "fr"
+    } ],
+    "ref" : "54859455"
+  }, {
+    "items" : [ {
+      "value" : "MinGoldCup",
+      "locale" : "us"
+    } ],
+    "ref" : "54736935"
+  }, {
+    "items" : [ {
+      "value" : "MinSoloGoldCup",
+      "locale" : "us"
+    }, {
+      "value" : "MinSoloGoldCup",
+      "locale" : "ja"
+    }, {
+      "value" : "MinSoloGoldCup",
+      "locale" : "sp"
+    }, {
+      "value" : "MinSoloGoldCup",
+      "locale" : "ko"
+    }, {
+      "value" : "MinSoloGoldCup",
+      "locale" : "ge"
+    }, {
+      "value" : "MinSoloGoldCup",
+      "locale" : "ch"
+    }, {
+      "value" : "MinSoloGoldCup",
+      "locale" : "it"
+    }, {
+      "value" : "MinSoloGoldCup",
+      "locale" : "fr"
+    } ],
+    "ref" : "55736935"
+  }, {
+    "items" : [ {
+      "value" : "MinMultiGoldCup",
+      "locale" : "us"
+    }, {
+      "value" : "MinMultiGoldCup",
+      "locale" : "ja"
+    }, {
+      "value" : "MinMultiGoldCup",
+      "locale" : "sp"
+    }, {
+      "value" : "MinMultiGoldCup",
+      "locale" : "ko"
+    }, {
+      "value" : "MinMultiGoldCup",
+      "locale" : "ge"
+    }, {
+      "value" : "MinMultiGoldCup",
+      "locale" : "ch"
+    }, {
+      "value" : "MinMultiGoldCup",
+      "locale" : "it"
+    }, {
+      "value" : "MinMultiGoldCup",
+      "locale" : "fr"
+    } ],
+    "ref" : "56736935"
+  }, {
+    "items" : [ {
+      "value" : "MinExtraGoldCup",
+      "locale" : "us"
+    }, {
+      "value" : "MinExtraGoldCup",
+      "locale" : "ja"
+    }, {
+      "value" : "MinExtraGoldCup",
+      "locale" : "sp"
+    }, {
+      "value" : "MinExtraGoldCup",
+      "locale" : "ko"
+    }, {
+      "value" : "MinExtraGoldCup",
+      "locale" : "ge"
+    }, {
+      "value" : "MinExtraGoldCup",
+      "locale" : "ch"
+    }, {
+      "value" : "MinExtraGoldCup",
+      "locale" : "it"
+    }, {
+      "value" : "MinExtraGoldCup",
+      "locale" : "fr"
+    } ],
+    "ref" : "57736935"
+  }, {
+    "items" : [ {
+      "value" : "AllGoldSolo",
+      "locale" : "us"
+    }, {
+      "value" : "AllGoldSolo",
+      "locale" : "ja"
+    }, {
+      "value" : "AllGoldSolo",
+      "locale" : "sp"
+    }, {
+      "value" : "AllGoldSolo",
+      "locale" : "ko"
+    }, {
+      "value" : "AllGoldSolo",
+      "locale" : "ge"
+    }, {
+      "value" : "AllGoldSolo",
+      "locale" : "ch"
+    }, {
+      "value" : "AllGoldSolo",
+      "locale" : "it"
+    }, {
+      "value" : "AllGoldSolo",
+      "locale" : "fr"
+    } ],
+    "ref" : "58736935"
+  }, {
+    "items" : [ {
+      "value" : "AllGoldSoloTime",
+      "locale" : "us"
+    }, {
+      "value" : "AllGoldSoloTime",
+      "locale" : "ja"
+    }, {
+      "value" : "AllGoldSoloTime",
+      "locale" : "sp"
+    }, {
+      "value" : "AllGoldSoloTime",
+      "locale" : "ko"
+    }, {
+      "value" : "AllGoldSoloTime",
+      "locale" : "ge"
+    }, {
+      "value" : "AllGoldSoloTime",
+      "locale" : "ch"
+    }, {
+      "value" : "AllGoldSoloTime",
+      "locale" : "it"
+    }, {
+      "value" : "AllGoldSoloTime",
+      "locale" : "fr"
+    } ],
+    "ref" : "59736935"
+  }, {
+    "items" : [ {
+      "value" : "AllGoldSoloRace",
+      "locale" : "us"
+    }, {
+      "value" : "AllGoldSoloRace",
+      "locale" : "ja"
+    }, {
+      "value" : "AllGoldSoloRace",
+      "locale" : "sp"
+    }, {
+      "value" : "AllGoldSoloRace",
+      "locale" : "ko"
+    }, {
+      "value" : "AllGoldSoloRace",
+      "locale" : "ge"
+    }, {
+      "value" : "AllGoldSoloRace",
+      "locale" : "ch"
+    }, {
+      "value" : "AllGoldSoloRace",
+      "locale" : "it"
+    }, {
+      "value" : "AllGoldSoloRace",
+      "locale" : "fr"
+    } ],
+    "ref" : "60736935"
+  }, {
+    "items" : [ {
+      "value" : "AllGoldSoloSpeed",
+      "locale" : "us"
+    }, {
+      "value" : "AllGoldSoloSpeed",
+      "locale" : "ja"
+    }, {
+      "value" : "AllGoldSoloSpeed",
+      "locale" : "sp"
+    }, {
+      "value" : "AllGoldSoloSpeed",
+      "locale" : "ko"
+    }, {
+      "value" : "AllGoldSoloSpeed",
+      "locale" : "ge"
+    }, {
+      "value" : "AllGoldSoloSpeed",
+      "locale" : "ch"
+    }, {
+      "value" : "AllGoldSoloSpeed",
+      "locale" : "it"
+    }, {
+      "value" : "AllGoldSoloSpeed",
+      "locale" : "fr"
+    } ],
+    "ref" : "61736935"
+  }, {
+    "items" : [ {
+      "value" : "AllGoldSoloExtra",
+      "locale" : "us"
+    }, {
+      "value" : "AllGoldSoloExtra",
+      "locale" : "ja"
+    }, {
+      "value" : "AllGoldSoloExtra",
+      "locale" : "sp"
+    }, {
+      "value" : "AllGoldSoloExtra",
+      "locale" : "ko"
+    }, {
+      "value" : "AllGoldSoloExtra",
+      "locale" : "ge"
+    }, {
+      "value" : "AllGoldSoloExtra",
+      "locale" : "ch"
+    }, {
+      "value" : "AllGoldSoloExtra",
+      "locale" : "it"
+    }, {
+      "value" : "AllGoldSoloExtra",
+      "locale" : "fr"
+    } ],
+    "ref" : "62736935"
+  }, {
+    "items" : [ {
+      "value" : "CarsOwned",
+      "locale" : "us"
+    }, {
+      "value" : "CarsOwned",
+      "locale" : "ja"
+    }, {
+      "value" : "CarsOwned",
+      "locale" : "sp"
+    }, {
+      "value" : "CarsOwned",
+      "locale" : "ko"
+    }, {
+      "value" : "CarsOwned",
+      "locale" : "ge"
+    }, {
+      "value" : "CarsOwned",
+      "locale" : "ch"
+    }, {
+      "value" : "CarsOwned",
+      "locale" : "it"
+    }, {
+      "value" : "CarsOwned",
+      "locale" : "fr"
+    } ],
+    "ref" : "53836935"
+  }, {
+    "items" : [ {
+      "value" : "CarsOwned_Ferrari",
+      "locale" : "us"
+    }, {
+      "value" : "CarsOwned_Ferrari",
+      "locale" : "ja"
+    }, {
+      "value" : "CarsOwned_Ferrari",
+      "locale" : "sp"
+    }, {
+      "value" : "CarsOwned_Ferrari",
+      "locale" : "ko"
+    }, {
+      "value" : "CarsOwned_Ferrari",
+      "locale" : "ge"
+    }, {
+      "value" : "CarsOwned_Ferrari",
+      "locale" : "ch"
+    }, {
+      "value" : "CarsOwned_Ferrari",
+      "locale" : "it"
+    }, {
+      "value" : "CarsOwned_Ferrari",
+      "locale" : "fr"
+    } ],
+    "ref" : "54836935"
+  }, {
+    "items" : [ {
+      "value" : "CarsOwned_Lambo",
+      "locale" : "us"
+    }, {
+      "value" : "CarsOwned_Lambo",
+      "locale" : "ja"
+    }, {
+      "value" : "CarsOwned_Lambo",
+      "locale" : "sp"
+    }, {
+      "value" : "CarsOwned_Lambo",
+      "locale" : "ko"
+    }, {
+      "value" : "CarsOwned_Lambo",
+      "locale" : "ge"
+    }, {
+      "value" : "CarsOwned_Lambo",
+      "locale" : "ch"
+    }, {
+      "value" : "CarsOwned_Lambo",
+      "locale" : "it"
+    }, {
+      "value" : "CarsOwned_Lambo",
+      "locale" : "fr"
+    } ],
+    "ref" : "55836935"
+  }, {
+    "items" : [ {
+      "value" : "CarsOwned_Merco",
+      "locale" : "us"
+    }, {
+      "value" : "CarsOwned_Merco",
+      "locale" : "ja"
+    }, {
+      "value" : "CarsOwned_Merco",
+      "locale" : "sp"
+    }, {
+      "value" : "CarsOwned_Merco",
+      "locale" : "ko"
+    }, {
+      "value" : "CarsOwned_Merco",
+      "locale" : "ge"
+    }, {
+      "value" : "CarsOwned_Merco",
+      "locale" : "ch"
+    }, {
+      "value" : "CarsOwned_Merco",
+      "locale" : "it"
+    }, {
+      "value" : "CarsOwned_Merco",
+      "locale" : "fr"
+    } ],
+    "ref" : "56836935"
+  }, {
+    "items" : [ {
+      "value" : "CarsOwned_Chevy",
+      "locale" : "us"
+    }, {
+      "value" : "CarsOwned_Chevy",
+      "locale" : "ja"
+    }, {
+      "value" : "CarsOwned_Chevy",
+      "locale" : "sp"
+    }, {
+      "value" : "CarsOwned_Chevy",
+      "locale" : "ko"
+    }, {
+      "value" : "CarsOwned_Chevy",
+      "locale" : "ge"
+    }, {
+      "value" : "CarsOwned_Chevy",
+      "locale" : "ch"
+    }, {
+      "value" : "CarsOwned_Chevy",
+      "locale" : "it"
+    }, {
+      "value" : "CarsOwned_Chevy",
+      "locale" : "fr"
+    } ],
+    "ref" : "57836935"
+  }, {
+    "items" : [ {
+      "value" : "CarsOwned_Aston",
+      "locale" : "us"
+    }, {
+      "value" : "CarsOwned_Aston",
+      "locale" : "ja"
+    }, {
+      "value" : "CarsOwned_Aston",
+      "locale" : "sp"
+    }, {
+      "value" : "CarsOwned_Aston",
+      "locale" : "ko"
+    }, {
+      "value" : "CarsOwned_Aston",
+      "locale" : "ge"
+    }, {
+      "value" : "CarsOwned_Aston",
+      "locale" : "ch"
+    }, {
+      "value" : "CarsOwned_Aston",
+      "locale" : "it"
+    }, {
+      "value" : "CarsOwned_Aston",
+      "locale" : "fr"
+    } ],
+    "ref" : "58836935"
+  }, {
+    "items" : [ {
+      "value" : "CarsOwned_Ford",
+      "locale" : "us"
+    }, {
+      "value" : "CarsOwned_Ford",
+      "locale" : "ja"
+    }, {
+      "value" : "CarsOwned_Ford",
+      "locale" : "sp"
+    }, {
+      "value" : "CarsOwned_Ford",
+      "locale" : "ko"
+    }, {
+      "value" : "CarsOwned_Ford",
+      "locale" : "ge"
+    }, {
+      "value" : "CarsOwned_Ford",
+      "locale" : "ch"
+    }, {
+      "value" : "CarsOwned_Ford",
+      "locale" : "it"
+    }, {
+      "value" : "CarsOwned_Ford",
+      "locale" : "fr"
+    } ],
+    "ref" : "59836935"
+  }, {
+    "items" : [ {
+      "value" : "CarsOwned_All",
+      "locale" : "us"
+    } ],
+    "ref" : "60836935"
+  }, {
+    "items" : [ {
+      "value" : "BikesOwned",
+      "locale" : "us"
+    }, {
+      "value" : "BikesOwned",
+      "locale" : "ja"
+    }, {
+      "value" : "BikesOwned",
+      "locale" : "sp"
+    }, {
+      "value" : "BikesOwned",
+      "locale" : "ko"
+    }, {
+      "value" : "BikesOwned",
+      "locale" : "ge"
+    }, {
+      "value" : "BikesOwned",
+      "locale" : "ch"
+    }, {
+      "value" : "BikesOwned",
+      "locale" : "it"
+    }, {
+      "value" : "BikesOwned",
+      "locale" : "fr"
+    } ],
+    "ref" : "61836935"
+  }, {
+    "items" : [ {
+      "value" : "AllHousesOwned",
+      "locale" : "us"
+    } ],
+    "ref" : "62836935"
+  }, {
+    "items" : [ {
+      "value" : "HousesOwned",
+      "locale" : "us"
+    }, {
+      "value" : "HousesOwned",
+      "locale" : "ja"
+    }, {
+      "value" : "HousesOwned",
+      "locale" : "sp"
+    }, {
+      "value" : "HousesOwned",
+      "locale" : "ko"
+    }, {
+      "value" : "HousesOwned",
+      "locale" : "ge"
+    }, {
+      "value" : "HousesOwned",
+      "locale" : "ch"
+    }, {
+      "value" : "HousesOwned",
+      "locale" : "it"
+    }, {
+      "value" : "HousesOwned",
+      "locale" : "fr"
+    } ],
+    "ref" : "53936935"
+  }, {
+    "items" : [ {
+      "value" : "RoadExplored",
+      "locale" : "us"
+    } ],
+    "ref" : "54936935"
+  }, {
+    "items" : [ {
+      "value" : "AllRoadExplored",
+      "locale" : "us"
+    }, {
+      "value" : "AllRoadExplored",
+      "locale" : "ja"
+    }, {
+      "value" : "AllRoadExplored",
+      "locale" : "sp"
+    }, {
+      "value" : "AllRoadExplored",
+      "locale" : "ko"
+    }, {
+      "value" : "AllRoadExplored",
+      "locale" : "ge"
+    }, {
+      "value" : "AllRoadExplored",
+      "locale" : "ch"
+    }, {
+      "value" : "AllRoadExplored",
+      "locale" : "it"
+    }, {
+      "value" : "AllRoadExplored",
+      "locale" : "fr"
+    } ],
+    "ref" : "55936935"
+  }, {
+    "items" : [ {
+      "value" : "MinClubGoldCup",
+      "locale" : "us"
+    }, {
+      "value" : "MinClubGoldCup",
+      "locale" : "ja"
+    }, {
+      "value" : "MinClubGoldCup",
+      "locale" : "sp"
+    }, {
+      "value" : "MinClubGoldCup",
+      "locale" : "ko"
+    }, {
+      "value" : "MinClubGoldCup",
+      "locale" : "ge"
+    }, {
+      "value" : "MinClubGoldCup",
+      "locale" : "ch"
+    }, {
+      "value" : "MinClubGoldCup",
+      "locale" : "it"
+    }, {
+      "value" : "MinClubGoldCup",
+      "locale" : "fr"
+    } ],
+    "ref" : "56936935"
+  }, {
+    "items" : [ {
+      "value" : "IsClubMember",
+      "locale" : "us"
+    }, {
+      "value" : "IsClubMember",
+      "locale" : "ja"
+    }, {
+      "value" : "IsClubMember",
+      "locale" : "sp"
+    }, {
+      "value" : "IsClubMember",
+      "locale" : "ko"
+    }, {
+      "value" : "IsClubMember",
+      "locale" : "ge"
+    }, {
+      "value" : "IsClubMember",
+      "locale" : "ch"
+    }, {
+      "value" : "IsClubMember",
+      "locale" : "it"
+    }, {
+      "value" : "IsClubMember",
+      "locale" : "fr"
+    } ],
+    "ref" : "57936935"
+  }, {
+    "items" : [ {
+      "value" : "CarTunedHistory",
+      "locale" : "us"
+    }, {
+      "value" : "CarTunedHistory",
+      "locale" : "ja"
+    }, {
+      "value" : "CarTunedHistory",
+      "locale" : "sp"
+    }, {
+      "value" : "CarTunedHistory",
+      "locale" : "ko"
+    }, {
+      "value" : "CarTunedHistory",
+      "locale" : "ge"
+    }, {
+      "value" : "CarTunedHistory",
+      "locale" : "ch"
+    }, {
+      "value" : "CarTunedHistory",
+      "locale" : "it"
+    }, {
+      "value" : "CarTunedHistory",
+      "locale" : "fr"
+    } ],
+    "ref" : "58936935"
+  }, {
+    "items" : [ {
+      "value" : "GoldGeekCha",
+      "locale" : "us"
+    }, {
+      "value" : "GoldGeekCha",
+      "locale" : "ja"
+    }, {
+      "value" : "GoldGeekCha",
+      "locale" : "sp"
+    }, {
+      "value" : "GoldGeekCha",
+      "locale" : "ko"
+    }, {
+      "value" : "GoldGeekCha",
+      "locale" : "ge"
+    }, {
+      "value" : "GoldGeekCha",
+      "locale" : "ch"
+    }, {
+      "value" : "GoldGeekCha",
+      "locale" : "it"
+    }, {
+      "value" : "GoldGeekCha",
+      "locale" : "fr"
+    } ],
+    "ref" : "59936935"
+  }, {
+    "items" : [ {
+      "value" : "GoldInstantCha",
+      "locale" : "us"
+    }, {
+      "value" : "GoldInstantCha",
+      "locale" : "ja"
+    }, {
+      "value" : "GoldInstantCha",
+      "locale" : "sp"
+    }, {
+      "value" : "GoldInstantCha",
+      "locale" : "ko"
+    }, {
+      "value" : "GoldInstantCha",
+      "locale" : "ge"
+    }, {
+      "value" : "GoldInstantCha",
+      "locale" : "ch"
+    }, {
+      "value" : "GoldInstantCha",
+      "locale" : "it"
+    }, {
+      "value" : "GoldInstantCha",
+      "locale" : "fr"
+    } ],
+    "ref" : "60936935"
+  }, {
+    "items" : [ {
+      "value" : "GoldInstantChaOffline",
+      "locale" : "us"
+    } ],
+    "ref" : "61936935"
+  }, {
+    "items" : [ {
+      "value" : "GoldInstantChaOnline",
+      "locale" : "us"
+    } ],
+    "ref" : "62936935"
+  }, {
+    "items" : [ {
+      "value" : "GoldInstantChaAllBots",
+      "locale" : "us"
+    } ],
+    "ref" : "54036935"
+  }, {
+    "items" : [ {
+      "value" : "UploadCustom",
+      "locale" : "us"
+    }, {
+      "value" : "UploadCustom",
+      "locale" : "ja"
+    }, {
+      "value" : "UploadCustom",
+      "locale" : "sp"
+    }, {
+      "value" : "UploadCustom",
+      "locale" : "ko"
+    }, {
+      "value" : "UploadCustom",
+      "locale" : "ge"
+    }, {
+      "value" : "UploadCustom",
+      "locale" : "ch"
+    }, {
+      "value" : "UploadCustom",
+      "locale" : "it"
+    }, {
+      "value" : "UploadCustom",
+      "locale" : "fr"
+    } ],
+    "ref" : "55036935"
+  }, {
+    "items" : [ {
+      "value" : "MinGoldCustom",
+      "locale" : "us"
+    }, {
+      "value" : "MinGoldCustom",
+      "locale" : "ja"
+    }, {
+      "value" : "MinGoldCustom",
+      "locale" : "sp"
+    }, {
+      "value" : "MinGoldCustom",
+      "locale" : "ko"
+    }, {
+      "value" : "MinGoldCustom",
+      "locale" : "ge"
+    }, {
+      "value" : "MinGoldCustom",
+      "locale" : "ch"
+    }, {
+      "value" : "MinGoldCustom",
+      "locale" : "it"
+    }, {
+      "value" : "MinGoldCustom",
+      "locale" : "fr"
+    } ],
+    "ref" : "56036935"
+  }, {
+    "items" : [ {
+      "value" : "MinETradeTransaction",
+      "locale" : "us"
+    }, {
+      "value" : "MinETradeTransaction",
+      "locale" : "ja"
+    }, {
+      "value" : "MinETradeTransaction",
+      "locale" : "sp"
+    }, {
+      "value" : "MinETradeTransaction",
+      "locale" : "ko"
+    }, {
+      "value" : "MinETradeTransaction",
+      "locale" : "ge"
+    }, {
+      "value" : "MinETradeTransaction",
+      "locale" : "ch"
+    }, {
+      "value" : "MinETradeTransaction",
+      "locale" : "it"
+    }, {
+      "value" : "MinETradeTransaction",
+      "locale" : "fr"
+    } ],
+    "ref" : "57036935"
+  }, {
+    "items" : [ {
+      "value" : "ClothesOwned_BenSherman",
+      "locale" : "us"
+    }, {
+      "value" : "ClothesOwned_BenSherman",
+      "locale" : "ja"
+    }, {
+      "value" : "ClothesOwned_BenSherman",
+      "locale" : "sp"
+    }, {
+      "value" : "ClothesOwned_BenSherman",
+      "locale" : "ko"
+    }, {
+      "value" : "ClothesOwned_BenSherman",
+      "locale" : "ge"
+    }, {
+      "value" : "ClothesOwned_BenSherman",
+      "locale" : "ch"
+    }, {
+      "value" : "ClothesOwned_BenSherman",
+      "locale" : "it"
+    }, {
+      "value" : "ClothesOwned_BenSherman",
+      "locale" : "fr"
+    } ],
+    "ref" : "58036935"
+  }, {
+    "items" : [ {
+      "value" : "ClothesOwned_Ecko",
+      "locale" : "us"
+    }, {
+      "value" : "ClothesOwned_Ecko",
+      "locale" : "ja"
+    }, {
+      "value" : "ClothesOwned_Ecko",
+      "locale" : "sp"
+    }, {
+      "value" : "ClothesOwned_Ecko",
+      "locale" : "ko"
+    }, {
+      "value" : "ClothesOwned_Ecko",
+      "locale" : "ge"
+    }, {
+      "value" : "ClothesOwned_Ecko",
+      "locale" : "ch"
+    }, {
+      "value" : "ClothesOwned_Ecko",
+      "locale" : "it"
+    }, {
+      "value" : "ClothesOwned_Ecko",
+      "locale" : "fr"
+    } ],
+    "ref" : "59036935"
+  }, {
+    "items" : [ {
+      "value" : "MinSpecialPhotos ",
+      "locale" : "us"
+    } ],
+    "ref" : "60036935"
+  }, {
+    "items" : [ {
+      "value" : "LevelReached",
+      "locale" : "us"
+    }, {
+      "value" : "LevelReached",
+      "locale" : "ja"
+    }, {
+      "value" : "LevelReached",
+      "locale" : "sp"
+    }, {
+      "value" : "LevelReached",
+      "locale" : "ko"
+    }, {
+      "value" : "LevelReached",
+      "locale" : "ge"
+    }, {
+      "value" : "LevelReached",
+      "locale" : "ch"
+    }, {
+      "value" : "LevelReached",
+      "locale" : "it"
+    }, {
+      "value" : "LevelReached",
+      "locale" : "fr"
+    } ],
+    "ref" : "61036935"
+  }, {
+    "items" : [ {
+      "value" : "AllGoldSoloExtraShopping",
+      "locale" : "us"
+    }, {
+      "value" : "AllGoldSoloExtraShopping",
+      "locale" : "ja"
+    }, {
+      "value" : "AllGoldSoloExtraShopping",
+      "locale" : "sp"
+    }, {
+      "value" : "AllGoldSoloExtraShopping",
+      "locale" : "ko"
+    }, {
+      "value" : "AllGoldSoloExtraShopping",
+      "locale" : "ge"
+    }, {
+      "value" : "AllGoldSoloExtraShopping",
+      "locale" : "ch"
+    }, {
+      "value" : "AllGoldSoloExtraShopping",
+      "locale" : "it"
+    }, {
+      "value" : "AllGoldSoloExtraShopping",
+      "locale" : "fr"
+    } ],
+    "ref" : "62036935"
+  }, {
+    "items" : [ {
+      "value" : "AllGoldSoloExtraHitch",
+      "locale" : "us"
+    }, {
+      "value" : "AllGoldSoloExtraHitch",
+      "locale" : "ja"
+    }, {
+      "value" : "AllGoldSoloExtraHitch",
+      "locale" : "sp"
+    }, {
+      "value" : "AllGoldSoloExtraHitch",
+      "locale" : "ko"
+    }, {
+      "value" : "AllGoldSoloExtraHitch",
+      "locale" : "ge"
+    }, {
+      "value" : "AllGoldSoloExtraHitch",
+      "locale" : "ch"
+    }, {
+      "value" : "AllGoldSoloExtraHitch",
+      "locale" : "it"
+    }, {
+      "value" : "AllGoldSoloExtraHitch",
+      "locale" : "fr"
+    } ],
+    "ref" : "63036935"
+  }, {
+    "items" : [ {
+      "value" : "AllGoldSoloExtraTransp",
+      "locale" : "us"
+    }, {
+      "value" : "AllGoldSoloExtraTransp",
+      "locale" : "ja"
+    }, {
+      "value" : "AllGoldSoloExtraTransp",
+      "locale" : "sp"
+    }, {
+      "value" : "AllGoldSoloExtraTransp",
+      "locale" : "ko"
+    }, {
+      "value" : "AllGoldSoloExtraTransp",
+      "locale" : "ge"
+    }, {
+      "value" : "AllGoldSoloExtraTransp",
+      "locale" : "ch"
+    }, {
+      "value" : "AllGoldSoloExtraTransp",
+      "locale" : "it"
+    }, {
+      "value" : "AllGoldSoloExtraTransp",
+      "locale" : "fr"
+    } ],
+    "ref" : "54136935"
+  }, {
+    "items" : [ {
+      "value" : "AllGoldSoloExtraConvoy",
+      "locale" : "us"
+    }, {
+      "value" : "AllGoldSoloExtraConvoy",
+      "locale" : "ja"
+    }, {
+      "value" : "AllGoldSoloExtraConvoy",
+      "locale" : "sp"
+    }, {
+      "value" : "AllGoldSoloExtraConvoy",
+      "locale" : "ko"
+    }, {
+      "value" : "AllGoldSoloExtraConvoy",
+      "locale" : "ge"
+    }, {
+      "value" : "AllGoldSoloExtraConvoy",
+      "locale" : "ch"
+    }, {
+      "value" : "AllGoldSoloExtraConvoy",
+      "locale" : "it"
+    }, {
+      "value" : "AllGoldSoloExtraConvoy",
+      "locale" : "fr"
+    } ],
+    "ref" : "55136935"
+  }, {
+    "items" : [ {
+      "value" : "GoldPaintDeluxeCha",
+      "locale" : "us"
+    }, {
+      "value" : "GoldPaintDeluxeCha",
+      "locale" : "ja"
+    }, {
+      "value" : "GoldPaintDeluxeCha",
+      "locale" : "sp"
+    }, {
+      "value" : "GoldPaintDeluxeCha",
+      "locale" : "ko"
+    }, {
+      "value" : "GoldPaintDeluxeCha",
+      "locale" : "ge"
+    }, {
+      "value" : "GoldPaintDeluxeCha",
+      "locale" : "ch"
+    }, {
+      "value" : "GoldPaintDeluxeCha",
+      "locale" : "it"
+    }, {
+      "value" : "GoldPaintDeluxeCha",
+      "locale" : "fr"
+    } ],
+    "ref" : "56136935"
+  }, {
+    "items" : [ {
+      "value" : "AllCarDealerUnlocked",
+      "locale" : "us"
+    }, {
+      "value" : "AllCarDealerUnlocked",
+      "locale" : "ja"
+    }, {
+      "value" : "AllCarDealerUnlocked",
+      "locale" : "sp"
+    }, {
+      "value" : "AllCarDealerUnlocked",
+      "locale" : "ko"
+    }, {
+      "value" : "AllCarDealerUnlocked",
+      "locale" : "ge"
+    }, {
+      "value" : "AllCarDealerUnlocked",
+      "locale" : "ch"
+    }, {
+      "value" : "AllCarDealerUnlocked",
+      "locale" : "it"
+    }, {
+      "value" : "AllCarDealerUnlocked",
+      "locale" : "fr"
+    } ],
+    "ref" : "57136935"
+  }, {
+    "items" : [ {
+      "value" : "RoadTraveled",
+      "locale" : "us"
+    }, {
+      "value" : "RoadTraveled",
+      "locale" : "ja"
+    }, {
+      "value" : "RoadTraveled",
+      "locale" : "sp"
+    }, {
+      "value" : "RoadTraveled",
+      "locale" : "ko"
+    }, {
+      "value" : "RoadTraveled",
+      "locale" : "ge"
+    }, {
+      "value" : "RoadTraveled",
+      "locale" : "ch"
+    }, {
+      "value" : "RoadTraveled",
+      "locale" : "it"
+    }, {
+      "value" : "RoadTraveled",
+      "locale" : "fr"
+    } ],
+    "ref" : "58136935"
+  }, {
+    "items" : [ {
+      "value" : "Novice_Pts",
+      "locale" : "us"
+    }, {
+      "value" : "Novice_Pts",
+      "locale" : "ja"
+    }, {
+      "value" : "Novice_Pts",
+      "locale" : "sp"
+    }, {
+      "value" : "Novice_Pts",
+      "locale" : "ko"
+    }, {
+      "value" : "Novice_Pts",
+      "locale" : "ge"
+    }, {
+      "value" : "Novice_Pts",
+      "locale" : "ch"
+    }, {
+      "value" : "Novice_Pts",
+      "locale" : "it"
+    }, {
+      "value" : "Novice_Pts",
+      "locale" : "fr"
+    } ],
+    "ref" : "59136935"
+  }, {
+    "items" : [ {
+      "value" : "Pro_Pts",
+      "locale" : "us"
+    }, {
+      "value" : "Pro_Pts",
+      "locale" : "ja"
+    }, {
+      "value" : "Pro_Pts",
+      "locale" : "sp"
+    }, {
+      "value" : "Pro_Pts",
+      "locale" : "ko"
+    }, {
+      "value" : "Pro_Pts",
+      "locale" : "ge"
+    }, {
+      "value" : "Pro_Pts",
+      "locale" : "ch"
+    }, {
+      "value" : "Pro_Pts",
+      "locale" : "it"
+    }, {
+      "value" : "Pro_Pts",
+      "locale" : "fr"
+    } ],
+    "ref" : "60136935"
+  }, {
+    "items" : [ {
+      "value" : "Expert_Pts",
+      "locale" : "us"
+    }, {
+      "value" : "Expert_Pts",
+      "locale" : "ja"
+    }, {
+      "value" : "Expert_Pts",
+      "locale" : "sp"
+    }, {
+      "value" : "Expert_Pts",
+      "locale" : "ko"
+    }, {
+      "value" : "Expert_Pts",
+      "locale" : "ge"
+    }, {
+      "value" : "Expert_Pts",
+      "locale" : "ch"
+    }, {
+      "value" : "Expert_Pts",
+      "locale" : "it"
+    }, {
+      "value" : "Expert_Pts",
+      "locale" : "fr"
+    } ],
+    "ref" : "61136935"
+  }, {
+    "items" : [ {
+      "value" : "Master_Pts",
+      "locale" : "us"
+    }, {
+      "value" : "Master_Pts",
+      "locale" : "ja"
+    }, {
+      "value" : "Master_Pts",
+      "locale" : "sp"
+    }, {
+      "value" : "Master_Pts",
+      "locale" : "ko"
+    }, {
+      "value" : "Master_Pts",
+      "locale" : "ge"
+    }, {
+      "value" : "Master_Pts",
+      "locale" : "ch"
+    }, {
+      "value" : "Master_Pts",
+      "locale" : "it"
+    }, {
+      "value" : "Master_Pts",
+      "locale" : "fr"
+    } ],
+    "ref" : "62136935"
+  }, {
+    "items" : [ {
+      "value" : "Ace_Pts",
+      "locale" : "us"
+    }, {
+      "value" : "Ace_Pts",
+      "locale" : "ja"
+    }, {
+      "value" : "Ace_Pts",
+      "locale" : "sp"
+    }, {
+      "value" : "Ace_Pts",
+      "locale" : "ko"
+    }, {
+      "value" : "Ace_Pts",
+      "locale" : "ge"
+    }, {
+      "value" : "Ace_Pts",
+      "locale" : "ch"
+    }, {
+      "value" : "Ace_Pts",
+      "locale" : "it"
+    }, {
+      "value" : "Ace_Pts",
+      "locale" : "fr"
+    } ],
+    "ref" : "63136935"
+  }, {
+    "items" : [ {
+      "value" : "CarsOwnedPC",
+      "locale" : "us"
+    }, {
+      "value" : "CarsOwnedPC",
+      "locale" : "ja"
+    }, {
+      "value" : "CarsOwnedPC",
+      "locale" : "sp"
+    }, {
+      "value" : "CarsOwnedPC",
+      "locale" : "ko"
+    }, {
+      "value" : "CarsOwnedPC",
+      "locale" : "ge"
+    }, {
+      "value" : "CarsOwnedPC",
+      "locale" : "ch"
+    }, {
+      "value" : "CarsOwnedPC",
+      "locale" : "it"
+    }, {
+      "value" : "CarsOwnedPC",
+      "locale" : "fr"
+    } ],
+    "ref" : "71366935"
+  }, {
+    "items" : [ {
+      "value" : "LevelReachedHardcore",
+      "locale" : "us"
+    }, {
+      "value" : "LevelReachedHardcore",
+      "locale" : "ja"
+    }, {
+      "value" : "LevelReachedHardcore",
+      "locale" : "sp"
+    }, {
+      "value" : "LevelReachedHardcore",
+      "locale" : "ko"
+    }, {
+      "value" : "LevelReachedHardcore",
+      "locale" : "ge"
+    }, {
+      "value" : "LevelReachedHardcore",
+      "locale" : "ch"
+    }, {
+      "value" : "LevelReachedHardcore",
+      "locale" : "it"
+    }, {
+      "value" : "LevelReachedHardcore",
+      "locale" : "fr"
+    } ],
+    "ref" : "721036935"
+  }, {
+    "items" : [ {
+      "value" : "???",
+      "locale" : "us"
+    }, {
+      "value" : "???",
+      "locale" : "ja"
+    }, {
+      "value" : "???",
+      "locale" : "sp"
+    }, {
+      "value" : "???",
+      "locale" : "ko"
+    }, {
+      "value" : "???",
+      "locale" : "ge"
+    }, {
+      "value" : "???",
+      "locale" : "ch"
+    }, {
+      "value" : "???",
+      "locale" : "it"
+    }, {
+      "value" : "???",
+      "locale" : "fr"
+    } ],
+    "ref" : "5337472"
+  }, {
+    "items" : [ {
+      "value" : "ChronoPack",
+      "locale" : "us"
+    }, {
+      "value" : "ChronoPack",
+      "locale" : "ja"
+    }, {
+      "value" : "ChronoPack",
+      "locale" : "sp"
+    }, {
+      "value" : "ChronoPack",
+      "locale" : "ko"
+    }, {
+      "value" : "ChronoPack",
+      "locale" : "ge"
+    }, {
+      "value" : "ChronoPack",
+      "locale" : "ch"
+    }, {
+      "value" : "ChronoPack",
+      "locale" : "it"
+    }, {
+      "value" : "ChronoPack",
+      "locale" : "fr"
+    } ],
+    "ref" : "5437472"
+  }, {
+    "items" : [ {
+      "value" : "Car",
+      "locale" : "us"
+    }, {
+      "value" : "Car",
+      "locale" : "ja"
+    }, {
+      "value" : "Car",
+      "locale" : "sp"
+    }, {
+      "value" : "Car",
+      "locale" : "ko"
+    }, {
+      "value" : "Car",
+      "locale" : "ge"
+    }, {
+      "value" : "Car",
+      "locale" : "ch"
+    }, {
+      "value" : "Car",
+      "locale" : "it"
+    }, {
+      "value" : "Car",
+      "locale" : "fr"
+    } ],
+    "ref" : "5537472"
+  }, {
+    "items" : [ {
+      "value" : "SnapShot",
+      "locale" : "us"
+    }, {
+      "value" : "SnapShot",
+      "locale" : "ja"
+    }, {
+      "value" : "SnapShot",
+      "locale" : "sp"
+    }, {
+      "value" : "SnapShot",
+      "locale" : "ko"
+    }, {
+      "value" : "SnapShot",
+      "locale" : "ge"
+    }, {
+      "value" : "SnapShot",
+      "locale" : "ch"
+    }, {
+      "value" : "SnapShot",
+      "locale" : "it"
+    }, {
+      "value" : "SnapShot",
+      "locale" : "fr"
+    } ],
+    "ref" : "5637472"
+  }, {
+    "items" : [ {
+      "value" : "GameMode",
+      "locale" : "us"
+    }, {
+      "value" : "GameMode",
+      "locale" : "ja"
+    }, {
+      "value" : "GameMode",
+      "locale" : "sp"
+    }, {
+      "value" : "GameMode",
+      "locale" : "ko"
+    }, {
+      "value" : "GameMode",
+      "locale" : "ge"
+    }, {
+      "value" : "GameMode",
+      "locale" : "ch"
+    }, {
+      "value" : "GameMode",
+      "locale" : "it"
+    }, {
+      "value" : "GameMode",
+      "locale" : "fr"
+    } ],
+    "ref" : "5737472"
+  }, {
+    "items" : [ {
+      "value" : "FordIsland",
+      "locale" : "us"
+    }, {
+      "value" : "FordIsland",
+      "locale" : "ja"
+    }, {
+      "value" : "FordIsland",
+      "locale" : "sp"
+    }, {
+      "value" : "FordIsland",
+      "locale" : "ko"
+    }, {
+      "value" : "FordIsland",
+      "locale" : "ge"
+    }, {
+      "value" : "FordIsland",
+      "locale" : "ch"
+    }, {
+      "value" : "FordIsland",
+      "locale" : "it"
+    }, {
+      "value" : "FordIsland",
+      "locale" : "fr"
+    } ],
+    "ref" : "5837472"
+  }, {
+    "items" : [ {
+      "value" : "CircuitAccess",
+      "locale" : "us"
+    }, {
+      "value" : "CircuitAccess",
+      "locale" : "ja"
+    }, {
+      "value" : "CircuitAccess",
+      "locale" : "sp"
+    }, {
+      "value" : "CircuitAccess",
+      "locale" : "ko"
+    }, {
+      "value" : "CircuitAccess",
+      "locale" : "ge"
+    }, {
+      "value" : "CircuitAccess",
+      "locale" : "ch"
+    }, {
+      "value" : "CircuitAccess",
+      "locale" : "it"
+    }, {
+      "value" : "CircuitAccess",
+      "locale" : "fr"
+    } ],
+    "ref" : "5937472"
+  }, {
+    "items" : [ {
+      "value" : "House",
+      "locale" : "us"
+    }, {
+      "value" : "House",
+      "locale" : "ja"
+    }, {
+      "value" : "House",
+      "locale" : "sp"
+    }, {
+      "value" : "House",
+      "locale" : "ko"
+    }, {
+      "value" : "House",
+      "locale" : "ge"
+    }, {
+      "value" : "House",
+      "locale" : "ch"
+    }, {
+      "value" : "House",
+      "locale" : "it"
+    }, {
+      "value" : "House",
+      "locale" : "fr"
+    } ],
+    "ref" : "6037472"
+  }, {
+    "items" : [ {
+      "value" : "CarPaintDeluxe",
+      "locale" : "us"
+    }, {
+      "value" : "CarPaintDeluxe",
+      "locale" : "ja"
+    }, {
+      "value" : "CarPaintDeluxe",
+      "locale" : "sp"
+    }, {
+      "value" : "CarPaintDeluxe",
+      "locale" : "ko"
+    }, {
+      "value" : "CarPaintDeluxe",
+      "locale" : "ge"
+    }, {
+      "value" : "CarPaintDeluxe",
+      "locale" : "ch"
+    }, {
+      "value" : "CarPaintDeluxe",
+      "locale" : "it"
+    }, {
+      "value" : "CarPaintDeluxe",
+      "locale" : "fr"
+    } ],
+    "ref" : "6137472"
+  }, {
+    "items" : [ {
+      "value" : "BikeDealer",
+      "locale" : "us"
+    }, {
+      "value" : "BikeDealer",
+      "locale" : "ja"
+    }, {
+      "value" : "BikeDealer",
+      "locale" : "sp"
+    }, {
+      "value" : "BikeDealer",
+      "locale" : "ko"
+    }, {
+      "value" : "BikeDealer",
+      "locale" : "ge"
+    }, {
+      "value" : "BikeDealer",
+      "locale" : "ch"
+    }, {
+      "value" : "BikeDealer",
+      "locale" : "it"
+    }, {
+      "value" : "BikeDealer",
+      "locale" : "fr"
+    } ],
+    "ref" : "6237472"
+  }, {
+    "items" : [ {
+      "value" : "BoatTrip",
+      "locale" : "us"
+    } ],
+    "ref" : "5347472"
+  } ]
+}

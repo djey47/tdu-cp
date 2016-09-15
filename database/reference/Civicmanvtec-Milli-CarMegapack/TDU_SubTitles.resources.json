@@ -1,0 +1,2108 @@
+{
+  "version" : "1,2",
+  "categoryCount" : 3,
+  "entries" : [ {
+    "items" : [ {
+      "value" : "ERROR",
+      "locale" : "us"
+    }, {
+      "value" : "ERROR",
+      "locale" : "ja"
+    }, {
+      "value" : "ERROR",
+      "locale" : "sp"
+    }, {
+      "value" : "ERROR",
+      "locale" : "ko"
+    }, {
+      "value" : "ERROR",
+      "locale" : "ge"
+    }, {
+      "value" : "ERROR",
+      "locale" : "ch"
+    }, {
+      "value" : "ERROR",
+      "locale" : "it"
+    }, {
+      "value" : "ERROR",
+      "locale" : "fr"
+    } ],
+    "ref" : "53371533"
+  }, {
+    "items" : [ {
+      "value" : "HELP_SYSTEM",
+      "locale" : "us"
+    } ],
+    "ref" : "5469823"
+  }, {
+    "items" : [ {
+      "value" : "SPOTS",
+      "locale" : "us"
+    }, {
+      "value" : "SPOTS",
+      "locale" : "ja"
+    }, {
+      "value" : "SPOTS",
+      "locale" : "sp"
+    }, {
+      "value" : "SPOTS",
+      "locale" : "ko"
+    }, {
+      "value" : "SPOTS",
+      "locale" : "ge"
+    }, {
+      "value" : "SPOTS",
+      "locale" : "ch"
+    }, {
+      "value" : "SPOTS",
+      "locale" : "it"
+    }, {
+      "value" : "SPOTS",
+      "locale" : "fr"
+    } ],
+    "ref" : "5569823"
+  }, {
+    "items" : [ {
+      "value" : "SHOPPING GIRLS",
+      "locale" : "us"
+    } ],
+    "ref" : "5669823"
+  }, {
+    "items" : [ {
+      "value" : "HITCHHIKERS",
+      "locale" : "us"
+    } ],
+    "ref" : "5769823"
+  }, {
+    "items" : [ {
+      "value" : "CAR ESCORT",
+      "locale" : "us"
+    } ],
+    "ref" : "5869823"
+  }, {
+    "items" : [ {
+      "value" : "ERRANDS / COURIER JOBS",
+      "locale" : "us"
+    } ],
+    "ref" : "5969823"
+  }, {
+    "items" : [ {
+      "value" : "GPS",
+      "locale" : "us"
+    } ],
+    "ref" : "6069823"
+  }, {
+    "items" : [ {
+      "value" : "POLICE",
+      "locale" : "us"
+    } ],
+    "ref" : "6169823"
+  }, {
+    "items" : [ {
+      "value" : "GAME INTRO",
+      "locale" : "us"
+    } ],
+    "ref" : "6269823"
+  }, {
+    "items" : [ {
+      "value" : "JINGLE RADIO",
+      "locale" : "us"
+    } ],
+    "ref" : "5379823"
+  }, {
+    "items" : [ {
+      "value" : "3, 2, 1, GO !!!!",
+      "locale" : "us"
+    } ],
+    "ref" : "5479823"
+  }, {
+    "items" : [ {
+      "value" : "WIN / LOSE ",
+      "locale" : "us"
+    } ],
+    "ref" : "5579823"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Help_VoiceOver_001",
+      "locale" : "us"
+    } ],
+    "ref" : "54356083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Help_VoiceOver_002",
+      "locale" : "us"
+    } ],
+    "ref" : "55356083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Help_VoiceOver_003",
+      "locale" : "us"
+    } ],
+    "ref" : "56356083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Help_VoiceOver_004",
+      "locale" : "us"
+    } ],
+    "ref" : "57356083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Help_VoiceOver_005",
+      "locale" : "us"
+    } ],
+    "ref" : "58356083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Help_VoiceOver_006",
+      "locale" : "us"
+    } ],
+    "ref" : "59356083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Help_VoiceOver_007",
+      "locale" : "us"
+    } ],
+    "ref" : "60356083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Help_VoiceOver_008",
+      "locale" : "us"
+    } ],
+    "ref" : "61356083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Help_VoiceOver_009",
+      "locale" : "us"
+    } ],
+    "ref" : "62356083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Help_VoiceOver_010",
+      "locale" : "us"
+    } ],
+    "ref" : "53456083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Help_VoiceOver_011",
+      "locale" : "us"
+    } ],
+    "ref" : "54456083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Help_VoiceOver_012",
+      "locale" : "us"
+    } ],
+    "ref" : "55456083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Help_VoiceOver_013",
+      "locale" : "us"
+    } ],
+    "ref" : "56456083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Help_VoiceOver_014",
+      "locale" : "us"
+    } ],
+    "ref" : "57456083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Help_VoiceOver_015",
+      "locale" : "us"
+    } ],
+    "ref" : "58456083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Help_VoiceOver_016",
+      "locale" : "us"
+    } ],
+    "ref" : "59456083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Help_VoiceOver_017",
+      "locale" : "us"
+    } ],
+    "ref" : "60456083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Help_VoiceOver_018",
+      "locale" : "us"
+    } ],
+    "ref" : "61456083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Help_VoiceOver_019",
+      "locale" : "us"
+    } ],
+    "ref" : "62456083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Help_VoiceOver_020",
+      "locale" : "us"
+    } ],
+    "ref" : "53556083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Help_VoiceOver_021",
+      "locale" : "us"
+    } ],
+    "ref" : "54556083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Help_VoiceOver_022",
+      "locale" : "us"
+    } ],
+    "ref" : "55556083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Help_VoiceOver_023",
+      "locale" : "us"
+    } ],
+    "ref" : "56556083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Help_VoiceOver_024",
+      "locale" : "us"
+    } ],
+    "ref" : "57556083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Help_VoiceOver_025",
+      "locale" : "us"
+    } ],
+    "ref" : "58556083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Help_VoiceOver_026",
+      "locale" : "us"
+    } ],
+    "ref" : "59556083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Help_VoiceOver_027",
+      "locale" : "us"
+    } ],
+    "ref" : "60556083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Help_VoiceOver_028",
+      "locale" : "us"
+    } ],
+    "ref" : "61556083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Help_VoiceOver_029",
+      "locale" : "us"
+    } ],
+    "ref" : "62556083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Help_VoiceOver_030",
+      "locale" : "us"
+    } ],
+    "ref" : "53656083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Help_VoiceOver_031",
+      "locale" : "us"
+    } ],
+    "ref" : "54656083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Help_VoiceOver_032",
+      "locale" : "us"
+    } ],
+    "ref" : "55656083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Help_VoiceOver_033",
+      "locale" : "us"
+    } ],
+    "ref" : "56656083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Help_VoiceOver_034",
+      "locale" : "us"
+    } ],
+    "ref" : "57656083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Help_VoiceOver_035",
+      "locale" : "us"
+    } ],
+    "ref" : "58656083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Help_VoiceOver_036",
+      "locale" : "us"
+    } ],
+    "ref" : "59656083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Help_VoiceOver_037",
+      "locale" : "us"
+    } ],
+    "ref" : "60656083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Help_VoiceOver_038",
+      "locale" : "us"
+    } ],
+    "ref" : "61656083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Help_VoiceOver_039",
+      "locale" : "us"
+    } ],
+    "ref" : "62656083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Help_VoiceOver_040",
+      "locale" : "us"
+    } ],
+    "ref" : "53756083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Spots_VoiceOver_001",
+      "locale" : "us"
+    }, {
+      "value" : "V_F_Spots_VoiceOver_001",
+      "locale" : "ja"
+    }, {
+      "value" : "V_F_Spots_VoiceOver_001",
+      "locale" : "sp"
+    }, {
+      "value" : "V_F_Spots_VoiceOver_001",
+      "locale" : "ko"
+    }, {
+      "value" : "V_F_Spots_VoiceOver_001",
+      "locale" : "ge"
+    }, {
+      "value" : "V_F_Spots_VoiceOver_001",
+      "locale" : "ch"
+    }, {
+      "value" : "V_F_Spots_VoiceOver_001",
+      "locale" : "it"
+    }, {
+      "value" : "V_F_Spots_VoiceOver_001",
+      "locale" : "fr"
+    } ],
+    "ref" : "54756083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Spots_VoiceOver_002",
+      "locale" : "us"
+    } ],
+    "ref" : "55756083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Spots_VoiceOver_003",
+      "locale" : "us"
+    } ],
+    "ref" : "56756083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Spots_VoiceOver_004",
+      "locale" : "us"
+    } ],
+    "ref" : "57756083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Spots_VoiceOver_005",
+      "locale" : "us"
+    } ],
+    "ref" : "58756083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Spots_VoiceOver_006",
+      "locale" : "us"
+    } ],
+    "ref" : "59756083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Spots_VoiceOver_007",
+      "locale" : "us"
+    } ],
+    "ref" : "60756083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Spots_VoiceOver_008",
+      "locale" : "us"
+    } ],
+    "ref" : "61756083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Spots_VoiceOver_009",
+      "locale" : "us"
+    } ],
+    "ref" : "62756083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Spots_VoiceOver_010",
+      "locale" : "us"
+    } ],
+    "ref" : "53856083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Spots_VoiceOver_011",
+      "locale" : "us"
+    } ],
+    "ref" : "54856083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Spots_VoiceOver_012",
+      "locale" : "us"
+    } ],
+    "ref" : "55856083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Spots_VoiceOver_013",
+      "locale" : "us"
+    } ],
+    "ref" : "56856083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Shopping_Standard_001",
+      "locale" : "us"
+    } ],
+    "ref" : "57856083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Shopping_Standard_002",
+      "locale" : "us"
+    } ],
+    "ref" : "58856083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Shopping_Standard_003",
+      "locale" : "us"
+    } ],
+    "ref" : "59856083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Shopping_Standard_004",
+      "locale" : "us"
+    } ],
+    "ref" : "60856083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Shopping_Standard_005",
+      "locale" : "us"
+    } ],
+    "ref" : "61856083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Shopping_Standard_006",
+      "locale" : "us"
+    } ],
+    "ref" : "62856083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Shopping_Standard_007",
+      "locale" : "us"
+    } ],
+    "ref" : "53956083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Shopping_Standard_008",
+      "locale" : "us"
+    } ],
+    "ref" : "54956083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Shopping_Standard_009",
+      "locale" : "us"
+    } ],
+    "ref" : "55956083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Shopping_Standard_010",
+      "locale" : "us"
+    } ],
+    "ref" : "56956083"
+  }, {
+    "items" : [ {
+      "value" : "O_F_Shopping_Standard_001",
+      "locale" : "us"
+    } ],
+    "ref" : "57956083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Shopping_Trucker_001",
+      "locale" : "us"
+    } ],
+    "ref" : "58956083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Shopping_Trucker_002",
+      "locale" : "us"
+    } ],
+    "ref" : "59956083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Shopping_Trucker_003",
+      "locale" : "us"
+    } ],
+    "ref" : "60956083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Shopping_Trucker_004",
+      "locale" : "us"
+    } ],
+    "ref" : "61956083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Shopping_Trucker_005",
+      "locale" : "us"
+    } ],
+    "ref" : "62956083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Shopping_Trucker_006",
+      "locale" : "us"
+    } ],
+    "ref" : "54056083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Shopping_Trucker_007",
+      "locale" : "us"
+    } ],
+    "ref" : "55056083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Shopping_Trucker_008",
+      "locale" : "us"
+    } ],
+    "ref" : "56056083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Shopping_Trucker_009",
+      "locale" : "us"
+    } ],
+    "ref" : "57056083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Shopping_Trucker_010",
+      "locale" : "us"
+    } ],
+    "ref" : "58056083"
+  }, {
+    "items" : [ {
+      "value" : "O_F_Shopping_Trucker_001",
+      "locale" : "us"
+    } ],
+    "ref" : "59056083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Shopping_Seductive_001",
+      "locale" : "us"
+    } ],
+    "ref" : "60056083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Shopping_Seductive_002",
+      "locale" : "us"
+    } ],
+    "ref" : "61056083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Shopping_Seductive_003",
+      "locale" : "us"
+    } ],
+    "ref" : "62056083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Shopping_Seductive_004",
+      "locale" : "us"
+    } ],
+    "ref" : "63056083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Shopping_Seductive_005",
+      "locale" : "us"
+    } ],
+    "ref" : "54156083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Shopping_Seductive_006",
+      "locale" : "us"
+    } ],
+    "ref" : "55156083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Shopping_Seductive_007",
+      "locale" : "us"
+    } ],
+    "ref" : "56156083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Shopping_Seductive_008",
+      "locale" : "us"
+    } ],
+    "ref" : "57156083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Shopping_Seductive_009",
+      "locale" : "us"
+    } ],
+    "ref" : "58156083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Shopping_Seductive_010",
+      "locale" : "us"
+    } ],
+    "ref" : "59156083"
+  }, {
+    "items" : [ {
+      "value" : "O_F_Shopping_Seductive_001",
+      "locale" : "us"
+    } ],
+    "ref" : "60156083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Shopping_Stuckup_001",
+      "locale" : "us"
+    } ],
+    "ref" : "61156083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Shopping_Stuckup_002",
+      "locale" : "us"
+    } ],
+    "ref" : "62156083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Shopping_Stuckup_003",
+      "locale" : "us"
+    } ],
+    "ref" : "63156083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Shopping_Stuckup_004",
+      "locale" : "us"
+    } ],
+    "ref" : "54256083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Shopping_Stuckup_005",
+      "locale" : "us"
+    } ],
+    "ref" : "55256083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Shopping_Stuckup_006",
+      "locale" : "us"
+    } ],
+    "ref" : "56256083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Shopping_Stuckup_007",
+      "locale" : "us"
+    } ],
+    "ref" : "57256083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Shopping_Stuckup_008",
+      "locale" : "us"
+    } ],
+    "ref" : "58256083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Shopping_Stuckup_009",
+      "locale" : "us"
+    } ],
+    "ref" : "59256083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Shopping_Stuckup_010",
+      "locale" : "us"
+    } ],
+    "ref" : "60256083"
+  }, {
+    "items" : [ {
+      "value" : "O_F_Shopping_Stuckup_001",
+      "locale" : "us"
+    } ],
+    "ref" : "61256083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Shopping_Foreign_001",
+      "locale" : "us"
+    } ],
+    "ref" : "62256083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Shopping_Foreign_002",
+      "locale" : "us"
+    } ],
+    "ref" : "63256083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Shopping_Foreign_003",
+      "locale" : "us"
+    } ],
+    "ref" : "53366083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Shopping_Foreign_004",
+      "locale" : "us"
+    } ],
+    "ref" : "54366083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Shopping_Foreign_005",
+      "locale" : "us"
+    } ],
+    "ref" : "55366083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Shopping_Foreign_006",
+      "locale" : "us"
+    } ],
+    "ref" : "56366083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Shopping_Foreign_007",
+      "locale" : "us"
+    } ],
+    "ref" : "57366083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Shopping_Foreign_008",
+      "locale" : "us"
+    } ],
+    "ref" : "58366083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Shopping_Foreign_009",
+      "locale" : "us"
+    } ],
+    "ref" : "59366083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Shopping_Foreign_010",
+      "locale" : "us"
+    } ],
+    "ref" : "60366083"
+  }, {
+    "items" : [ {
+      "value" : "O_F_Shopping_Foreign_001",
+      "locale" : "us"
+    } ],
+    "ref" : "61366083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Shopping_Hurry_001",
+      "locale" : "us"
+    } ],
+    "ref" : "62366083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Shopping_Hurry_002",
+      "locale" : "us"
+    } ],
+    "ref" : "53466083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Shopping_Hurry_003",
+      "locale" : "us"
+    } ],
+    "ref" : "54466083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Shopping_Hurry_004",
+      "locale" : "us"
+    } ],
+    "ref" : "55466083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Shopping_Hurry_005",
+      "locale" : "us"
+    } ],
+    "ref" : "56466083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Shopping_Hurry_006",
+      "locale" : "us"
+    } ],
+    "ref" : "57466083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Shopping_Hurry_007",
+      "locale" : "us"
+    } ],
+    "ref" : "58466083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Shopping_Hurry_008",
+      "locale" : "us"
+    } ],
+    "ref" : "59466083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Shopping_Hurry_009",
+      "locale" : "us"
+    } ],
+    "ref" : "60466083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Shopping_Hurry_010",
+      "locale" : "us"
+    } ],
+    "ref" : "61466083"
+  }, {
+    "items" : [ {
+      "value" : "O_F_Shopping_Hurry_001",
+      "locale" : "us"
+    } ],
+    "ref" : "62466083"
+  }, {
+    "items" : [ {
+      "value" : "V_M_HitchHiker_Standard_001",
+      "locale" : "us"
+    } ],
+    "ref" : "53566083"
+  }, {
+    "items" : [ {
+      "value" : "V_M_HitchHiker_Standard_002",
+      "locale" : "us"
+    } ],
+    "ref" : "54566083"
+  }, {
+    "items" : [ {
+      "value" : "V_M_HitchHiker_Standard_003",
+      "locale" : "us"
+    } ],
+    "ref" : "55566083"
+  }, {
+    "items" : [ {
+      "value" : "V_M_HitchHiker_Standard_004",
+      "locale" : "us"
+    } ],
+    "ref" : "56566083"
+  }, {
+    "items" : [ {
+      "value" : "V_M_HitchHiker_Standard_005",
+      "locale" : "us"
+    } ],
+    "ref" : "57566083"
+  }, {
+    "items" : [ {
+      "value" : "V_M_HitchHiker_Standard_006",
+      "locale" : "us"
+    } ],
+    "ref" : "58566083"
+  }, {
+    "items" : [ {
+      "value" : "V_M_HitchHiker_Standard_007",
+      "locale" : "us"
+    } ],
+    "ref" : "59566083"
+  }, {
+    "items" : [ {
+      "value" : "V_M_HitchHiker_Idiot_001",
+      "locale" : "us"
+    } ],
+    "ref" : "60566083"
+  }, {
+    "items" : [ {
+      "value" : "V_M_HitchHiker_Idiot_002",
+      "locale" : "us"
+    } ],
+    "ref" : "61566083"
+  }, {
+    "items" : [ {
+      "value" : "V_M_HitchHiker_Idiot_003",
+      "locale" : "us"
+    } ],
+    "ref" : "62566083"
+  }, {
+    "items" : [ {
+      "value" : "V_M_HitchHiker_Idiot_004",
+      "locale" : "us"
+    } ],
+    "ref" : "53666083"
+  }, {
+    "items" : [ {
+      "value" : "V_M_HitchHiker_Idiot_005",
+      "locale" : "us"
+    } ],
+    "ref" : "54666083"
+  }, {
+    "items" : [ {
+      "value" : "V_M_HitchHiker_Idiot_006",
+      "locale" : "us"
+    } ],
+    "ref" : "55666083"
+  }, {
+    "items" : [ {
+      "value" : "V_M_HitchHiker_Idiot_007",
+      "locale" : "us"
+    } ],
+    "ref" : "56666083"
+  }, {
+    "items" : [ {
+      "value" : "V_M_HitchHiker_Hippy_001",
+      "locale" : "us"
+    } ],
+    "ref" : "57666083"
+  }, {
+    "items" : [ {
+      "value" : "V_M_HitchHiker_Hippy_002",
+      "locale" : "us"
+    } ],
+    "ref" : "58666083"
+  }, {
+    "items" : [ {
+      "value" : "V_M_HitchHiker_Hippy_003",
+      "locale" : "us"
+    } ],
+    "ref" : "59666083"
+  }, {
+    "items" : [ {
+      "value" : "V_M_HitchHiker_Hippy_004",
+      "locale" : "us"
+    } ],
+    "ref" : "60666083"
+  }, {
+    "items" : [ {
+      "value" : "V_M_HitchHiker_Hippy_005",
+      "locale" : "us"
+    } ],
+    "ref" : "61666083"
+  }, {
+    "items" : [ {
+      "value" : "V_M_HitchHiker_Hippy_006",
+      "locale" : "us"
+    } ],
+    "ref" : "62666083"
+  }, {
+    "items" : [ {
+      "value" : "V_M_HitchHiker_Hippy_007",
+      "locale" : "us"
+    } ],
+    "ref" : "53766083"
+  }, {
+    "items" : [ {
+      "value" : "V_M_CarEscort_CarDealer_001",
+      "locale" : "us"
+    } ],
+    "ref" : "54766083"
+  }, {
+    "items" : [ {
+      "value" : "V_M_CarEscort_CarRental_002",
+      "locale" : "us"
+    } ],
+    "ref" : "55766083"
+  }, {
+    "items" : [ {
+      "value" : "V_M_CarEscort_CarRental_004",
+      "locale" : "us"
+    } ],
+    "ref" : "56766083"
+  }, {
+    "items" : [ {
+      "value" : "V_M_Errands_Character1_001",
+      "locale" : "us"
+    } ],
+    "ref" : "57766083"
+  }, {
+    "items" : [ {
+      "value" : "V_M_Errands_Character2_001",
+      "locale" : "us"
+    } ],
+    "ref" : "58766083"
+  }, {
+    "items" : [ {
+      "value" : "V_M_Errands_Character3_001",
+      "locale" : "us"
+    } ],
+    "ref" : "59766083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_GPS_Voice_001",
+      "locale" : "us"
+    } ],
+    "ref" : "60766083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_GPS_Voice_002",
+      "locale" : "us"
+    } ],
+    "ref" : "61766083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_GPS_Voice_003",
+      "locale" : "us"
+    } ],
+    "ref" : "62766083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_GPS_Voice_004",
+      "locale" : "us"
+    } ],
+    "ref" : "53866083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_GPS_Voice_005",
+      "locale" : "us"
+    } ],
+    "ref" : "54866083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_GPS_Voice_006",
+      "locale" : "us"
+    } ],
+    "ref" : "55866083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_GPS_Voice_007",
+      "locale" : "us"
+    } ],
+    "ref" : "56866083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_GPS_Voice_008",
+      "locale" : "us"
+    } ],
+    "ref" : "57866083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_GPS_Voice_009",
+      "locale" : "us"
+    } ],
+    "ref" : "58866083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_GPS_Voice_010",
+      "locale" : "us"
+    } ],
+    "ref" : "59866083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_GPS_Voice_011",
+      "locale" : "us"
+    } ],
+    "ref" : "60866083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_GPS_Voice_012",
+      "locale" : "us"
+    } ],
+    "ref" : "61866083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_GPS_Voice_013",
+      "locale" : "us"
+    } ],
+    "ref" : "62866083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_GPS_Voice_014",
+      "locale" : "us"
+    } ],
+    "ref" : "53966083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_GPS_Voice_015",
+      "locale" : "us"
+    } ],
+    "ref" : "54966083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_GPS_Voice_016",
+      "locale" : "us"
+    } ],
+    "ref" : "55966083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_GPS_Voice_017",
+      "locale" : "us"
+    } ],
+    "ref" : "56966083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Police_Dispatcher_001",
+      "locale" : "us"
+    } ],
+    "ref" : "57966083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Police_Dispatcher_002",
+      "locale" : "us"
+    } ],
+    "ref" : "58966083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Police_Dispatcher_003",
+      "locale" : "us"
+    } ],
+    "ref" : "59966083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Police_Dispatcher_004",
+      "locale" : "us"
+    } ],
+    "ref" : "60966083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Police_Dispatcher_005",
+      "locale" : "us"
+    } ],
+    "ref" : "61966083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Police_Dispatcher_006",
+      "locale" : "us"
+    } ],
+    "ref" : "62966083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Police_Dispatcher_007",
+      "locale" : "us"
+    } ],
+    "ref" : "54066083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Police_Dispatcher_008",
+      "locale" : "us"
+    } ],
+    "ref" : "55066083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Police_Dispatcher_009",
+      "locale" : "us"
+    } ],
+    "ref" : "56066083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Police_Dispatcher_010",
+      "locale" : "us"
+    } ],
+    "ref" : "57066083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Police_Dispatcher_011",
+      "locale" : "us"
+    } ],
+    "ref" : "58066083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Police_Dispatcher_012",
+      "locale" : "us"
+    } ],
+    "ref" : "59066083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Police_Dispatcher_013",
+      "locale" : "us"
+    } ],
+    "ref" : "60066083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Police_Dispatcher_014",
+      "locale" : "us"
+    } ],
+    "ref" : "61066083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Police_Dispatcher_015",
+      "locale" : "us"
+    } ],
+    "ref" : "62066083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Police_Dispatcher_016",
+      "locale" : "us"
+    } ],
+    "ref" : "63066083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Police_Dispatcher_017",
+      "locale" : "us"
+    } ],
+    "ref" : "54166083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Police_Dispatcher_018",
+      "locale" : "us"
+    } ],
+    "ref" : "55166083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Police_Dispatcher_019",
+      "locale" : "us"
+    } ],
+    "ref" : "56166083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Police_Dispatcher_020",
+      "locale" : "us"
+    } ],
+    "ref" : "57166083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Police_Dispatcher_021",
+      "locale" : "us"
+    } ],
+    "ref" : "58166083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Police_Dispatcher_022",
+      "locale" : "us"
+    } ],
+    "ref" : "59166083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Police_Dispatcher_023",
+      "locale" : "us"
+    } ],
+    "ref" : "60166083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Police_Dispatcher_024",
+      "locale" : "us"
+    } ],
+    "ref" : "61166083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Police_Dispatcher_025",
+      "locale" : "us"
+    } ],
+    "ref" : "62166083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Police_Dispatcher_026",
+      "locale" : "us"
+    } ],
+    "ref" : "63166083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Police_Dispatcher_027",
+      "locale" : "us"
+    } ],
+    "ref" : "54266083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Police_Dispatcher_028",
+      "locale" : "us"
+    } ],
+    "ref" : "55266083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Police_Dispatcher_029",
+      "locale" : "us"
+    } ],
+    "ref" : "56266083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Police_Dispatcher_030",
+      "locale" : "us"
+    } ],
+    "ref" : "57266083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Police_Dispatcher_031",
+      "locale" : "us"
+    } ],
+    "ref" : "58266083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Police_Dispatcher_032",
+      "locale" : "us"
+    } ],
+    "ref" : "59266083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Police_Dispatcher_033",
+      "locale" : "us"
+    } ],
+    "ref" : "60266083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Police_Dispatcher_034",
+      "locale" : "us"
+    } ],
+    "ref" : "61266083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Police_Dispatcher_035",
+      "locale" : "us"
+    } ],
+    "ref" : "62266083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Police_Dispatcher_036",
+      "locale" : "us"
+    } ],
+    "ref" : "63266083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Police_Dispatcher_037",
+      "locale" : "us"
+    } ],
+    "ref" : "53376083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Police_Dispatcher_038",
+      "locale" : "us"
+    } ],
+    "ref" : "54376083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Police_Dispatcher_039",
+      "locale" : "us"
+    } ],
+    "ref" : "55376083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Police_Dispatcher_040",
+      "locale" : "us"
+    } ],
+    "ref" : "56376083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Police_Dispatcher_041",
+      "locale" : "us"
+    } ],
+    "ref" : "57376083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Police_Dispatcher_042",
+      "locale" : "us"
+    } ],
+    "ref" : "58376083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Police_Dispatcher_043",
+      "locale" : "us"
+    } ],
+    "ref" : "59376083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Police_Dispatcher_044",
+      "locale" : "us"
+    } ],
+    "ref" : "60376083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Police_Dispatcher_045",
+      "locale" : "us"
+    } ],
+    "ref" : "61376083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Police_Dispatcher_046",
+      "locale" : "us"
+    } ],
+    "ref" : "62376083"
+  }, {
+    "items" : [ {
+      "value" : "V_M_Police_Car1_001",
+      "locale" : "us"
+    } ],
+    "ref" : "53476083"
+  }, {
+    "items" : [ {
+      "value" : "V_M_Police_Car1_002",
+      "locale" : "us"
+    } ],
+    "ref" : "54476083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Police_Dispatcher_047",
+      "locale" : "us"
+    } ],
+    "ref" : "55476083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Police_Dispatcher_048",
+      "locale" : "us"
+    } ],
+    "ref" : "56476083"
+  }, {
+    "items" : [ {
+      "value" : "V_M_Police_Car1_003",
+      "locale" : "us"
+    } ],
+    "ref" : "57476083"
+  }, {
+    "items" : [ {
+      "value" : "V_M_Police_Car1_004",
+      "locale" : "us"
+    } ],
+    "ref" : "58476083"
+  }, {
+    "items" : [ {
+      "value" : "V_M_Police_Car2_001",
+      "locale" : "us"
+    } ],
+    "ref" : "59476083"
+  }, {
+    "items" : [ {
+      "value" : "V_M_Police_Car2_002",
+      "locale" : "us"
+    } ],
+    "ref" : "60476083"
+  }, {
+    "items" : [ {
+      "value" : "V_M_Police_Car1_005",
+      "locale" : "us"
+    } ],
+    "ref" : "61476083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Police_Dispatcher_049",
+      "locale" : "us"
+    } ],
+    "ref" : "62476083"
+  }, {
+    "items" : [ {
+      "value" : "V_M_Police_Car3_001",
+      "locale" : "us"
+    } ],
+    "ref" : "53576083"
+  }, {
+    "items" : [ {
+      "value" : "V_M_Police_Car2_003",
+      "locale" : "us"
+    } ],
+    "ref" : "54576083"
+  }, {
+    "items" : [ {
+      "value" : "V_M_Police_Car3_002",
+      "locale" : "us"
+    } ],
+    "ref" : "55576083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Police_Dispatcher_050",
+      "locale" : "us"
+    } ],
+    "ref" : "56576083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Police_Dispatcher_051",
+      "locale" : "us"
+    } ],
+    "ref" : "57576083"
+  }, {
+    "items" : [ {
+      "value" : "V_M_Police_Car1_006",
+      "locale" : "us"
+    } ],
+    "ref" : "58576083"
+  }, {
+    "items" : [ {
+      "value" : "V_M_Police_Car1_007",
+      "locale" : "us"
+    } ],
+    "ref" : "59576083"
+  }, {
+    "items" : [ {
+      "value" : "V_M_Police_Car2_004",
+      "locale" : "us"
+    } ],
+    "ref" : "60576083"
+  }, {
+    "items" : [ {
+      "value" : "V_M_Police_Car3_003",
+      "locale" : "us"
+    } ],
+    "ref" : "61576083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Police_Car4_001",
+      "locale" : "us"
+    } ],
+    "ref" : "62576083"
+  }, {
+    "items" : [ {
+      "value" : "V_M_Police_Car1_008",
+      "locale" : "us"
+    } ],
+    "ref" : "53676083"
+  }, {
+    "items" : [ {
+      "value" : "V_M_Police_Car2_005",
+      "locale" : "us"
+    } ],
+    "ref" : "54676083"
+  }, {
+    "items" : [ {
+      "value" : "V_M_Police_Car3_004",
+      "locale" : "us"
+    } ],
+    "ref" : "55676083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Police_Dispatcher_052",
+      "locale" : "us"
+    } ],
+    "ref" : "56676083"
+  }, {
+    "items" : [ {
+      "value" : "V_M_Police_Car3_005",
+      "locale" : "us"
+    } ],
+    "ref" : "57676083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Police_Dispatcher_053",
+      "locale" : "us"
+    } ],
+    "ref" : "58676083"
+  }, {
+    "items" : [ {
+      "value" : "V_M_Police_Car2_006",
+      "locale" : "us"
+    } ],
+    "ref" : "59676083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Police_Dispatcher_054",
+      "locale" : "us"
+    } ],
+    "ref" : "60676083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Police_Dispatcher_055",
+      "locale" : "us"
+    } ],
+    "ref" : "61676083"
+  }, {
+    "items" : [ {
+      "value" : "V_M_Police_Car1_009",
+      "locale" : "us"
+    } ],
+    "ref" : "62676083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Police_Dispatcher_056",
+      "locale" : "us"
+    } ],
+    "ref" : "53776083"
+  }, {
+    "items" : [ {
+      "value" : "V_M_Police_Car1_010",
+      "locale" : "us"
+    } ],
+    "ref" : "54776083"
+  }, {
+    "items" : [ {
+      "value" : "V_M_Police_Car2_007",
+      "locale" : "us"
+    } ],
+    "ref" : "55776083"
+  }, {
+    "items" : [ {
+      "value" : "V_M_Police_Car3_006",
+      "locale" : "us"
+    } ],
+    "ref" : "56776083"
+  }, {
+    "items" : [ {
+      "value" : "V_M_Police_Car1_011",
+      "locale" : "us"
+    } ],
+    "ref" : "57776083"
+  }, {
+    "items" : [ {
+      "value" : "V_M_Police_Car2_008",
+      "locale" : "us"
+    } ],
+    "ref" : "58776083"
+  }, {
+    "items" : [ {
+      "value" : "V_M_Police_Car3_007",
+      "locale" : "us"
+    } ],
+    "ref" : "59776083"
+  }, {
+    "items" : [ {
+      "value" : "V_M_Police_Car1_012",
+      "locale" : "us"
+    } ],
+    "ref" : "60776083"
+  }, {
+    "items" : [ {
+      "value" : "V_M_Police_Car2_009",
+      "locale" : "us"
+    } ],
+    "ref" : "61776083"
+  }, {
+    "items" : [ {
+      "value" : "V_M_Police_Car3_008",
+      "locale" : "us"
+    } ],
+    "ref" : "62776083"
+  }, {
+    "items" : [ {
+      "value" : "V_M_Police_Car1_013",
+      "locale" : "us"
+    } ],
+    "ref" : "53876083"
+  }, {
+    "items" : [ {
+      "value" : "V_M_Police_Car2_010",
+      "locale" : "us"
+    } ],
+    "ref" : "54876083"
+  }, {
+    "items" : [ {
+      "value" : "V_M_Police_Car3_009",
+      "locale" : "us"
+    } ],
+    "ref" : "55876083"
+  }, {
+    "items" : [ {
+      "value" : "V_M_Police_Car1_014",
+      "locale" : "us"
+    } ],
+    "ref" : "56876083"
+  }, {
+    "items" : [ {
+      "value" : "V_M_Police_Car2_011",
+      "locale" : "us"
+    } ],
+    "ref" : "57876083"
+  }, {
+    "items" : [ {
+      "value" : "V_M_Police_Car3_010",
+      "locale" : "us"
+    } ],
+    "ref" : "58876083"
+  }, {
+    "items" : [ {
+      "value" : "V_M_Police_Car1_015",
+      "locale" : "us"
+    } ],
+    "ref" : "59876083"
+  }, {
+    "items" : [ {
+      "value" : "V_M_Police_Car2_012",
+      "locale" : "us"
+    } ],
+    "ref" : "60876083"
+  }, {
+    "items" : [ {
+      "value" : "V_M_Police_Car3_011",
+      "locale" : "us"
+    } ],
+    "ref" : "61876083"
+  }, {
+    "items" : [ {
+      "value" : "O_M_Avatar_Arrest_001",
+      "locale" : "us"
+    } ],
+    "ref" : "62876083"
+  }, {
+    "items" : [ {
+      "value" : "O_M_Avatar_Arrest_002",
+      "locale" : "us"
+    } ],
+    "ref" : "53976083"
+  }, {
+    "items" : [ {
+      "value" : "O_M_Avatar_Arrest_003",
+      "locale" : "us"
+    } ],
+    "ref" : "54976083"
+  }, {
+    "items" : [ {
+      "value" : "O_M_Avatar_Arrest_004",
+      "locale" : "us"
+    } ],
+    "ref" : "55976083"
+  }, {
+    "items" : [ {
+      "value" : "O_M_Avatar_Arrest_005",
+      "locale" : "us"
+    } ],
+    "ref" : "56976083"
+  }, {
+    "items" : [ {
+      "value" : "O_M_Avatar_Arrest_006",
+      "locale" : "us"
+    } ],
+    "ref" : "57976083"
+  }, {
+    "items" : [ {
+      "value" : "O_M_Avatar_Arrest_007",
+      "locale" : "us"
+    } ],
+    "ref" : "58976083"
+  }, {
+    "items" : [ {
+      "value" : "O_M_Avatar_Arrest_008",
+      "locale" : "us"
+    } ],
+    "ref" : "59976083"
+  }, {
+    "items" : [ {
+      "value" : "O_M_Avatar_Arrest_009",
+      "locale" : "us"
+    } ],
+    "ref" : "60976083"
+  }, {
+    "items" : [ {
+      "value" : "O_F_Avatar_Arrest_001",
+      "locale" : "us"
+    } ],
+    "ref" : "61976083"
+  }, {
+    "items" : [ {
+      "value" : "O_F_Avatar_Arrest_002",
+      "locale" : "us"
+    } ],
+    "ref" : "62976083"
+  }, {
+    "items" : [ {
+      "value" : "O_F_Avatar_Arrest_003",
+      "locale" : "us"
+    } ],
+    "ref" : "54076083"
+  }, {
+    "items" : [ {
+      "value" : "O_F_Avatar_Arrest_004",
+      "locale" : "us"
+    } ],
+    "ref" : "55076083"
+  }, {
+    "items" : [ {
+      "value" : "O_F_Avatar_Arrest_005",
+      "locale" : "us"
+    } ],
+    "ref" : "56076083"
+  }, {
+    "items" : [ {
+      "value" : "O_F_Avatar_Arrest_006",
+      "locale" : "us"
+    } ],
+    "ref" : "57076083"
+  }, {
+    "items" : [ {
+      "value" : "O_F_Avatar_Arrest_007",
+      "locale" : "us"
+    } ],
+    "ref" : "58076083"
+  }, {
+    "items" : [ {
+      "value" : "O_F_Avatar_Arrest_008",
+      "locale" : "us"
+    } ],
+    "ref" : "59076083"
+  }, {
+    "items" : [ {
+      "value" : "O_F_Avatar_Arrest_009",
+      "locale" : "us"
+    } ],
+    "ref" : "60076083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Airport_Voice_001",
+      "locale" : "us"
+    } ],
+    "ref" : "61076083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Airport_Voice_002",
+      "locale" : "us"
+    } ],
+    "ref" : "62076083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Airport_Voice_003",
+      "locale" : "us"
+    } ],
+    "ref" : "63076083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Hostess_Voice_001",
+      "locale" : "us"
+    } ],
+    "ref" : "54176083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Hostess_Voice_002",
+      "locale" : "us"
+    } ],
+    "ref" : "55176083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Hostess_Voice_003",
+      "locale" : "us"
+    } ],
+    "ref" : "56176083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Hostess_Voice_004",
+      "locale" : "us"
+    } ],
+    "ref" : "57176083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Hostess_Voice_005",
+      "locale" : "us"
+    } ],
+    "ref" : "58176083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Hostess_Voice_006",
+      "locale" : "us"
+    } ],
+    "ref" : "59176083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Hostess_Voice_007",
+      "locale" : "us"
+    } ],
+    "ref" : "60176083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Hostess_Voice_008",
+      "locale" : "us"
+    } ],
+    "ref" : "61176083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Hostess_Voice_009",
+      "locale" : "us"
+    } ],
+    "ref" : "62176083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Hostess_Voice_010",
+      "locale" : "us"
+    } ],
+    "ref" : "63176083"
+  }, {
+    "items" : [ {
+      "value" : "O_M_Player_Intro_001",
+      "locale" : "us"
+    } ],
+    "ref" : "54276083"
+  }, {
+    "items" : [ {
+      "value" : "O_M_Player_Intro_002",
+      "locale" : "us"
+    } ],
+    "ref" : "55276083"
+  }, {
+    "items" : [ {
+      "value" : "O_F_Player_Intro_001",
+      "locale" : "us"
+    } ],
+    "ref" : "56276083"
+  }, {
+    "items" : [ {
+      "value" : "O_F_Player_Intro_002",
+      "locale" : "us"
+    } ],
+    "ref" : "57276083"
+  }, {
+    "items" : [ {
+      "value" : "V_M_Radio_Station_A_001",
+      "locale" : "us"
+    } ],
+    "ref" : "58276083"
+  }, {
+    "items" : [ {
+      "value" : "V_M_Radio_Station_B_001",
+      "locale" : "us"
+    } ],
+    "ref" : "59276083"
+  }, {
+    "items" : [ {
+      "value" : "V_M_Radio_Station_C_001",
+      "locale" : "us"
+    } ],
+    "ref" : "60276083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Radio_Station_D_001",
+      "locale" : "us"
+    } ],
+    "ref" : "61276083"
+  }, {
+    "items" : [ {
+      "value" : "V_M_Radio_Station_A_002",
+      "locale" : "us"
+    } ],
+    "ref" : "62276083"
+  }, {
+    "items" : [ {
+      "value" : "V_M_Radio_Station_B_002",
+      "locale" : "us"
+    } ],
+    "ref" : "63276083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Radio_Station_C_002",
+      "locale" : "us"
+    } ],
+    "ref" : "53386083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Radio_Station_D_002",
+      "locale" : "us"
+    } ],
+    "ref" : "54386083"
+  }, {
+    "items" : [ {
+      "value" : "O_M_Race_Start_001",
+      "locale" : "us"
+    } ],
+    "ref" : "55386083"
+  }, {
+    "items" : [ {
+      "value" : "O_M_Race_Start_002",
+      "locale" : "us"
+    } ],
+    "ref" : "56386083"
+  }, {
+    "items" : [ {
+      "value" : "O_M_Race_Start_003",
+      "locale" : "us"
+    } ],
+    "ref" : "57386083"
+  }, {
+    "items" : [ {
+      "value" : "O_M_Race_Start_004",
+      "locale" : "us"
+    } ],
+    "ref" : "58386083"
+  }, {
+    "items" : [ {
+      "value" : "O_M_Race_Start_005",
+      "locale" : "us"
+    } ],
+    "ref" : "59386083"
+  }, {
+    "items" : [ {
+      "value" : "O_M_Race_Start_006",
+      "locale" : "us"
+    } ],
+    "ref" : "60386083"
+  }, {
+    "items" : [ {
+      "value" : "O_F_Race_Start_001",
+      "locale" : "us"
+    } ],
+    "ref" : "61386083"
+  }, {
+    "items" : [ {
+      "value" : "O_F_Race_Start_002",
+      "locale" : "us"
+    } ],
+    "ref" : "62386083"
+  }, {
+    "items" : [ {
+      "value" : "O_F_Race_Start_003",
+      "locale" : "us"
+    } ],
+    "ref" : "53486083"
+  }, {
+    "items" : [ {
+      "value" : "O_F_Race_Start_004",
+      "locale" : "us"
+    } ],
+    "ref" : "54486083"
+  }, {
+    "items" : [ {
+      "value" : "O_F_Race_Start_005",
+      "locale" : "us"
+    } ],
+    "ref" : "55486083"
+  }, {
+    "items" : [ {
+      "value" : "O_F_Race_Start_006",
+      "locale" : "us"
+    } ],
+    "ref" : "56486083"
+  }, {
+    "items" : [ {
+      "value" : "O_M_Race_Start_007",
+      "locale" : "us"
+    } ],
+    "ref" : "57486083"
+  }, {
+    "items" : [ {
+      "value" : "O_H_Player_Intro_001",
+      "locale" : "us"
+    } ],
+    "ref" : "58486083"
+  }, {
+    "items" : [ {
+      "value" : "V_M_Player_Win_001",
+      "locale" : "us"
+    } ],
+    "ref" : "59486083"
+  }, {
+    "items" : [ {
+      "value" : "V_M_Player_Win_002",
+      "locale" : "us"
+    } ],
+    "ref" : "60486083"
+  }, {
+    "items" : [ {
+      "value" : "V_M_Player_Win_003",
+      "locale" : "us"
+    } ],
+    "ref" : "61486083"
+  }, {
+    "items" : [ {
+      "value" : "V_M_Player_Lose_001",
+      "locale" : "us"
+    } ],
+    "ref" : "62486083"
+  }, {
+    "items" : [ {
+      "value" : "V_M_Player_Lose_002",
+      "locale" : "us"
+    } ],
+    "ref" : "53586083"
+  }, {
+    "items" : [ {
+      "value" : "V_M_Player_Lose_003",
+      "locale" : "us"
+    } ],
+    "ref" : "54586083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Player_Win_001",
+      "locale" : "us"
+    } ],
+    "ref" : "55586083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Player_Win_002",
+      "locale" : "us"
+    } ],
+    "ref" : "56586083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Player_Win_003",
+      "locale" : "us"
+    } ],
+    "ref" : "57586083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Player_Loser_001",
+      "locale" : "us"
+    } ],
+    "ref" : "58586083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Player_Loser_002",
+      "locale" : "us"
+    } ],
+    "ref" : "59586083"
+  }, {
+    "items" : [ {
+      "value" : "V_F_Player_Loser_003",
+      "locale" : "us"
+    } ],
+    "ref" : "60586083"
+  } ]
+}

@@ -1,0 +1,17 @@
+{
+  "version" : "1,2",
+  "categoryCount" : 2,
+  "entries" : [ {
+    "items" : [ {
+      "value" : "ERROR",
+      "locale" : "us"
+    } ],
+    "ref" : "909787"
+  }, {
+    "items" : [ {
+      "value" : "Main",
+      "locale" : "us"
+    } ],
+    "ref" : "86037407"
+  } ]
+}

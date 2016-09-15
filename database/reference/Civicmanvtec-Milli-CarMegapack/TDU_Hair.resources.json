@@ -1,0 +1,182 @@
+{
+  "version" : "1,2",
+  "categoryCount" : 5,
+  "entries" : [ {
+    "items" : [ {
+      "value" : "ERROR",
+      "locale" : "us"
+    } ],
+    "ref" : "9097022"
+  }, {
+    "items" : [ {
+      "value" : "Rasta",
+      "locale" : "us"
+    }, {
+      "value" : "Rasta",
+      "locale" : "ja"
+    }, {
+      "value" : "Rasta",
+      "locale" : "sp"
+    }, {
+      "value" : "Rasta",
+      "locale" : "ko"
+    }, {
+      "value" : "Rasta",
+      "locale" : "ge"
+    }, {
+      "value" : "Rasta",
+      "locale" : "ch"
+    }, {
+      "value" : "Rasta",
+      "locale" : "it"
+    }, {
+      "value" : "Rasta",
+      "locale" : "fr"
+    } ],
+    "ref" : "5436022"
+  }, {
+    "items" : [ {
+      "value" : "HA01",
+      "locale" : "us"
+    }, {
+      "value" : "HA01",
+      "locale" : "ja"
+    }, {
+      "value" : "HA01",
+      "locale" : "sp"
+    }, {
+      "value" : "HA01",
+      "locale" : "ko"
+    }, {
+      "value" : "HA01",
+      "locale" : "ge"
+    }, {
+      "value" : "HA01",
+      "locale" : "ch"
+    }, {
+      "value" : "HA01",
+      "locale" : "it"
+    }, {
+      "value" : "HA01",
+      "locale" : "fr"
+    } ],
+    "ref" : "54370022"
+  }, {
+    "items" : [ {
+      "value" : "HA02",
+      "locale" : "us"
+    } ],
+    "ref" : "55370022"
+  }, {
+    "items" : [ {
+      "value" : "HA03",
+      "locale" : "us"
+    } ],
+    "ref" : "56370022"
+  }, {
+    "items" : [ {
+      "value" : "HA04",
+      "locale" : "us"
+    } ],
+    "ref" : "57370022"
+  }, {
+    "items" : [ {
+      "value" : "HA05",
+      "locale" : "us"
+    } ],
+    "ref" : "58370022"
+  }, {
+    "items" : [ {
+      "value" : "HA06",
+      "locale" : "us"
+    } ],
+    "ref" : "59370022"
+  }, {
+    "items" : [ {
+      "value" : "HA07",
+      "locale" : "us"
+    } ],
+    "ref" : "60370022"
+  }, {
+    "items" : [ {
+      "value" : "DEFAULT_BOTTOMS",
+      "locale" : "us"
+    }, {
+      "value" : "DEFAULT_BOTTOMS",
+      "locale" : "ja"
+    }, {
+      "value" : "DEFAULT_BOTTOMS",
+      "locale" : "sp"
+    }, {
+      "value" : "DEFAULT_BOTTOMS",
+      "locale" : "ko"
+    }, {
+      "value" : "DEFAULT_BOTTOMS",
+      "locale" : "ge"
+    }, {
+      "value" : "DEFAULT_BOTTOMS",
+      "locale" : "ch"
+    }, {
+      "value" : "DEFAULT_BOTTOMS",
+      "locale" : "it"
+    }, {
+      "value" : "DEFAULT_BOTTOMS",
+      "locale" : "fr"
+    } ],
+    "ref" : "54640827"
+  }, {
+    "items" : [ {
+      "value" : "DEFAULT_TOPS_SHIRT",
+      "locale" : "us"
+    }, {
+      "value" : "DEFAULT_TOPS_SHIRT",
+      "locale" : "ja"
+    }, {
+      "value" : "DEFAULT_TOPS_SHIRT",
+      "locale" : "sp"
+    }, {
+      "value" : "DEFAULT_TOPS_SHIRT",
+      "locale" : "ko"
+    }, {
+      "value" : "DEFAULT_TOPS_SHIRT",
+      "locale" : "ge"
+    }, {
+      "value" : "DEFAULT_TOPS_SHIRT",
+      "locale" : "ch"
+    }, {
+      "value" : "DEFAULT_TOPS_SHIRT",
+      "locale" : "it"
+    }, {
+      "value" : "DEFAULT_TOPS_SHIRT",
+      "locale" : "fr"
+    } ],
+    "ref" : "54707527"
+  }, {
+    "items" : [ {
+      "value" : "ChemiseAFleurs01",
+      "locale" : "us"
+    }, {
+      "value" : "ChemiseAFleurs01",
+      "locale" : "ja"
+    }, {
+      "value" : "ChemiseAFleurs01",
+      "locale" : "sp"
+    }, {
+      "value" : "ChemiseAFleurs01",
+      "locale" : "ko"
+    }, {
+      "value" : "ChemiseAFleurs01",
+      "locale" : "ge"
+    }, {
+      "value" : "ChemiseAFleurs01",
+      "locale" : "ch"
+    }, {
+      "value" : "ChemiseAFleurs01",
+      "locale" : "it"
+    }, {
+      "value" : "ChemiseAFleurs01",
+      "locale" : "fr"
+    } ],
+    "ref" : "54713527"
+  } ]
+}

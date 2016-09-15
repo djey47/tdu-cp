@@ -1,0 +1,4837 @@
+{
+  "topic" : "BOTS",
+  "entries" : [ {
+    "id" : 0,
+    "items" : [ {
+      "value" : "55467256",
+      "rank" : 1
+    }, {
+      "value" : "54373256",
+      "rank" : 2
+    }, {
+      "value" : "540091912",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "0",
+      "rank" : 5
+    }, {
+      "value" : "1178042409",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 1,
+    "items" : [ {
+      "value" : "59467256",
+      "rank" : 1
+    }, {
+      "value" : "54373256",
+      "rank" : 2
+    }, {
+      "value" : "1209142001",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "1",
+      "rank" : 5
+    }, {
+      "value" : "69868717",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 2,
+    "items" : [ {
+      "value" : "60467256",
+      "rank" : 1
+    }, {
+      "value" : "60373256",
+      "rank" : 2
+    }, {
+      "value" : "540091922",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "2",
+      "rank" : 5
+    }, {
+      "value" : "706378577",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 3,
+    "items" : [ {
+      "value" : "61467256",
+      "rank" : 1
+    }, {
+      "value" : "54373256",
+      "rank" : 2
+    }, {
+      "value" : "550091904",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "3",
+      "rank" : 5
+    }, {
+      "value" : "121344912",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 4,
+    "items" : [ {
+      "value" : "62467256",
+      "rank" : 1
+    }, {
+      "value" : "54373256",
+      "rank" : 2
+    }, {
+      "value" : "550091906",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "4",
+      "rank" : 5
+    }, {
+      "value" : "702052277",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 5,
+    "items" : [ {
+      "value" : "53567256",
+      "rank" : 1
+    }, {
+      "value" : "54373256",
+      "rank" : 2
+    }, {
+      "value" : "550091908",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "5",
+      "rank" : 5
+    }, {
+      "value" : "911668799",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 6,
+    "items" : [ {
+      "value" : "55067256",
+      "rank" : 1
+    }, {
+      "value" : "53473256",
+      "rank" : 2
+    }, {
+      "value" : "550091910",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "6",
+      "rank" : 5
+    }, {
+      "value" : "698656360",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 7,
+    "items" : [ {
+      "value" : "56567256",
+      "rank" : 1
+    }, {
+      "value" : "54373256",
+      "rank" : 2
+    }, {
+      "value" : "1209142002",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "0",
+      "rank" : 5
+    }, {
+      "value" : "1221657041",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 8,
+    "items" : [ {
+      "value" : "58567256",
+      "rank" : 1
+    }, {
+      "value" : "54373256",
+      "rank" : 2
+    }, {
+      "value" : "550091914",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "1",
+      "rank" : 5
+    }, {
+      "value" : "70220210",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 9,
+    "items" : [ {
+      "value" : "59567256",
+      "rank" : 1
+    }, {
+      "value" : "54373256",
+      "rank" : 2
+    }, {
+      "value" : "550091916",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "2",
+      "rank" : 5
+    }, {
+      "value" : "569208607",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 10,
+    "items" : [ {
+      "value" : "54667256",
+      "rank" : 1
+    }, {
+      "value" : "54373256",
+      "rank" : 2
+    }, {
+      "value" : "550091920",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "3",
+      "rank" : 5
+    }, {
+      "value" : "915344490",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 11,
+    "items" : [ {
+      "value" : "62567256",
+      "rank" : 1
+    }, {
+      "value" : "60373256",
+      "rank" : 2
+    }, {
+      "value" : "550091922",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "4",
+      "rank" : 5
+    }, {
+      "value" : "624463359",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 12,
+    "items" : [ {
+      "value" : "55667256",
+      "rank" : 1
+    }, {
+      "value" : "53473256",
+      "rank" : 2
+    }, {
+      "value" : "560091908",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "5",
+      "rank" : 5
+    }, {
+      "value" : "1218220598",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 13,
+    "items" : [ {
+      "value" : "56667256",
+      "rank" : 1
+    }, {
+      "value" : "60373256",
+      "rank" : 2
+    }, {
+      "value" : "560091910",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "6",
+      "rank" : 5
+    }, {
+      "value" : "784850286",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 14,
+    "items" : [ {
+      "value" : "57667256",
+      "rank" : 1
+    }, {
+      "value" : "54373256",
+      "rank" : 2
+    }, {
+      "value" : "560091912",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "0",
+      "rank" : 5
+    }, {
+      "value" : "1235851026",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 15,
+    "items" : [ {
+      "value" : "58667256",
+      "rank" : 1
+    }, {
+      "value" : "54373256",
+      "rank" : 2
+    }, {
+      "value" : "560091914",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "1",
+      "rank" : 5
+    }, {
+      "value" : "916337925",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 16,
+    "items" : [ {
+      "value" : "61667256",
+      "rank" : 1
+    }, {
+      "value" : "53473256",
+      "rank" : 2
+    }, {
+      "value" : "1209142004",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "2",
+      "rank" : 5
+    }, {
+      "value" : "698882776",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 17,
+    "items" : [ {
+      "value" : "62667256",
+      "rank" : 1
+    }, {
+      "value" : "54373256",
+      "rank" : 2
+    }, {
+      "value" : "560091920",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "3",
+      "rank" : 5
+    }, {
+      "value" : "582585705",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 18,
+    "items" : [ {
+      "value" : "53767256",
+      "rank" : 1
+    }, {
+      "value" : "53473256",
+      "rank" : 2
+    }, {
+      "value" : "560091922",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "4",
+      "rank" : 5
+    }, {
+      "value" : "1214731890",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 19,
+    "items" : [ {
+      "value" : "54767256",
+      "rank" : 1
+    }, {
+      "value" : "54373256",
+      "rank" : 2
+    }, {
+      "value" : "570091904",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "5",
+      "rank" : 5
+    }, {
+      "value" : "1240731968",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 20,
+    "items" : [ {
+      "value" : "56767256",
+      "rank" : 1
+    }, {
+      "value" : "60373256",
+      "rank" : 2
+    }, {
+      "value" : "570091908",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "6",
+      "rank" : 5
+    }, {
+      "value" : "698836043",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 21,
+    "items" : [ {
+      "value" : "58767256",
+      "rank" : 1
+    }, {
+      "value" : "61373256",
+      "rank" : 2
+    }, {
+      "value" : "570091912",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "0",
+      "rank" : 5
+    }, {
+      "value" : "916575065",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 22,
+    "items" : [ {
+      "value" : "59767256",
+      "rank" : 1
+    }, {
+      "value" : "55373256",
+      "rank" : 2
+    }, {
+      "value" : "570091914",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "1",
+      "rank" : 5
+    }, {
+      "value" : "619585597",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 23,
+    "items" : [ {
+      "value" : "60767256",
+      "rank" : 1
+    }, {
+      "value" : "54473256",
+      "rank" : 2
+    }, {
+      "value" : "580091916",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "2",
+      "rank" : 5
+    }, {
+      "value" : "698912474",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 24,
+    "items" : [ {
+      "value" : "61767256",
+      "rank" : 1
+    }, {
+      "value" : "55373256",
+      "rank" : 2
+    }, {
+      "value" : "540091908",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "3",
+      "rank" : 5
+    }, {
+      "value" : "1230253255",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 25,
+    "items" : [ {
+      "value" : "62767256",
+      "rank" : 1
+    }, {
+      "value" : "61373256",
+      "rank" : 2
+    }, {
+      "value" : "570091916",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "4",
+      "rank" : 5
+    }, {
+      "value" : "705066200",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 26,
+    "items" : [ {
+      "value" : "53867256",
+      "rank" : 1
+    }, {
+      "value" : "55373256",
+      "rank" : 2
+    }, {
+      "value" : "570091918",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "5",
+      "rank" : 5
+    }, {
+      "value" : "698774731",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 27,
+    "items" : [ {
+      "value" : "54867256",
+      "rank" : 1
+    }, {
+      "value" : "61373256",
+      "rank" : 2
+    }, {
+      "value" : "570091920",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "6",
+      "rank" : 5
+    }, {
+      "value" : "95763647",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 28,
+    "items" : [ {
+      "value" : "55867256",
+      "rank" : 1
+    }, {
+      "value" : "55373256",
+      "rank" : 2
+    }, {
+      "value" : "1209142005",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "0",
+      "rank" : 5
+    }, {
+      "value" : "704362760",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 29,
+    "items" : [ {
+      "value" : "56867256",
+      "rank" : 1
+    }, {
+      "value" : "55373256",
+      "rank" : 2
+    }, {
+      "value" : "570091922",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "1",
+      "rank" : 5
+    }, {
+      "value" : "581779037",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 30,
+    "items" : [ {
+      "value" : "59867256",
+      "rank" : 1
+    }, {
+      "value" : "55373256",
+      "rank" : 2
+    }, {
+      "value" : "580091908",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "2",
+      "rank" : 5
+    }, {
+      "value" : "1285237823",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 31,
+    "items" : [ {
+      "value" : "61567256",
+      "rank" : 1
+    }, {
+      "value" : "55373256",
+      "rank" : 2
+    }, {
+      "value" : "560091906",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "3",
+      "rank" : 5
+    }, {
+      "value" : "699219666",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 32,
+    "items" : [ {
+      "value" : "62867256",
+      "rank" : 1
+    }, {
+      "value" : "61373256",
+      "rank" : 2
+    }, {
+      "value" : "580091918",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "4",
+      "rank" : 5
+    }, {
+      "value" : "699437593",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 33,
+    "items" : [ {
+      "value" : "53967256",
+      "rank" : 1
+    }, {
+      "value" : "61373256",
+      "rank" : 2
+    }, {
+      "value" : "580091920",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "5",
+      "rank" : 5
+    }, {
+      "value" : "592136555",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 34,
+    "items" : [ {
+      "value" : "55967256",
+      "rank" : 1
+    }, {
+      "value" : "55373256",
+      "rank" : 2
+    }, {
+      "value" : "590091904",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "6",
+      "rank" : 5
+    }, {
+      "value" : "922904690",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 35,
+    "items" : [ {
+      "value" : "56967256",
+      "rank" : 1
+    }, {
+      "value" : "55373256",
+      "rank" : 2
+    }, {
+      "value" : "590091906",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "0",
+      "rank" : 5
+    }, {
+      "value" : "704744681",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 36,
+    "items" : [ {
+      "value" : "57967256",
+      "rank" : 1
+    }, {
+      "value" : "54473256",
+      "rank" : 2
+    }, {
+      "value" : "590091908",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "1",
+      "rank" : 5
+    }, {
+      "value" : "903887207",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 37,
+    "items" : [ {
+      "value" : "58967256",
+      "rank" : 1
+    }, {
+      "value" : "55373256",
+      "rank" : 2
+    }, {
+      "value" : "1209142007",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "2",
+      "rank" : 5
+    }, {
+      "value" : "548713017",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 38,
+    "items" : [ {
+      "value" : "59967256",
+      "rank" : 1
+    }, {
+      "value" : "55373256",
+      "rank" : 2
+    }, {
+      "value" : "590091910",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "3",
+      "rank" : 5
+    }, {
+      "value" : "702444678",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 39,
+    "items" : [ {
+      "value" : "60967256",
+      "rank" : 1
+    }, {
+      "value" : "54473256",
+      "rank" : 2
+    }, {
+      "value" : "590091912",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "4",
+      "rank" : 5
+    }, {
+      "value" : "1202438233",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 40,
+    "items" : [ {
+      "value" : "61967256",
+      "rank" : 1
+    }, {
+      "value" : "61373256",
+      "rank" : 2
+    }, {
+      "value" : "590091914",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "5",
+      "rank" : 5
+    }, {
+      "value" : "591336547",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 41,
+    "items" : [ {
+      "value" : "62967256",
+      "rank" : 1
+    }, {
+      "value" : "55373256",
+      "rank" : 2
+    }, {
+      "value" : "590091916",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "6",
+      "rank" : 5
+    }, {
+      "value" : "705428965",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 42,
+    "items" : [ {
+      "value" : "54067256",
+      "rank" : 1
+    }, {
+      "value" : "54473256",
+      "rank" : 2
+    }, {
+      "value" : "1209142008",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "0",
+      "rank" : 5
+    }, {
+      "value" : "591352547",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 43,
+    "items" : [ {
+      "value" : "54567256",
+      "rank" : 1
+    }, {
+      "value" : "55373256",
+      "rank" : 2
+    }, {
+      "value" : "590091918",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "1",
+      "rank" : 5
+    }, {
+      "value" : "95055948",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 44,
+    "items" : [ {
+      "value" : "56067256",
+      "rank" : 1
+    }, {
+      "value" : "54473256",
+      "rank" : 2
+    }, {
+      "value" : "1209142009",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "2",
+      "rank" : 5
+    }, {
+      "value" : "908340580",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 45,
+    "items" : [ {
+      "value" : "58067256",
+      "rank" : 1
+    }, {
+      "value" : "61373256",
+      "rank" : 2
+    }, {
+      "value" : "590091922",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "3",
+      "rank" : 5
+    }, {
+      "value" : "550659019",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 46,
+    "items" : [ {
+      "value" : "59067256",
+      "rank" : 1
+    }, {
+      "value" : "55373256",
+      "rank" : 2
+    }, {
+      "value" : "600091904",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "4",
+      "rank" : 5
+    }, {
+      "value" : "1183238684",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 47,
+    "items" : [ {
+      "value" : "60067256",
+      "rank" : 1
+    }, {
+      "value" : "61373256",
+      "rank" : 2
+    }, {
+      "value" : "600091906",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "5",
+      "rank" : 5
+    }, {
+      "value" : "1218046424",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 48,
+    "items" : [ {
+      "value" : "61067256",
+      "rank" : 1
+    }, {
+      "value" : "62373256",
+      "rank" : 2
+    }, {
+      "value" : "600091908",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "6",
+      "rank" : 5
+    }, {
+      "value" : "380893340",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 49,
+    "items" : [ {
+      "value" : "62067256",
+      "rank" : 1
+    }, {
+      "value" : "56373256",
+      "rank" : 2
+    }, {
+      "value" : "600091910",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "0",
+      "rank" : 5
+    }, {
+      "value" : "701819911",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 50,
+    "items" : [ {
+      "value" : "63067256",
+      "rank" : 1
+    }, {
+      "value" : "56373256",
+      "rank" : 2
+    }, {
+      "value" : "600091912",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "1",
+      "rank" : 5
+    }, {
+      "value" : "1189757832",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 51,
+    "items" : [ {
+      "value" : "54167256",
+      "rank" : 1
+    }, {
+      "value" : "55473256",
+      "rank" : 2
+    }, {
+      "value" : "600091914",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "2",
+      "rank" : 5
+    }, {
+      "value" : "1221757198",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 52,
+    "items" : [ {
+      "value" : "55167256",
+      "rank" : 1
+    }, {
+      "value" : "56373256",
+      "rank" : 2
+    }, {
+      "value" : "600091916",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "3",
+      "rank" : 5
+    }, {
+      "value" : "1214886443",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 53,
+    "items" : [ {
+      "value" : "56167256",
+      "rank" : 1
+    }, {
+      "value" : "55473256",
+      "rank" : 2
+    }, {
+      "value" : "600091918",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "4",
+      "rank" : 5
+    }, {
+      "value" : "1182887077",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 54,
+    "items" : [ {
+      "value" : "57067256",
+      "rank" : 1
+    }, {
+      "value" : "55373256",
+      "rank" : 2
+    }, {
+      "value" : "590091920",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "5",
+      "rank" : 5
+    }, {
+      "value" : "1133391037",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 55,
+    "items" : [ {
+      "value" : "58167256",
+      "rank" : 1
+    }, {
+      "value" : "56373256",
+      "rank" : 2
+    }, {
+      "value" : "600091922",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "6",
+      "rank" : 5
+    }, {
+      "value" : "551813498",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 56,
+    "items" : [ {
+      "value" : "56377256",
+      "rank" : 1
+    }, {
+      "value" : "62373256",
+      "rank" : 2
+    }, {
+      "value" : "590091922",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "0",
+      "rank" : 5
+    }, {
+      "value" : "1214391034",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 57,
+    "items" : [ {
+      "value" : "57167256",
+      "rank" : 1
+    }, {
+      "value" : "56373256",
+      "rank" : 2
+    }, {
+      "value" : "600091920",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "1",
+      "rank" : 5
+    }, {
+      "value" : "551683160",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 58,
+    "items" : [ {
+      "value" : "59167256",
+      "rank" : 1
+    }, {
+      "value" : "62373256",
+      "rank" : 2
+    }, {
+      "value" : "610091904",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "2",
+      "rank" : 5
+    }, {
+      "value" : "1096032410",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 59,
+    "items" : [ {
+      "value" : "60167256",
+      "rank" : 1
+    }, {
+      "value" : "62373256",
+      "rank" : 2
+    }, {
+      "value" : "610091906",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "3",
+      "rank" : 5
+    }, {
+      "value" : "63518960",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 60,
+    "items" : [ {
+      "value" : "61167256",
+      "rank" : 1
+    }, {
+      "value" : "55473256",
+      "rank" : 2
+    }, {
+      "value" : "610091908",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "4",
+      "rank" : 5
+    }, {
+      "value" : "1241742783",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 61,
+    "items" : [ {
+      "value" : "62167256",
+      "rank" : 1
+    }, {
+      "value" : "55473256",
+      "rank" : 2
+    }, {
+      "value" : "1209142002",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "5",
+      "rank" : 5
+    }, {
+      "value" : "1139121456",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 62,
+    "items" : [ {
+      "value" : "59377256",
+      "rank" : 1
+    }, {
+      "value" : "55473256",
+      "rank" : 2
+    }, {
+      "value" : "1209142008",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "6",
+      "rank" : 5
+    }, {
+      "value" : "1241742783",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 63,
+    "items" : [ {
+      "value" : "58377256",
+      "rank" : 1
+    }, {
+      "value" : "62373256",
+      "rank" : 2
+    }, {
+      "value" : "1209142006",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "0",
+      "rank" : 5
+    }, {
+      "value" : "1176600625",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 64,
+    "items" : [ {
+      "value" : "57377256",
+      "rank" : 1
+    }, {
+      "value" : "56373256",
+      "rank" : 2
+    }, {
+      "value" : "1209142004",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "1",
+      "rank" : 5
+    }, {
+      "value" : "1139121456",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 65,
+    "items" : [ {
+      "value" : "55267256",
+      "rank" : 1
+    }, {
+      "value" : "55373256",
+      "rank" : 2
+    }, {
+      "value" : "1209142001",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "2",
+      "rank" : 5
+    }, {
+      "value" : "612836289",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 66,
+    "items" : [ {
+      "value" : "56267256",
+      "rank" : 1
+    }, {
+      "value" : "55373256",
+      "rank" : 2
+    }, {
+      "value" : "610091914",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "3",
+      "rank" : 5
+    }, {
+      "value" : "632098801",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 67,
+    "items" : [ {
+      "value" : "57267256",
+      "rank" : 1
+    }, {
+      "value" : "55373256",
+      "rank" : 2
+    }, {
+      "value" : "610091916",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "4",
+      "rank" : 5
+    }, {
+      "value" : "916938324",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 68,
+    "items" : [ {
+      "value" : "58267256",
+      "rank" : 1
+    }, {
+      "value" : "55373256",
+      "rank" : 2
+    }, {
+      "value" : "610091918",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "5",
+      "rank" : 5
+    }, {
+      "value" : "1255586495",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 69,
+    "items" : [ {
+      "value" : "60267256",
+      "rank" : 1
+    }, {
+      "value" : "55373256",
+      "rank" : 2
+    }, {
+      "value" : "1209142004",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "6",
+      "rank" : 5
+    }, {
+      "value" : "1221502656",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 70,
+    "items" : [ {
+      "value" : "61267256",
+      "rank" : 1
+    }, {
+      "value" : "55373256",
+      "rank" : 2
+    }, {
+      "value" : "610091922",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "0",
+      "rank" : 5
+    }, {
+      "value" : "601945474",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 71,
+    "items" : [ {
+      "value" : "62267256",
+      "rank" : 1
+    }, {
+      "value" : "55373256",
+      "rank" : 2
+    }, {
+      "value" : "620091904",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "1",
+      "rank" : 5
+    }, {
+      "value" : "698390544",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 72,
+    "items" : [ {
+      "value" : "63267256",
+      "rank" : 1
+    }, {
+      "value" : "55373256",
+      "rank" : 2
+    }, {
+      "value" : "1209142003",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "2",
+      "rank" : 5
+    }, {
+      "value" : "703965360",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 73,
+    "items" : [ {
+      "value" : "54377256",
+      "rank" : 1
+    }, {
+      "value" : "55373256",
+      "rank" : 2
+    }, {
+      "value" : "620091908",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "3",
+      "rank" : 5
+    }, {
+      "value" : "1213119631",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 74,
+    "items" : [ {
+      "value" : "55377256",
+      "rank" : 1
+    }, {
+      "value" : "55373256",
+      "rank" : 2
+    }, {
+      "value" : "620091910",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "4",
+      "rank" : 5
+    }, {
+      "value" : "1245053135",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 75,
+    "items" : [ {
+      "value" : "60377256",
+      "rank" : 1
+    }, {
+      "value" : "53473256",
+      "rank" : 2
+    }, {
+      "value" : "620091912",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "5",
+      "rank" : 5
+    }, {
+      "value" : "88334891",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 76,
+    "items" : [ {
+      "value" : "61377256",
+      "rank" : 1
+    }, {
+      "value" : "53473256",
+      "rank" : 2
+    }, {
+      "value" : "620091914",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "6",
+      "rank" : 5
+    }, {
+      "value" : "1208480632",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 77,
+    "items" : [ {
+      "value" : "62377256",
+      "rank" : 1
+    }, {
+      "value" : "53473256",
+      "rank" : 2
+    }, {
+      "value" : "620091916",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "0",
+      "rank" : 5
+    }, {
+      "value" : "1230834922",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 78,
+    "items" : [ {
+      "value" : "53477256",
+      "rank" : 1
+    }, {
+      "value" : "53473256",
+      "rank" : 2
+    }, {
+      "value" : "620091918",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "1",
+      "rank" : 5
+    }, {
+      "value" : "1208897332",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 79,
+    "items" : [ {
+      "value" : "54477256",
+      "rank" : 1
+    }, {
+      "value" : "53473256",
+      "rank" : 2
+    }, {
+      "value" : "620091920",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "2",
+      "rank" : 5
+    }, {
+      "value" : "615195554",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 80,
+    "items" : [ {
+      "value" : "55477256",
+      "rank" : 1
+    }, {
+      "value" : "53473256",
+      "rank" : 2
+    }, {
+      "value" : "620091922",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "3",
+      "rank" : 5
+    }, {
+      "value" : "903336930",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 81,
+    "items" : [ {
+      "value" : "56477256",
+      "rank" : 1
+    }, {
+      "value" : "53473256",
+      "rank" : 2
+    }, {
+      "value" : "630091904",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "4",
+      "rank" : 5
+    }, {
+      "value" : "1229390461",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 82,
+    "items" : [ {
+      "value" : "57477256",
+      "rank" : 1
+    }, {
+      "value" : "53473256",
+      "rank" : 2
+    }, {
+      "value" : "630091906",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "5",
+      "rank" : 5
+    }, {
+      "value" : "1268792919",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 83,
+    "items" : [ {
+      "value" : "58477256",
+      "rank" : 1
+    }, {
+      "value" : "53473256",
+      "rank" : 2
+    }, {
+      "value" : "630091908",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "6",
+      "rank" : 5
+    }, {
+      "value" : "1286313474",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 84,
+    "items" : [ {
+      "value" : "70007256",
+      "rank" : 1
+    }, {
+      "value" : "54373256",
+      "rank" : 2
+    }, {
+      "value" : "127638714",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "0",
+      "rank" : 5
+    }, {
+      "value" : "8944912",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 85,
+    "items" : [ {
+      "value" : "80077256",
+      "rank" : 1
+    }, {
+      "value" : "54373256",
+      "rank" : 2
+    }, {
+      "value" : "540091910",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "1",
+      "rank" : 5
+    }, {
+      "value" : "57142377",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 86,
+    "items" : [ {
+      "value" : "80087256",
+      "rank" : 1
+    }, {
+      "value" : "60373256",
+      "rank" : 2
+    }, {
+      "value" : "540091914",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "2",
+      "rank" : 5
+    }, {
+      "value" : "58142377",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 87,
+    "items" : [ {
+      "value" : "80097256",
+      "rank" : 1
+    }, {
+      "value" : "54373256",
+      "rank" : 2
+    }, {
+      "value" : "540091916",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "3",
+      "rank" : 5
+    }, {
+      "value" : "59142377",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 88,
+    "items" : [ {
+      "value" : "80107256",
+      "rank" : 1
+    }, {
+      "value" : "54373256",
+      "rank" : 2
+    }, {
+      "value" : "540091918",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "4",
+      "rank" : 5
+    }, {
+      "value" : "70033960",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 89,
+    "items" : [ {
+      "value" : "80117256",
+      "rank" : 1
+    }, {
+      "value" : "54373256",
+      "rank" : 2
+    }, {
+      "value" : "540091920",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "5",
+      "rank" : 5
+    }, {
+      "value" : "70076241",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 90,
+    "items" : [ {
+      "value" : "80127256",
+      "rank" : 1
+    }, {
+      "value" : "53473256",
+      "rank" : 2
+    }, {
+      "value" : "550091912",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "6",
+      "rank" : 5
+    }, {
+      "value" : "91668717",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 91,
+    "items" : [ {
+      "value" : "80137256",
+      "rank" : 1
+    }, {
+      "value" : "54373256",
+      "rank" : 2
+    }, {
+      "value" : "550091918",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "0",
+      "rank" : 5
+    }, {
+      "value" : "95215035",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 92,
+    "items" : [ {
+      "value" : "80147256",
+      "rank" : 1
+    }, {
+      "value" : "54373256",
+      "rank" : 2
+    }, {
+      "value" : "560091904",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "1",
+      "rank" : 5
+    }, {
+      "value" : "96414415",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 93,
+    "items" : [ {
+      "value" : "80157256",
+      "rank" : 1
+    }, {
+      "value" : "54373256",
+      "rank" : 2
+    }, {
+      "value" : "560091916",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "2",
+      "rank" : 5
+    }, {
+      "value" : "120368717",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 94,
+    "items" : [ {
+      "value" : "80167256",
+      "rank" : 1
+    }, {
+      "value" : "54373256",
+      "rank" : 2
+    }, {
+      "value" : "560091918",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "3",
+      "rank" : 5
+    }, {
+      "value" : "534315870",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 95,
+    "items" : [ {
+      "value" : "80177256",
+      "rank" : 1
+    }, {
+      "value" : "60373256",
+      "rank" : 2
+    }, {
+      "value" : "570091906",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "4",
+      "rank" : 5
+    }, {
+      "value" : "538230904",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 96,
+    "items" : [ {
+      "value" : "80187256",
+      "rank" : 1
+    }, {
+      "value" : "53473256",
+      "rank" : 2
+    }, {
+      "value" : "570091910",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "5",
+      "rank" : 5
+    }, {
+      "value" : "539012870",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 97,
+    "items" : [ {
+      "value" : "80197256",
+      "rank" : 1
+    }, {
+      "value" : "60373256",
+      "rank" : 2
+    }, {
+      "value" : "580091904",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "6",
+      "rank" : 5
+    }, {
+      "value" : "539110870",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 98,
+    "items" : [ {
+      "value" : "80207256",
+      "rank" : 1
+    }, {
+      "value" : "54373256",
+      "rank" : 2
+    }, {
+      "value" : "580091906",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "0",
+      "rank" : 5
+    }, {
+      "value" : "540115870",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 99,
+    "items" : [ {
+      "value" : "80217256",
+      "rank" : 1
+    }, {
+      "value" : "54373256",
+      "rank" : 2
+    }, {
+      "value" : "580091910",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "1",
+      "rank" : 5
+    }, {
+      "value" : "569209475",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 100,
+    "items" : [ {
+      "value" : "80227256",
+      "rank" : 1
+    }, {
+      "value" : "53473256",
+      "rank" : 2
+    }, {
+      "value" : "580091912",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "2",
+      "rank" : 5
+    }, {
+      "value" : "592886531",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 101,
+    "items" : [ {
+      "value" : "80237256",
+      "rank" : 1
+    }, {
+      "value" : "54373256",
+      "rank" : 2
+    }, {
+      "value" : "580091914",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "3",
+      "rank" : 5
+    }, {
+      "value" : "604354597",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 102,
+    "items" : [ {
+      "value" : "80247256",
+      "rank" : 1
+    }, {
+      "value" : "53473256",
+      "rank" : 2
+    }, {
+      "value" : "580091922",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "4",
+      "rank" : 5
+    }, {
+      "value" : "606298799",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 103,
+    "items" : [ {
+      "value" : "80257256",
+      "rank" : 1
+    }, {
+      "value" : "54373256",
+      "rank" : 2
+    }, {
+      "value" : "610091910",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "5",
+      "rank" : 5
+    }, {
+      "value" : "611792908",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 104,
+    "items" : [ {
+      "value" : "80267256",
+      "rank" : 1
+    }, {
+      "value" : "60373256",
+      "rank" : 2
+    }, {
+      "value" : "610091912",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "6",
+      "rank" : 5
+    }, {
+      "value" : "619586695",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 105,
+    "items" : [ {
+      "value" : "80277256",
+      "rank" : 1
+    }, {
+      "value" : "61373256",
+      "rank" : 2
+    }, {
+      "value" : "610091920",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "0",
+      "rank" : 5
+    }, {
+      "value" : "619586842",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 106,
+    "items" : [ {
+      "value" : "80047256",
+      "rank" : 1
+    }, {
+      "value" : "55373256",
+      "rank" : 2
+    }, {
+      "value" : "620091906",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "1",
+      "rank" : 5
+    }, {
+      "value" : "631585756",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 107,
+    "items" : [ {
+      "value" : "70297256",
+      "rank" : 1
+    }, {
+      "value" : "54473256",
+      "rank" : 2
+    }, {
+      "value" : "5491868",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "2",
+      "rank" : 5
+    }, {
+      "value" : "631585758",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 108,
+    "items" : [ {
+      "value" : "80297256",
+      "rank" : 1
+    }, {
+      "value" : "55373256",
+      "rank" : 2
+    }, {
+      "value" : "5591868",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "3",
+      "rank" : 5
+    }, {
+      "value" : "637314272",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 109,
+    "items" : [ {
+      "value" : "90007256",
+      "rank" : 1
+    }, {
+      "value" : "61373256",
+      "rank" : 2
+    }, {
+      "value" : "1254340354",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "4",
+      "rank" : 5
+    }, {
+      "value" : "698389658",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 110,
+    "items" : [ {
+      "value" : "70017256",
+      "rank" : 1
+    }, {
+      "value" : "55373256",
+      "rank" : 2
+    }, {
+      "value" : "12054367",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "5",
+      "rank" : 5
+    }, {
+      "value" : "698399392",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 111,
+    "items" : [ {
+      "value" : "80307256",
+      "rank" : 1
+    }, {
+      "value" : "61373256",
+      "rank" : 2
+    }, {
+      "value" : "12091409",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "6",
+      "rank" : 5
+    }, {
+      "value" : "698404775",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 112,
+    "items" : [ {
+      "value" : "70027256",
+      "rank" : 1
+    }, {
+      "value" : "55373256",
+      "rank" : 2
+    }, {
+      "value" : "13204367",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "0",
+      "rank" : 5
+    }, {
+      "value" : "698554459",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 113,
+    "items" : [ {
+      "value" : "90017256",
+      "rank" : 1
+    }, {
+      "value" : "55373256",
+      "rank" : 2
+    }, {
+      "value" : "54170956",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "1",
+      "rank" : 5
+    }, {
+      "value" : "699035694",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 114,
+    "items" : [ {
+      "value" : "80067256",
+      "rank" : 1
+    }, {
+      "value" : "55373256",
+      "rank" : 2
+    }, {
+      "value" : "54270956",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "2",
+      "rank" : 5
+    }, {
+      "value" : "699182101",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 115,
+    "items" : [ {
+      "value" : "90027256",
+      "rank" : 1
+    }, {
+      "value" : "55373256",
+      "rank" : 2
+    }, {
+      "value" : "55053286",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "3",
+      "rank" : 5
+    }, {
+      "value" : "699572006",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 116,
+    "items" : [ {
+      "value" : "90037256",
+      "rank" : 1
+    }, {
+      "value" : "61373256",
+      "rank" : 2
+    }, {
+      "value" : "55070956",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "4",
+      "rank" : 5
+    }, {
+      "value" : "700912892",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 117,
+    "items" : [ {
+      "value" : "90047256",
+      "rank" : 1
+    }, {
+      "value" : "61373256",
+      "rank" : 2
+    }, {
+      "value" : "55170956",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "5",
+      "rank" : 5
+    }, {
+      "value" : "702200086",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 118,
+    "items" : [ {
+      "value" : "90057256",
+      "rank" : 1
+    }, {
+      "value" : "55373256",
+      "rank" : 2
+    }, {
+      "value" : "56053286",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "6",
+      "rank" : 5
+    }, {
+      "value" : "705918591",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 119,
+    "items" : [ {
+      "value" : "90067256",
+      "rank" : 1
+    }, {
+      "value" : "55373256",
+      "rank" : 2
+    }, {
+      "value" : "56070956",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "0",
+      "rank" : 5
+    }, {
+      "value" : "734237852",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 120,
+    "items" : [ {
+      "value" : "80017256",
+      "rank" : 1
+    }, {
+      "value" : "54473256",
+      "rank" : 2
+    }, {
+      "value" : "56170956",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "1",
+      "rank" : 5
+    }, {
+      "value" : "843182934",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 121,
+    "items" : [ {
+      "value" : "90077256",
+      "rank" : 1
+    }, {
+      "value" : "55373256",
+      "rank" : 2
+    }, {
+      "value" : "57053286",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "2",
+      "rank" : 5
+    }, {
+      "value" : "898712608",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 122,
+    "items" : [ {
+      "value" : "90087256",
+      "rank" : 1
+    }, {
+      "value" : "55373256",
+      "rank" : 2
+    }, {
+      "value" : "57070956",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "3",
+      "rank" : 5
+    }, {
+      "value" : "917192226",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 123,
+    "items" : [ {
+      "value" : "90097256",
+      "rank" : 1
+    }, {
+      "value" : "54473256",
+      "rank" : 2
+    }, {
+      "value" : "57170956",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "4",
+      "rank" : 5
+    }, {
+      "value" : "917192328",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 124,
+    "items" : [ {
+      "value" : "90107256",
+      "rank" : 1
+    }, {
+      "value" : "61373256",
+      "rank" : 2
+    }, {
+      "value" : "58053286",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "5",
+      "rank" : 5
+    }, {
+      "value" : "919336434",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 125,
+    "items" : [ {
+      "value" : "90117256",
+      "rank" : 1
+    }, {
+      "value" : "55373256",
+      "rank" : 2
+    }, {
+      "value" : "58070956",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "6",
+      "rank" : 5
+    }, {
+      "value" : "921827346",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 126,
+    "items" : [ {
+      "value" : "90127256",
+      "rank" : 1
+    }, {
+      "value" : "54473256",
+      "rank" : 2
+    }, {
+      "value" : "58170956",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "0",
+      "rank" : 5
+    }, {
+      "value" : "923756915",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 127,
+    "items" : [ {
+      "value" : "80007256",
+      "rank" : 1
+    }, {
+      "value" : "55373256",
+      "rank" : 2
+    }, {
+      "value" : "59070956",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "1",
+      "rank" : 5
+    }, {
+      "value" : "924263229",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 128,
+    "items" : [ {
+      "value" : "90137256",
+      "rank" : 1
+    }, {
+      "value" : "54473256",
+      "rank" : 2
+    }, {
+      "value" : "59170956",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "2",
+      "rank" : 5
+    }, {
+      "value" : "932820187",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 129,
+    "items" : [ {
+      "value" : "90147256",
+      "rank" : 1
+    }, {
+      "value" : "61373256",
+      "rank" : 2
+    }, {
+      "value" : "60070956",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "3",
+      "rank" : 5
+    }, {
+      "value" : "1074527109",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 130,
+    "items" : [ {
+      "value" : "90157256",
+      "rank" : 1
+    }, {
+      "value" : "55373256",
+      "rank" : 2
+    }, {
+      "value" : "60170956",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "4",
+      "rank" : 5
+    }, {
+      "value" : "1098353260",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 131,
+    "items" : [ {
+      "value" : "90167256",
+      "rank" : 1
+    }, {
+      "value" : "61373256",
+      "rank" : 2
+    }, {
+      "value" : "61070956",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "5",
+      "rank" : 5
+    }, {
+      "value" : "1108350118",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 132,
+    "items" : [ {
+      "value" : "90177256",
+      "rank" : 1
+    }, {
+      "value" : "62373256",
+      "rank" : 2
+    }, {
+      "value" : "61170956",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "6",
+      "rank" : 5
+    }, {
+      "value" : "1108350119",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 133,
+    "items" : [ {
+      "value" : "90187256",
+      "rank" : 1
+    }, {
+      "value" : "56373256",
+      "rank" : 2
+    }, {
+      "value" : "62070956",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "0",
+      "rank" : 5
+    }, {
+      "value" : "1108350120",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 134,
+    "items" : [ {
+      "value" : "90197256",
+      "rank" : 1
+    }, {
+      "value" : "56373256",
+      "rank" : 2
+    }, {
+      "value" : "62170956",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "1",
+      "rank" : 5
+    }, {
+      "value" : "1112402065",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 135,
+    "items" : [ {
+      "value" : "90207256",
+      "rank" : 1
+    }, {
+      "value" : "55473256",
+      "rank" : 2
+    }, {
+      "value" : "63070956",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "2",
+      "rank" : 5
+    }, {
+      "value" : "1133391164",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 136,
+    "items" : [ {
+      "value" : "90217256",
+      "rank" : 1
+    }, {
+      "value" : "56373256",
+      "rank" : 2
+    }, {
+      "value" : "63170956",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "3",
+      "rank" : 5
+    }, {
+      "value" : "1133391244",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 137,
+    "items" : [ {
+      "value" : "70037256",
+      "rank" : 1
+    }, {
+      "value" : "55473256",
+      "rank" : 2
+    }, {
+      "value" : "109141616",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "4",
+      "rank" : 5
+    }, {
+      "value" : "1174137367",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 138,
+    "items" : [ {
+      "value" : "80037256",
+      "rank" : 1
+    }, {
+      "value" : "55373256",
+      "rank" : 2
+    }, {
+      "value" : "540091906",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "5",
+      "rank" : 5
+    }, {
+      "value" : "1174340422",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 139,
+    "items" : [ {
+      "value" : "90227256",
+      "rank" : 1
+    }, {
+      "value" : "56373256",
+      "rank" : 2
+    }, {
+      "value" : "1214791293",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "6",
+      "rank" : 5
+    }, {
+      "value" : "1184713927",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 140,
+    "items" : [ {
+      "value" : "70047256",
+      "rank" : 1
+    }, {
+      "value" : "62373256",
+      "rank" : 2
+    }, {
+      "value" : "1215979046",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "0",
+      "rank" : 5
+    }, {
+      "value" : "1185082624",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 141,
+    "items" : [ {
+      "value" : "70057256",
+      "rank" : 1
+    }, {
+      "value" : "56373256",
+      "rank" : 2
+    }, {
+      "value" : "1216752074",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "1",
+      "rank" : 5
+    }, {
+      "value" : "1186047058",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 142,
+    "items" : [ {
+      "value" : "70067256",
+      "rank" : 1
+    }, {
+      "value" : "62373256",
+      "rank" : 2
+    }, {
+      "value" : "1217684754",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "2",
+      "rank" : 5
+    }, {
+      "value" : "1188980788",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 143,
+    "items" : [ {
+      "value" : "70077256",
+      "rank" : 1
+    }, {
+      "value" : "62373256",
+      "rank" : 2
+    }, {
+      "value" : "1228034478",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "3",
+      "rank" : 5
+    }, {
+      "value" : "1189317831",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 144,
+    "items" : [ {
+      "value" : "70087256",
+      "rank" : 1
+    }, {
+      "value" : "55473256",
+      "rank" : 2
+    }, {
+      "value" : "1238594588",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "4",
+      "rank" : 5
+    }, {
+      "value" : "1189750545",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 145,
+    "items" : [ {
+      "value" : "70097256",
+      "rank" : 1
+    }, {
+      "value" : "55473256",
+      "rank" : 2
+    }, {
+      "value" : "1240374920",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "5",
+      "rank" : 5
+    }, {
+      "value" : "1190174404",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 146,
+    "items" : [ {
+      "value" : "70107256",
+      "rank" : 1
+    }, {
+      "value" : "55473256",
+      "rank" : 2
+    }, {
+      "value" : "1252674797",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "6",
+      "rank" : 5
+    }, {
+      "value" : "1192399594",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 147,
+    "items" : [ {
+      "value" : "70307256",
+      "rank" : 1
+    }, {
+      "value" : "62373256",
+      "rank" : 2
+    }, {
+      "value" : "5591868",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "0",
+      "rank" : 5
+    }, {
+      "value" : "1192813528",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 148,
+    "items" : [ {
+      "value" : "90237256",
+      "rank" : 1
+    }, {
+      "value" : "56373256",
+      "rank" : 2
+    }, {
+      "value" : "1254340355",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "1",
+      "rank" : 5
+    }, {
+      "value" : "1193140602",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 149,
+    "items" : [ {
+      "value" : "90247256",
+      "rank" : 1
+    }, {
+      "value" : "55373256",
+      "rank" : 2
+    }, {
+      "value" : "1254340356",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "2",
+      "rank" : 5
+    }, {
+      "value" : "1197985552",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 150,
+    "items" : [ {
+      "value" : "90257256",
+      "rank" : 1
+    }, {
+      "value" : "55373256",
+      "rank" : 2
+    }, {
+      "value" : "1254340357",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "3",
+      "rank" : 5
+    }, {
+      "value" : "1199127923",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 151,
+    "items" : [ {
+      "value" : "90267256",
+      "rank" : 1
+    }, {
+      "value" : "55373256",
+      "rank" : 2
+    }, {
+      "value" : "1254340358",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "4",
+      "rank" : 5
+    }, {
+      "value" : "1199178371",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 152,
+    "items" : [ {
+      "value" : "90287256",
+      "rank" : 1
+    }, {
+      "value" : "55373256",
+      "rank" : 2
+    }, {
+      "value" : "1254340359",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "5",
+      "rank" : 5
+    }, {
+      "value" : "1199604426",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 153,
+    "items" : [ {
+      "value" : "90297256",
+      "rank" : 1
+    }, {
+      "value" : "55373256",
+      "rank" : 2
+    }, {
+      "value" : "1254340360",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "6",
+      "rank" : 5
+    }, {
+      "value" : "1202238231",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 154,
+    "items" : [ {
+      "value" : "90307256",
+      "rank" : 1
+    }, {
+      "value" : "55373256",
+      "rank" : 2
+    }, {
+      "value" : "1254340361",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "0",
+      "rank" : 5
+    }, {
+      "value" : "1204318124",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 155,
+    "items" : [ {
+      "value" : "53477256",
+      "rank" : 1
+    }, {
+      "value" : "55373256",
+      "rank" : 2
+    }, {
+      "value" : "1254340362",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "1",
+      "rank" : 5
+    }, {
+      "value" : "1208880589",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 156,
+    "items" : [ {
+      "value" : "90317256",
+      "rank" : 1
+    }, {
+      "value" : "55373256",
+      "rank" : 2
+    }, {
+      "value" : "1254340363",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "2",
+      "rank" : 5
+    }, {
+      "value" : "1210773243",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 157,
+    "items" : [ {
+      "value" : "90327256",
+      "rank" : 1
+    }, {
+      "value" : "55373256",
+      "rank" : 2
+    }, {
+      "value" : "1254340364",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "3",
+      "rank" : 5
+    }, {
+      "value" : "1214585404",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 158,
+    "items" : [ {
+      "value" : "70117256",
+      "rank" : 1
+    }, {
+      "value" : "55373256",
+      "rank" : 2
+    }, {
+      "value" : "1265244797",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "4",
+      "rank" : 5
+    }, {
+      "value" : "1216772657",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 159,
+    "items" : [ {
+      "value" : "70127256",
+      "rank" : 1
+    }, {
+      "value" : "53473256",
+      "rank" : 2
+    }, {
+      "value" : "1269934703",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "5",
+      "rank" : 5
+    }, {
+      "value" : "1219815842",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 160,
+    "items" : [ {
+      "value" : "70137256",
+      "rank" : 1
+    }, {
+      "value" : "53473256",
+      "rank" : 2
+    }, {
+      "value" : "1276724689",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "6",
+      "rank" : 5
+    }, {
+      "value" : "1219816155",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 161,
+    "items" : [ {
+      "value" : "70147256",
+      "rank" : 1
+    }, {
+      "value" : "53473256",
+      "rank" : 2
+    }, {
+      "value" : "1279179901",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "0",
+      "rank" : 5
+    }, {
+      "value" : "1220850733",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 162,
+    "items" : [ {
+      "value" : "90337256",
+      "rank" : 1
+    }, {
+      "value" : "53473256",
+      "rank" : 2
+    }, {
+      "value" : "1281595215",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "1",
+      "rank" : 5
+    }, {
+      "value" : "1221647242",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 163,
+    "items" : [ {
+      "value" : "70157256",
+      "rank" : 1
+    }, {
+      "value" : "53473256",
+      "rank" : 2
+    }, {
+      "value" : "1283884695",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "2",
+      "rank" : 5
+    }, {
+      "value" : "1221911046",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 164,
+    "items" : [ {
+      "value" : "70167256",
+      "rank" : 1
+    }, {
+      "value" : "53473256",
+      "rank" : 2
+    }, {
+      "value" : "1301304599",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "3",
+      "rank" : 5
+    }, {
+      "value" : "1222147005",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 165,
+    "items" : [ {
+      "value" : "70177256",
+      "rank" : 1
+    }, {
+      "value" : "53473256",
+      "rank" : 2
+    }, {
+      "value" : "1332244487",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "4",
+      "rank" : 5
+    }, {
+      "value" : "1229585697",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 166,
+    "items" : [ {
+      "value" : "70187256",
+      "rank" : 1
+    }, {
+      "value" : "53473256",
+      "rank" : 2
+    }, {
+      "value" : "1335514926",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "5",
+      "rank" : 5
+    }, {
+      "value" : "1231750419",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 167,
+    "items" : [ {
+      "value" : "70197256",
+      "rank" : 1
+    }, {
+      "value" : "53473256",
+      "rank" : 2
+    }, {
+      "value" : "1352854797",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "6",
+      "rank" : 5
+    }, {
+      "value" : "1231910920",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 168,
+    "items" : [ {
+      "value" : "70207256",
+      "rank" : 1
+    }, {
+      "value" : "55373256",
+      "rank" : 2
+    }, {
+      "value" : "1081404055",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "1",
+      "rank" : 5
+    }, {
+      "value" : "1236657334",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 169,
+    "items" : [ {
+      "value" : "70217256",
+      "rank" : 1
+    }, {
+      "value" : "55373256",
+      "rank" : 2
+    }, {
+      "value" : "1083224805",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "2",
+      "rank" : 5
+    }, {
+      "value" : "1237390819",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 170,
+    "items" : [ {
+      "value" : "80057256",
+      "rank" : 1
+    }, {
+      "value" : "55373256",
+      "rank" : 2
+    }, {
+      "value" : "1091137234",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "3",
+      "rank" : 5
+    }, {
+      "value" : "1237963205",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 171,
+    "items" : [ {
+      "value" : "70227256",
+      "rank" : 1
+    }, {
+      "value" : "55373256",
+      "rank" : 2
+    }, {
+      "value" : "1083894464",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "4",
+      "rank" : 5
+    }, {
+      "value" : "1238140632",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 172,
+    "items" : [ {
+      "value" : "70237256",
+      "rank" : 1
+    }, {
+      "value" : "53473256",
+      "rank" : 2
+    }, {
+      "value" : "1091409480",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "5",
+      "rank" : 5
+    }, {
+      "value" : "1238267235",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 173,
+    "items" : [ {
+      "value" : "70247256",
+      "rank" : 1
+    }, {
+      "value" : "53473256",
+      "rank" : 2
+    }, {
+      "value" : "1099905217",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "6",
+      "rank" : 5
+    }, {
+      "value" : "1244034708",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 174,
+    "items" : [ {
+      "value" : "70257256",
+      "rank" : 1
+    }, {
+      "value" : "53473256",
+      "rank" : 2
+    }, {
+      "value" : "1106064573",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "0",
+      "rank" : 5
+    }, {
+      "value" : "1244127953",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 175,
+    "items" : [ {
+      "value" : "70267256",
+      "rank" : 1
+    }, {
+      "value" : "53473256",
+      "rank" : 2
+    }, {
+      "value" : "1115314883",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "1",
+      "rank" : 5
+    }, {
+      "value" : "1244317236",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 176,
+    "items" : [ {
+      "value" : "70277256",
+      "rank" : 1
+    }, {
+      "value" : "53473256",
+      "rank" : 2
+    }, {
+      "value" : "1121780429",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "2",
+      "rank" : 5
+    }, {
+      "value" : "1255586678",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 177,
+    "items" : [ {
+      "value" : "70287256",
+      "rank" : 1
+    }, {
+      "value" : "53473256",
+      "rank" : 2
+    }, {
+      "value" : "1126244467",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "3",
+      "rank" : 5
+    }, {
+      "value" : "1289993715",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  }, {
+    "id" : 178,
+    "items" : [ {
+      "value" : "90347256",
+      "rank" : 1
+    }, {
+      "value" : "53473256",
+      "rank" : 2
+    }, {
+      "value" : "1128652269",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "rank" : 4
+    }, {
+      "value" : "4",
+      "rank" : 5
+    }, {
+      "value" : "1291823209",
+      "rank" : 6
+    }, {
+      "value" : "0",
+      "rank" : 7
+    }, {
+      "value" : "0.5",
+      "rank" : 8
+    } ]
+  } ]
+}

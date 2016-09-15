@@ -1,0 +1,23 @@
+{
+  "version" : "1,2",
+  "categoryCount" : 2,
+  "entries" : [ {
+    "items" : [ {
+      "value" : "ERROR",
+      "locale" : "us"
+    } ],
+    "ref" : "88926089"
+  }, {
+    "items" : [ {
+      "value" : "??",
+      "locale" : "us"
+    } ],
+    "ref" : "53357653"
+  }, {
+    "items" : [ {
+      "value" : "nismo_350",
+      "locale" : "us"
+    } ],
+    "ref" : "54357653"
+  } ]
+}
