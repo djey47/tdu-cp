@@ -25,6 +25,7 @@ export RELEASE_PATH=${TDUCP_PATH}/workspace/releases
 
 export CURRENT_DB_PATH=${TDUCP_PATH}/database/current
 export DIFF_PATCHES_PATH=${TDUCP_PATH}/database/patches/0-ALL-FullUpdate
+export DIFF_PATCHES_CARPACK_PATH=${TDUCP_PATH}/database/patches/0-ALL-FullUpdate-CarPack
 
 export FULL_BANK_PATH=${TDUCP_PATH}/workspace/wip/files/Euro/Bnk
 
