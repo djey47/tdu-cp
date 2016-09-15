@@ -1,0 +1,797 @@
+{
+  "changes" : [ {
+    "type" : "UPDATE",
+    "topic" : "CAR_SHOPS",
+    "ref" : "55124124",
+    "partialValues" : [ {
+      "rank" : 7,
+      "value" : "61085282"
+    }, {
+      "rank" : 11,
+      "value" : "591336547"
+    } ]
+  }, {
+    "type" : "UPDATE",
+    "topic" : "CAR_SHOPS",
+    "ref" : "58504123",
+    "partialValues" : [ {
+      "rank" : 7,
+      "value" : "916575065"
+    } ]
+  }, {
+    "type" : "UPDATE",
+    "topic" : "CAR_SHOPS",
+    "ref" : "59144122",
+    "partialValues" : [ {
+      "rank" : 6,
+      "value" : "916575065"
+    } ]
+  }, {
+    "type" : "UPDATE",
+    "topic" : "CAR_SHOPS",
+    "ref" : "59864129",
+    "partialValues" : [ {
+      "rank" : 11,
+      "value" : "916575065"
+    } ]
+  }, {
+    "type" : "UPDATE",
+    "topic" : "CAR_SHOPS",
+    "ref" : "540993705",
+    "partialValues" : [ {
+      "rank" : 4,
+      "value" : "61085282"
+    } ]
+  }, {
+    "type" : "UPDATE",
+    "topic" : "CAR_SHOPS",
+    "ref" : "550413704",
+    "partialValues" : [ {
+      "rank" : 4,
+      "value" : "1178042409"
+    }, {
+      "rank" : 5,
+      "value" : "917192328"
+    }, {
+      "rank" : 6,
+      "value" : "917192226"
+    } ]
+  }, {
+    "type" : "UPDATE",
+    "topic" : "CAR_SHOPS",
+    "ref" : "550893706",
+    "partialValues" : [ {
+      "rank" : 5,
+      "value" : "121344912"
+    }, {
+      "rank" : 6,
+      "value" : "1231910920"
+    }, {
+      "rank" : 7,
+      "value" : "1221911046"
+    }, {
+      "rank" : 8,
+      "value" : "1231750419"
+    }, {
+      "rank" : 9,
+      "value" : "1189750545"
+    } ]
+  }, {
+    "type" : "UPDATE",
+    "topic" : "CAR_SHOPS",
+    "ref" : "555803712",
+    "partialValues" : [ {
+      "rank" : 9,
+      "value" : "61085282"
+    } ]
+  }, {
+    "type" : "UPDATE",
+    "topic" : "CAR_SHOPS",
+    "ref" : "557186826",
+    "partialValues" : [ {
+      "rank" : 4,
+      "value" : "1098353260"
+    } ]
+  }, {
+    "type" : "UPDATE",
+    "topic" : "CAR_SHOPS",
+    "ref" : "557256829",
+    "partialValues" : [ {
+      "rank" : 4,
+      "value" : "61085282"
+    }, {
+      "rank" : 5,
+      "value" : "61085282"
+    }, {
+      "rank" : 6,
+      "value" : "61085282"
+    } ]
+  }, {
+    "type" : "UPDATE",
+    "topic" : "CAR_SHOPS",
+    "ref" : "557286833",
+    "partialValues" : [ {
+      "rank" : 4,
+      "value" : "69868717"
+    }, {
+      "rank" : 5,
+      "value" : "911668799"
+    }, {
+      "rank" : 6,
+      "value" : "120368717"
+    } ]
+  }, {
+    "type" : "UPDATE",
+    "topic" : "CAR_SHOPS",
+    "ref" : "557973712",
+    "partialValues" : [ {
+      "rank" : 4,
+      "value" : "1235851026"
+    }, {
+      "rank" : 5,
+      "value" : "1221657041"
+    }, {
+      "rank" : 6,
+      "value" : "784850286"
+    }, {
+      "rank" : 7,
+      "value" : "1220850733"
+    }, {
+      "rank" : 8,
+      "value" : "1236657334"
+    }, {
+      "rank" : 9,
+      "value" : "784850286"
+    }, {
+      "rank" : 10,
+      "value" : "1221657041"
+    } ]
+  }, {
+    "type" : "UPDATE",
+    "topic" : "CAR_SHOPS",
+    "ref" : "558233712",
+    "partialValues" : [ {
+      "rank" : 4,
+      "value" : "1221502656"
+    }, {
+      "rank" : 5,
+      "value" : "698390544"
+    }, {
+      "rank" : 6,
+      "value" : "1199127923"
+    }, {
+      "rank" : 7,
+      "value" : "1238140632"
+    }, {
+      "rank" : 8,
+      "value" : "1199604426"
+    } ]
+  }, {
+    "type" : "UPDATE",
+    "topic" : "CAR_SHOPS",
+    "ref" : "558256820",
+    "partialValues" : [ {
+      "rank" : 4,
+      "value" : "1219815842"
+    }, {
+      "rank" : 7,
+      "value" : "61085282"
+    }, {
+      "rank" : 8,
+      "value" : "61085282"
+    }, {
+      "rank" : 12,
+      "value" : "61085282"
+    }, {
+      "rank" : 13,
+      "value" : "61085282"
+    } ]
+  }, {
+    "type" : "UPDATE",
+    "topic" : "CAR_SHOPS",
+    "ref" : "561233711",
+    "partialValues" : [ {
+      "rank" : 4,
+      "value" : "698836043"
+    }, {
+      "rank" : 5,
+      "value" : "612836289"
+    }, {
+      "rank" : 6,
+      "value" : "1221502656"
+    } ]
+  }, {
+    "type" : "UPDATE",
+    "topic" : "CAR_SHOPS",
+    "ref" : "570133712",
+    "partialValues" : [ {
+      "rank" : 4,
+      "value" : "1245053135"
+    }, {
+      "rank" : 5,
+      "value" : "698390544"
+    } ]
+  }, {
+    "type" : "UPDATE",
+    "topic" : "CAR_SHOPS",
+    "ref" : "579243709",
+    "partialValues" : [ {
+      "rank" : 4,
+      "value" : "569208607"
+    }, {
+      "rank" : 5,
+      "value" : "569209475"
+    }, {
+      "rank" : 6,
+      "value" : "1199178371"
+    }, {
+      "rank" : 7,
+      "value" : "569208607"
+    } ]
+  }, {
+    "type" : "UPDATE",
+    "topic" : "CAR_SHOPS",
+    "ref" : "582433710",
+    "partialValues" : [ {
+      "rank" : 5,
+      "value" : "1221502656"
+    }, {
+      "rank" : 6,
+      "value" : "698836043"
+    }, {
+      "rank" : 7,
+      "value" : "1245053135"
+    }, {
+      "rank" : 8,
+      "value" : "632098801"
+    }, {
+      "rank" : 11,
+      "value" : "61085282"
+    } ]
+  }, {
+    "type" : "UPDATE",
+    "topic" : "CAR_SHOPS",
+    "ref" : "586256825",
+    "partialValues" : [ {
+      "rank" : 5,
+      "value" : "61085282"
+    } ]
+  }, {
+    "type" : "UPDATE",
+    "topic" : "CAR_SHOPS",
+    "ref" : "589356824",
+    "partialValues" : [ {
+      "rank" : 6,
+      "value" : "121344912"
+    }, {
+      "rank" : 7,
+      "value" : "1285237823"
+    }, {
+      "rank" : 8,
+      "value" : "1174137367"
+    }, {
+      "rank" : 9,
+      "value" : "96414415"
+    } ]
+  }, {
+    "type" : "UPDATE",
+    "topic" : "CAR_SHOPS",
+    "ref" : "589863713",
+    "partialValues" : [ {
+      "rank" : 4,
+      "value" : "61085282"
+    }, {
+      "rank" : 5,
+      "value" : "61085282"
+    } ]
+  }, {
+    "type" : "UPDATE",
+    "topic" : "CAR_SHOPS",
+    "ref" : "591093708",
+    "partialValues" : [ {
+      "rank" : 4,
+      "value" : "61085282"
+    }, {
+      "rank" : 5,
+      "value" : "61085282"
+    }, {
+      "rank" : 6,
+      "value" : "61085282"
+    }, {
+      "rank" : 8,
+      "value" : "61085282"
+    }, {
+      "rank" : 9,
+      "value" : "61085282"
+    }, {
+      "rank" : 10,
+      "value" : "61085282"
+    }, {
+      "rank" : 11,
+      "value" : "61085282"
+    } ]
+  }, {
+    "type" : "UPDATE",
+    "topic" : "CAR_SHOPS",
+    "ref" : "591263714",
+    "partialValues" : [ {
+      "rank" : 7,
+      "value" : "59142377"
+    }, {
+      "rank" : 9,
+      "value" : "63518960"
+    }, {
+      "rank" : 19,
+      "value" : "262137"
+    } ]
+  }, {
+    "type" : "UPDATE",
+    "topic" : "CAR_SHOPS",
+    "ref" : "591723820",
+    "partialValues" : [ {
+      "rank" : 4,
+      "value" : "915344490"
+    }, {
+      "rank" : 5,
+      "value" : "1221344640"
+    }, {
+      "rank" : 7,
+      "value" : "915344490"
+    }, {
+      "rank" : 8,
+      "value" : "915344490"
+    }, {
+      "rank" : 9,
+      "value" : "915344490"
+    } ]
+  }, {
+    "type" : "UPDATE",
+    "topic" : "CAR_SHOPS",
+    "ref" : "592136824",
+    "partialValues" : [ {
+      "rank" : 4,
+      "value" : "922904690"
+    }, {
+      "rank" : 5,
+      "value" : "702200086"
+    }, {
+      "rank" : 6,
+      "value" : "699182101"
+    }, {
+      "rank" : 7,
+      "value" : "699035694"
+    }, {
+      "rank" : 8,
+      "value" : "1174340422"
+    } ]
+  }, {
+    "type" : "UPDATE",
+    "topic" : "CAR_SHOPS",
+    "ref" : "592253709",
+    "partialValues" : [ {
+      "rank" : 4,
+      "value" : "1214391034"
+    }, {
+      "rank" : 5,
+      "value" : "1133391037"
+    }, {
+      "rank" : 6,
+      "value" : "924263229"
+    }, {
+      "rank" : 8,
+      "value" : "1133391244"
+    } ]
+  }, {
+    "type" : "UPDATE",
+    "topic" : "CAR_SHOPS",
+    "ref" : "595033714",
+    "partialValues" : [ {
+      "rank" : 4,
+      "value" : "612836289"
+    }, {
+      "rank" : 5,
+      "value" : "1221502656"
+    }, {
+      "rank" : 6,
+      "value" : "592886531"
+    }, {
+      "rank" : 8,
+      "value" : "61085282"
+    } ]
+  }, {
+    "type" : "UPDATE",
+    "topic" : "CAR_SHOPS",
+    "ref" : "599333716",
+    "partialValues" : [ {
+      "rank" : 4,
+      "value" : "699219666"
+    }, {
+      "rank" : 5,
+      "value" : "612836289"
+    }, {
+      "rank" : 6,
+      "value" : "698390544"
+    }, {
+      "rank" : 7,
+      "value" : "698389658"
+    }, {
+      "rank" : 8,
+      "value" : "1192399594"
+    }, {
+      "rank" : 9,
+      "value" : "919336434"
+    }, {
+      "rank" : 10,
+      "value" : "61085282"
+    }, {
+      "rank" : 11,
+      "value" : "61085282"
+    } ]
+  }, {
+    "type" : "UPDATE",
+    "topic" : "CAR_SHOPS",
+    "ref" : "600286837",
+    "partialValues" : [ {
+      "rank" : 10,
+      "value" : "95763647"
+    }, {
+      "rank" : 11,
+      "value" : "704362760"
+    } ]
+  }, {
+    "type" : "UPDATE",
+    "topic" : "CAR_SHOPS",
+    "ref" : "601056823",
+    "partialValues" : [ {
+      "rank" : 4,
+      "value" : "1214886443"
+    }, {
+      "rank" : 5,
+      "value" : "1182887077"
+    }, {
+      "rank" : 7,
+      "value" : "1214886443"
+    }, {
+      "rank" : 8,
+      "value" : "1214886443"
+    }, {
+      "rank" : 9,
+      "value" : "1182887077"
+    }, {
+      "rank" : 10,
+      "value" : "1182887077"
+    }, {
+      "rank" : 11,
+      "value" : "1182887077"
+    } ]
+  }, {
+    "type" : "UPDATE",
+    "topic" : "CAR_SHOPS",
+    "ref" : "601056871",
+    "partialValues" : [ {
+      "rank" : 4,
+      "value" : "699437593"
+    }, {
+      "rank" : 5,
+      "value" : "702444678"
+    }, {
+      "rank" : 7,
+      "value" : "1183238684"
+    }, {
+      "rank" : 8,
+      "value" : "705066200"
+    }, {
+      "rank" : 9,
+      "value" : "699437593"
+    }, {
+      "rank" : 10,
+      "value" : "1183238684"
+    }, {
+      "rank" : 11,
+      "value" : "705066200"
+    } ]
+  }, {
+    "type" : "UPDATE",
+    "topic" : "CAR_SHOPS",
+    "ref" : "603479649",
+    "partialValues" : [ {
+      "rank" : 5,
+      "value" : "916575065"
+    } ]
+  }, {
+    "type" : "UPDATE",
+    "topic" : "CAR_SHOPS",
+    "ref" : "609156820",
+    "partialValues" : [ {
+      "rank" : 4,
+      "value" : "61085282"
+    }, {
+      "rank" : 5,
+      "value" : "61085282"
+    }, {
+      "rank" : 6,
+      "value" : "61085282"
+    }, {
+      "rank" : 7,
+      "value" : "61085282"
+    }, {
+      "rank" : 9,
+      "value" : "61085282"
+    }, {
+      "rank" : 10,
+      "value" : "61085282"
+    } ]
+  }, {
+    "type" : "UPDATE",
+    "topic" : "CAR_SHOPS",
+    "ref" : "609286832",
+    "partialValues" : [ {
+      "rank" : 4,
+      "value" : "91668717"
+    }, {
+      "rank" : 5,
+      "value" : "1192813528"
+    }, {
+      "rank" : 6,
+      "value" : "61085282"
+    }, {
+      "rank" : 7,
+      "value" : "61085282"
+    } ]
+  }, {
+    "type" : "UPDATE",
+    "topic" : "CAR_SHOPS",
+    "ref" : "610156881",
+    "partialValues" : [ {
+      "rank" : 19,
+      "value" : "262137"
+    } ]
+  }, {
+    "type" : "UPDATE",
+    "topic" : "CAR_SHOPS",
+    "ref" : "611086833",
+    "partialValues" : [ {
+      "rank" : 4,
+      "value" : "1240731968"
+    }, {
+      "rank" : 5,
+      "value" : "1214731890"
+    }, {
+      "rank" : 6,
+      "value" : "698912474"
+    }, {
+      "rank" : 7,
+      "value" : "1112402065"
+    } ]
+  }, {
+    "type" : "UPDATE",
+    "topic" : "CAR_SHOPS",
+    "ref" : "611473716",
+    "partialValues" : [ {
+      "rank" : 5,
+      "value" : "1235851026"
+    }, {
+      "rank" : 6,
+      "value" : "784850286"
+    }, {
+      "rank" : 7,
+      "value" : "1220850733"
+    }, {
+      "rank" : 8,
+      "value" : "1236657334"
+    }, {
+      "rank" : 9,
+      "value" : "784850286"
+    }, {
+      "rank" : 10,
+      "value" : "1221657041"
+    } ]
+  }, {
+    "type" : "UPDATE",
+    "topic" : "CAR_SHOPS",
+    "ref" : "612036835",
+    "partialValues" : [ {
+      "rank" : 4,
+      "value" : "1221757198"
+    }, {
+      "rank" : 6,
+      "value" : "70220210"
+    }, {
+      "rank" : 7,
+      "value" : "898712608"
+    }, {
+      "rank" : 9,
+      "value" : "923756915"
+    }, {
+      "rank" : 10,
+      "value" : "1221757198"
+    }, {
+      "rank" : 11,
+      "value" : "70220210"
+    } ]
+  }, {
+    "type" : "UPDATE",
+    "topic" : "CAR_SHOPS",
+    "ref" : "612136821",
+    "partialValues" : [ {
+      "rank" : 4,
+      "value" : "61085282"
+    }, {
+      "rank" : 6,
+      "value" : "61085282"
+    }, {
+      "rank" : 7,
+      "value" : "61085282"
+    }, {
+      "rank" : 8,
+      "value" : "61085282"
+    } ]
+  }, {
+    "type" : "UPDATE",
+    "topic" : "CAR_SHOPS",
+    "ref" : "612156838",
+    "partialValues" : [ {
+      "rank" : 4,
+      "value" : "582585705"
+    }, {
+      "rank" : 5,
+      "value" : "619585597"
+    }, {
+      "rank" : 6,
+      "value" : "1139121456"
+    }, {
+      "rank" : 7,
+      "value" : "619586842"
+    }, {
+      "rank" : 19,
+      "value" : "262137"
+    } ]
+  }, {
+    "type" : "UPDATE",
+    "topic" : "CAR_SHOPS",
+    "ref" : "612456837",
+    "partialValues" : [ {
+      "rank" : 5,
+      "value" : "1096032410"
+    }, {
+      "rank" : 6,
+      "value" : "551813498"
+    }, {
+      "rank" : 9,
+      "value" : "611792908"
+    } ]
+  }, {
+    "type" : "UPDATE",
+    "topic" : "CAR_SHOPS",
+    "ref" : "622086822",
+    "partialValues" : [ {
+      "rank" : 6,
+      "value" : "61085282"
+    }, {
+      "rank" : 13,
+      "value" : "61085282"
+    }, {
+      "rank" : 14,
+      "value" : "61085282"
+    } ]
+  }, {
+    "type" : "UPDATE",
+    "topic" : "CAR_SHOPS",
+    "ref" : "622086825",
+    "partialValues" : [ {
+      "rank" : 4,
+      "value" : "1214731890"
+    }, {
+      "rank" : 5,
+      "value" : "1240731968"
+    }, {
+      "rank" : 7,
+      "value" : "706378577"
+    }, {
+      "rank" : 8,
+      "value" : "698554459"
+    }, {
+      "rank" : 12,
+      "value" : "903887207"
+    }, {
+      "rank" : 13,
+      "value" : "698656360"
+    }, {
+      "rank" : 14,
+      "value" : "704744681"
+    } ]
+  }, {
+    "type" : "UPDATE",
+    "topic" : "CAR_SHOPS",
+    "ref" : "622186830",
+    "partialValues" : [ {
+      "rank" : 5,
+      "value" : "916337925"
+    }, {
+      "rank" : 6,
+      "value" : "592136555"
+    }, {
+      "rank" : 7,
+      "value" : "702052277"
+    }, {
+      "rank" : 8,
+      "value" : "591352547"
+    }, {
+      "rank" : 10,
+      "value" : "702052277"
+    } ]
+  }, {
+    "type" : "UPDATE",
+    "topic" : "CAR_SHOPS",
+    "ref" : "622256831",
+    "partialValues" : [ {
+      "rank" : 4,
+      "value" : "601945474"
+    }, {
+      "rank" : 5,
+      "value" : "1222147005"
+    }, {
+      "rank" : 6,
+      "value" : "1213119631"
+    }, {
+      "rank" : 7,
+      "value" : "703965360"
+    }, {
+      "rank" : 8,
+      "value" : "1255586495"
+    }, {
+      "rank" : 9,
+      "value" : "631585758"
+    }, {
+      "rank" : 10,
+      "value" : "1219816155"
+    }, {
+      "rank" : 11,
+      "value" : "1255586678"
+    }, {
+      "rank" : 13,
+      "value" : "61085282"
+    } ]
+  }, {
+    "type" : "UPDATE",
+    "topic" : "CAR_SHOPS",
+    "ref" : "624036877",
+    "partialValues" : [ {
+      "rank" : 4,
+      "value" : "61085282"
+    }, {
+      "rank" : 5,
+      "value" : "61085282"
+    }, {
+      "rank" : 6,
+      "value" : "61085282"
+    }, {
+      "rank" : 7,
+      "value" : "61085282"
+    }, {
+      "rank" : 8,
+      "value" : "61085282"
+    }, {
+      "rank" : 9,
+      "value" : "61085282"
+    }, {
+      "rank" : 10,
+      "value" : "61085282"
+    }, {
+      "rank" : 11,
+      "value" : "61085282"
+    } ]
+  }, {
+    "type" : "UPDATE",
+    "topic" : "CAR_SHOPS",
+    "ref" : "624456880",
+    "partialValues" : [ {
+      "rank" : 5,
+      "value" : "1229585697"
+    }, {
+      "rank" : 6,
+      "value" : "1214585404"
+    } ]
+  } ],
+  "comment" : "CAR_SHOPS"
+}

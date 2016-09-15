@@ -9,7 +9,7 @@ Diff for PNJ topic is not included:
 - No change has been made to PNJ topic yet
 - PNJ topic contains duplicates REFs (is this a bug), causing partial updates to malfunction.
 
-## Generate patches for full database update (diff 1.66A_MP <> current)
+## Generate patches for full database update (diff Milli's patch -> current)
 
     cd scripts/database
     ./updateDiffWithCarPack.sh
