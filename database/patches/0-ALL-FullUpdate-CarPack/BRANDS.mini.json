@@ -2,31 +2,13 @@
   "changes" : [ {
     "type" : "UPDATE",
     "topic" : "BRANDS",
-    "ref" : "914",
-    "values" : [ "914", "91438337", "9148357", "91438337", "63", "0", "1" ],
-    "onlyAdd" : true
-  }, {
-    "type" : "UPDATE",
-    "topic" : "BRANDS",
-    "ref" : "915",
-    "values" : [ "915", "91538337", "9158357", "91538337", "63", "0", "1" ],
-    "onlyAdd" : true
-  }, {
-    "type" : "UPDATE",
-    "topic" : "BRANDS",
-    "ref" : "916",
-    "values" : [ "916", "91638337", "9168357", "91638337", "63", "0", "1" ],
-    "onlyAdd" : true
-  }, {
-    "type" : "UPDATE",
-    "topic" : "BRANDS",
     "ref" : "7853",
     "partialValues" : [ {
       "rank" : 3,
-      "value" : "6048357"
+      "value" : "5978357"
     }, {
       "rank" : 4,
-      "value" : "6048357"
+      "value" : "60438337"
     } ]
   }, {
     "type" : "UPDATE",
@@ -34,7 +16,7 @@
     "ref" : "9079",
     "partialValues" : [ {
       "rank" : 7,
-      "value" : "0"
+      "value" : "1"
     } ]
   }, {
     "type" : "UPDATE",
@@ -42,7 +24,7 @@
     "ref" : "85649",
     "partialValues" : [ {
       "rank" : 7,
-      "value" : "2"
+      "value" : "3"
     } ]
   }, {
     "type" : "UPDATE",
@@ -50,10 +32,10 @@
     "ref" : "898117",
     "partialValues" : [ {
       "rank" : 2,
-      "value" : "53438337"
+      "value" : "153438337"
     }, {
       "rank" : 4,
-      "value" : "53438337"
+      "value" : "153438337"
     } ]
   }, {
     "type" : "UPDATE",
@@ -61,7 +43,7 @@
     "ref" : "1231628",
     "partialValues" : [ {
       "rank" : 7,
-      "value" : "0"
+      "value" : "1"
     } ]
   }, {
     "type" : "UPDATE",
@@ -69,7 +51,7 @@
     "ref" : "8542108",
     "partialValues" : [ {
       "rank" : 3,
-      "value" : "53638337"
+      "value" : "5368357"
     } ]
   }, {
     "type" : "UPDATE",
@@ -77,64 +59,34 @@
     "ref" : "12778906",
     "partialValues" : [ {
       "rank" : 3,
-      "value" : "61838337"
+      "value" : "6108357"
     }, {
       "rank" : 4,
-      "value" : "61838337"
+      "value" : "61338337"
     }, {
       "rank" : 5,
-      "value" : "24"
+      "value" : "63"
     } ]
+  }, {
+    "type" : "UPDATE",
+    "topic" : "BRANDS",
+    "ref" : "90953257",
+    "values" : [ "90953257", "6108357", "6108357", "6108357", "0", "0", "0" ],
+    "onlyAdd" : true
   }, {
     "type" : "UPDATE",
     "topic" : "BRANDS",
     "ref" : "1137632324",
     "partialValues" : [ {
       "rank" : 3,
-      "value" : "54038337"
+      "value" : "6108357"
     }, {
       "rank" : 4,
-      "value" : "56438337"
+      "value" : "61338337"
     }, {
       "rank" : 5,
-      "value" : "9"
+      "value" : "63"
     } ]
-  }, {
-    "type" : "UPDATE_RES",
-    "topic" : "BRANDS",
-    "ref" : "9148357",
-    "value" : "Hennessey Performance",
-    "onlyAdd" : true
-  }, {
-    "type" : "UPDATE_RES",
-    "topic" : "BRANDS",
-    "ref" : "9158357",
-    "value" : "Radical",
-    "onlyAdd" : true
-  }, {
-    "type" : "UPDATE_RES",
-    "topic" : "BRANDS",
-    "ref" : "9168357",
-    "value" : "Rossion",
-    "onlyAdd" : true
-  }, {
-    "type" : "UPDATE_RES",
-    "topic" : "BRANDS",
-    "ref" : "91438337",
-    "value" : "Hennessey Performance",
-    "onlyAdd" : true
-  }, {
-    "type" : "UPDATE_RES",
-    "topic" : "BRANDS",
-    "ref" : "91538337",
-    "value" : "Radical",
-    "onlyAdd" : true
-  }, {
-    "type" : "UPDATE_RES",
-    "topic" : "BRANDS",
-    "ref" : "91638337",
-    "value" : "Rossion",
-    "onlyAdd" : true
   } ],
   "comment" : "BRANDS"
 }
