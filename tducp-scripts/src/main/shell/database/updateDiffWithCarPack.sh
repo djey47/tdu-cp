@@ -1,13 +1,14 @@
 #!/usr/bin/env bash
 #set -x
 
-# Generates diff patches between current database and MegaCarPack one
+# Generates diff patches between MegaCarPack  and current one
 
 source ../setEnv.sh
 
-REFERENCE_DB_PATH=${TDUCP_PATH}/database/reference/Civicmanvtec-Milli-CarMegapack
+CURRENT_DB_PATH=${TDUCP_PATH}/database/reference/Civicmanvtec-Milli-CarMegapack
+REFERENCE_DB_PATH=${TDUCP_PATH}/database/current
 
-echo "Getting diffs between current database and JPTH-Milli one, please wait..."
+echo "Getting diffs between current database and Civicmanvtec-Milli one, please wait..."
 ../tduf/databaseTool.sh diff-patches -n -j ${CURRENT_DB_PATH} -J ${REFERENCE_DB_PATH} -p ${DIFF_PATCHES_CARPACK_PATH}
 
 echo "Deleting diff on PNJ topic..."
