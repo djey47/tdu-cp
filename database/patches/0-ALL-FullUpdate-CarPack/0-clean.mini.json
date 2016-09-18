@@ -2,16 +2,6 @@
   "changes": [
     {
       "type": "DELETE",
-      "topic": "ACHIEVEMENTS",
-      "filter": [
-        {
-          "rank": 1,
-          "value": "63136935"
-        }
-      ]
-    },
-    {
-      "type": "DELETE",
       "topic": "RIMS",
       "filter": [
         {
