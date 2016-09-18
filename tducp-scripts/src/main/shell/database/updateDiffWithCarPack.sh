@@ -11,7 +11,11 @@ REFERENCE_DB_PATH=${TDUCP_PATH}/database/current
 echo "Getting diffs between current database and Civicmanvtec-Milli one, please wait..."
 ../tduf/databaseTool.sh diff-patches -n -j ${CURRENT_DB_PATH} -J ${REFERENCE_DB_PATH} -p ${DIFF_PATCHES_CARPACK_PATH}
 
+echo "Deleting diff on ACHIEVEMENTS topic..."
+rm ${DIFF_PATCHES_CARPACK_PATH}/ACHIEVEMENTS.mini.json
+
 echo "Deleting diff on PNJ topic..."
 rm ${DIFF_PATCHES_CARPACK_PATH}/PNJ.mini.json
+
 
 echo "All done!"
