@@ -1,6 +1,6 @@
 # MILLI'S PATCH OVER TDUCP INSTALL
 
-
+*Patch Version: 1.3*
 
 ## How to install?
 - Make sure you get TDU COMMUNITY PATCH 2.00A properly installed (either FULL or UPDATE version)
