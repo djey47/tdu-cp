@@ -17,3 +17,10 @@ Diff for PNJ topic is not included:
 
     cd scripts/database
     ./updateDiffWithCarPack.sh
+
+## Clean patches
+
+**Z-clean.mini.json** will revert some 1.66/1.68b problematic features:
+
+- duplicate rims
+- additional traffic vehicles.

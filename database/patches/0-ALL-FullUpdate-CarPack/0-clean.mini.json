@@ -1,19 +1,4 @@
 {
-  "changes": [
-    {
-      "type": "DELETE",
-      "topic": "RIMS",
-      "filter": [
-        {
-          "rank": 1,
-          "value": "1297992029"
-        },
-        {
-          "rank": 4,
-          "value": "5987562"
-        }
-      ]
-    }
-  ],
+  "changes": [],
   "comment": "To be applied before full update mini patches. Helps with keeping database safe."
 }

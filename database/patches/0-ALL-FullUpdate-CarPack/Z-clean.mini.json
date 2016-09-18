@@ -1,0 +1,181 @@
+{
+  "comment": "To be applied after full update mini patches. Helps with keeping database safe.",
+  "changes": [
+    {
+      "type": "DELETE",
+      "topic": "RIMS",
+      "filter": [
+        {
+          "rank": 1,
+          "value": "1297992029"
+        },
+        {
+          "rank": 4,
+          "value": "5987562"
+        }
+      ]
+    },
+    {
+      "type" : "UPDATE",
+      "topic" : "CAR_PHYSICS_DATA",
+      "ref" : "61034517",
+      "partialValues" : [ {
+        "rank" : 103,
+        "value" : "76"
+      } ]
+    }, {
+      "type" : "UPDATE",
+      "topic" : "CAR_PHYSICS_DATA",
+      "ref" : "61932154",
+      "partialValues" : [ {
+        "rank" : 103,
+        "value" : "76"
+      } ]
+    }, {
+      "type" : "UPDATE",
+      "topic" : "CAR_PHYSICS_DATA",
+      "ref" : "61932154",
+      "partialValues" : [ {
+        "rank" : 103,
+        "value" : "76"
+      } ]
+    }, {
+      "type" : "UPDATE",
+      "topic" : "CAR_PHYSICS_DATA",
+      "ref" : "62048408",
+      "partialValues" : [ {
+        "rank" : 103,
+        "value" : "76"
+      } ]
+    }, {
+      "type" : "UPDATE",
+      "topic" : "CAR_PHYSICS_DATA",
+      "ref" : "62060867",
+      "partialValues" : [ {
+        "rank" : 103,
+        "value" : "76"
+      } ]
+    }, {
+      "type" : "UPDATE",
+      "topic" : "CAR_PHYSICS_DATA",
+      "ref" : "62061974",
+      "partialValues" : [ {
+        "rank" : 103,
+        "value" : "76"
+      } ]
+    }, {
+      "type" : "UPDATE",
+      "topic" : "CAR_PHYSICS_DATA",
+      "ref" : "62085282",
+      "partialValues" : [ {
+        "rank" : 103,
+        "value" : "76"
+      } ]
+    }, {
+      "type" : "UPDATE",
+      "topic" : "CAR_PHYSICS_DATA",
+      "ref" : "62135289",
+      "partialValues" : [ {
+        "rank" : 103,
+        "value" : "76"
+      } ]
+    }, {
+      "type" : "UPDATE",
+      "topic" : "CAR_PHYSICS_DATA",
+      "ref" : "62164754",
+      "partialValues" : [ {
+        "rank" : 103,
+        "value" : "76"
+      } ]
+    }, {
+      "type" : "UPDATE",
+      "topic" : "CAR_PHYSICS_DATA",
+      "ref" : "62743864",
+      "partialValues" : [ {
+        "rank" : 103,
+        "value" : "76"
+      } ]
+    },
+    {
+      "type" : "UPDATE",
+      "topic" : "CAR_PHYSICS_DATA",
+      "ref" : "62932154",
+      "partialValues" : [ {
+        "rank" : 103,
+        "value" : "76"
+      } ]
+    }, {
+      "type" : "UPDATE",
+      "topic" : "CAR_PHYSICS_DATA",
+      "ref" : "63048408",
+      "partialValues" : [ {
+        "rank" : 103,
+        "value" : "76"
+      } ]
+    }, {
+      "type" : "UPDATE",
+      "topic" : "CAR_PHYSICS_DATA",
+      "ref" : "63164754",
+      "partialValues" : [ {
+        "rank" : 103,
+        "value" : "76"
+      } ]
+    }, {
+      "type" : "UPDATE",
+      "topic" : "CAR_PHYSICS_DATA",
+      "ref" : "63743864",
+      "partialValues" : [ {
+        "rank" : 103,
+        "value" : "76"
+      } ]
+    }, {
+      "type" : "UPDATE",
+      "topic" : "CAR_PHYSICS_DATA",
+      "ref" : "63932154",
+      "partialValues" : [ {
+        "rank" : 103,
+        "value" : "76"
+      } ]
+    }, {
+      "type" : "UPDATE",
+      "topic" : "CAR_PHYSICS_DATA",
+      "ref" : "65085282",
+      "partialValues" : [ {
+        "rank" : 103,
+        "value" : "76"
+      } ]
+    }, {
+      "type" : "UPDATE",
+      "topic" : "CAR_PHYSICS_DATA",
+      "ref" : "67060867",
+      "partialValues" : [ {
+        "rank" : 103,
+        "value" : "76"
+      } ]
+    }, {
+      "type" : "UPDATE",
+      "topic" : "CAR_PHYSICS_DATA",
+      "ref" : "64048408",
+      "partialValues" : [ {
+        "rank" : 103,
+        "value" : "76"
+      } ]
+    }, {
+      "type" : "UPDATE",
+      "topic" : "CAR_PHYSICS_DATA",
+      "ref" : "64085282",
+      "partialValues" : [ {
+        "rank" : 103,
+        "value" : "76"
+      } ]
+    }, {
+      "type" : "UPDATE",
+      "topic" : "CAR_PHYSICS_DATA",
+      "ref" : "64932072",
+      "partialValues" : [ {
+        "rank" : 103,
+        "value" : "76"
+      } ]
+    }
+  ]
+}
