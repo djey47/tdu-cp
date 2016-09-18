@@ -2,20 +2,6 @@
   "comment": "To be applied after full update mini patches. Helps with keeping database safe.",
   "changes": [
     {
-      "type": "DELETE",
-      "topic": "RIMS",
-      "filter": [
-        {
-          "rank": 1,
-          "value": "1297992029"
-        },
-        {
-          "rank": 4,
-          "value": "5987562"
-        }
-      ]
-    },
-    {
       "type" : "UPDATE",
       "topic" : "CAR_PHYSICS_DATA",
       "ref" : "61034517",
