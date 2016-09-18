@@ -4,5 +4,6 @@
 /workspace/build/private/
 /workspace/releases/FULL-*
 /workspace/releases/UPDATE-*
+/workspace/releases/MILLIS-*
 /database/current/original-*.bnk
 /tducp-scripts/src/markdown/*.md
