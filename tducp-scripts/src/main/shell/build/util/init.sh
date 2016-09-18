@@ -8,6 +8,19 @@ setEnv() {
     echo
 }
 
+setEnvMillisPatch() {
+    setEnv
+    export INSTALLER_DB_PATH=${INSTALLER_PATH}/database
+    export INSTALLER_FILES_PATH=${INSTALLER_PATH}/files
+    export INSTALLER_BANK_PATH=${INSTALLER_FILES_PATH}/Euro/Bnk
+    export INSTALLER_TDUF_PATH=${INSTALLER_PATH}/tduf
+
+    export CMD_SCRIPTS_PATH=${DEV_SCRIPTS_PATH}/../cmd/millispatch
+
+    export DIFF_PATCHES_PATH=${TDUCP_PATH}/database/patches/0-ALL-FullUpdate-CarPack
+    echo
+}
+
 makeDirectories() {
     echo "*** Preparing directories... ***"
     rm -rf ${BUILD_PATH}
@@ -33,5 +46,10 @@ makeDirectoriesForFull() {
     mkdir -p ${BUILD_BANK_PATH}/FrontEnd/LowRes
     mkdir -p ${BUILD_BANK_PATH}/Level/Hawai
     mkdir -p ${BUILD_BANK_PATH}/Vehicules
+    echo
+}
+
+makeDirectoriesForMillisPatch() {
+    makeDirectories
     echo
 }

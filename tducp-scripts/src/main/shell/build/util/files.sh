@@ -101,6 +101,13 @@ newFilesForPatchHD() {
     echo
 }
 
+newFilesForMillisPatch() {
+    # Readme
+    echo "*** Readme... ***"
+    cp ${TDUCP_PATH}/manifests/millispatch/*.md ${MARKDOWN_SRC_PATH}
+    echo
+}
+
 # For full package only: to copy to existing TDU install, will replace files
 newFilesForFull() {
     newFiles
