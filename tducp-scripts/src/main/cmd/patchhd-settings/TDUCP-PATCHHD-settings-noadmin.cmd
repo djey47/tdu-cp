@@ -33,7 +33,11 @@ ECHO.
 MKDIR logs 2>NUL
 
 java -cp "%TDUCP_SCRIPTS_LIB%" fr.tduf.tducp.scripts.install.patchhd.Settings %PATCHOPTION% > logs\TDUCP-PATCHHD.log 2>&1
-IF ERRORLEVEL 1 ECHO .Installation failed!
+IF ERRORLEVEL 1 (
+    ECHO .Installation failed!
+) ELSE (
+    ECHO .Installation succeeded!
+)
 
 ECHO.
 ECHO .Installation details in logs\TDUCP-PATCHHD.log file (will be displayed below).
