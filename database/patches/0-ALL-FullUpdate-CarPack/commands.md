@@ -22,5 +22,6 @@ Diff for PNJ topic is not included:
 
 **Z-clean.mini.json** will revert some 1.66/1.68b problematic features:
 
+- unassigned ultimate cam ids
 - duplicate rims
 - additional traffic vehicles.
