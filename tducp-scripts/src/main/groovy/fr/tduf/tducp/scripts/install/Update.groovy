@@ -2,24 +2,14 @@ package fr.tduf.tducp.scripts.install
 
 import fr.tduf.tducp.scripts.common.ExistingFileFilter
 import fr.tduf.tducp.scripts.common.TDUFRunner
+import fr.tduf.tducp.scripts.install.common.CameraPatcher
 import fr.tduf.tducp.scripts.install.common.PathConstants
 import org.apache.commons.io.FileUtils
 
-void patchCameras(runner, tducpDatabasePath, gameDatabasePath) {
+void patchCameras(cameraPatcher, tducpDatabasePath, gameDatabasePath) {
     println(".Patching cameras, please wait...")
-    def camerasPath = gameDatabasePath.resolve("cameras.bin")
-    def tducpCameraPatchesPath = tducpDatabasePath.resolve("cameras.txt")
-    def file = tducpCameraPatchesPath.toFile()
-    def line
 
-    println("Reading contents of ${file.absolutePath}")
-    file.withReader { reader ->
-        while ((line = reader.readLine()) != null) {
-            def(sourceId, targetId) = line.tokenize(';')
-            println ("$sourceId => $targetId")
-            runner.cameraToolCopySet(camerasPath, sourceId, targetId)
-        }
-    }
+    cameraPatcher.patchCameras(tducpDatabasePath, gameDatabasePath)
 
     println()
 }
@@ -101,6 +91,7 @@ def runner = new TDUFRunner(tdufPath)
 println(".Initializing, please wait...")
 println("(i) TDUF location:  ${runner.tdufPath}")
 println("(i) TDUF version: ${runner.tdufVersion}")
+def cameraPatcher = new CameraPatcher(runner)
 
 println()
 
@@ -118,7 +109,7 @@ copyNewGameFiles(installerFilesPath)
 
 patchDatabase(runner, gameDatabasePath, tducpDatabasePath)
 
-patchCameras(runner, tducpDatabasePath, gameDatabasePath)
+patchCameras(cameraPatcher, tducpDatabasePath, gameDatabasePath)
 
 updateAwesomeMap(runner, banksPath)
 
