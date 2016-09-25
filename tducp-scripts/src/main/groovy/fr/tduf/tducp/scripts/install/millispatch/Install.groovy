@@ -1,15 +1,8 @@
 package fr.tduf.tducp.scripts.install.millispatch
 
 import fr.tduf.tducp.scripts.common.TDUFRunner
-import fr.tduf.tducp.scripts.install.common.CameraPatcher
 import fr.tduf.tducp.scripts.install.common.PathConstants
 
-void patchCameras(cameraPatcher, tducpDatabasePath, gameDatabasePath) {
-    println(".Patching cameras, please wait...")
-    cameraPatcher.patchCameras(tducpDatabasePath, gameDatabasePath)
-
-    println()
-}
 void patchDatabase(runner, gameDatabasePath, tducpDatabasePath) {
     println(".Patching database, please wait...")
     def jsonDatabasePath = tducpDatabasePath.resolve("current")
@@ -35,7 +28,6 @@ def runner = new TDUFRunner(tdufPath)
 println(".Initializing, please wait...")
 println("(i) TDUF location:  ${runner.tdufPath}")
 println("(i) TDUF version: ${runner.tdufVersion}")
-def cameraPatcher = new CameraPatcher(runner)
 
 println()
 
@@ -44,8 +36,6 @@ println(".Patching game files, please wait...")
 println()
 
 patchDatabase(runner, gameDatabasePath, tducpDatabasePath)
-
-patchCameras(cameraPatcher, tducpDatabasePath, gameDatabasePath)
 
 updateAwesomeMap(runner, banksPath)
 
