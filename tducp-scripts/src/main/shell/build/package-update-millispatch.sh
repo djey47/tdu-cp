@@ -27,6 +27,9 @@ newFilesForMillisPatch
 # Database
 diffPatches
 
+# Cameras
+cameraInstructionsForMillisPatch
+
 # TDUF
 deployTDUF
 

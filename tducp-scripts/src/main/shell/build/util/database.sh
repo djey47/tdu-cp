@@ -23,3 +23,11 @@ cameraInstructions() {
     cp ${SOURCE_PATH} ${TARGET_PATH}
     echo
 }
+
+cameraInstructionsForMillisPatch() {
+    echo "*** Camera extension instructions... ***"
+    SOURCE_PATH=${DEV_SCRIPTS_PATH}/database/camerasForCarPack.txt
+    TARGET_PATH=${INSTALLER_DB_PATH}/cameras.txt
+    cp ${SOURCE_PATH} ${TARGET_PATH}
+    echo
+}
