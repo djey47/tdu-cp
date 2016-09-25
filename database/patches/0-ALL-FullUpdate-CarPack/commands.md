@@ -20,9 +20,14 @@ Diff for PNJ topic is not included:
 
 ## Clean patches
 
+**0-clean.mini.json** contents:
+
+- remove previously attached rims. 
+
 **Z-clean.mini.json** will revert some 1.66/1.68b problematic features:
 
 - unassigned ultimate cam ids
 - duplicate rims
 - additional traffic vehicles
 - wrong bitfield for some car dealers.
+ 
