@@ -562,6 +562,39 @@
         "rank" : 103,
         "value" : "76"
       } ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "CAR_SHOPS",
+      "ref": "610156881",
+      "partialValues": [
+        {
+          "rank": 19,
+          "value": "262137"
+        }
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "CAR_SHOPS",
+      "ref": "612156838",
+      "partialValues": [
+        {
+          "rank": 19,
+          "value": "262137"
+        }
+      ]
+    },
+    {
+      "type": "UPDATE",
+      "topic": "CAR_SHOPS",
+      "ref": "591263714",
+      "partialValues": [
+        {
+          "rank": 19,
+          "value": "262137"
+        }
+      ]
     }
   ]
 }

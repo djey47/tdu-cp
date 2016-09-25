@@ -24,4 +24,5 @@ Diff for PNJ topic is not included:
 
 - unassigned ultimate cam ids
 - duplicate rims
-- additional traffic vehicles.
+- additional traffic vehicles
+- wrong bitfield for some car dealers.
