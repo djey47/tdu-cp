@@ -81,6 +81,326 @@
         "rank" : 98,
         "value" : "112"
       } ]
+    },{
+      "type" : "UPDATE",
+      "topic" : "CAR_PHYSICS_DATA",
+      "ref" : "705918591",
+      "partialValues" : [ {
+        "rank" : 98,
+        "value" : "1032"
+      } ]
+    },{
+      "type" : "UPDATE",
+      "topic" : "CAR_PHYSICS_DATA",
+      "ref" : "734237852",
+      "partialValues" : [ {
+        "rank" : 98,
+        "value" : "120"
+      } ]
+    },{
+      "type" : "UPDATE",
+      "topic" : "CAR_PHYSICS_DATA",
+      "ref" : "784850286",
+      "partialValues" : [ {
+        "rank" : 98,
+        "value" : "277"
+      } ]
+    },{
+      "type" : "UPDATE",
+      "topic" : "CAR_PHYSICS_DATA",
+      "ref" : "843182934",
+      "partialValues" : [ {
+        "rank" : 98,
+        "value" : "308"
+      } ]
+    },{
+      "type" : "UPDATE",
+      "topic" : "CAR_PHYSICS_DATA",
+      "ref" : "917192226",
+      "partialValues" : [ {
+        "rank" : 98,
+        "value" : "287"
+      } ]
+    },{
+      "type" : "UPDATE",
+      "topic" : "CAR_PHYSICS_DATA",
+      "ref" : "917192328",
+      "partialValues" : [ {
+        "rank" : 98,
+        "value" : "284"
+      } ]
+    },{
+      "type" : "UPDATE",
+      "topic" : "CAR_PHYSICS_DATA",
+      "ref" : "932820187",
+      "partialValues" : [ {
+        "rank" : 98,
+        "value" : "324"
+      } ]
+    },{
+      "type" : "UPDATE",
+      "topic" : "CAR_PHYSICS_DATA",
+      "ref" : "1074527109",
+      "partialValues" : [ {
+        "rank" : 98,
+        "value" : "255"
+      } ]
+    },{
+      "type" : "UPDATE",
+      "topic" : "CAR_PHYSICS_DATA",
+      "ref" : "1098353260",
+      "partialValues" : [ {
+        "rank" : 98,
+        "value" : "254"
+      } ]
+    },{
+      "type" : "UPDATE",
+      "topic" : "CAR_PHYSICS_DATA",
+      "ref" : "1108350118",
+      "partialValues" : [ {
+        "rank" : 98,
+        "value" : "251"
+      } ]
+    },{
+      "type" : "UPDATE",
+      "topic" : "CAR_PHYSICS_DATA",
+      "ref" : "1108350119",
+      "partialValues" : [ {
+        "rank" : 98,
+        "value" : "252"
+      } ]
+    },{
+      "type" : "UPDATE",
+      "topic" : "CAR_PHYSICS_DATA",
+      "ref" : "1108350120",
+      "partialValues" : [ {
+        "rank" : 98,
+        "value" : "253"
+      } ]
+    }, {
+      "type" : "UPDATE",
+      "topic" : "CAR_PHYSICS_DATA",
+      "ref" : "1133391164",
+      "partialValues" : [ {
+        "rank" : 98,
+        "value" : "249"
+      } ]
+    },  {
+      "type" : "UPDATE",
+      "topic" : "CAR_PHYSICS_DATA",
+      "ref" : "1133391244",
+      "partialValues" : [ {
+        "rank" : 98,
+        "value" : "250"
+      } ]
+    },  {
+      "type" : "UPDATE",
+      "topic" : "CAR_PHYSICS_DATA",
+      "ref" : "1174137367",
+      "partialValues" : [ {
+        "rank" : 98,
+        "value" : "203"
+      } ]
+    },{
+      "type" : "UPDATE",
+      "topic" : "CAR_PHYSICS_DATA",
+      "ref" : "1182887077",
+      "partialValues" : [ {
+        "rank" : 98,
+        "value" : "268"
+      } ]
+    },{
+      "type" : "UPDATE",
+      "topic" : "CAR_PHYSICS_DATA",
+      "ref" : "1186047058",
+      "partialValues" : [ {
+        "rank" : 98,
+        "value" : "201"
+      } ]
+    },{
+      "type" : "UPDATE",
+      "topic" : "CAR_PHYSICS_DATA",
+      "ref" : "1189750545",
+      "partialValues" : [ {
+        "rank" : 98,
+        "value" : "289"
+      } ]
+    },{
+      "type" : "UPDATE",
+      "topic" : "CAR_PHYSICS_DATA",
+      "ref" : "1192399594",
+      "partialValues" : [ {
+        "rank" : 98,
+        "value" : "315"
+      } ]
+    },{
+      "type" : "UPDATE",
+      "topic" : "CAR_PHYSICS_DATA",
+      "ref" : "1193140602",
+      "partialValues" : [ {
+        "rank" : 98,
+        "value" : "299"
+      } ]
+    },{
+      "type" : "UPDATE",
+      "topic" : "CAR_PHYSICS_DATA",
+      "ref" : "1197985552",
+      "partialValues" : [ {
+        "rank" : 98,
+        "value" : "323"
+      } ]
+    },{
+      "type" : "UPDATE",
+      "topic" : "CAR_PHYSICS_DATA",
+      "ref" : "1202238231",
+      "partialValues" : [ {
+        "rank" : 98,
+        "value" : "109"
+      } ]
+    },{
+      "type" : "UPDATE",
+      "topic" : "CAR_PHYSICS_DATA",
+      "ref" : "1204318124",
+      "partialValues" : [ {
+        "rank" : 98,
+        "value" : "122"
+      } ]
+    },{
+      "type" : "UPDATE",
+      "topic" : "CAR_PHYSICS_DATA",
+      "ref" : "1208480632",
+      "partialValues" : [ {
+        "rank" : 98,
+        "value" : "1503"
+      } ]
+    },{
+      "type" : "UPDATE",
+      "topic" : "CAR_PHYSICS_DATA",
+      "ref" : "1208880589",
+      "partialValues" : [ {
+        "rank" : 98,
+        "value" : "1510"
+      } ]
+    },{
+      "type" : "UPDATE",
+      "topic" : "CAR_PHYSICS_DATA",
+      "ref" : "1214391034",
+      "partialValues" : [ {
+        "rank" : 98,
+        "value" : "1039"
+      } ]
+    },{
+      "type" : "UPDATE",
+      "topic" : "CAR_PHYSICS_DATA",
+      "ref" : "1214585404",
+      "partialValues" : [ {
+        "rank" : 98,
+        "value" : "214"
+      } ]
+    },{
+      "type" : "UPDATE",
+      "topic" : "CAR_PHYSICS_DATA",
+      "ref" : "1220850733",
+      "partialValues" : [ {
+        "rank" : 98,
+        "value" : "15"
+      } ]
+    },{
+      "type" : "UPDATE",
+      "topic" : "CAR_PHYSICS_DATA",
+      "ref" : "1221911046",
+      "partialValues" : [ {
+        "rank" : 98,
+        "value" : "288"
+      } ]
+    },{
+      "type" : "UPDATE",
+      "topic" : "CAR_PHYSICS_DATA",
+      "ref" : "1229390461",
+      "partialValues" : [ {
+        "rank" : 98,
+        "value" : "1504"
+      } ]
+    },{
+      "type" : "UPDATE",
+      "topic" : "CAR_PHYSICS_DATA",
+      "ref" : "1230834922",
+      "partialValues" : [ {
+        "rank" : 98,
+        "value" : "1505"
+      } ]
+    },{
+      "type" : "UPDATE",
+      "topic" : "CAR_PHYSICS_DATA",
+      "ref" : "1231750419",
+      "partialValues" : [ {
+        "rank" : 98,
+        "value" : "286"
+      } ]
+    },{
+      "type" : "UPDATE",
+      "topic" : "CAR_PHYSICS_DATA",
+      "ref" : "1231910920",
+      "partialValues" : [ {
+        "rank" : 98,
+        "value" : "285"
+      } ]
+    },{
+      "type" : "UPDATE",
+      "topic" : "CAR_PHYSICS_DATA",
+      "ref" : "1237390819",
+      "partialValues" : [ {
+        "rank" : 98,
+        "value" : "310"
+      } ]
+    },{
+      "type" : "UPDATE",
+      "topic" : "CAR_PHYSICS_DATA",
+      "ref" : "1244127953",
+      "partialValues" : [ {
+        "rank" : 98,
+        "value" : "320"
+      } ]
+    },{
+      "type" : "UPDATE",
+      "topic" : "CAR_PHYSICS_DATA",
+      "ref" : "1244317236",
+      "partialValues" : [ {
+        "rank" : 98,
+        "value" : "316"
+      } ]
+    },{
+      "type" : "UPDATE",
+      "topic" : "CAR_PHYSICS_DATA",
+      "ref" : "1268792919",
+      "partialValues" : [ {
+        "rank" : 98,
+        "value" : "1506"
+      } ]
+    },{
+      "type" : "UPDATE",
+      "topic" : "CAR_PHYSICS_DATA",
+      "ref" : "1286313474",
+      "partialValues" : [ {
+        "rank" : 98,
+        "value" : "1508"
+      } ]
+    },{
+      "type" : "UPDATE",
+      "topic" : "CAR_PHYSICS_DATA",
+      "ref" : "1291823209",
+      "partialValues" : [ {
+        "rank" : 98,
+        "value" : "273"
+      } ]
+    },{
+      "type" : "UPDATE",
+      "topic" : "CAR_PHYSICS_DATA",
+      "ref" : "631585756",
+      "partialValues" : [ {
+        "rank" : 98,
+        "value" : "312"
+      } ]
     }, {
       "type" : "UPDATE",
       "topic" : "CAR_PHYSICS_DATA",
