@@ -7,6 +7,7 @@
 *What's new in this version?*
 
 - Each unlocked slot now gets its own camera (updated TDUPE/TDUMT files included)
+- ACE rank now gets unlocked at 88% completion (remaining achievements cannot be unlocked with Project Paradize)
 - Patch HD settings app gets more detailed message upon success or failure.
 
 ## Bugfixes
