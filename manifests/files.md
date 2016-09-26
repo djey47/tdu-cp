@@ -428,7 +428,7 @@
                         
     - *AiConfig.xml* [Traffic sync issues Fix]
 
-    - *Cameras.bin* [1.68b cameras]
+    - *Cameras.bin* [Ultimate cameras]
     
     - *DB.bnk*
     
@@ -448,7 +448,7 @@
     
             TDU_Brands.xx [new brands and fixes]
             TDU_CarColors.xx [1.68b colors][new slots]
-            TDU_CarPhysicsData.xx [unlocked slots][new slots]
+            TDU_CarPhysicsData.xx [1.68b names][unlocked slots][new slots]
             TDU_Interior.xx [new slots][new slots]
             TDU_Rims.xx [new rim names and fixes][new slots]
         
