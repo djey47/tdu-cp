@@ -6,6 +6,10 @@
 
 - Requires TDUF >= 0.9.x.
 
+## Notes (v2)
+
+- new value = 880 (88% completion)
+
 ## TDUF-CLI
 
     DatabaseTool apply-patch -p "<...>\tdu-cp\database\patches\Fixed Ace status\FixedAceStatus.mini.json" -j "<...>\tdu-cp\database\current" -o "<...>\tdu-cp\database\current"
