@@ -2,7 +2,7 @@
 
 - Current version number: **2.00A FINAL - release 2**
 
-- Release date: **2016-09-??**
+- Release date: **2016-09-27**
 
 *What's new in this version?*
 
