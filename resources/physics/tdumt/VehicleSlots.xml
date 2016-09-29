@@ -582,45 +582,45 @@
     <vehicle name="TDUCP Car Model 3399" ref="339900000" camera="3399" ik="999" topSpeed="500" />
     <vehicle name="TDUCP Car Model 3400" ref="340000000" camera="3400" ik="999" topSpeed="500" />
     <!-- BEWARE! NEW BIKE SLOTS BELOW! -->
-    <vehicle name="TDUCP Bike Model 4000" ref="400000000" camera="4000" ik="666" topSpeed="500" />
-    <vehicle name="TDUCP Bike Model 4001" ref="400100000" camera="4001" ik="666" topSpeed="500" />
-    <vehicle name="TDUCP Bike Model 4002" ref="400200000" camera="4002" ik="666" topSpeed="500" />
-    <vehicle name="TDUCP Bike Model 4003" ref="400300000" camera="4003" ik="666" topSpeed="500" />
-    <vehicle name="TDUCP Bike Model 4004" ref="400400000" camera="4004" ik="666" topSpeed="500" />
-    <vehicle name="TDUCP Bike Model 4005" ref="400500000" camera="4005" ik="666" topSpeed="500" />
-    <vehicle name="TDUCP Bike Model 4006" ref="400600000" camera="4006" ik="666" topSpeed="500" />
-    <vehicle name="TDUCP Bike Model 4007" ref="400700000" camera="4007" ik="666" topSpeed="500" />
-    <vehicle name="TDUCP Bike Model 4008" ref="400800000" camera="4008" ik="666" topSpeed="500" />
-    <vehicle name="TDUCP Bike Model 4009" ref="400900000" camera="4009" ik="666" topSpeed="500" />
-    <vehicle name="TDUCP Bike Model 4010" ref="401000000" camera="4010" ik="666" topSpeed="500" />
-    <vehicle name="TDUCP Bike Model 4011" ref="401100000" camera="4011" ik="666" topSpeed="500" />
-    <vehicle name="TDUCP Bike Model 4012" ref="401200000" camera="4012" ik="666" topSpeed="500" />
-    <vehicle name="TDUCP Bike Model 4013" ref="401300000" camera="4013" ik="666" topSpeed="500" />
-    <vehicle name="TDUCP Bike Model 4014" ref="401400000" camera="4014" ik="666" topSpeed="500" />
-    <vehicle name="TDUCP Bike Model 4015" ref="401500000" camera="4015" ik="666" topSpeed="500" />
-    <vehicle name="TDUCP Bike Model 4016" ref="401600000" camera="4016" ik="666" topSpeed="500" />
-    <vehicle name="TDUCP Bike Model 4017" ref="401700000" camera="4017" ik="666" topSpeed="500" />
-    <vehicle name="TDUCP Bike Model 4018" ref="401800000" camera="4018" ik="666" topSpeed="500" />
-    <vehicle name="TDUCP Bike Model 4019" ref="401900000" camera="4019" ik="666" topSpeed="500" />
-    <vehicle name="TDUCP Bike Model 4020" ref="402000000" camera="4020" ik="666" topSpeed="500" />
-    <vehicle name="TDUCP Bike Model 4021" ref="402100000" camera="4021" ik="666" topSpeed="500" />
-    <vehicle name="TDUCP Bike Model 4022" ref="402200000" camera="4022" ik="666" topSpeed="500" />
-    <vehicle name="TDUCP Bike Model 4023" ref="402300000" camera="4023" ik="666" topSpeed="500" />
-    <vehicle name="TDUCP Bike Model 4024" ref="402400000" camera="4024" ik="666" topSpeed="500" />
-    <vehicle name="TDUCP Bike Model 4025" ref="402500000" camera="4025" ik="666" topSpeed="500" />
-    <vehicle name="TDUCP Bike Model 4026" ref="402600000" camera="4026" ik="666" topSpeed="500" />
-    <vehicle name="TDUCP Bike Model 4027" ref="402700000" camera="4027" ik="666" topSpeed="500" />
-    <vehicle name="TDUCP Bike Model 4028" ref="402800000" camera="4028" ik="666" topSpeed="500" />
-    <vehicle name="TDUCP Bike Model 4029" ref="402900000" camera="4029" ik="666" topSpeed="500" />
-    <vehicle name="TDUCP Bike Model 4030" ref="403000000" camera="4030" ik="666" topSpeed="500" />
-    <vehicle name="TDUCP Bike Model 4031" ref="403100000" camera="4031" ik="666" topSpeed="500" />
-    <vehicle name="TDUCP Bike Model 4032" ref="403200000" camera="4032" ik="666" topSpeed="500" />
-    <vehicle name="TDUCP Bike Model 4033" ref="403300000" camera="4033" ik="666" topSpeed="500" />
-    <vehicle name="TDUCP Bike Model 4034" ref="403400000" camera="4034" ik="666" topSpeed="500" />
-    <vehicle name="TDUCP Bike Model 4035" ref="403500000" camera="4035" ik="666" topSpeed="500" />
-    <vehicle name="TDUCP Bike Model 4036" ref="403600000" camera="4036" ik="666" topSpeed="500" />
-    <vehicle name="TDUCP Bike Model 4037" ref="403700000" camera="4037" ik="666" topSpeed="500" />
-    <vehicle name="TDUCP Bike Model 4038" ref="403800000" camera="4038" ik="666" topSpeed="500" />
-    <vehicle name="TDUCP Bike Model 4039" ref="403900000" camera="4039" ik="666" topSpeed="500" />
-    <vehicle name="TDUCP Bike Model 4040" ref="404000000" camera="4040" ik="666" topSpeed="500" />
+    <vehicle name="TDUCP Bike Model 4000" ref="400000000" camera="4000" ik="666" topSpeed="500" bike="true" />
+    <vehicle name="TDUCP Bike Model 4001" ref="400100000" camera="4001" ik="666" topSpeed="500" bike="true" />
+    <vehicle name="TDUCP Bike Model 4002" ref="400200000" camera="4002" ik="666" topSpeed="500" bike="true" />
+    <vehicle name="TDUCP Bike Model 4003" ref="400300000" camera="4003" ik="666" topSpeed="500" bike="true" />
+    <vehicle name="TDUCP Bike Model 4004" ref="400400000" camera="4004" ik="666" topSpeed="500" bike="true" />
+    <vehicle name="TDUCP Bike Model 4005" ref="400500000" camera="4005" ik="666" topSpeed="500" bike="true" />
+    <vehicle name="TDUCP Bike Model 4006" ref="400600000" camera="4006" ik="666" topSpeed="500" bike="true" />
+    <vehicle name="TDUCP Bike Model 4007" ref="400700000" camera="4007" ik="666" topSpeed="500" bike="true" />
+    <vehicle name="TDUCP Bike Model 4008" ref="400800000" camera="4008" ik="666" topSpeed="500" bike="true" />
+    <vehicle name="TDUCP Bike Model 4009" ref="400900000" camera="4009" ik="666" topSpeed="500" bike="true" />
+    <vehicle name="TDUCP Bike Model 4010" ref="401000000" camera="4010" ik="666" topSpeed="500" bike="true" />
+    <vehicle name="TDUCP Bike Model 4011" ref="401100000" camera="4011" ik="666" topSpeed="500" bike="true" />
+    <vehicle name="TDUCP Bike Model 4012" ref="401200000" camera="4012" ik="666" topSpeed="500" bike="true" />
+    <vehicle name="TDUCP Bike Model 4013" ref="401300000" camera="4013" ik="666" topSpeed="500" bike="true" />
+    <vehicle name="TDUCP Bike Model 4014" ref="401400000" camera="4014" ik="666" topSpeed="500" bike="true" />
+    <vehicle name="TDUCP Bike Model 4015" ref="401500000" camera="4015" ik="666" topSpeed="500" bike="true" />
+    <vehicle name="TDUCP Bike Model 4016" ref="401600000" camera="4016" ik="666" topSpeed="500" bike="true" />
+    <vehicle name="TDUCP Bike Model 4017" ref="401700000" camera="4017" ik="666" topSpeed="500" bike="true" />
+    <vehicle name="TDUCP Bike Model 4018" ref="401800000" camera="4018" ik="666" topSpeed="500" bike="true" />
+    <vehicle name="TDUCP Bike Model 4019" ref="401900000" camera="4019" ik="666" topSpeed="500" bike="true" />
+    <vehicle name="TDUCP Bike Model 4020" ref="402000000" camera="4020" ik="666" topSpeed="500" bike="true" />
+    <vehicle name="TDUCP Bike Model 4021" ref="402100000" camera="4021" ik="666" topSpeed="500" bike="true" />
+    <vehicle name="TDUCP Bike Model 4022" ref="402200000" camera="4022" ik="666" topSpeed="500" bike="true" />
+    <vehicle name="TDUCP Bike Model 4023" ref="402300000" camera="4023" ik="666" topSpeed="500" bike="true" />
+    <vehicle name="TDUCP Bike Model 4024" ref="402400000" camera="4024" ik="666" topSpeed="500" bike="true" />
+    <vehicle name="TDUCP Bike Model 4025" ref="402500000" camera="4025" ik="666" topSpeed="500" bike="true" />
+    <vehicle name="TDUCP Bike Model 4026" ref="402600000" camera="4026" ik="666" topSpeed="500" bike="true" />
+    <vehicle name="TDUCP Bike Model 4027" ref="402700000" camera="4027" ik="666" topSpeed="500" bike="true" />
+    <vehicle name="TDUCP Bike Model 4028" ref="402800000" camera="4028" ik="666" topSpeed="500" bike="true" />
+    <vehicle name="TDUCP Bike Model 4029" ref="402900000" camera="4029" ik="666" topSpeed="500" bike="true" />
+    <vehicle name="TDUCP Bike Model 4030" ref="403000000" camera="4030" ik="666" topSpeed="500" bike="true" />
+    <vehicle name="TDUCP Bike Model 4031" ref="403100000" camera="4031" ik="666" topSpeed="500" bike="true" />
+    <vehicle name="TDUCP Bike Model 4032" ref="403200000" camera="4032" ik="666" topSpeed="500" bike="true" />
+    <vehicle name="TDUCP Bike Model 4033" ref="403300000" camera="4033" ik="666" topSpeed="500" bike="true" />
+    <vehicle name="TDUCP Bike Model 4034" ref="403400000" camera="4034" ik="666" topSpeed="500" bike="true" />
+    <vehicle name="TDUCP Bike Model 4035" ref="403500000" camera="4035" ik="666" topSpeed="500" bike="true" />
+    <vehicle name="TDUCP Bike Model 4036" ref="403600000" camera="4036" ik="666" topSpeed="500" bike="true" />
+    <vehicle name="TDUCP Bike Model 4037" ref="403700000" camera="4037" ik="666" topSpeed="500" bike="true" />
+    <vehicle name="TDUCP Bike Model 4038" ref="403800000" camera="4038" ik="666" topSpeed="500" bike="true" />
+    <vehicle name="TDUCP Bike Model 4039" ref="403900000" camera="4039" ik="666" topSpeed="500" bike="true" />
+    <vehicle name="TDUCP Bike Model 4040" ref="404000000" camera="4040" ik="666" topSpeed="500" bike="true" />
 </vehicleSlots>
