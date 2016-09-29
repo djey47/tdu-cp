@@ -36,7 +36,7 @@
     <vehicle name="CHEVROLET Camaro Z28" ref="601945474" camera="218"  ik="218" topSpeed="200" />
     <vehicle name="CHEVROLET Cobalt SS" ref="1197985552" camera="323" ik="323" topSpeed="225"/>
     <vehicle name="CHEVROLET Corvette C1 1957" ref="631585758" camera="242"  ik="242"  topSpeed="220" />
-    <vehicle name="CHEVROLET Corvette 63" ref="631585756" camera="312"  ik="312" TopSpeed="245"/>
+    <vehicle name="CHEVROLET Corvette 63" ref="631585756" camera="312"  ik="312" topSpeed="245"/>
     <vehicle name="CHEVROLET Corvette 69" ref="1255586495" camera="1045"  ik="1045" topSpeed="200" />
     <vehicle name="CHEVROLET Corvette Stingray 71 Convertible" ref="1255586678" camera="263"  ik="263"  topSpeed="200"/>
     <vehicle name="CHEVROLET Corvette C6 Convertible" ref="619586842" camera="264"  ik="264"    topSpeed="290" />
