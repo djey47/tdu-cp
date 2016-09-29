@@ -46,6 +46,7 @@ cat newSlotIds.txt | while read id
    echo "MODELNAME=TDUCP Model ${id}" >> ${PATCH_PROPERTIES_PATH}
    echo "VERSIONNAME=Version ${id}" >> ${PATCH_PROPERTIES_PATH}
    echo "CARID=${id}" >> ${PATCH_PROPERTIES_PATH}
+   echo "CAMID=${id}" >> ${PATCH_PROPERTIES_PATH}
 
    # Rims
    for r in `seq 0 9`;
