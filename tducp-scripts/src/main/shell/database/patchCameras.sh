@@ -5,8 +5,8 @@
 
 source ../setEnv.sh
 
-SOURCE_CAMERAS=${TDUCP_PATH}/resources/physics/1.68B-cameras/cameras.bin
-ULTIMATE_CAMERAS=${TDUCP_PATH}/resources/physics/ultimate-cameras/cameras.bin
+SOURCE_CAMERAS=${TDUCP_PATH}/resources/physics/cameras/1.68B/cameras.bin
+ULTIMATE_CAMERAS=${TDUCP_PATH}/resources/physics/cameras/cameras.bin
 TMP_CAMERAS=/tmp/cameras.bin
 
 cp ${SOURCE_CAMERAS} ${TMP_CAMERAS}
