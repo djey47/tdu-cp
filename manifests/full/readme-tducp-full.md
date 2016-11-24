@@ -8,7 +8,9 @@
 
 - Unzip all contents to TDU directory, always replace all files when prompted
 
-- TDUMT/TDUPE: use updated references from tools folder: **VehicleSlots.xml** and **carData.mdb** - replace original files
+- TDUMT users: use updated references from **tools/tdumt** folder: **VehicleSlots.xml**, **xml/cameras.bin** - replace original files
+
+- TDUPE users: use updated reference from **tools/tdupe** folder: **carData.mdb** - replace original files
 
 - Make sure to also read **files.html** and **changelog.html**
 

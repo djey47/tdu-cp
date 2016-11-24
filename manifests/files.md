@@ -414,10 +414,16 @@
 
 - **tools**
 
-    - *carData.mdb* [new slots]
-
-    - *VehicleSlots.xml* [new slots]
+    - tdumt
         
+        - *xml/cameras.bin* [Ultimate cameras]
+        
+        - *VehicleSlots.xml* [new slots]
+        
+    - tdupe
+    
+        - *carData.mdb* [new slots]
+
 ## UPDATED files
 
 - **Euro\Bnk**

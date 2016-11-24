@@ -2,7 +2,7 @@
 
 - Current version number: **2.00A FINAL - release 3**
 
-- Release date: **2016-??-??**
+- Release date: **2016-11-??**
 
 *What's new in this version?*
 
@@ -58,7 +58,6 @@
 
 
 #### CAMERAS
-- Includes Community Patch 1.68b cameras
 - Each unlocked slot now gets its own camera (updated TDUPE/TDUMT files included)
 
 
