@@ -25,7 +25,8 @@ makeDirectories() {
     echo "*** Preparing directories... ***"
     rm -rf ${BUILD_PATH}
     mkdir -p ${INSTALLER_LIB_PATH}
-    mkdir -p ${BUILD_TOOLS_PATH}
+    mkdir -p ${BUILD_TOOLS_TDUMT_XML_PATH}
+    mkdir -p ${BUILD_TOOLS_TDUPE_PATH}
     mkdir -p ${BUILD_DB_PATH}
     mkdir -p ${BUILD_FX_PATH}
     mkdir -p ${RELEASE_PATH}

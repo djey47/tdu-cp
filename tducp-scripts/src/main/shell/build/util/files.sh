@@ -41,8 +41,9 @@ newFiles() {
     echo
 
     echo "*** References... ***"
-    cp ${TDUCP_PATH}/resources/physics/tdumt/VehicleSlots.xml ${BUILD_TOOLS_PATH}
-    cp ${TDUCP_PATH}/resources/physics/tdupe/carData.mdb ${BUILD_TOOLS_PATH}
+    cp ${TDUCP_PATH}/resources/physics/cameras/cameras.bin ${BUILD_TOOLS_TDUMT_XML_PATH}
+    cp ${TDUCP_PATH}/resources/physics/tdumt/VehicleSlots.xml ${BUILD_TOOLS_TDUMT_PATH}
+    cp ${TDUCP_PATH}/resources/physics/tdupe/carData.mdb ${BUILD_TOOLS_TDUPE_PATH}
     echo
 
     echo "*** G27 fix... ***"
