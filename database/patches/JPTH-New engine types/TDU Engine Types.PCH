@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<patcher>
+  <properties name="Engine Types" version="0.1" author="JPTH" date="27.11.2016" ref="00000001" free="" installerFileName="tdu_mod_installer.exe" infoURL="">
+    <roles>
+      <role what="Modeling" name="EDEN GAMES" />
+      <role what="Convert" name="EDEN GAMES" />
+      <role what="Sound making" name="EDEN GAMES" />
+      <role what="Gauges making" name="EDEN GAMES" />
+      <role what="Testing" name="JPTH" />
+      <role what="Tools development" name="Djey" />
+      <role what="Custom 1" name="Unknown" />
+      <role what="Custom 2" name="Unknown" />
+    </roles>
+    <groups customRequired="Required" />
+  </properties>
+  <instructions>
+    <instruction type="updateResource" failOnError="True" enabled="True" comment="" group="Required">
+      <parameter name="resourceFileName" value="CarPhysicsData" />
+      <parameter name="resourceValues" value="543709|6 Cylinder Inline||633709|5 Cylinder Inline||643709|V4||653709|W16" />
+    </instruction>
+  </instructions>
+</patcher>
