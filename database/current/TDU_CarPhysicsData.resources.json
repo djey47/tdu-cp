@@ -338,35 +338,35 @@
     {
       "items": [
         {
-          "value": "6 en ligne",
+          "value": "6 Cylinder Inline",
           "locale": "fr"
         },
         {
-          "value": "6-Zyl., Reihe",
+          "value": "6 Cylinder Inline",
           "locale": "ge"
         },
         {
-          "value": "6-cyl in-line",
+          "value": "6 Cylinder Inline",
           "locale": "us"
         },
         {
-          "value": "직렬 6기통",
+          "value": "6 Cylinder Inline",
           "locale": "ko"
         },
         {
-          "value": "並列六汽缸",
+          "value": "6 Cylinder Inline",
           "locale": "ch"
         },
         {
-          "value": "直列 6 気筒",
+          "value": "6 Cylinder Inline",
           "locale": "ja"
         },
         {
-          "value": "6 cilindri in linea",
+          "value": "6 Cylinder Inline",
           "locale": "it"
         },
         {
-          "value": "6 cilindros en línea",
+          "value": "6 Cylinder Inline",
           "locale": "sp"
         }
       ],
@@ -105044,6 +105044,265 @@
         }
       ],
       "ref": "643709"
+    },
+    {
+      "items": [
+        {
+          "value": "W16",
+          "locale": "fr"
+        },
+        {
+          "value": "W16",
+          "locale": "ge"
+        },
+        {
+          "value": "W16",
+          "locale": "us"
+        },
+        {
+          "value": "W16",
+          "locale": "ko"
+        },
+        {
+          "value": "W16",
+          "locale": "ch"
+        },
+        {
+          "value": "W16",
+          "locale": "ja"
+        },
+        {
+          "value": "W16",
+          "locale": "it"
+        },
+        {
+          "value": "W16",
+          "locale": "sp"
+        }
+      ],
+      "ref": "653709"
+    },
+    {
+      "items": [
+        {
+          "value": "Pure Electric",
+          "locale": "fr"
+        },
+        {
+          "value": "Pure Electric",
+          "locale": "ge"
+        },
+        {
+          "value": "Pure Electric",
+          "locale": "us"
+        },
+        {
+          "value": "Pure Electric",
+          "locale": "ko"
+        },
+        {
+          "value": "Pure Electric",
+          "locale": "ch"
+        },
+        {
+          "value": "Pure Electric",
+          "locale": "ja"
+        },
+        {
+          "value": "Pure Electric",
+          "locale": "it"
+        },
+        {
+          "value": "Pure Electric",
+          "locale": "sp"
+        }
+      ],
+      "ref": "663709"
+    },
+    {
+      "items": [
+        {
+          "value": "Hybrid 3 Cylinder Inline",
+          "locale": "fr"
+        },
+        {
+          "value": "Hybrid 3 Cylinder Inline",
+          "locale": "ge"
+        },
+        {
+          "value": "Hybrid 3 Cylinder Inline",
+          "locale": "us"
+        },
+        {
+          "value": "Hybrid 3 Cylinder Inline",
+          "locale": "ko"
+        },
+        {
+          "value": "Hybrid 3 Cylinder Inline",
+          "locale": "ch"
+        },
+        {
+          "value": "Hybrid 3 Cylinder Inline",
+          "locale": "ja"
+        },
+        {
+          "value": "Hybrid 3 Cylinder Inline",
+          "locale": "it"
+        },
+        {
+          "value": "Hybrid 3 Cylinder Inline",
+          "locale": "sp"
+        }
+      ],
+      "ref": "673709"
+    },
+    {
+      "items": [
+        {
+          "value": "Hybrid V6",
+          "locale": "fr"
+        },
+        {
+          "value": "Hybrid V6",
+          "locale": "ge"
+        },
+        {
+          "value": "Hybrid V6",
+          "locale": "us"
+        },
+        {
+          "value": "Hybrid V6",
+          "locale": "ko"
+        },
+        {
+          "value": "Hybrid V6",
+          "locale": "ch"
+        },
+        {
+          "value": "Hybrid V6",
+          "locale": "ja"
+        },
+        {
+          "value": "Hybrid V6",
+          "locale": "it"
+        },
+        {
+          "value": "Hybrid V6",
+          "locale": "sp"
+        }
+      ],
+      "ref": "683709"
+    },
+    {
+      "items": [
+        {
+          "value": "Hybrid V8",
+          "locale": "fr"
+        },
+        {
+          "value": "Hybrid V8",
+          "locale": "ge"
+        },
+        {
+          "value": "Hybrid V8",
+          "locale": "us"
+        },
+        {
+          "value": "Hybrid V8",
+          "locale": "ko"
+        },
+        {
+          "value": "Hybrid V8",
+          "locale": "ch"
+        },
+        {
+          "value": "Hybrid V8",
+          "locale": "ja"
+        },
+        {
+          "value": "Hybrid V8",
+          "locale": "it"
+        },
+        {
+          "value": "Hybrid V8",
+          "locale": "sp"
+        }
+      ],
+      "ref": "693709"
+    },
+    {
+      "items": [
+        {
+          "value": "Hybrid V10",
+          "locale": "fr"
+        },
+        {
+          "value": "Hybrid V10",
+          "locale": "ge"
+        },
+        {
+          "value": "Hybrid V10",
+          "locale": "us"
+        },
+        {
+          "value": "Hybrid V10",
+          "locale": "ko"
+        },
+        {
+          "value": "Hybrid V10",
+          "locale": "ch"
+        },
+        {
+          "value": "Hybrid V10",
+          "locale": "ja"
+        },
+        {
+          "value": "Hybrid V10",
+          "locale": "it"
+        },
+        {
+          "value": "Hybrid V10",
+          "locale": "sp"
+        }
+      ],
+      "ref": "703709"
+    },
+    {
+      "items": [
+        {
+          "value": "Hybrid V12",
+          "locale": "fr"
+        },
+        {
+          "value": "Hybrid V12",
+          "locale": "ge"
+        },
+        {
+          "value": "Hybrid V12",
+          "locale": "us"
+        },
+        {
+          "value": "Hybrid V12",
+          "locale": "ko"
+        },
+        {
+          "value": "Hybrid V12",
+          "locale": "ch"
+        },
+        {
+          "value": "Hybrid V12",
+          "locale": "ja"
+        },
+        {
+          "value": "Hybrid V12",
+          "locale": "it"
+        },
+        {
+          "value": "Hybrid V12",
+          "locale": "sp"
+        }
+      ],
+      "ref": "713709"
     }
   ]
 }
