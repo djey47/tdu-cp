@@ -2,6 +2,11 @@
   "changes" : [ {
     "type" : "UPDATE_RES",
     "topic" : "CAR_PHYSICS_DATA",
+    "ref" : "543709",
+    "value" : "6 Cylinder Inline"
+  }, {
+    "type" : "UPDATE_RES",
+    "topic" : "CAR_PHYSICS_DATA",
     "ref" : "633709",
     "value" : "5 Cylinder Inline"
   }, {
@@ -9,5 +14,40 @@
     "topic" : "CAR_PHYSICS_DATA",
     "ref" : "643709",
     "value" : "V4"
-  }]
+  }, {
+    "type" : "UPDATE_RES",
+    "topic" : "CAR_PHYSICS_DATA",
+    "ref" : "653709",
+    "value" : "W16"
+  }, {
+    "type" : "UPDATE_RES",
+    "topic" : "CAR_PHYSICS_DATA",
+    "ref" : "663709",
+    "value" : "Pure Electric"
+  }, {
+    "type" : "UPDATE_RES",
+    "topic" : "CAR_PHYSICS_DATA",
+    "ref" : "673709",
+    "value" : "Hybrid 3 Cylinder Inline"
+  }, {
+    "type" : "UPDATE_RES",
+    "topic" : "CAR_PHYSICS_DATA",
+    "ref" : "683709",
+    "value" : "Hybrid V6"
+  }, {
+    "type" : "UPDATE_RES",
+    "topic" : "CAR_PHYSICS_DATA",
+    "ref" : "693709",
+    "value" : "Hybrid V8"
+  }, {
+    "type" : "UPDATE_RES",
+    "topic" : "CAR_PHYSICS_DATA",
+    "ref" : "703709",
+    "value" : "Hybrid V10"
+  }, {
+    "type" : "UPDATE_RES",
+    "topic" : "CAR_PHYSICS_DATA",
+    "ref" : "713709",
+    "value" : "Hybrid V12"
+  } ]
 }

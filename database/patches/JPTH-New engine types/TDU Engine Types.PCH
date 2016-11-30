@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <patcher>
-  <properties name="Engine Types" version="0.1" author="JPTH" date="27.11.2016" ref="00000001" free="" installerFileName="tdu_mod_installer.exe" infoURL="">
+  <properties name="Engine Types" version="0.2" author="JPTH" date="29.11.2016" ref="00000001" free="" installerFileName="tdu_mod_installer.exe" infoURL="">
     <roles>
       <role what="Modeling" name="EDEN GAMES" />
       <role what="Convert" name="EDEN GAMES" />
@@ -16,7 +16,7 @@
   <instructions>
     <instruction type="updateResource" failOnError="True" enabled="True" comment="" group="Required">
       <parameter name="resourceFileName" value="CarPhysicsData" />
-      <parameter name="resourceValues" value="543709|6 Cylinder Inline||633709|5 Cylinder Inline||643709|V4||653709|W16" />
+      <parameter name="resourceValues" value="543709|6 Cylinder Inline||633709|5 Cylinder Inline||643709|V4||653709|W16||663709|Eletric||673709|3 Cylinder Inline + eletric||683709|V6 + eletric||693709|V8 + eletric||703709|V10 + eletric||713709|V12 + eletric" />
     </instruction>
   </instructions>
 </patcher>
