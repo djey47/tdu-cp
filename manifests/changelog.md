@@ -7,7 +7,7 @@
 *What's new in this version?*
 
 - Each new slot now gets its own camera (updated TDUPE/TDUMT files included), matching slot identifier (3000 to 4040)
-- Add new engine types: 5 cylinder inline, V4
+- Add new engine types (updated TDUPE file included)
 
 ## Bugfixes
 - Fixes some flaws into TDUMT's VehicleSlots.xml reference
