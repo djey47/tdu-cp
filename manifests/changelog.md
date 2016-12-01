@@ -2,16 +2,16 @@
 
 - Current version number: **2.00A FINAL - release 3**
 
-- Release date: **2016-12-??**
+- Release date: **2016-12-01**
 
 *What's new in this version?*
 
 - Each new slot now gets its own camera (updated TDUPE/TDUMT files included), matching slot identifier (3000 to 4040)
-- Add new engine types (updated TDUPE file included)
+- Add new engine types (updated TDUPE file included).
 
 ## Bugfixes
 - Fixes some flaws into TDUMT's VehicleSlots.xml reference
-- Fixes missing engine types from TDUPE reference
+- Fixes missing engine types from TDUPE reference.
 
 ## Known Bugs
 - A few, because it's just TDU :p 

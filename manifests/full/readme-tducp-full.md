@@ -14,7 +14,9 @@
 
 - Make sure to also read **files.html** and **changelog.html**
 
-- That's all!
+- Latest documentation is hosted here: https://github.com/djey47/tdu-cp/wiki/Installing-TDUCP
+
+- That's all, have fun!
 
 
 ## How to uninstall
