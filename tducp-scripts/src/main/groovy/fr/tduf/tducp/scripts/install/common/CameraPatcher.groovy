@@ -5,11 +5,11 @@ import fr.tduf.tducp.scripts.common.TDUFRunner
 /**
  * Applies patches onto cameras.bin file
  */
-public class CameraPatcher {
+class CameraPatcher {
 
     private final TDUFRunner runner
 
-    public CameraPatcher(runner) {
+    CameraPatcher(runner) {
         this.runner = runner
     }
 
@@ -18,7 +18,7 @@ public class CameraPatcher {
      * @param tducpDatabasePath : TDUCP distrib directory with database files
      * @param gameDatabasePath  : TDU game database directory
      */
-    public void patchCameras(tducpDatabasePath, gameDatabasePath) {
+    void patchCameras(tducpDatabasePath, gameDatabasePath) {
         def camerasPath = gameDatabasePath.resolve("cameras.bin")
         def tducpCameraPatchesPath = tducpDatabasePath.resolve("cameras.txt")
         def file = tducpCameraPatchesPath.toFile()
