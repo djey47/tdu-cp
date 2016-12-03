@@ -64,6 +64,11 @@ class TDUFRunner {
         runCommandWithResultHandling(cmd)
     }
 
+    public void cameraToolBatchCopySets(camerasPath, instructionsPath) {
+        def cmd = "java -cp \"$tdufLibPath\" fr.tduf.cli.tools.CameraTool copy-sets -i \"$camerasPath\" -o \"$camerasPath\" -b \"$instructionsPath\""
+        runCommandWithResultHandling(cmd)
+    }
+
     private static runCommandWithResultHandling(String cmd, Path startPath=null) {
         def process
         if (startPath == null) {

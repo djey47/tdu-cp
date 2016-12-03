@@ -21,16 +21,7 @@ class CameraPatcher {
     void patchCameras(tducpDatabasePath, gameDatabasePath) {
         def camerasPath = gameDatabasePath.resolve("cameras.bin")
         def tducpCameraPatchesPath = tducpDatabasePath.resolve("cameras.txt")
-        def file = tducpCameraPatchesPath.toFile()
-        def line
 
-        println("Reading contents of ${file.absolutePath}")
-        file.withReader { reader ->
-            while ((line = reader.readLine()) != null) {
-                def(sourceId, targetId) = line.tokenize(';')
-                println ("$sourceId => $targetId")
-                runner.cameraToolCopySet(camerasPath, sourceId, targetId)
-            }
-        }
+        runner.cameraToolBatchCopySets(camerasPath, tducpCameraPatchesPath)
     }
 }
