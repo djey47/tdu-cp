@@ -1,0 +1,98 @@
+{
+  "version" : "1,2",
+  "categoryCount" : 5,
+  "entries" : [ {
+    "items" : [ {
+      "value" : "ERREUR!!",
+      "locale" : "fr"
+    }, {
+      "value" : "ERROR",
+      "locale" : "ge"
+    }, {
+      "value" : "ERROR",
+      "locale" : "us"
+    }, {
+      "value" : "ERROR",
+      "locale" : "ko"
+    }, {
+      "value" : "ERROR",
+      "locale" : "ch"
+    }, {
+      "value" : "ERROR",
+      "locale" : "ja"
+    }, {
+      "value" : "ERROR",
+      "locale" : "it"
+    }, {
+      "value" : "ERROR",
+      "locale" : "sp"
+    } ],
+    "ref" : "9097022"
+  }, {
+    "items" : [ {
+      "value" : "Rasta",
+      "locale" : "*"
+    } ],
+    "ref" : "5436022"
+  }, {
+    "items" : [ {
+      "value" : "HA01",
+      "locale" : "*"
+    } ],
+    "ref" : "54370022"
+  }, {
+    "items" : [ {
+      "value" : "HA02",
+      "locale" : "*"
+    } ],
+    "ref" : "55370022"
+  }, {
+    "items" : [ {
+      "value" : "HA03",
+      "locale" : "*"
+    } ],
+    "ref" : "56370022"
+  }, {
+    "items" : [ {
+      "value" : "HA04",
+      "locale" : "*"
+    } ],
+    "ref" : "57370022"
+  }, {
+    "items" : [ {
+      "value" : "HA05",
+      "locale" : "*"
+    } ],
+    "ref" : "58370022"
+  }, {
+    "items" : [ {
+      "value" : "HA06",
+      "locale" : "*"
+    } ],
+    "ref" : "59370022"
+  }, {
+    "items" : [ {
+      "value" : "HA07",
+      "locale" : "*"
+    } ],
+    "ref" : "60370022"
+  }, {
+    "items" : [ {
+      "value" : "DEFAULT_BOTTOMS",
+      "locale" : "*"
+    } ],
+    "ref" : "54640827"
+  }, {
+    "items" : [ {
+      "value" : "DEFAULT_TOPS_SHIRT",
+      "locale" : "*"
+    } ],
+    "ref" : "54707527"
+  }, {
+    "items" : [ {
+      "value" : "ChemiseAFleurs01",
+      "locale" : "*"
+    } ],
+    "ref" : "54713527"
+  } ]
+}

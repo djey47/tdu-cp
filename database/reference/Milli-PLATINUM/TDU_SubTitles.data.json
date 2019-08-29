@@ -1,0 +1,24 @@
+{
+  "topic" : "SUB_TITLES",
+  "entries" : [ {
+    "id" : 0,
+    "items" : [ {
+      "value" : "54756083",
+      "rank" : 1
+    }, {
+      "value" : "5569823",
+      "rank" : 2
+    }, {
+      "value" : "53371533",
+      "rank" : 3
+    }, {
+      "value" : "1",
+      "switches" : [ {
+        "index" : 1,
+        "name" : "?",
+        "enabled" : true
+      } ],
+      "rank" : 4
+    } ]
+  } ]
+}

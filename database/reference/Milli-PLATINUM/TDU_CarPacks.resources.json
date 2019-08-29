@@ -1,0 +1,56 @@
+{
+  "version" : "1,2",
+  "categoryCount" : 2,
+  "entries" : [ {
+    "items" : [ {
+      "value" : "ERREUR!!",
+      "locale" : "fr"
+    }, {
+      "value" : "ERROR",
+      "locale" : "ge"
+    }, {
+      "value" : "ERROR",
+      "locale" : "us"
+    }, {
+      "value" : "ERROR",
+      "locale" : "ko"
+    }, {
+      "value" : "ERROR",
+      "locale" : "ch"
+    }, {
+      "value" : "ERROR",
+      "locale" : "ja"
+    }, {
+      "value" : "ERROR",
+      "locale" : "it"
+    }, {
+      "value" : "ERROR",
+      "locale" : "sp"
+    } ],
+    "ref" : "88926089"
+  }, {
+    "items" : [ {
+      "value" : "??",
+      "locale" : "*"
+    } ],
+    "ref" : "53357653"
+  }, {
+    "items" : [ {
+      "value" : "nismo_350",
+      "locale" : "*"
+    } ],
+    "ref" : "54357653"
+  }, {
+    "items" : [ {
+      "value" : "Spoon Sports",
+      "locale" : "us"
+    } ],
+    "ref" : "15088909"
+  }, {
+    "items" : [ {
+      "value" : "Mugen Motorsports",
+      "locale" : "us"
+    } ],
+    "ref" : "15088910"
+  } ]
+}

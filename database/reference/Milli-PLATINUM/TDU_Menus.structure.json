@@ -1,0 +1,19 @@
+{
+  "ref" : "1290974379",
+  "topic" : "MENUS",
+  "fields" : [ {
+    "name" : "Flash_Name_",
+    "rank" : 1,
+    "type" : "RESOURCE_CURRENT_GLOBALIZED"
+  }, {
+    "name" : "Libelle_",
+    "rank" : 2,
+    "type" : "RESOURCE_CURRENT_LOCALIZED"
+  }, {
+    "name" : "BitField",
+    "rank" : 3,
+    "type" : "BITFIELD"
+  } ],
+  "version" : "1,2",
+  "categoryCount" : 2
+}

@@ -1,0 +1,35 @@
+{
+  "ref" : "1209165514",
+  "topic" : "BRANDS",
+  "fields" : [ {
+    "name" : "REF",
+    "rank" : 1,
+    "type" : "UID"
+  }, {
+    "name" : "Manufacturer_ID",
+    "rank" : 2,
+    "type" : "RESOURCE_CURRENT_GLOBALIZED"
+  }, {
+    "name" : "Manufacturer_Name",
+    "rank" : 3,
+    "type" : "RESOURCE_CURRENT_GLOBALIZED"
+  }, {
+    "name" : "Logo_HUD_File",
+    "rank" : 4,
+    "type" : "RESOURCE_CURRENT_GLOBALIZED"
+  }, {
+    "name" : "Logo_Global_Index",
+    "rank" : 5,
+    "type" : "INTEGER"
+  }, {
+    "name" : "Brand_special_param",
+    "rank" : 6,
+    "type" : "INTEGER"
+  }, {
+    "name" : "BitField",
+    "rank" : 7,
+    "type" : "BITFIELD"
+  } ],
+  "version" : "1,2",
+  "categoryCount" : 4
+}

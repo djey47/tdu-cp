@@ -1,0 +1,120 @@
+{
+  "ref" : "924601051",
+  "topic" : "CAR_PACKS",
+  "fields" : [ {
+    "name" : "Car",
+    "targetRef" : "1975083164",
+    "rank" : 1,
+    "type" : "REFERENCE"
+  }, {
+    "name" : "Brand",
+    "targetRef" : "1209165514",
+    "rank" : 2,
+    "type" : "REFERENCE"
+  }, {
+    "name" : "Car_File_Name_Swap",
+    "targetRef" : "1975083164",
+    "rank" : 3,
+    "type" : "RESOURCE_REMOTE"
+  }, {
+    "name" : "Libelle",
+    "targetRef" : "954601678",
+    "rank" : 4,
+    "type" : "RESOURCE_REMOTE"
+  }, {
+    "name" : "Pack_1",
+    "targetRef" : "2064375635",
+    "rank" : 5,
+    "type" : "REFERENCE"
+  }, {
+    "name" : "Group_1",
+    "targetRef" : "1975083164",
+    "rank" : 6,
+    "type" : "RESOURCE_REMOTE"
+  }, {
+    "name" : "Car_1",
+    "targetRef" : "1975083164",
+    "rank" : 7,
+    "type" : "REFERENCE"
+  }, {
+    "name" : "Price_1",
+    "rank" : 8,
+    "type" : "INTEGER"
+  }, {
+    "name" : "Accel_0_100_1",
+    "rank" : 9,
+    "type" : "FLOAT"
+  }, {
+    "name" : "BrakingDist_1",
+    "rank" : 10,
+    "type" : "FLOAT"
+  }, {
+    "name" : "Handling_1",
+    "rank" : 11,
+    "type" : "FLOAT"
+  }, {
+    "name" : "Pack_2",
+    "targetRef" : "2064375635",
+    "rank" : 12,
+    "type" : "REFERENCE"
+  }, {
+    "name" : "Group_2",
+    "targetRef" : "1975083164",
+    "rank" : 13,
+    "type" : "RESOURCE_REMOTE"
+  }, {
+    "name" : "Car_2",
+    "targetRef" : "1975083164",
+    "rank" : 14,
+    "type" : "REFERENCE"
+  }, {
+    "name" : "Price_2",
+    "rank" : 15,
+    "type" : "INTEGER"
+  }, {
+    "name" : "Accel_0_100_2",
+    "rank" : 16,
+    "type" : "FLOAT"
+  }, {
+    "name" : "BrakingDist_2",
+    "rank" : 17,
+    "type" : "FLOAT"
+  }, {
+    "name" : "Handling_2",
+    "rank" : 18,
+    "type" : "FLOAT"
+  }, {
+    "name" : "Pack_3",
+    "targetRef" : "2064375635",
+    "rank" : 19,
+    "type" : "REFERENCE"
+  }, {
+    "name" : "Group_3",
+    "targetRef" : "1975083164",
+    "rank" : 20,
+    "type" : "RESOURCE_REMOTE"
+  }, {
+    "name" : "Car_3",
+    "targetRef" : "1975083164",
+    "rank" : 21,
+    "type" : "REFERENCE"
+  }, {
+    "name" : "Price_3",
+    "rank" : 22,
+    "type" : "INTEGER"
+  }, {
+    "name" : "Accel_0_100_3",
+    "rank" : 23,
+    "type" : "FLOAT"
+  }, {
+    "name" : "BrakingDist_3",
+    "rank" : 24,
+    "type" : "FLOAT"
+  }, {
+    "name" : "Handling_3",
+    "rank" : 25,
+    "type" : "FLOAT"
+  } ],
+  "version" : "1,2",
+  "categoryCount" : 2
+}

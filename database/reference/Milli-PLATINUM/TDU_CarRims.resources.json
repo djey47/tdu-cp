@@ -1,0 +1,38 @@
+{
+  "version" : "1,2",
+  "categoryCount" : 2,
+  "entries" : [ {
+    "items" : [ {
+      "value" : "ERREUR!!",
+      "locale" : "fr"
+    }, {
+      "value" : "ERROR",
+      "locale" : "ge"
+    }, {
+      "value" : "ERROR",
+      "locale" : "us"
+    }, {
+      "value" : "ERROR",
+      "locale" : "ko"
+    }, {
+      "value" : "ERROR",
+      "locale" : "ch"
+    }, {
+      "value" : "ERROR",
+      "locale" : "ja"
+    }, {
+      "value" : "ERROR",
+      "locale" : "it"
+    }, {
+      "value" : "ERROR",
+      "locale" : "sp"
+    } ],
+    "ref" : "909787"
+  }, {
+    "items" : [ {
+      "value" : "Main",
+      "locale" : "*"
+    } ],
+    "ref" : "86037407"
+  } ]
+}

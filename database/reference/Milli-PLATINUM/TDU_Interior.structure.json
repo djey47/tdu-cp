@@ -1,0 +1,36 @@
+{
+  "ref" : "1137960528",
+  "topic" : "INTERIOR",
+  "fields" : [ {
+    "name" : "REF",
+    "rank" : 1,
+    "type" : "UID"
+  }, {
+    "name" : "Manufacturer_ID",
+    "targetRef" : "1209165514",
+    "rank" : 2,
+    "type" : "RESOURCE_REMOTE"
+  }, {
+    "name" : "Interior_Name",
+    "rank" : 3,
+    "type" : "RESOURCE_CURRENT_GLOBALIZED"
+  }, {
+    "name" : "Interior_Color_1",
+    "rank" : 4,
+    "type" : "RESOURCE_CURRENT_GLOBALIZED"
+  }, {
+    "name" : "Interior_Color_2",
+    "rank" : 5,
+    "type" : "RESOURCE_CURRENT_GLOBALIZED"
+  }, {
+    "name" : "Material",
+    "rank" : 6,
+    "type" : "RESOURCE_CURRENT_GLOBALIZED"
+  }, {
+    "name" : "Price_dollar",
+    "rank" : 7,
+    "type" : "INTEGER"
+  } ],
+  "version" : "1,2",
+  "categoryCount" : 4
+}

@@ -1,0 +1,1823 @@
+{
+  "version" : "1,2",
+  "categoryCount" : 2,
+  "entries" : [ {
+    "items" : [ {
+      "value" : "Error",
+      "locale" : "*"
+    } ],
+    "ref" : "8844089"
+  }, {
+    "items" : [ {
+      "value" : "BoosterPack05",
+      "locale" : "*"
+    } ],
+    "ref" : "54662430"
+  }, {
+    "items" : [ {
+      "value" : "Power Pack 1",
+      "locale" : "*"
+    } ],
+    "ref" : "55662430"
+  }, {
+    "items" : [ {
+      "value" : "Power Pack 2",
+      "locale" : "*"
+    } ],
+    "ref" : "56662430"
+  }, {
+    "items" : [ {
+      "value" : "Power Pack 3",
+      "locale" : "*"
+    } ],
+    "ref" : "57662430"
+  }, {
+    "items" : [ {
+      "value" : "None",
+      "locale" : "*"
+    } ],
+    "ref" : "53561230"
+  }, {
+    "items" : [ {
+      "value" : "PACKNISMO-S",
+      "locale" : "*"
+    } ],
+    "ref" : "54561230"
+  }, {
+    "items" : [ {
+      "value" : "PACKNISMO-R",
+      "locale" : "*"
+    } ],
+    "ref" : "55561230"
+  }, {
+    "items" : [ {
+      "value" : "PACKNISMO-R-Max",
+      "locale" : "*"
+    } ],
+    "ref" : "56561230"
+  }, {
+    "items" : [ {
+      "value" : "Power Pack 1",
+      "locale" : "*"
+    } ],
+    "ref" : "57561230"
+  }, {
+    "items" : [ {
+      "value" : "Power Pack 2",
+      "locale" : "*"
+    } ],
+    "ref" : "58561230"
+  }, {
+    "items" : [ {
+      "value" : "Power Pack 3",
+      "locale" : "*"
+    } ],
+    "ref" : "59561230"
+  }, {
+    "items" : [ {
+      "value" : "Performance Pack 1",
+      "locale" : "*"
+    } ],
+    "ref" : "60561230"
+  }, {
+    "items" : [ {
+      "value" : "Performance Pack 2",
+      "locale" : "*"
+    } ],
+    "ref" : "61561230"
+  }, {
+    "items" : [ {
+      "value" : "Performance Pack 3",
+      "locale" : "*"
+    } ],
+    "ref" : "62561230"
+  }, {
+    "items" : [ {
+      "value" : "4WD Pack 1",
+      "locale" : "*"
+    } ],
+    "ref" : "53661230"
+  }, {
+    "items" : [ {
+      "value" : "4WD Pack 2",
+      "locale" : "*"
+    } ],
+    "ref" : "54661230"
+  }, {
+    "items" : [ {
+      "value" : "4WD Pack 3",
+      "locale" : "*"
+    } ],
+    "ref" : "55661230"
+  }, {
+    "items" : [ {
+      "value" : "GALLA Pack 1",
+      "locale" : "*"
+    } ],
+    "ref" : "56661230"
+  }, {
+    "items" : [ {
+      "value" : "GALLA Pack 2",
+      "locale" : "*"
+    } ],
+    "ref" : "57661230"
+  }, {
+    "items" : [ {
+      "value" : "GALLA Pack 3",
+      "locale" : "*"
+    } ],
+    "ref" : "58661230"
+  }, {
+    "items" : [ {
+      "value" : "MURC Pack 1",
+      "locale" : "*"
+    } ],
+    "ref" : "59661230"
+  }, {
+    "items" : [ {
+      "value" : "MURC Pack 2",
+      "locale" : "*"
+    } ],
+    "ref" : "60661230"
+  }, {
+    "items" : [ {
+      "value" : "MURC Pack 3",
+      "locale" : "*"
+    } ],
+    "ref" : "61661230"
+  }, {
+    "items" : [ {
+      "value" : "SSR Pack 1",
+      "locale" : "*"
+    } ],
+    "ref" : "62661230"
+  }, {
+    "items" : [ {
+      "value" : "SSR Pack 2",
+      "locale" : "*"
+    } ],
+    "ref" : "53761230"
+  }, {
+    "items" : [ {
+      "value" : "SSR Pack 3",
+      "locale" : "*"
+    } ],
+    "ref" : "54761230"
+  }, {
+    "items" : [ {
+      "value" : "AlfaGT Pack 1",
+      "locale" : "*"
+    } ],
+    "ref" : "55761230"
+  }, {
+    "items" : [ {
+      "value" : "AlfaGT Pack 2",
+      "locale" : "*"
+    } ],
+    "ref" : "56761230"
+  }, {
+    "items" : [ {
+      "value" : "AlfaGT Pack 3",
+      "locale" : "*"
+    } ],
+    "ref" : "57761230"
+  }, {
+    "items" : [ {
+      "value" : "Z06 Pack 1",
+      "locale" : "*"
+    } ],
+    "ref" : "58761230"
+  }, {
+    "items" : [ {
+      "value" : "Z06 Pack 2",
+      "locale" : "*"
+    } ],
+    "ref" : "59761230"
+  }, {
+    "items" : [ {
+      "value" : "Z06 Pack 3",
+      "locale" : "*"
+    } ],
+    "ref" : "60761230"
+  }, {
+    "items" : [ {
+      "value" : "rs4 Pack 1",
+      "locale" : "*"
+    } ],
+    "ref" : "61761230"
+  }, {
+    "items" : [ {
+      "value" : "rs4 Pack 2",
+      "locale" : "*"
+    } ],
+    "ref" : "62761230"
+  }, {
+    "items" : [ {
+      "value" : "rs4 Pack 3",
+      "locale" : "*"
+    } ],
+    "ref" : "53861230"
+  }, {
+    "items" : [ {
+      "value" : "s4 Pack 1",
+      "locale" : "*"
+    } ],
+    "ref" : "54861230"
+  }, {
+    "items" : [ {
+      "value" : "s4 Pack 2",
+      "locale" : "*"
+    } ],
+    "ref" : "55861230"
+  }, {
+    "items" : [ {
+      "value" : "s4 Pack 3",
+      "locale" : "*"
+    } ],
+    "ref" : "56861230"
+  }, {
+    "items" : [ {
+      "value" : "Skyline Pack 1",
+      "locale" : "*"
+    } ],
+    "ref" : "57861230"
+  }, {
+    "items" : [ {
+      "value" : "Skyline Pack 2",
+      "locale" : "*"
+    } ],
+    "ref" : "58861230"
+  }, {
+    "items" : [ {
+      "value" : "Skyline Pack 3",
+      "locale" : "*"
+    } ],
+    "ref" : "59861230"
+  }, {
+    "items" : [ {
+      "value" : "Enzo Pack 1",
+      "locale" : "*"
+    } ],
+    "ref" : "60861230"
+  }, {
+    "items" : [ {
+      "value" : "Enzo Pack 2",
+      "locale" : "*"
+    } ],
+    "ref" : "61861230"
+  }, {
+    "items" : [ {
+      "value" : "Enzo Pack 3",
+      "locale" : "*"
+    } ],
+    "ref" : "62861230"
+  }, {
+    "items" : [ {
+      "value" : "X150 Pack 1",
+      "locale" : "*"
+    } ],
+    "ref" : "53961230"
+  }, {
+    "items" : [ {
+      "value" : "X150 Pack 2",
+      "locale" : "*"
+    } ],
+    "ref" : "54961230"
+  }, {
+    "items" : [ {
+      "value" : "X150 Pack 3",
+      "locale" : "*"
+    } ],
+    "ref" : "55961230"
+  }, {
+    "items" : [ {
+      "value" : "Muscles Pack 1",
+      "locale" : "*"
+    } ],
+    "ref" : "56961230"
+  }, {
+    "items" : [ {
+      "value" : "Muscles Pack 2",
+      "locale" : "*"
+    } ],
+    "ref" : "57961230"
+  }, {
+    "items" : [ {
+      "value" : "Muscles Pack 3",
+      "locale" : "*"
+    } ],
+    "ref" : "58961230"
+  }, {
+    "items" : [ {
+      "value" : "StingR Pack 1",
+      "locale" : "*"
+    } ],
+    "ref" : "59961230"
+  }, {
+    "items" : [ {
+      "value" : "StingR Pack 2",
+      "locale" : "*"
+    } ],
+    "ref" : "60961230"
+  }, {
+    "items" : [ {
+      "value" : "StingR Pack 3",
+      "locale" : "*"
+    } ],
+    "ref" : "61961230"
+  }, {
+    "items" : [ {
+      "value" : "db9 Pack 1",
+      "locale" : "*"
+    } ],
+    "ref" : "62961230"
+  }, {
+    "items" : [ {
+      "value" : "db9 Pack 2",
+      "locale" : "*"
+    } ],
+    "ref" : "54061230"
+  }, {
+    "items" : [ {
+      "value" : "db9 Pack 3",
+      "locale" : "*"
+    } ],
+    "ref" : "55061230"
+  }, {
+    "items" : [ {
+      "value" : "db7 Pack 1",
+      "locale" : "*"
+    } ],
+    "ref" : "56061230"
+  }, {
+    "items" : [ {
+      "value" : "db7 Pack 2",
+      "locale" : "*"
+    } ],
+    "ref" : "57061230"
+  }, {
+    "items" : [ {
+      "value" : "db7 Pack 3",
+      "locale" : "*"
+    } ],
+    "ref" : "58061230"
+  }, {
+    "items" : [ {
+      "value" : "Zonda Pack 1",
+      "locale" : "*"
+    } ],
+    "ref" : "59061230"
+  }, {
+    "items" : [ {
+      "value" : "Zonda Pack 2",
+      "locale" : "*"
+    } ],
+    "ref" : "60061230"
+  }, {
+    "items" : [ {
+      "value" : "Zonda Pack 3",
+      "locale" : "*"
+    } ],
+    "ref" : "61061230"
+  }, {
+    "items" : [ {
+      "value" : "DB4 Pack 1",
+      "locale" : "*"
+    } ],
+    "ref" : "62061230"
+  }, {
+    "items" : [ {
+      "value" : "DB4 Pack 2",
+      "locale" : "*"
+    } ],
+    "ref" : "63061230"
+  }, {
+    "items" : [ {
+      "value" : "DB4 Pack 3",
+      "locale" : "*"
+    } ],
+    "ref" : "54161230"
+  }, {
+    "items" : [ {
+      "value" : "BikesmA Pack 1",
+      "locale" : "*"
+    } ],
+    "ref" : "55161230"
+  }, {
+    "items" : [ {
+      "value" : "BikesmA Pack 2",
+      "locale" : "*"
+    } ],
+    "ref" : "56161230"
+  }, {
+    "items" : [ {
+      "value" : "BikesmA Pack 3",
+      "locale" : "*"
+    } ],
+    "ref" : "57161230"
+  }, {
+    "items" : [ {
+      "value" : "BikesmB Pack 1",
+      "locale" : "*"
+    } ],
+    "ref" : "58161230"
+  }, {
+    "items" : [ {
+      "value" : "BikesmB Pack 2",
+      "locale" : "*"
+    } ],
+    "ref" : "59161230"
+  }, {
+    "items" : [ {
+      "value" : "BikesmB Pack 3",
+      "locale" : "*"
+    } ],
+    "ref" : "60161230"
+  }, {
+    "items" : [ {
+      "value" : "BikeS4R Pack 1",
+      "locale" : "*"
+    } ],
+    "ref" : "61161230"
+  }, {
+    "items" : [ {
+      "value" : "BikeS4R Pack 2",
+      "locale" : "*"
+    } ],
+    "ref" : "62161230"
+  }, {
+    "items" : [ {
+      "value" : "BikeS4R Pack 3",
+      "locale" : "*"
+    } ],
+    "ref" : "63161230"
+  }, {
+    "items" : [ {
+      "value" : "Miura Pack 1",
+      "locale" : "*"
+    } ],
+    "ref" : "54261230"
+  }, {
+    "items" : [ {
+      "value" : "Miura Pack 2",
+      "locale" : "*"
+    } ],
+    "ref" : "55261230"
+  }, {
+    "items" : [ {
+      "value" : "Miura Pack 3",
+      "locale" : "*"
+    } ],
+    "ref" : "56261230"
+  }, {
+    "items" : [ {
+      "value" : "SaleenS7 Pack 1",
+      "locale" : "*"
+    } ],
+    "ref" : "57261230"
+  }, {
+    "items" : [ {
+      "value" : "SaleenS7 Pack 2",
+      "locale" : "*"
+    } ],
+    "ref" : "58261230"
+  }, {
+    "items" : [ {
+      "value" : "SaleenS7 Pack 3",
+      "locale" : "*"
+    } ],
+    "ref" : "59261230"
+  }, {
+    "items" : [ {
+      "value" : "Viper Pack 1",
+      "locale" : "*"
+    } ],
+    "ref" : "60261230"
+  }, {
+    "items" : [ {
+      "value" : "Viper Pack 2",
+      "locale" : "*"
+    } ],
+    "ref" : "61261230"
+  }, {
+    "items" : [ {
+      "value" : "Viper Pack 3",
+      "locale" : "*"
+    } ],
+    "ref" : "62261230"
+  }, {
+    "items" : [ {
+      "value" : "CC8S Pack 1",
+      "locale" : "*"
+    } ],
+    "ref" : "63261230"
+  }, {
+    "items" : [ {
+      "value" : "CC8S Pack 2",
+      "locale" : "*"
+    } ],
+    "ref" : "54361230"
+  }, {
+    "items" : [ {
+      "value" : "CC8S Pack 3",
+      "locale" : "*"
+    } ],
+    "ref" : "55361230"
+  }, {
+    "items" : [ {
+      "value" : "CCR Pack 1",
+      "locale" : "*"
+    } ],
+    "ref" : "56361230"
+  }, {
+    "items" : [ {
+      "value" : "CCR Pack 2",
+      "locale" : "*"
+    } ],
+    "ref" : "57361230"
+  }, {
+    "items" : [ {
+      "value" : "CCR Pack 3",
+      "locale" : "*"
+    } ],
+    "ref" : "58361230"
+  }, {
+    "items" : [ {
+      "value" : "GallaR Pack 1",
+      "locale" : "*"
+    } ],
+    "ref" : "59361230"
+  }, {
+    "items" : [ {
+      "value" : "GallaR Pack 2",
+      "locale" : "*"
+    } ],
+    "ref" : "60361230"
+  }, {
+    "items" : [ {
+      "value" : "GallaR Pack 3",
+      "locale" : "*"
+    } ],
+    "ref" : "61361230"
+  }, {
+    "items" : [ {
+      "value" : "Wiesmann Pack 1",
+      "locale" : "*"
+    } ],
+    "ref" : "62361230"
+  }, {
+    "items" : [ {
+      "value" : "Wiesmann Pack 2",
+      "locale" : "*"
+    } ],
+    "ref" : "63361230"
+  }, {
+    "items" : [ {
+      "value" : "Wiesmann Pack 3",
+      "locale" : "*"
+    } ],
+    "ref" : "54461230"
+  }, {
+    "items" : [ {
+      "value" : "AC Pack 1",
+      "locale" : "*"
+    } ],
+    "ref" : "55461230"
+  }, {
+    "items" : [ {
+      "value" : "AC Pack 2",
+      "locale" : "*"
+    } ],
+    "ref" : "56461230"
+  }, {
+    "items" : [ {
+      "value" : "AC Pack 3",
+      "locale" : "*"
+    } ],
+    "ref" : "57461230"
+  }, {
+    "items" : [ {
+      "value" : "Mustang Pack 1",
+      "locale" : "*"
+    } ],
+    "ref" : "58461230"
+  }, {
+    "items" : [ {
+      "value" : "Mustang Pack 2",
+      "locale" : "*"
+    } ],
+    "ref" : "59461230"
+  }, {
+    "items" : [ {
+      "value" : "Mustang Pack 3",
+      "locale" : "*"
+    } ],
+    "ref" : "60461230"
+  }, {
+    "items" : [ {
+      "value" : "SL65AMG Pack 1",
+      "locale" : "*"
+    } ],
+    "ref" : "61461230"
+  }, {
+    "items" : [ {
+      "value" : "SL65AMG Pack 2",
+      "locale" : "*"
+    } ],
+    "ref" : "62461230"
+  }, {
+    "items" : [ {
+      "value" : "SL65AMG Pack 3",
+      "locale" : "*"
+    } ],
+    "ref" : "63461230"
+  }, {
+    "items" : [ {
+      "value" : "Edonis Pack 1",
+      "locale" : "*"
+    } ],
+    "ref" : "533661230"
+  }, {
+    "items" : [ {
+      "value" : "Edonis Pack 2",
+      "locale" : "*"
+    } ],
+    "ref" : "543661230"
+  }, {
+    "items" : [ {
+      "value" : "Edonis Pack 3",
+      "locale" : "*"
+    } ],
+    "ref" : "553661230"
+  }, {
+    "items" : [ {
+      "value" : "Viper Coupe Pack 1",
+      "locale" : "*"
+    } ],
+    "ref" : "563661230"
+  }, {
+    "items" : [ {
+      "value" : "Viper Coupe Pack 2",
+      "locale" : "*"
+    } ],
+    "ref" : "573661230"
+  }, {
+    "items" : [ {
+      "value" : "Viper Coupe Pack 3",
+      "locale" : "*"
+    } ],
+    "ref" : "583661230"
+  }, {
+    "items" : [ {
+      "value" : "StingRay71 Pack 1",
+      "locale" : "*"
+    } ],
+    "ref" : "593661230"
+  }, {
+    "items" : [ {
+      "value" : "StingRay71 Pack 2",
+      "locale" : "*"
+    } ],
+    "ref" : "603661230"
+  }, {
+    "items" : [ {
+      "value" : "StingRay71 Pack 3",
+      "locale" : "*"
+    } ],
+    "ref" : "613661230"
+  }, {
+    "items" : [ {
+      "value" : "Aftermarket Kit",
+      "locale" : "*"
+    } ],
+    "ref" : "400500604"
+  }, {
+    "items" : [ {
+      "value" : "Street Package",
+      "locale" : "*"
+    } ],
+    "ref" : "400500605"
+  }, {
+    "items" : [ {
+      "value" : "Track Day Package",
+      "locale" : "*"
+    } ],
+    "ref" : "400500606"
+  }, {
+    "items" : [ {
+      "value" : "Racing Package",
+      "locale" : "*"
+    } ],
+    "ref" : "400500607"
+  }, {
+    "items" : [ {
+      "value" : "High Performance Package",
+      "locale" : "*"
+    } ],
+    "ref" : "400500608"
+  }, {
+    "items" : [ {
+      "value" : "High Boost Package",
+      "locale" : "*"
+    } ],
+    "ref" : "400500611"
+  }, {
+    "items" : [ {
+      "value" : "1000+ bhp Package",
+      "locale" : "*"
+    } ],
+    "ref" : "400500613"
+  }, {
+    "items" : [ {
+      "value" : "GT500 KR Speed Package",
+      "locale" : "*"
+    } ],
+    "ref" : "400500617"
+  }, {
+    "items" : [ {
+      "value" : "Huracan Supercharged Kit",
+      "locale" : "*"
+    } ],
+    "ref" : "400500620"
+  }, {
+    "items" : [ {
+      "value" : "Twin-Turbo Kit for LP640",
+      "locale" : "*"
+    } ],
+    "ref" : "400500622"
+  }, {
+    "items" : [ {
+      "value" : "Sesto Elemento Stage 1",
+      "locale" : "*"
+    } ],
+    "ref" : "400500626"
+  }, {
+    "items" : [ {
+      "value" : "Sesto Elemento Stage 2",
+      "locale" : "*"
+    } ],
+    "ref" : "400500627"
+  }, {
+    "items" : [ {
+      "value" : "Sesto Elemento Stage 3",
+      "locale" : "*"
+    } ],
+    "ref" : "400500628"
+  }, {
+    "items" : [ {
+      "value" : "GTO Twin Turbo Stage 5",
+      "locale" : "*"
+    } ],
+    "ref" : "400500630"
+  }, {
+    "items" : [ {
+      "value" : "GTO Twin Turbo Stage 4",
+      "locale" : "*"
+    } ],
+    "ref" : "400500635"
+  }, {
+    "items" : [ {
+      "value" : "GTO Twin Turbo Stage 3",
+      "locale" : "*"
+    } ],
+    "ref" : "400500636"
+  }, {
+    "items" : [ {
+      "value" : "GTO Twin Turbo Stage 2",
+      "locale" : "*"
+    } ],
+    "ref" : "400500637"
+  }, {
+    "items" : [ {
+      "value" : "GTO Twin Turbo Stage 1",
+      "locale" : "*"
+    } ],
+    "ref" : "400500638"
+  }, {
+    "items" : [ {
+      "value" : "Lancer Evolution VI Stage 1",
+      "locale" : "*"
+    } ],
+    "ref" : "400500642"
+  }, {
+    "items" : [ {
+      "value" : "Lancer Evolution VI Stage 2",
+      "locale" : "*"
+    } ],
+    "ref" : "400500643"
+  }, {
+    "items" : [ {
+      "value" : "Lancer Evolution VI Stage 3",
+      "locale" : "*"
+    } ],
+    "ref" : "400500644"
+  }, {
+    "items" : [ {
+      "value" : "Lancer Evolution VIII Stage 1",
+      "locale" : "*"
+    } ],
+    "ref" : "400500648"
+  }, {
+    "items" : [ {
+      "value" : "Lancer Evolution VIII Stage 2",
+      "locale" : "*"
+    } ],
+    "ref" : "400500649"
+  }, {
+    "items" : [ {
+      "value" : "Lancer Evolution VIII Stage 3",
+      "locale" : "*"
+    } ],
+    "ref" : "400500650"
+  }, {
+    "items" : [ {
+      "value" : "Lancer Evolution VIII Stage 4",
+      "locale" : "*"
+    } ],
+    "ref" : "400500652"
+  }, {
+    "items" : [ {
+      "value" : "GT500 KR Tunning Pack 3",
+      "locale" : "*"
+    } ],
+    "ref" : "400500618"
+  }, {
+    "items" : [ {
+      "value" : "LP640 Tuning Pack 3",
+      "locale" : "*"
+    } ],
+    "ref" : "400500621"
+  }, {
+    "items" : [ {
+      "value" : "Veyron Tuning Pack 2",
+      "locale" : "*"
+    } ],
+    "ref" : "400500615"
+  }, {
+    "items" : [ {
+      "value" : "Veyron Tuning Pack 3",
+      "locale" : "*"
+    } ],
+    "ref" : "400500616"
+  }, {
+    "items" : [ {
+      "value" : "Veyron Tuning Pack 1",
+      "locale" : "*"
+    } ],
+    "ref" : "400500614"
+  }, {
+    "items" : [ {
+      "value" : "Mitsubishi GTO Kit 4",
+      "locale" : "*"
+    } ],
+    "ref" : "400500631"
+  }, {
+    "items" : [ {
+      "value" : "Mitsubishi GTO Kit 2",
+      "locale" : "*"
+    } ],
+    "ref" : "400500633"
+  }, {
+    "items" : [ {
+      "value" : "Mitsubishi GTO Kit 3",
+      "locale" : "*"
+    } ],
+    "ref" : "400500632"
+  }, {
+    "items" : [ {
+      "value" : "Mitsubishi GTO Kit 1",
+      "locale" : "*"
+    } ],
+    "ref" : "400500634"
+  }, {
+    "items" : [ {
+      "value" : "Mitsubishi GTO Kit 5",
+      "locale" : "*"
+    } ],
+    "ref" : "400500629"
+  }, {
+    "items" : [ {
+      "value" : "Sesto Kit 3",
+      "locale" : "*"
+    } ],
+    "ref" : "400500625"
+  }, {
+    "items" : [ {
+      "value" : "Visual Pack",
+      "locale" : "*"
+    } ],
+    "ref" : "400500600"
+  }, {
+    "items" : [ {
+      "value" : "Huracan Tuning Pack 4",
+      "locale" : "*"
+    } ],
+    "ref" : "400500619"
+  }, {
+    "items" : [ {
+      "value" : "Evo 6 Kit 2",
+      "locale" : "*"
+    } ],
+    "ref" : "400500640"
+  }, {
+    "items" : [ {
+      "value" : "Evo 6 Kit 3",
+      "locale" : "*"
+    } ],
+    "ref" : "400500641"
+  }, {
+    "items" : [ {
+      "value" : "Evo 6 Kit 1",
+      "locale" : "*"
+    } ],
+    "ref" : "400500639"
+  }, {
+    "items" : [ {
+      "value" : "Evo 8 Kit 4",
+      "locale" : "*"
+    } ],
+    "ref" : "400500651"
+  }, {
+    "items" : [ {
+      "value" : "Evo 8 Kit 1",
+      "locale" : "*"
+    } ],
+    "ref" : "400500645"
+  }, {
+    "items" : [ {
+      "value" : "Evo 8 Kit 2",
+      "locale" : "*"
+    } ],
+    "ref" : "400500646"
+  }, {
+    "items" : [ {
+      "value" : "Evo 8 Kit 3",
+      "locale" : "*"
+    } ],
+    "ref" : "400500647"
+  }, {
+    "items" : [ {
+      "value" : "Tuning Pack 4",
+      "locale" : "*"
+    } ],
+    "ref" : "400500609"
+  }, {
+    "items" : [ {
+      "value" : "Tuning Pack 3",
+      "locale" : "*"
+    } ],
+    "ref" : "400500603"
+  }, {
+    "items" : [ {
+      "value" : "Tuning Pack 1",
+      "locale" : "*"
+    } ],
+    "ref" : "400500601"
+  }, {
+    "items" : [ {
+      "value" : "Tuning Pack 2",
+      "locale" : "*"
+    } ],
+    "ref" : "400500602"
+  }, {
+    "items" : [ {
+      "value" : "Tuning Pack 5",
+      "locale" : "*"
+    } ],
+    "ref" : "400500610"
+  }, {
+    "items" : [ {
+      "value" : "Tuning Pack 6",
+      "locale" : "*"
+    } ],
+    "ref" : "400500612"
+  }, {
+    "items" : [ {
+      "value" : "Sesto Kit 1",
+      "locale" : "*"
+    } ],
+    "ref" : "400500623"
+  }, {
+    "items" : [ {
+      "value" : "Sesto Kit 2",
+      "locale" : "*"
+    } ],
+    "ref" : "400500624"
+  }, {
+    "items" : [ {
+      "value" : "Senna Kit 1",
+      "locale" : "*"
+    } ],
+    "ref" : "400500653"
+  }, {
+    "items" : [ {
+      "value" : "Senna Kit 2",
+      "locale" : "*"
+    } ],
+    "ref" : "400500654"
+  }, {
+    "items" : [ {
+      "value" : "Senna Kit 3",
+      "locale" : "*"
+    } ],
+    "ref" : "400500655"
+  }, {
+    "items" : [ {
+      "value" : "Senna Stage 1",
+      "locale" : "*"
+    } ],
+    "ref" : "400500656"
+  }, {
+    "items" : [ {
+      "value" : "Senna Stage 2",
+      "locale" : "*"
+    } ],
+    "ref" : "400500657"
+  }, {
+    "items" : [ {
+      "value" : "Senna Stage 3",
+      "locale" : "*"
+    } ],
+    "ref" : "400500658"
+  }, {
+    "items" : [ {
+      "value" : "300ZX Kit 3",
+      "locale" : "*"
+    } ],
+    "ref" : "400500659"
+  }, {
+    "items" : [ {
+      "value" : "300ZX Nismo Kit 3",
+      "locale" : "*"
+    } ],
+    "ref" : "400500660"
+  }, {
+    "items" : [ {
+      "value" : "R32 Kit 1",
+      "locale" : "*"
+    } ],
+    "ref" : "400500661"
+  }, {
+    "items" : [ {
+      "value" : "R32 Kit 2",
+      "locale" : "*"
+    } ],
+    "ref" : "400500662"
+  }, {
+    "items" : [ {
+      "value" : "R32 Kit 3",
+      "locale" : "*"
+    } ],
+    "ref" : "400500663"
+  }, {
+    "items" : [ {
+      "value" : "R32 Kit 4",
+      "locale" : "*"
+    } ],
+    "ref" : "400500664"
+  }, {
+    "items" : [ {
+      "value" : "GT-R R32 Stage 1",
+      "locale" : "*"
+    } ],
+    "ref" : "400500665"
+  }, {
+    "items" : [ {
+      "value" : "GT-R R32 Stage 2",
+      "locale" : "*"
+    } ],
+    "ref" : "400500666"
+  }, {
+    "items" : [ {
+      "value" : "GT-R R32 Stage 3",
+      "locale" : "*"
+    } ],
+    "ref" : "400500667"
+  }, {
+    "items" : [ {
+      "value" : "GT-R R32 Stage 4",
+      "locale" : "*"
+    } ],
+    "ref" : "400500668"
+  }, {
+    "items" : [ {
+      "value" : "R33 Kit 1",
+      "locale" : "*"
+    } ],
+    "ref" : "400500669"
+  }, {
+    "items" : [ {
+      "value" : "R33 Kit 2",
+      "locale" : "*"
+    } ],
+    "ref" : "400500670"
+  }, {
+    "items" : [ {
+      "value" : "R33 Kit 3",
+      "locale" : "*"
+    } ],
+    "ref" : "400500671"
+  }, {
+    "items" : [ {
+      "value" : "R33 Kit 4",
+      "locale" : "*"
+    } ],
+    "ref" : "400500672"
+  }, {
+    "items" : [ {
+      "value" : "R33 Kit 5",
+      "locale" : "*"
+    } ],
+    "ref" : "400500673"
+  }, {
+    "items" : [ {
+      "value" : "GT-R R33 Stage 1",
+      "locale" : "*"
+    } ],
+    "ref" : "400500674"
+  }, {
+    "items" : [ {
+      "value" : "GT-R R33 Stage 2",
+      "locale" : "*"
+    } ],
+    "ref" : "400500675"
+  }, {
+    "items" : [ {
+      "value" : "GT-R R33 Stage 3",
+      "locale" : "*"
+    } ],
+    "ref" : "400500676"
+  }, {
+    "items" : [ {
+      "value" : "GT-R R33 Stage 4",
+      "locale" : "*"
+    } ],
+    "ref" : "400500677"
+  }, {
+    "items" : [ {
+      "value" : "GT-R R33 Stage 5",
+      "locale" : "*"
+    } ],
+    "ref" : "400500678"
+  }, {
+    "items" : [ {
+      "value" : "R34 Kit 1",
+      "locale" : "*"
+    } ],
+    "ref" : "400500679"
+  }, {
+    "items" : [ {
+      "value" : "R34 Kit 2",
+      "locale" : "*"
+    } ],
+    "ref" : "400500680"
+  }, {
+    "items" : [ {
+      "value" : "R34 Kit 3",
+      "locale" : "*"
+    } ],
+    "ref" : "400500681"
+  }, {
+    "items" : [ {
+      "value" : "R34 Kit 4",
+      "locale" : "*"
+    } ],
+    "ref" : "400500682"
+  }, {
+    "items" : [ {
+      "value" : "R34 Kit 5",
+      "locale" : "*"
+    } ],
+    "ref" : "400500683"
+  }, {
+    "items" : [ {
+      "value" : "GT-R R34 Stage 1",
+      "locale" : "*"
+    } ],
+    "ref" : "400500684"
+  }, {
+    "items" : [ {
+      "value" : "GT-R R34 Stage 2",
+      "locale" : "*"
+    } ],
+    "ref" : "400500685"
+  }, {
+    "items" : [ {
+      "value" : "GT-R R34 Stage 3",
+      "locale" : "*"
+    } ],
+    "ref" : "400500686"
+  }, {
+    "items" : [ {
+      "value" : "GT-R R34 Stage 4",
+      "locale" : "*"
+    } ],
+    "ref" : "400500687"
+  }, {
+    "items" : [ {
+      "value" : "GT-R R34 Stage 5",
+      "locale" : "*"
+    } ],
+    "ref" : "400500688"
+  }, {
+    "items" : [ {
+      "value" : "R34 Kit FnF",
+      "locale" : "*"
+    } ],
+    "ref" : "400500689"
+  }, {
+    "items" : [ {
+      "value" : "GT-R R34 Stage X",
+      "locale" : "*"
+    } ],
+    "ref" : "400500690"
+  }, {
+    "items" : [ {
+      "value" : "Cuda AAR Kit 1",
+      "locale" : "*"
+    } ],
+    "ref" : "400500691"
+  }, {
+    "items" : [ {
+      "value" : "Cuda AAR Kit 2",
+      "locale" : "*"
+    } ],
+    "ref" : "400500692"
+  }, {
+    "items" : [ {
+      "value" : "Barracuda AAR Stage 1",
+      "locale" : "*"
+    } ],
+    "ref" : "400500693"
+  }, {
+    "items" : [ {
+      "value" : "Barracuda AAR Stage 2",
+      "locale" : "*"
+    } ],
+    "ref" : "400500694"
+  }, {
+    "items" : [ {
+      "value" : "Hemi Cuda Kit 1",
+      "locale" : "*"
+    } ],
+    "ref" : "400500695"
+  }, {
+    "items" : [ {
+      "value" : "Hemi Cuda Kit 2",
+      "locale" : "*"
+    } ],
+    "ref" : "400500696"
+  }, {
+    "items" : [ {
+      "value" : "Hemi Cuda Stage 1",
+      "locale" : "*"
+    } ],
+    "ref" : "400500697"
+  }, {
+    "items" : [ {
+      "value" : "Hemi Cuda Stage 2",
+      "locale" : "*"
+    } ],
+    "ref" : "400500698"
+  }, {
+    "items" : [ {
+      "value" : "S7 Kit 1",
+      "locale" : "*"
+    } ],
+    "ref" : "400500699"
+  }, {
+    "items" : [ {
+      "value" : "S7 Kit 2",
+      "locale" : "*"
+    } ],
+    "ref" : "400500700"
+  }, {
+    "items" : [ {
+      "value" : "S7 Kit 3",
+      "locale" : "*"
+    } ],
+    "ref" : "400500701"
+  }, {
+    "items" : [ {
+      "value" : "S7 TT Stage 1",
+      "locale" : "*"
+    } ],
+    "ref" : "400500702"
+  }, {
+    "items" : [ {
+      "value" : "S7 TT Stage 2",
+      "locale" : "*"
+    } ],
+    "ref" : "400500703"
+  }, {
+    "items" : [ {
+      "value" : "S7 TT Stage 3",
+      "locale" : "*"
+    } ],
+    "ref" : "400500704"
+  }, {
+    "items" : [ {
+      "value" : "BRZ Power Kit",
+      "locale" : "*"
+    } ],
+    "ref" : "400500705"
+  }, {
+    "items" : [ {
+      "value" : "BRZ Stage 3",
+      "locale" : "*"
+    } ],
+    "ref" : "400500706"
+  }, {
+    "items" : [ {
+      "value" : "BRZ Tuned Power Kit",
+      "locale" : "*"
+    } ],
+    "ref" : "400500707"
+  }, {
+    "items" : [ {
+      "value" : "BRZ Tuned Stage 3",
+      "locale" : "*"
+    } ],
+    "ref" : "400500708"
+  }, {
+    "items" : [ {
+      "value" : "22B Tommykaira Kit 1",
+      "locale" : "*"
+    } ],
+    "ref" : "400500709"
+  }, {
+    "items" : [ {
+      "value" : "22B Tommykaira Stage 1",
+      "locale" : "*"
+    } ],
+    "ref" : "400500710"
+  }, {
+    "items" : [ {
+      "value" : "22B Power Kit",
+      "locale" : "*"
+    } ],
+    "ref" : "400500711"
+  }, {
+    "items" : [ {
+      "value" : "22B Stage 3",
+      "locale" : "*"
+    } ],
+    "ref" : "400500712"
+  }, {
+    "items" : [ {
+      "value" : "22B Prodrive Kit 3",
+      "locale" : "*"
+    } ],
+    "ref" : "400500713"
+  }, {
+    "items" : [ {
+      "value" : "22B Prodrive Stage 3",
+      "locale" : "*"
+    } ],
+    "ref" : "400500714"
+  }, {
+    "items" : [ {
+      "value" : "GDA Kit 1",
+      "locale" : "*"
+    } ],
+    "ref" : "400500715"
+  }, {
+    "items" : [ {
+      "value" : "GDA Kit 2",
+      "locale" : "*"
+    } ],
+    "ref" : "400500716"
+  }, {
+    "items" : [ {
+      "value" : "GDA Kit 3",
+      "locale" : "*"
+    } ],
+    "ref" : "400500717"
+  }, {
+    "items" : [ {
+      "value" : "GDA Stage 1",
+      "locale" : "*"
+    } ],
+    "ref" : "400500718"
+  }, {
+    "items" : [ {
+      "value" : "GDA Stage 2",
+      "locale" : "*"
+    } ],
+    "ref" : "400500719"
+  }, {
+    "items" : [ {
+      "value" : "GDA Stage 3",
+      "locale" : "*"
+    } ],
+    "ref" : "400500720"
+  }, {
+    "items" : [ {
+      "value" : "GDB Kit 1",
+      "locale" : "*"
+    } ],
+    "ref" : "400500721"
+  }, {
+    "items" : [ {
+      "value" : "GDB Kit 2",
+      "locale" : "*"
+    } ],
+    "ref" : "400500722"
+  }, {
+    "items" : [ {
+      "value" : "GDB Kit 3",
+      "locale" : "*"
+    } ],
+    "ref" : "400500723"
+  }, {
+    "items" : [ {
+      "value" : "GDB Stage 1",
+      "locale" : "*"
+    } ],
+    "ref" : "400500724"
+  }, {
+    "items" : [ {
+      "value" : "GDB Stage 2",
+      "locale" : "*"
+    } ],
+    "ref" : "400500725"
+  }, {
+    "items" : [ {
+      "value" : "GDB Stage 3",
+      "locale" : "*"
+    } ],
+    "ref" : "400500726"
+  }, {
+    "items" : [ {
+      "value" : "GDB Tuned Kit 3",
+      "locale" : "*"
+    } ],
+    "ref" : "400500727"
+  }, {
+    "items" : [ {
+      "value" : "GDB Tuned Stage 3",
+      "locale" : "*"
+    } ],
+    "ref" : "400500728"
+  }, {
+    "items" : [ {
+      "value" : "GDC Kit 1",
+      "locale" : "*"
+    } ],
+    "ref" : "400500729"
+  }, {
+    "items" : [ {
+      "value" : "GDC Kit 2",
+      "locale" : "*"
+    } ],
+    "ref" : "400500730"
+  }, {
+    "items" : [ {
+      "value" : "GDC Kit 3",
+      "locale" : "*"
+    } ],
+    "ref" : "400500731"
+  }, {
+    "items" : [ {
+      "value" : "GDC Stage 1",
+      "locale" : "*"
+    } ],
+    "ref" : "400500732"
+  }, {
+    "items" : [ {
+      "value" : "GDC Stage 2",
+      "locale" : "*"
+    } ],
+    "ref" : "400500733"
+  }, {
+    "items" : [ {
+      "value" : "GDC Stage 3",
+      "locale" : "*"
+    } ],
+    "ref" : "400500734"
+  }, {
+    "items" : [ {
+      "value" : "GDC S204 Kit 3",
+      "locale" : "*"
+    } ],
+    "ref" : "400500735"
+  }, {
+    "items" : [ {
+      "value" : "GDC S204 Stage 3",
+      "locale" : "*"
+    } ],
+    "ref" : "400500736"
+  }, {
+    "items" : [ {
+      "value" : "GR Kit 3",
+      "locale" : "*"
+    } ],
+    "ref" : "400500737"
+  }, {
+    "items" : [ {
+      "value" : "GR Stage 3",
+      "locale" : "*"
+    } ],
+    "ref" : "400500738"
+  }, {
+    "items" : [ {
+      "value" : "GR Kit 2",
+      "locale" : "*"
+    } ],
+    "ref" : "400500739"
+  }, {
+    "items" : [ {
+      "value" : "GR Stage 2",
+      "locale" : "*"
+    } ],
+    "ref" : "400500740"
+  }, {
+    "items" : [ {
+      "value" : "GV Kit 3",
+      "locale" : "*"
+    } ],
+    "ref" : "400500741"
+  }, {
+    "items" : [ {
+      "value" : "GV Stage 3",
+      "locale" : "*"
+    } ],
+    "ref" : "400500742"
+  }, {
+    "items" : [ {
+      "value" : "Legacy Kit 2",
+      "locale" : "*"
+    } ],
+    "ref" : "400500743"
+  }, {
+    "items" : [ {
+      "value" : "Legacy Kit 3",
+      "locale" : "*"
+    } ],
+    "ref" : "400500744"
+  }, {
+    "items" : [ {
+      "value" : "Legacy RS Stage 2",
+      "locale" : "*"
+    } ],
+    "ref" : "400500745"
+  }, {
+    "items" : [ {
+      "value" : "Legacy RS Stage 3",
+      "locale" : "*"
+    } ],
+    "ref" : "400500746"
+  }, {
+    "items" : [ {
+      "value" : "Tesla Kit 1",
+      "locale" : "*"
+    } ],
+    "ref" : "400500747"
+  }, {
+    "items" : [ {
+      "value" : "Tesla Kit 2",
+      "locale" : "*"
+    } ],
+    "ref" : "400500748"
+  }, {
+    "items" : [ {
+      "value" : "Tesla Kit 3",
+      "locale" : "*"
+    } ],
+    "ref" : "400500749"
+  }, {
+    "items" : [ {
+      "value" : "Battery Kit 1",
+      "locale" : "*"
+    } ],
+    "ref" : "400500750"
+  }, {
+    "items" : [ {
+      "value" : "Battery Kit 2",
+      "locale" : "*"
+    } ],
+    "ref" : "400500751"
+  }, {
+    "items" : [ {
+      "value" : "Battery Kit 3",
+      "locale" : "*"
+    } ],
+    "ref" : "400500752"
+  }, {
+    "items" : [ {
+      "value" : "AE86 2JZ Kit3",
+      "locale" : "*"
+    } ],
+    "ref" : "400500753"
+  }, {
+    "items" : [ {
+      "value" : "AE86 2JZ Stage 3",
+      "locale" : "*"
+    } ],
+    "ref" : "400500754"
+  }, {
+    "items" : [ {
+      "value" : "Supra A70 Kit 3",
+      "locale" : "*"
+    } ],
+    "ref" : "400500755"
+  }, {
+    "items" : [ {
+      "value" : "M7-GTE TRD Stage 3",
+      "locale" : "*"
+    } ],
+    "ref" : "400500756"
+  }, {
+    "items" : [ {
+      "value" : "Supra A80 Kit 1",
+      "locale" : "*"
+    } ],
+    "ref" : "400500757"
+  }, {
+    "items" : [ {
+      "value" : "Toyota Stage 1",
+      "locale" : "*"
+    } ],
+    "ref" : "400500758"
+  }, {
+    "items" : [ {
+      "value" : "Supra A80 Kit 2",
+      "locale" : "*"
+    } ],
+    "ref" : "400500759"
+  }, {
+    "items" : [ {
+      "value" : "Toyota Stage 2",
+      "locale" : "*"
+    } ],
+    "ref" : "400500760"
+  }, {
+    "items" : [ {
+      "value" : "Supra A80 Kit 3",
+      "locale" : "*"
+    } ],
+    "ref" : "400500761"
+  }, {
+    "items" : [ {
+      "value" : "Tom's Stage 1",
+      "locale" : "*"
+    } ],
+    "ref" : "400500762"
+  }, {
+    "items" : [ {
+      "value" : "Supra A80 Kit 4",
+      "locale" : "*"
+    } ],
+    "ref" : "400500763"
+  }, {
+    "items" : [ {
+      "value" : "Tom's Stage 2",
+      "locale" : "*"
+    } ],
+    "ref" : "400500764"
+  }, {
+    "items" : [ {
+      "value" : "Supra A80 Kit 5",
+      "locale" : "*"
+    } ],
+    "ref" : "400500765"
+  }, {
+    "items" : [ {
+      "value" : "Tom H Stage 1",
+      "locale" : "*"
+    } ],
+    "ref" : "400500766"
+  }, {
+    "items" : [ {
+      "value" : "Supra A80 Kit 6",
+      "locale" : "*"
+    } ],
+    "ref" : "400500767"
+  }, {
+    "items" : [ {
+      "value" : "Top Secret Stage 1",
+      "locale" : "*"
+    } ],
+    "ref" : "400500768"
+  }, {
+    "items" : [ {
+      "value" : "Supra A80 Kit 7",
+      "locale" : "*"
+    } ],
+    "ref" : "400500769"
+  }, {
+    "items" : [ {
+      "value" : "Top Secret Stage 2",
+      "locale" : "*"
+    } ],
+    "ref" : "400500770"
+  }, {
+    "items" : [ {
+      "value" : "Supra A80 Kit 8",
+      "locale" : "*"
+    } ],
+    "ref" : "400500771"
+  }, {
+    "items" : [ {
+      "value" : "Bomex Stage 2",
+      "locale" : "*"
+    } ],
+    "ref" : "400500772"
+  }, {
+    "items" : [ {
+      "value" : "Supra A80 Kit 9",
+      "locale" : "*"
+    } ],
+    "ref" : "400500773"
+  }, {
+    "items" : [ {
+      "value" : "Abflug Stage 1",
+      "locale" : "*"
+    } ],
+    "ref" : "400500774"
+  }, {
+    "items" : [ {
+      "value" : "Supra A80 Kit 10",
+      "locale" : "*"
+    } ],
+    "ref" : "400500775"
+  }, {
+    "items" : [ {
+      "value" : "Abflug Stage 2",
+      "locale" : "*"
+    } ],
+    "ref" : "400500776"
+  }, {
+    "items" : [ {
+      "value" : "Tuscan Kit 1",
+      "locale" : "*"
+    } ],
+    "ref" : "400500777"
+  }, {
+    "items" : [ {
+      "value" : "Tuscan Kit 2",
+      "locale" : "*"
+    } ],
+    "ref" : "400500778"
+  }, {
+    "items" : [ {
+      "value" : "Tuscan Stage 1",
+      "locale" : "*"
+    } ],
+    "ref" : "400500779"
+  }, {
+    "items" : [ {
+      "value" : "Tuscan Stage 2",
+      "locale" : "*"
+    } ],
+    "ref" : "400500780"
+  }, {
+    "items" : [ {
+      "value" : "Speed 12 Kit 3",
+      "locale" : "*"
+    } ],
+    "ref" : "400500781"
+  }, {
+    "items" : [ {
+      "value" : "Speed 12 Stage 3",
+      "locale" : "*"
+    } ],
+    "ref" : "400500782"
+  }, {
+    "items" : [ {
+      "value" : "Brabus CL65 Kit 1",
+      "locale" : "*"
+    } ],
+    "ref" : "400500783"
+  }, {
+    "items" : [ {
+      "value" : "Brabus CL65 Stage 1",
+      "locale" : "*"
+    } ],
+    "ref" : "400500784"
+  }, {
+    "items" : [ {
+      "value" : "Brabus CL65 Kit 2",
+      "locale" : "*"
+    } ],
+    "ref" : "400500785"
+  }, {
+    "items" : [ {
+      "value" : "Brabus CL65 Stage 2",
+      "locale" : "*"
+    } ],
+    "ref" : "400500786"
+  }, {
+    "items" : [ {
+      "value" : "Brabus E63 Kit 1",
+      "locale" : "*"
+    } ],
+    "ref" : "400500787"
+  }, {
+    "items" : [ {
+      "value" : "Brabus E63 Stage 1",
+      "locale" : "*"
+    } ],
+    "ref" : "400500788"
+  } ]
+}

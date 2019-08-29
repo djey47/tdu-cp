@@ -1,0 +1,71 @@
+{
+  "ref" : "1270424264",
+  "topic" : "RIMS",
+  "fields" : [ {
+    "name" : "REF",
+    "rank" : 1,
+    "type" : "UID"
+  }, {
+    "name" : "Rim_Manufacturer",
+    "rank" : 2,
+    "type" : "RESOURCE_CURRENT_GLOBALIZED"
+  }, {
+    "name" : "Rim_Name",
+    "rank" : 3,
+    "type" : "RESOURCE_CURRENT_GLOBALIZED"
+  }, {
+    "name" : "DisplayName",
+    "rank" : 4,
+    "type" : "RESOURCE_CURRENT_LOCALIZED"
+  }, {
+    "name" : "Largeur_Front",
+    "rank" : 5,
+    "type" : "INTEGER"
+  }, {
+    "name" : "Hauteur_Front",
+    "rank" : 6,
+    "type" : "INTEGER"
+  }, {
+    "name" : "Diameter_Front",
+    "rank" : 7,
+    "type" : "INTEGER"
+  }, {
+    "name" : "Largeur_Rear",
+    "rank" : 8,
+    "type" : "INTEGER"
+  }, {
+    "name" : "Hauteur_Rear",
+    "rank" : 9,
+    "type" : "INTEGER"
+  }, {
+    "name" : "Diameter_Rear",
+    "rank" : 10,
+    "type" : "INTEGER"
+  }, {
+    "name" : "Price_dollar",
+    "rank" : 11,
+    "type" : "INTEGER"
+  }, {
+    "name" : "Nb_Spokes",
+    "rank" : 12,
+    "type" : "INTEGER"
+  }, {
+    "name" : "Rsc_Path",
+    "rank" : 13,
+    "type" : "RESOURCE_CURRENT_GLOBALIZED"
+  }, {
+    "name" : "Rsc_File_Name_Front",
+    "rank" : 14,
+    "type" : "RESOURCE_CURRENT_GLOBALIZED"
+  }, {
+    "name" : "Rsc_File_Name_Rear",
+    "rank" : 15,
+    "type" : "RESOURCE_CURRENT_GLOBALIZED"
+  }, {
+    "name" : "BitField",
+    "rank" : 16,
+    "type" : "BITFIELD"
+  } ],
+  "version" : "1,2",
+  "categoryCount" : 6
+}
