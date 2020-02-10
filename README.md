@@ -5,7 +5,7 @@ Test Drive Unlimited Community Patches : hosts documentation, configuration and 
 
 That only applies to TDU1 game on PC platform, which was released in 2007.
 
-Discussion and support are provided via the [TurboDuck Community](http://forum.turboduck.net/forums/51-tdu-mod-shop). Huge thanks to them.
+Discussion and support are provided via the [TurboDuck Community](https://turboduck.net/forums/forum/73-tdu-mod-shop/). Huge thanks to them.
 
 *Note : this repository does not contain game files in respect to copyrighted contents. To get final data, you'll have to use some 3rd party tools... or directly get released material at TurboDuck forums! And in any case, you must own a legal version of the game.*
 
